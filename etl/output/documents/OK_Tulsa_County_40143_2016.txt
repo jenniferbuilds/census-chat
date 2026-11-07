@@ -1,0 +1,17 @@
+GEOGRAPHY: Tulsa County, OK
+GEOGRAPHIC CODE: 40143 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 629,823
+  under 18: 25.5%
+  age 65+: 13.0%
+  White alone: 70.6%
+  Black alone: 9.9%
+  Asian alone: 2.9%
+  Hispanic or Latino: 11.8%
+  estimated median household income: $50,800
+  homeownership: 59.1%
+  estimated median home value: $141,716
+  estimated median gross rent: $790
+  unemployment: 6.2%
+  bachelor's degree or higher: 30.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

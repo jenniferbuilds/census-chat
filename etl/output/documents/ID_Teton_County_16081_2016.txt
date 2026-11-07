@@ -1,0 +1,17 @@
+GEOGRAPHY: Teton County, ID
+GEOGRAPHIC CODE: 16081 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,437
+  under 18: 28.1%
+  age 65+: 8.1%
+  White alone: 91.7%
+  Black alone: 0.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 17.4%
+  estimated median household income: $58,208
+  homeownership: 71.5%
+  estimated median home value: $254,627
+  estimated median gross rent: $860
+  unemployment: 5.9%
+  bachelor's degree or higher: 40.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

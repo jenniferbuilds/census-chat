@@ -1,0 +1,18 @@
+GEOGRAPHY: Billings County, ND
+GEOGRAPHIC CODE: 38007 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 922
+  under 18: 21.4%
+  age 65+: 21.4%
+  White alone: 97.1%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $75,368
+  poverty rate: 9.3%
+  homeownership: 79.1%
+  estimated median home value: $199,375
+  estimated median gross rent: $870
+  unemployment: 3.7%
+  bachelor's degree or higher: 26.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

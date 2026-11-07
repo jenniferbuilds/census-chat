@@ -1,0 +1,17 @@
+GEOGRAPHY: Monroe County, GA
+GEOGRAPHIC CODE: 13207 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,044
+  under 18: 21.1%
+  age 65+: 16.7%
+  White alone: 73.2%
+  Black alone: 23.9%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $50,932
+  homeownership: 75.3%
+  estimated median home value: $157,884
+  estimated median gross rent: $734
+  unemployment: 9.0%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Jefferson County, PA
+GEOGRAPHIC CODE: 42065 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,258
+  under 18: 21.2%
+  age 65+: 19.7%
+  White alone: 98.0%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $45,350
+  poverty rate: 14.2%
+  homeownership: 74.9%
+  estimated median home value: $96,726
+  estimated median gross rent: $608
+  unemployment: 4.7%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Kauai County, HI
+GEOGRAPHIC CODE: 15007 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 71,377
+  under 18: 22.0%
+  age 65+: 18.8%
+  White alone: 32.5%
+  Black alone: 0.7%
+  Asian alone: 34.0%
+  Hispanic or Latino: 10.9%
+  estimated median household income: $77,870
+  poverty rate: 8.5%
+  homeownership: 63.1%
+  estimated median home value: $546,019
+  estimated median gross rent: $1,333
+  unemployment: 4.0%
+  bachelor's degree or higher: 29.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

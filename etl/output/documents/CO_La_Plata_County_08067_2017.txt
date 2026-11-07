@@ -1,0 +1,18 @@
+GEOGRAPHY: La Plata County, CO
+GEOGRAPHIC CODE: 08067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 54,469
+  under 18: 19.3%
+  age 65+: 15.0%
+  White alone: 88.7%
+  Black alone: 0.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 12.6%
+  estimated median household income: $62,823
+  poverty rate: 9.6%
+  homeownership: 68.2%
+  estimated median home value: $356,656
+  estimated median gross rent: $1,090
+  unemployment: 4.4%
+  bachelor's degree or higher: 43.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

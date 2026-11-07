@@ -1,0 +1,18 @@
+GEOGRAPHY: Union County, FL
+GEOGRAPHIC CODE: 12125 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,239
+  under 18: 18.9%
+  age 65+: 14.5%
+  White alone: 73.7%
+  Black alone: 21.9%
+  Asian alone: 0.6%
+  Hispanic or Latino: 5.5%
+  estimated median household income: $42,509
+  poverty rate: 22.0%
+  homeownership: 69.1%
+  estimated median home value: $104,447
+  estimated median gross rent: $641
+  unemployment: 8.7%
+  bachelor's degree or higher: 8.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Forsyth County, GA
+GEOGRAPHIC CODE: 13117 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 211,300
+  under 18: 28.6%
+  age 65+: 11.1%
+  White alone: 83.0%
+  Black alone: 2.9%
+  Asian alone: 10.6%
+  Hispanic or Latino: 9.5%
+  estimated median household income: $97,103
+  poverty rate: 6.5%
+  homeownership: 84.3%
+  estimated median home value: $301,119
+  estimated median gross rent: $1,249
+  unemployment: 4.2%
+  bachelor's degree or higher: 50.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

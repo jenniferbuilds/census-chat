@@ -1,0 +1,18 @@
+GEOGRAPHY: Zavala County, TX
+GEOGRAPHIC CODE: 48507 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,131
+  under 18: 29.5%
+  age 65+: 13.7%
+  White alone: 93.6%
+  Black alone: 0.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 93.7%
+  estimated median household income: $30,806
+  poverty rate: 34.8%
+  homeownership: 70.6%
+  estimated median home value: $48,478
+  estimated median gross rent: $609
+  unemployment: 8.4%
+  bachelor's degree or higher: 8.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

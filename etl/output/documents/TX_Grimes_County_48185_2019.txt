@@ -1,0 +1,18 @@
+GEOGRAPHY: Grimes County, TX
+GEOGRAPHIC CODE: 48185 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,984
+  under 18: 22.5%
+  age 65+: 16.9%
+  White alone: 77.7%
+  Black alone: 15.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 24.2%
+  estimated median household income: $52,992
+  poverty rate: 17.0%
+  homeownership: 76.5%
+  estimated median home value: $148,481
+  estimated median gross rent: $750
+  unemployment: 5.9%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

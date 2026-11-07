@@ -1,0 +1,18 @@
+GEOGRAPHY: Madison County, KY
+GEOGRAPHIC CODE: 21151 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 92,090
+  under 18: 20.7%
+  age 65+: 13.8%
+  White alone: 91.1%
+  Black alone: 4.3%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $52,157
+  poverty rate: 17.9%
+  homeownership: 60.6%
+  estimated median home value: $161,384
+  estimated median gross rent: $728
+  unemployment: 6.5%
+  bachelor's degree or higher: 32.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

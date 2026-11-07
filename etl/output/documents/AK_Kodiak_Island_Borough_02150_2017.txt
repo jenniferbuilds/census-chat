@@ -1,0 +1,18 @@
+GEOGRAPHY: Kodiak Island Borough, AK
+GEOGRAPHIC CODE: 02150 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,773
+  under 18: 26.3%
+  age 65+: 8.8%
+  White alone: 53.7%
+  Black alone: 0.2%
+  Asian alone: 22.1%
+  Hispanic or Latino: 8.9%
+  estimated median household income: $74,672
+  poverty rate: 9.3%
+  homeownership: 59.0%
+  estimated median home value: $267,692
+  estimated median gross rent: $1,294
+  unemployment: 5.3%
+  bachelor's degree or higher: 24.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

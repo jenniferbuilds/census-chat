@@ -1,0 +1,18 @@
+GEOGRAPHY: Lorain County, OH
+GEOGRAPHIC CODE: 39093 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 307,670
+  under 18: 22.2%
+  age 65+: 17.8%
+  White alone: 85.0%
+  Black alone: 8.5%
+  Asian alone: 1.2%
+  Hispanic or Latino: 10.0%
+  estimated median household income: $58,573
+  poverty rate: 13.5%
+  homeownership: 72.3%
+  estimated median home value: $150,515
+  estimated median gross rent: $774
+  unemployment: 5.5%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

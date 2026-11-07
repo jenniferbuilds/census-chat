@@ -1,0 +1,18 @@
+GEOGRAPHY: Greene County, MO
+GEOGRAPHIC CODE: 29077 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 286,759
+  under 18: 21.0%
+  age 65+: 15.5%
+  White alone: 90.5%
+  Black alone: 3.3%
+  Asian alone: 1.9%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $43,261
+  poverty rate: 18.5%
+  homeownership: 58.1%
+  estimated median home value: $136,323
+  estimated median gross rent: $732
+  unemployment: 5.0%
+  bachelor's degree or higher: 30.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

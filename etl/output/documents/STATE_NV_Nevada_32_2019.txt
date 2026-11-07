@@ -1,0 +1,18 @@
+GEOGRAPHY: Nevada (NV)
+GEOGRAPHIC CODE: 32 | LEVEL: State | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,972,382
+  under 18: 22.9%
+  age 65+: 15.4%
+  White alone: 65.6%
+  Black alone: 9.1%
+  Asian alone: 8.2%
+  Hispanic or Latino: 28.7%
+  estimated median household income: $60,416
+  poverty rate: 13.1%
+  homeownership: 56.3%
+  estimated median home value: $267,868
+  estimated median gross rent: $1,107
+  unemployment: 6.2%
+  bachelor's degree or higher: 24.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

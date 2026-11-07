@@ -1,0 +1,18 @@
+GEOGRAPHY: Renville County, ND
+GEOGRAPHIC CODE: 38075 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,442
+  under 18: 24.8%
+  age 65+: 17.4%
+  White alone: 96.8%
+  Black alone: 0.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $73,889
+  poverty rate: 3.7%
+  homeownership: 82.6%
+  estimated median home value: $134,659
+  estimated median gross rent: $731
+  unemployment: 2.2%
+  bachelor's degree or higher: 20.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

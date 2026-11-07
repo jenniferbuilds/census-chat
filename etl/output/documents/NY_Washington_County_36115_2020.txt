@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, NY
+GEOGRAPHIC CODE: 36115 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 61,304
+  under 18: 18.8%
+  age 65+: 19.4%
+  White alone: 92.6%
+  Black alone: 3.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $59,741
+  poverty rate: 10.9%
+  homeownership: 72.7%
+  estimated median home value: $151,533
+  estimated median gross rent: $861
+  unemployment: 5.6%
+  bachelor's degree or higher: 20.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

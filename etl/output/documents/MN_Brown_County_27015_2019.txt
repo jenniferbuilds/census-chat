@@ -1,0 +1,18 @@
+GEOGRAPHY: Brown County, MN
+GEOGRAPHIC CODE: 27015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,163
+  under 18: 21.7%
+  age 65+: 20.8%
+  White alone: 95.5%
+  Black alone: 0.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $61,058
+  poverty rate: 6.9%
+  homeownership: 79.2%
+  estimated median home value: $141,881
+  estimated median gross rent: $629
+  unemployment: 1.6%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

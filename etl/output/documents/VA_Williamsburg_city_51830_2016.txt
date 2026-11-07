@@ -1,0 +1,17 @@
+GEOGRAPHY: Williamsburg city, VA
+GEOGRAPHIC CODE: 51830 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,988
+  under 18: 11.0%
+  age 65+: 15.2%
+  White alone: 74.8%
+  Black alone: 14.8%
+  Asian alone: 6.0%
+  Hispanic or Latino: 7.4%
+  estimated median household income: $50,146
+  homeownership: 46.6%
+  estimated median home value: $319,503
+  estimated median gross rent: $1,093
+  unemployment: 9.1%
+  bachelor's degree or higher: 56.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Wahkiakum County, WA
+GEOGRAPHIC CODE: 53069 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,105
+  under 18: 17.1%
+  age 65+: 31.8%
+  White alone: 92.8%
+  Black alone: 0.2%
+  Asian alone: 1.7%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $49,323
+  poverty rate: 13.9%
+  homeownership: 81.0%
+  estimated median home value: $202,567
+  estimated median gross rent: $717
+  unemployment: 6.2%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

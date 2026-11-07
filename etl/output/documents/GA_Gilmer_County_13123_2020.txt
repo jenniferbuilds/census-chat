@@ -1,0 +1,18 @@
+GEOGRAPHY: Gilmer County, GA
+GEOGRAPHIC CODE: 13123 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,986
+  under 18: 19.1%
+  age 65+: 25.0%
+  White alone: 92.1%
+  Black alone: 0.4%
+  Asian alone: 0.3%
+  Hispanic or Latino: 11.7%
+  estimated median household income: $56,752
+  poverty rate: 15.2%
+  homeownership: 73.4%
+  estimated median home value: $205,752
+  estimated median gross rent: $785
+  unemployment: 3.1%
+  bachelor's degree or higher: 21.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

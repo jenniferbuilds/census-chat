@@ -1,0 +1,18 @@
+GEOGRAPHY: Hooker County, NE
+GEOGRAPHIC CODE: 31091 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 693
+  under 18: 16.6%
+  age 65+: 32.6%
+  White alone: 97.7%
+  Black alone: 1.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $42,250
+  poverty rate: 15.3%
+  homeownership: 62.6%
+  estimated median home value: $92,206
+  estimated median gross rent: $573
+  unemployment: 3.4%
+  bachelor's degree or higher: 26.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

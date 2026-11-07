@@ -1,0 +1,18 @@
+GEOGRAPHY: Clark County, SD
+GEOGRAPHIC CODE: 46025 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,685
+  under 18: 26.0%
+  age 65+: 21.1%
+  White alone: 95.1%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $48,551
+  poverty rate: 9.0%
+  homeownership: 79.4%
+  estimated median home value: $102,428
+  estimated median gross rent: $554
+  unemployment: 3.7%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

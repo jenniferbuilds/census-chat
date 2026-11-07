@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, IN
+GEOGRAPHIC CODE: 18071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,025
+  under 18: 24.5%
+  age 65+: 15.9%
+  White alone: 90.9%
+  Black alone: 1.1%
+  Asian alone: 2.2%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $51,072
+  poverty rate: 14.6%
+  homeownership: 72.1%
+  estimated median home value: $125,322
+  estimated median gross rent: $767
+  unemployment: 4.3%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

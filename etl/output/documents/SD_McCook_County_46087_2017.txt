@@ -1,0 +1,18 @@
+GEOGRAPHY: McCook County, SD
+GEOGRAPHIC CODE: 46087 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,515
+  under 18: 27.2%
+  age 65+: 18.5%
+  White alone: 95.7%
+  Black alone: 0.8%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $61,235
+  poverty rate: 9.3%
+  homeownership: 75.0%
+  estimated median home value: $120,749
+  estimated median gross rent: $586
+  unemployment: 2.5%
+  bachelor's degree or higher: 21.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

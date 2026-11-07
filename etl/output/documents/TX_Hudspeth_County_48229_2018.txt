@@ -1,0 +1,18 @@
+GEOGRAPHY: Hudspeth County, TX
+GEOGRAPHIC CODE: 48229 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,098
+  under 18: 23.9%
+  age 65+: 15.6%
+  White alone: 69.4%
+  Black alone: 1.6%
+  Asian alone: 1.8%
+  Hispanic or Latino: 78.4%
+  estimated median household income: $29,663
+  poverty rate: 28.2%
+  homeownership: 75.9%
+  estimated median home value: $45,986
+  estimated median gross rent: $619
+  unemployment: 8.3%
+  bachelor's degree or higher: 6.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

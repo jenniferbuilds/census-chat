@@ -1,0 +1,18 @@
+GEOGRAPHY: Caldwell County, NC
+GEOGRAPHIC CODE: 37027 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 81,779
+  under 18: 20.6%
+  age 65+: 18.9%
+  White alone: 89.2%
+  Black alone: 4.9%
+  Asian alone: 0.6%
+  Hispanic or Latino: 5.3%
+  estimated median household income: $42,385
+  poverty rate: 16.6%
+  homeownership: 71.3%
+  estimated median home value: $115,684
+  estimated median gross rent: $643
+  unemployment: 6.6%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Falls County, TX
+GEOGRAPHIC CODE: 48145 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,265
+  under 18: 21.3%
+  age 65+: 16.6%
+  White alone: 71.8%
+  Black alone: 24.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 22.5%
+  estimated median household income: $38,492
+  homeownership: 72.2%
+  estimated median home value: $65,186
+  estimated median gross rent: $553
+  unemployment: 6.2%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

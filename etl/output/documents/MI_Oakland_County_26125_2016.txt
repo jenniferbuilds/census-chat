@@ -1,0 +1,17 @@
+GEOGRAPHY: Oakland County, MI
+GEOGRAPHIC CODE: 26125 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,235,215
+  under 18: 22.1%
+  age 65+: 15.1%
+  White alone: 75.9%
+  Black alone: 13.8%
+  Asian alone: 6.5%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $69,990
+  homeownership: 70.3%
+  estimated median home value: $191,502
+  estimated median gross rent: $968
+  unemployment: 6.3%
+  bachelor's degree or higher: 45.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

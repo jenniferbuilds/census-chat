@@ -1,0 +1,17 @@
+GEOGRAPHY: Saluda County, SC
+GEOGRAPHIC CODE: 45081 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,113
+  under 18: 22.4%
+  age 65+: 18.1%
+  White alone: 63.5%
+  Black alone: 25.6%
+  Asian alone: 0.0%
+  Hispanic or Latino: 14.9%
+  estimated median household income: $41,842
+  homeownership: 72.8%
+  estimated median home value: $93,276
+  estimated median gross rent: $653
+  unemployment: 7.6%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

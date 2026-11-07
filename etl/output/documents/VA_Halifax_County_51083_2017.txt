@@ -1,0 +1,18 @@
+GEOGRAPHY: Halifax County, VA
+GEOGRAPHIC CODE: 51083 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,030
+  under 18: 20.8%
+  age 65+: 22.3%
+  White alone: 60.7%
+  Black alone: 36.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $39,299
+  poverty rate: 18.7%
+  homeownership: 72.6%
+  estimated median home value: $110,771
+  estimated median gross rent: $595
+  unemployment: 4.9%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

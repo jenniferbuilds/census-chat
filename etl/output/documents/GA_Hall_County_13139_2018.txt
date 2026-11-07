@@ -1,0 +1,18 @@
+GEOGRAPHY: Hall County, GA
+GEOGRAPHIC CODE: 13139 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 195,961
+  under 18: 26.0%
+  age 65+: 14.2%
+  White alone: 84.9%
+  Black alone: 7.4%
+  Asian alone: 1.7%
+  Hispanic or Latino: 28.1%
+  estimated median household income: $59,905
+  poverty rate: 14.6%
+  homeownership: 68.6%
+  estimated median home value: $183,198
+  estimated median gross rent: $931
+  unemployment: 3.7%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

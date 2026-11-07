@@ -1,0 +1,18 @@
+GEOGRAPHY: Berkeley County, SC
+GEOGRAPHIC CODE: 45015 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 209,065
+  under 18: 24.2%
+  age 65+: 13.0%
+  White alone: 67.1%
+  Black alone: 23.8%
+  Asian alone: 2.3%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $59,995
+  poverty rate: 12.2%
+  homeownership: 71.7%
+  estimated median home value: $174,011
+  estimated median gross rent: $1,055
+  unemployment: 5.2%
+  bachelor's degree or higher: 23.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

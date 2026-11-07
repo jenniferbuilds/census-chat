@@ -1,0 +1,18 @@
+GEOGRAPHY: Isabela Municipio, PR
+GEOGRAPHIC CODE: 72071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,707
+  under 18: 18.9%
+  age 65+: 19.3%
+  White alone: 65.6%
+  Black alone: 5.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 98.6%
+  estimated median household income: $16,442
+  poverty rate: 55.7%
+  homeownership: 63.6%
+  estimated median home value: $102,184
+  estimated median gross rent: $456
+  unemployment: 15.2%
+  bachelor's degree or higher: 21.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

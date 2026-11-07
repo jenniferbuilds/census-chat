@@ -1,0 +1,18 @@
+GEOGRAPHY: Titus County, TX
+GEOGRAPHIC CODE: 48449 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,640
+  under 18: 28.9%
+  age 65+: 14.0%
+  White alone: 70.4%
+  Black alone: 9.0%
+  Asian alone: 1.1%
+  Hispanic or Latino: 43.0%
+  estimated median household income: $50,241
+  poverty rate: 17.7%
+  homeownership: 67.0%
+  estimated median home value: $105,125
+  estimated median gross rent: $709
+  unemployment: 5.0%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

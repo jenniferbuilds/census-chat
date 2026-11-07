@@ -1,0 +1,18 @@
+GEOGRAPHY: Nassau County, NY
+GEOGRAPHIC CODE: 36059 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,355,683
+  under 18: 21.6%
+  age 65+: 17.8%
+  White alone: 66.3%
+  Black alone: 11.6%
+  Asian alone: 10.3%
+  Hispanic or Latino: 17.0%
+  estimated median household income: $120,323
+  poverty rate: 5.4%
+  homeownership: 81.1%
+  estimated median home value: $524,415
+  estimated median gross rent: $1,831
+  unemployment: 4.1%
+  bachelor's degree or higher: 46.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

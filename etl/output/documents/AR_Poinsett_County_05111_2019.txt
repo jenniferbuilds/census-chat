@@ -1,0 +1,18 @@
+GEOGRAPHY: Poinsett County, AR
+GEOGRAPHIC CODE: 05111 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,896
+  under 18: 23.8%
+  age 65+: 17.8%
+  White alone: 88.4%
+  Black alone: 4.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $41,150
+  poverty rate: 21.4%
+  homeownership: 62.9%
+  estimated median home value: $78,842
+  estimated median gross rent: $603
+  unemployment: 5.8%
+  bachelor's degree or higher: 11.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

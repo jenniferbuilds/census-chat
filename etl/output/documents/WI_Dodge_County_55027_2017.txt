@@ -1,0 +1,18 @@
+GEOGRAPHY: Dodge County, WI
+GEOGRAPHIC CODE: 55027 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 87,833
+  under 18: 20.6%
+  age 65+: 16.3%
+  White alone: 93.7%
+  Black alone: 2.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $55,944
+  poverty rate: 8.8%
+  homeownership: 70.4%
+  estimated median home value: $156,244
+  estimated median gross rent: $769
+  unemployment: 4.8%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

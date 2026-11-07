@@ -1,0 +1,18 @@
+GEOGRAPHY: Gadsden County, FL
+GEOGRAPHIC CODE: 12039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,017
+  under 18: 21.9%
+  age 65+: 16.5%
+  White alone: 41.5%
+  Black alone: 55.8%
+  Asian alone: 0.6%
+  Hispanic or Latino: 10.1%
+  estimated median household income: $40,879
+  poverty rate: 24.6%
+  homeownership: 71.0%
+  estimated median home value: $99,049
+  estimated median gross rent: $678
+  unemployment: 7.8%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

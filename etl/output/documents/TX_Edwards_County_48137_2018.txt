@@ -1,0 +1,18 @@
+GEOGRAPHY: Edwards County, TX
+GEOGRAPHIC CODE: 48137 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,055
+  under 18: 16.9%
+  age 65+: 27.7%
+  White alone: 99.7%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 58.1%
+  estimated median household income: $40,625
+  poverty rate: 6.7%
+  homeownership: 81.6%
+  estimated median home value: $75,254
+  estimated median gross rent: $467
+  unemployment: 4.1%
+  bachelor's degree or higher: 20.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

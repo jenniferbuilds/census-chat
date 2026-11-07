@@ -1,0 +1,18 @@
+GEOGRAPHY: Brown County, SD
+GEOGRAPHIC CODE: 46013 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,840
+  under 18: 23.9%
+  age 65+: 16.6%
+  White alone: 90.0%
+  Black alone: 2.2%
+  Asian alone: 3.0%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $56,661
+  poverty rate: 12.0%
+  homeownership: 65.9%
+  estimated median home value: $157,932
+  estimated median gross rent: $680
+  unemployment: 2.2%
+  bachelor's degree or higher: 29.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

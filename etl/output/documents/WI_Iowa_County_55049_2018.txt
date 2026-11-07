@@ -1,0 +1,18 @@
+GEOGRAPHY: Iowa County, WI
+GEOGRAPHIC CODE: 55049 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,620
+  under 18: 23.2%
+  age 65+: 17.3%
+  White alone: 96.6%
+  Black alone: 0.8%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $62,623
+  poverty rate: 7.7%
+  homeownership: 73.7%
+  estimated median home value: $174,538
+  estimated median gross rent: $762
+  unemployment: 3.2%
+  bachelor's degree or higher: 24.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

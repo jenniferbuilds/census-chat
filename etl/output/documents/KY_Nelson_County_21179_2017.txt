@@ -1,0 +1,18 @@
+GEOGRAPHY: Nelson County, KY
+GEOGRAPHIC CODE: 21179 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,131
+  under 18: 24.5%
+  age 65+: 14.1%
+  White alone: 91.7%
+  Black alone: 5.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $55,576
+  poverty rate: 11.4%
+  homeownership: 78.4%
+  estimated median home value: $144,764
+  estimated median gross rent: $693
+  unemployment: 5.9%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

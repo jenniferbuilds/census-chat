@@ -1,0 +1,18 @@
+GEOGRAPHY: Limestone County, AL
+GEOGRAPHIC CODE: 01083 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 93,052
+  under 18: 23.0%
+  age 65+: 14.7%
+  White alone: 80.8%
+  Black alone: 13.4%
+  Asian alone: 1.3%
+  Hispanic or Latino: 5.9%
+  estimated median household income: $57,039
+  poverty rate: 13.7%
+  homeownership: 78.0%
+  estimated median home value: $152,854
+  estimated median gross rent: $658
+  unemployment: 6.9%
+  bachelor's degree or higher: 25.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

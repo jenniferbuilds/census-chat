@@ -1,0 +1,17 @@
+GEOGRAPHY: Washington (WA)
+GEOGRAPHIC CODE: 53 | LEVEL: State | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,073,146
+  under 18: 22.7%
+  age 65+: 14.0%
+  White alone: 77.3%
+  Black alone: 3.6%
+  Asian alone: 7.8%
+  Hispanic or Latino: 12.1%
+  estimated median household income: $63,332
+  homeownership: 62.4%
+  estimated median home value: $269,287
+  estimated median gross rent: $1,056
+  unemployment: 6.8%
+  bachelor's degree or higher: 33.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

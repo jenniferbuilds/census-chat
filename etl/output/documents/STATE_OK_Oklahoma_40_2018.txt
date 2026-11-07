@@ -1,0 +1,18 @@
+GEOGRAPHY: Oklahoma (OK)
+GEOGRAPHIC CODE: 40 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,918,137
+  under 18: 24.5%
+  age 65+: 15.0%
+  White alone: 72.4%
+  Black alone: 7.3%
+  Asian alone: 2.1%
+  Hispanic or Latino: 10.4%
+  estimated median household income: $51,493
+  poverty rate: 16.0%
+  homeownership: 65.6%
+  estimated median home value: $130,862
+  estimated median gross rent: $793
+  unemployment: 5.3%
+  bachelor's degree or higher: 25.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

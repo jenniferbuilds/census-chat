@@ -1,0 +1,18 @@
+GEOGRAPHY: Wright County, IA
+GEOGRAPHIC CODE: 19197 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,804
+  under 18: 24.0%
+  age 65+: 21.6%
+  White alone: 93.1%
+  Black alone: 0.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 11.6%
+  estimated median household income: $50,199
+  poverty rate: 12.8%
+  homeownership: 71.5%
+  estimated median home value: $85,317
+  estimated median gross rent: $623
+  unemployment: 5.4%
+  bachelor's degree or higher: 17.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

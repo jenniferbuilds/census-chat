@@ -1,0 +1,18 @@
+GEOGRAPHY: Livingston County, NY
+GEOGRAPHIC CODE: 36051 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,907
+  under 18: 18.1%
+  age 65+: 16.8%
+  White alone: 93.4%
+  Black alone: 2.8%
+  Asian alone: 1.3%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $56,331
+  poverty rate: 13.6%
+  homeownership: 73.4%
+  estimated median home value: $126,659
+  estimated median gross rent: $781
+  unemployment: 4.2%
+  bachelor's degree or higher: 25.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

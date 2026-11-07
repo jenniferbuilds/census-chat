@@ -1,0 +1,18 @@
+GEOGRAPHY: Hennepin County, MN
+GEOGRAPHIC CODE: 27053 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,224,763
+  under 18: 22.2%
+  age 65+: 12.9%
+  White alone: 73.1%
+  Black alone: 12.7%
+  Asian alone: 7.0%
+  Hispanic or Latino: 6.9%
+  estimated median household income: $71,073
+  poverty rate: 11.5%
+  homeownership: 62.4%
+  estimated median home value: $245,388
+  estimated median gross rent: $1,031
+  unemployment: 4.6%
+  bachelor's degree or higher: 48.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

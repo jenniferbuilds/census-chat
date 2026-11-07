@@ -1,0 +1,18 @@
+GEOGRAPHY: Castro County, TX
+GEOGRAPHIC CODE: 48069 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,673
+  under 18: 29.1%
+  age 65+: 15.2%
+  White alone: 90.9%
+  Black alone: 2.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 64.6%
+  estimated median household income: $50,253
+  poverty rate: 13.7%
+  homeownership: 64.5%
+  estimated median home value: $81,938
+  estimated median gross rent: $627
+  unemployment: 2.4%
+  bachelor's degree or higher: 15.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

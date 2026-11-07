@@ -1,0 +1,18 @@
+GEOGRAPHY: Bacon County, GA
+GEOGRAPHIC CODE: 13005 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,228
+  under 18: 25.6%
+  age 65+: 15.1%
+  White alone: 80.8%
+  Black alone: 15.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 8.4%
+  estimated median household income: $36,587
+  poverty rate: 27.2%
+  homeownership: 68.4%
+  estimated median home value: $73,014
+  estimated median gross rent: $516
+  unemployment: 5.3%
+  bachelor's degree or higher: 10.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

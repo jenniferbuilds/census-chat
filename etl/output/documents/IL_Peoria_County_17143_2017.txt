@@ -1,0 +1,18 @@
+GEOGRAPHY: Peoria County, IL
+GEOGRAPHIC CODE: 17143 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 186,145
+  under 18: 23.9%
+  age 65+: 15.5%
+  White alone: 73.1%
+  Black alone: 17.5%
+  Asian alone: 3.9%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $53,382
+  poverty rate: 15.9%
+  homeownership: 65.0%
+  estimated median home value: $127,991
+  estimated median gross rent: $756
+  unemployment: 8.3%
+  bachelor's degree or higher: 30.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Taylor County, KY
+GEOGRAPHIC CODE: 21217 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,571
+  under 18: 22.6%
+  age 65+: 17.4%
+  White alone: 91.3%
+  Black alone: 4.3%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $44,607
+  poverty rate: 17.9%
+  homeownership: 60.3%
+  estimated median home value: $120,193
+  estimated median gross rent: $643
+  unemployment: 5.0%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

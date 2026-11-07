@@ -1,0 +1,18 @@
+GEOGRAPHY: Oregon County, MO
+GEOGRAPHIC CODE: 29149 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,699
+  under 18: 22.2%
+  age 65+: 23.6%
+  White alone: 95.5%
+  Black alone: 0.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $32,933
+  poverty rate: 23.9%
+  homeownership: 75.9%
+  estimated median home value: $90,233
+  estimated median gross rent: $512
+  unemployment: 3.0%
+  bachelor's degree or higher: 12.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

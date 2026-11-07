@@ -1,0 +1,18 @@
+GEOGRAPHY: Suffolk County, MA
+GEOGRAPHIC CODE: 25025 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 791,766
+  under 18: 16.9%
+  age 65+: 11.5%
+  White alone: 55.2%
+  Black alone: 22.4%
+  Asian alone: 8.8%
+  Hispanic or Latino: 22.7%
+  estimated median household income: $64,784
+  poverty rate: 19.3%
+  homeownership: 36.1%
+  estimated median home value: $463,158
+  estimated median gross rent: $1,506
+  unemployment: 7.0%
+  bachelor's degree or higher: 44.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

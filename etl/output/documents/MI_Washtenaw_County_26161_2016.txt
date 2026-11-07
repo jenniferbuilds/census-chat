@@ -1,0 +1,17 @@
+GEOGRAPHY: Washtenaw County, MI
+GEOGRAPHIC CODE: 26161 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 358,082
+  under 18: 19.6%
+  age 65+: 12.0%
+  White alone: 74.0%
+  Black alone: 12.0%
+  Asian alone: 8.5%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $63,098
+  homeownership: 59.6%
+  estimated median home value: $218,063
+  estimated median gross rent: $980
+  unemployment: 6.3%
+  bachelor's degree or higher: 53.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

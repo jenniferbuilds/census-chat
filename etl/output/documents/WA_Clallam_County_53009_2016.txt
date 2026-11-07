@@ -1,0 +1,17 @@
+GEOGRAPHY: Clallam County, WA
+GEOGRAPHIC CODE: 53009 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 72,969
+  under 18: 17.7%
+  age 65+: 26.9%
+  White alone: 88.3%
+  Black alone: 1.1%
+  Asian alone: 1.5%
+  Hispanic or Latino: 5.9%
+  estimated median household income: $47,163
+  homeownership: 69.8%
+  estimated median home value: $220,230
+  estimated median gross rent: $854
+  unemployment: 9.3%
+  bachelor's degree or higher: 24.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

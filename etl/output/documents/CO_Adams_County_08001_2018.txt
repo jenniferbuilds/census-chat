@@ -1,0 +1,18 @@
+GEOGRAPHY: Adams County, CO
+GEOGRAPHIC CODE: 08001 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 497,115
+  under 18: 27.2%
+  age 65+: 9.9%
+  White alone: 82.5%
+  Black alone: 3.3%
+  Asian alone: 3.9%
+  Hispanic or Latino: 39.7%
+  estimated median household income: $67,953
+  poverty rate: 11.5%
+  homeownership: 65.2%
+  estimated median home value: $273,025
+  estimated median gross rent: $1,270
+  unemployment: 4.4%
+  bachelor's degree or higher: 23.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Bennington County, VT
+GEOGRAPHIC CODE: 50003 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,649
+  under 18: 18.9%
+  age 65+: 22.6%
+  White alone: 95.0%
+  Black alone: 0.9%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $58,819
+  poverty rate: 11.3%
+  homeownership: 73.4%
+  estimated median home value: $210,629
+  estimated median gross rent: $854
+  unemployment: 4.1%
+  bachelor's degree or higher: 37.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

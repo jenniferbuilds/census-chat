@@ -1,0 +1,18 @@
+GEOGRAPHY: Bath County, KY
+GEOGRAPHIC CODE: 21011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,268
+  under 18: 25.4%
+  age 65+: 16.1%
+  White alone: 96.0%
+  Black alone: 1.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $41,429
+  poverty rate: 21.0%
+  homeownership: 71.1%
+  estimated median home value: $88,187
+  estimated median gross rent: $624
+  unemployment: 7.1%
+  bachelor's degree or higher: 12.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

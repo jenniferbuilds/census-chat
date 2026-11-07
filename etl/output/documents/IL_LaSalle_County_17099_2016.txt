@@ -1,0 +1,17 @@
+GEOGRAPHY: LaSalle County, IL
+GEOGRAPHIC CODE: 17099 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 111,935
+  under 18: 22.0%
+  age 65+: 17.5%
+  White alone: 94.3%
+  Black alone: 2.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 9.0%
+  estimated median household income: $52,024
+  homeownership: 72.7%
+  estimated median home value: $123,157
+  estimated median gross rent: $700
+  unemployment: 9.6%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

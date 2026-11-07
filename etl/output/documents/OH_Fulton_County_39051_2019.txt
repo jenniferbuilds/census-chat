@@ -1,0 +1,18 @@
+GEOGRAPHY: Fulton County, OH
+GEOGRAPHIC CODE: 39051 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 42,253
+  under 18: 23.8%
+  age 65+: 17.3%
+  White alone: 93.0%
+  Black alone: 0.4%
+  Asian alone: 0.4%
+  Hispanic or Latino: 8.7%
+  estimated median household income: $63,378
+  poverty rate: 7.8%
+  homeownership: 79.1%
+  estimated median home value: $138,210
+  estimated median gross rent: $729
+  unemployment: 4.0%
+  bachelor's degree or higher: 17.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

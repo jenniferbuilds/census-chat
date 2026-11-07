@@ -1,0 +1,18 @@
+GEOGRAPHY: Richland County, ND
+GEOGRAPHIC CODE: 38077 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,254
+  under 18: 21.5%
+  age 65+: 17.3%
+  White alone: 93.0%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $61,666
+  poverty rate: 10.9%
+  homeownership: 70.9%
+  estimated median home value: $127,901
+  estimated median gross rent: $664
+  unemployment: 3.3%
+  bachelor's degree or higher: 21.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

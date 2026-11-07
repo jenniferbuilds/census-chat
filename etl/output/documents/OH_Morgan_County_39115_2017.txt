@@ -1,0 +1,18 @@
+GEOGRAPHY: Morgan County, OH
+GEOGRAPHIC CODE: 39115 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,773
+  under 18: 21.7%
+  age 65+: 19.6%
+  White alone: 93.2%
+  Black alone: 3.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $40,312
+  poverty rate: 21.5%
+  homeownership: 78.1%
+  estimated median home value: $90,537
+  estimated median gross rent: $550
+  unemployment: 5.5%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

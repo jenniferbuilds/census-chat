@@ -1,0 +1,18 @@
+GEOGRAPHY: Ventura County, CA
+GEOGRAPHIC CODE: 06111 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 847,834
+  under 18: 23.9%
+  age 65+: 14.1%
+  White alone: 79.9%
+  Black alone: 1.7%
+  Asian alone: 7.2%
+  Hispanic or Latino: 42.3%
+  estimated median household income: $82,223
+  poverty rate: 10.3%
+  homeownership: 63.2%
+  estimated median home value: $520,253
+  estimated median gross rent: $1,643
+  unemployment: 6.6%
+  bachelor's degree or higher: 32.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

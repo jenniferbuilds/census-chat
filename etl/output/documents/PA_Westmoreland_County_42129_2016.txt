@@ -1,0 +1,17 @@
+GEOGRAPHY: Westmoreland County, PA
+GEOGRAPHIC CODE: 42129 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 359,377
+  under 18: 18.9%
+  age 65+: 20.7%
+  White alone: 94.9%
+  Black alone: 2.4%
+  Asian alone: 0.9%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $54,743
+  homeownership: 77.4%
+  estimated median home value: $140,643
+  estimated median gross rent: $664
+  unemployment: 5.3%
+  bachelor's degree or higher: 26.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

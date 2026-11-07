@@ -1,0 +1,18 @@
+GEOGRAPHY: West Baton Rouge Parish, LA
+GEOGRAPHIC CODE: 22121 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,860
+  under 18: 24.4%
+  age 65+: 12.9%
+  White alone: 58.0%
+  Black alone: 39.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $61,405
+  poverty rate: 15.7%
+  homeownership: 72.0%
+  estimated median home value: $191,357
+  estimated median gross rent: $844
+  unemployment: 6.0%
+  bachelor's degree or higher: 20.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

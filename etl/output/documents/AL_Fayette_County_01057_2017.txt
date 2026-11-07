@@ -1,0 +1,18 @@
+GEOGRAPHY: Fayette County, AL
+GEOGRAPHIC CODE: 01057 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,657
+  under 18: 21.6%
+  age 65+: 20.0%
+  White alone: 85.5%
+  Black alone: 12.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $36,767
+  poverty rate: 18.1%
+  homeownership: 76.9%
+  estimated median home value: $83,191
+  estimated median gross rent: $523
+  unemployment: 8.4%
+  bachelor's degree or higher: 14.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

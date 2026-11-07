@@ -1,0 +1,18 @@
+GEOGRAPHY: Tyrrell County, NC
+GEOGRAPHIC CODE: 37177 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,095
+  under 18: 13.9%
+  age 65+: 20.0%
+  White alone: 55.4%
+  Black alone: 37.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 6.9%
+  estimated median household income: $35,172
+  poverty rate: 22.5%
+  homeownership: 68.3%
+  estimated median home value: $114,844
+  estimated median gross rent: $760
+  unemployment: 5.2%
+  bachelor's degree or higher: 10.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

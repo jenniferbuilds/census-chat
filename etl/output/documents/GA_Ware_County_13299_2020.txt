@@ -1,0 +1,18 @@
+GEOGRAPHY: Ware County, GA
+GEOGRAPHIC CODE: 13299 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,745
+  under 18: 24.1%
+  age 65+: 17.0%
+  White alone: 64.1%
+  Black alone: 30.9%
+  Asian alone: 1.2%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $37,356
+  poverty rate: 23.3%
+  homeownership: 63.7%
+  estimated median home value: $86,844
+  estimated median gross rent: $674
+  unemployment: 4.2%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

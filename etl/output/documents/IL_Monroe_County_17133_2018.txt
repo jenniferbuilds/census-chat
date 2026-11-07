@@ -1,0 +1,18 @@
+GEOGRAPHY: Monroe County, IL
+GEOGRAPHIC CODE: 17133 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,936
+  under 18: 22.6%
+  age 65+: 16.7%
+  White alone: 97.7%
+  Black alone: 0.2%
+  Asian alone: 1.0%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $80,741
+  poverty rate: 5.0%
+  homeownership: 84.5%
+  estimated median home value: $209,053
+  estimated median gross rent: $843
+  unemployment: 3.1%
+  bachelor's degree or higher: 32.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

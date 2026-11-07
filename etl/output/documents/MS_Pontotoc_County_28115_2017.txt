@@ -1,0 +1,18 @@
+GEOGRAPHY: Pontotoc County, MS
+GEOGRAPHIC CODE: 28115 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,075
+  under 18: 26.9%
+  age 65+: 14.1%
+  White alone: 78.9%
+  Black alone: 15.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 6.2%
+  estimated median household income: $41,937
+  poverty rate: 17.0%
+  homeownership: 72.4%
+  estimated median home value: $102,109
+  estimated median gross rent: $674
+  unemployment: 6.3%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

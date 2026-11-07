@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Johns County, FL
+GEOGRAPHIC CODE: 12109 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 244,674
+  under 18: 21.8%
+  age 65+: 19.7%
+  White alone: 88.4%
+  Black alone: 5.4%
+  Asian alone: 2.7%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $83,205
+  poverty rate: 8.2%
+  homeownership: 80.4%
+  estimated median home value: $304,693
+  estimated median gross rent: $1,312
+  unemployment: 4.6%
+  bachelor's degree or higher: 44.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

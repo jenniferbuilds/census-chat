@@ -1,0 +1,18 @@
+GEOGRAPHY: Codington County, SD
+GEOGRAPHIC CODE: 46029 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,963
+  under 18: 24.3%
+  age 65+: 16.0%
+  White alone: 94.7%
+  Black alone: 0.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $52,719
+  poverty rate: 11.7%
+  homeownership: 65.1%
+  estimated median home value: $166,526
+  estimated median gross rent: $680
+  unemployment: 2.5%
+  bachelor's degree or higher: 21.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

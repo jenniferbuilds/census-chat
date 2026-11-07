@@ -1,0 +1,18 @@
+GEOGRAPHY: Iron County, MI
+GEOGRAPHIC CODE: 26071 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,099
+  under 18: 16.4%
+  age 65+: 30.2%
+  White alone: 95.3%
+  Black alone: 1.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $44,207
+  poverty rate: 14.9%
+  homeownership: 82.6%
+  estimated median home value: $79,486
+  estimated median gross rent: $562
+  unemployment: 5.2%
+  bachelor's degree or higher: 18.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

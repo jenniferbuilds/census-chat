@@ -1,0 +1,18 @@
+GEOGRAPHY: Kalkaska County, MI
+GEOGRAPHIC CODE: 26079 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,585
+  under 18: 21.0%
+  age 65+: 19.8%
+  White alone: 95.9%
+  Black alone: 1.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $46,930
+  poverty rate: 16.7%
+  homeownership: 82.6%
+  estimated median home value: $115,911
+  estimated median gross rent: $702
+  unemployment: 7.4%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

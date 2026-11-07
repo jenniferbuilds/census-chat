@@ -1,0 +1,18 @@
+GEOGRAPHY: Richmond County, NY
+GEOGRAPHIC CODE: 36085 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 475,948
+  under 18: 22.1%
+  age 65+: 15.1%
+  White alone: 74.8%
+  Black alone: 10.3%
+  Asian alone: 8.5%
+  Hispanic or Latino: 18.2%
+  estimated median household income: $76,308
+  poverty rate: 12.9%
+  homeownership: 69.5%
+  estimated median home value: $460,208
+  estimated median gross rent: $1,229
+  unemployment: 5.5%
+  bachelor's degree or higher: 32.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

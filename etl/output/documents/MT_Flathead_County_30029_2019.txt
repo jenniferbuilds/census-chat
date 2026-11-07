@@ -1,0 +1,18 @@
+GEOGRAPHY: Flathead County, MT
+GEOGRAPHIC CODE: 30029 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 99,899
+  under 18: 22.0%
+  age 65+: 18.7%
+  White alone: 94.1%
+  Black alone: 0.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $56,141
+  poverty rate: 10.9%
+  homeownership: 74.1%
+  estimated median home value: $273,612
+  estimated median gross rent: $855
+  unemployment: 3.5%
+  bachelor's degree or higher: 31.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

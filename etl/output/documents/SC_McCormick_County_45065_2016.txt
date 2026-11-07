@@ -1,0 +1,17 @@
+GEOGRAPHY: McCormick County, SC
+GEOGRAPHIC CODE: 45065 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,806
+  under 18: 12.8%
+  age 65+: 30.4%
+  White alone: 50.0%
+  Black alone: 47.9%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $40,837
+  homeownership: 76.9%
+  estimated median home value: $120,754
+  estimated median gross rent: $491
+  unemployment: 13.9%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

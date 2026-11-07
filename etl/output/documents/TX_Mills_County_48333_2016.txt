@@ -1,0 +1,17 @@
+GEOGRAPHY: Mills County, TX
+GEOGRAPHIC CODE: 48333 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,871
+  under 18: 24.5%
+  age 65+: 27.0%
+  White alone: 98.7%
+  Black alone: 0.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 17.1%
+  estimated median household income: $44,254
+  homeownership: 84.0%
+  estimated median home value: $123,088
+  estimated median gross rent: $506
+  unemployment: 3.9%
+  bachelor's degree or higher: 22.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

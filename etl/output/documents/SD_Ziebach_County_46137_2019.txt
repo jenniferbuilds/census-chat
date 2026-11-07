@@ -1,0 +1,18 @@
+GEOGRAPHY: Ziebach County, SD
+GEOGRAPHIC CODE: 46137 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,791
+  under 18: 30.3%
+  age 65+: 9.4%
+  White alone: 23.5%
+  Black alone: 0.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 0.3%
+  estimated median household income: $37,308
+  poverty rate: 42.5%
+  homeownership: 57.2%
+  estimated median home value: $57,653
+  estimated median gross rent: $576
+  unemployment: 24.9%
+  bachelor's degree or higher: 16.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

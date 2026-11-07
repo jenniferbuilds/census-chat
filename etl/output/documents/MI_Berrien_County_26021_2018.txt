@@ -1,0 +1,18 @@
+GEOGRAPHY: Berrien County, MI
+GEOGRAPHIC CODE: 26021 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 154,807
+  under 18: 22.1%
+  age 65+: 18.8%
+  White alone: 78.6%
+  Black alone: 14.7%
+  Asian alone: 2.0%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $49,180
+  poverty rate: 16.5%
+  homeownership: 69.8%
+  estimated median home value: $146,328
+  estimated median gross rent: $724
+  unemployment: 6.4%
+  bachelor's degree or higher: 27.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

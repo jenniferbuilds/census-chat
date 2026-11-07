@@ -1,0 +1,18 @@
+GEOGRAPHY: Harrison County, MS
+GEOGRAPHIC CODE: 28047 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 202,626
+  under 18: 24.2%
+  age 65+: 14.0%
+  White alone: 68.1%
+  Black alone: 24.6%
+  Asian alone: 2.8%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $45,556
+  poverty rate: 20.1%
+  homeownership: 56.0%
+  estimated median home value: $144,541
+  estimated median gross rent: $875
+  unemployment: 9.6%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

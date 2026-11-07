@@ -1,0 +1,18 @@
+GEOGRAPHY: Cibola County, NM
+GEOGRAPHIC CODE: 35006 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,049
+  under 18: 24.1%
+  age 65+: 14.7%
+  White alone: 45.6%
+  Black alone: 1.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 38.0%
+  estimated median household income: $36,740
+  poverty rate: 28.5%
+  homeownership: 71.1%
+  estimated median home value: $89,847
+  estimated median gross rent: $611
+  unemployment: 16.0%
+  bachelor's degree or higher: 12.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

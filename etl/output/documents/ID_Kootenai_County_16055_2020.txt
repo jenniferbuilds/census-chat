@@ -1,0 +1,18 @@
+GEOGRAPHY: Kootenai County, ID
+GEOGRAPHIC CODE: 16055 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 161,676
+  under 18: 22.8%
+  age 65+: 18.9%
+  White alone: 92.1%
+  Black alone: 0.4%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $60,735
+  poverty rate: 10.3%
+  homeownership: 71.3%
+  estimated median home value: $294,120
+  estimated median gross rent: $1,037
+  unemployment: 4.0%
+  bachelor's degree or higher: 26.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

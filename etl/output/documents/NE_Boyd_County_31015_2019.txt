@@ -1,0 +1,18 @@
+GEOGRAPHY: Boyd County, NE
+GEOGRAPHIC CODE: 31015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,937
+  under 18: 20.3%
+  age 65+: 30.1%
+  White alone: 95.8%
+  Black alone: 0.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $46,522
+  poverty rate: 9.1%
+  homeownership: 81.5%
+  estimated median home value: $73,000
+  estimated median gross rent: $508
+  unemployment: 1.4%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

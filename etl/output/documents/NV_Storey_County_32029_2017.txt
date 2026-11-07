@@ -1,0 +1,18 @@
+GEOGRAPHY: Storey County, NV
+GEOGRAPHIC CODE: 32029 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,891
+  under 18: 11.9%
+  age 65+: 31.8%
+  White alone: 93.0%
+  Black alone: 0.7%
+  Asian alone: 1.9%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $62,426
+  poverty rate: 7.7%
+  homeownership: 82.9%
+  estimated median home value: $187,059
+  estimated median gross rent: $747
+  unemployment: 4.2%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

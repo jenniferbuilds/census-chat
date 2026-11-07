@@ -1,0 +1,18 @@
+GEOGRAPHY: Putnam County, GA
+GEOGRAPHIC CODE: 13237 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,503
+  under 18: 20.5%
+  age 65+: 23.0%
+  White alone: 69.0%
+  Black alone: 26.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 6.4%
+  estimated median household income: $51,306
+  poverty rate: 16.0%
+  homeownership: 77.9%
+  estimated median home value: $165,297
+  estimated median gross rent: $712
+  unemployment: 4.6%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

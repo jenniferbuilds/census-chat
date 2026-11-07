@@ -1,0 +1,17 @@
+GEOGRAPHY: Wirt County, WV
+GEOGRAPHIC CODE: 54105 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,826
+  under 18: 21.4%
+  age 65+: 18.0%
+  White alone: 97.8%
+  Black alone: 0.8%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $38,113
+  homeownership: 84.0%
+  estimated median home value: $78,313
+  estimated median gross rent: $587
+  unemployment: 5.4%
+  bachelor's degree or higher: 9.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

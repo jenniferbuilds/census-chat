@@ -1,0 +1,18 @@
+GEOGRAPHY: Morris County, KS
+GEOGRAPHIC CODE: 20127 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,551
+  under 18: 20.8%
+  age 65+: 24.5%
+  White alone: 95.9%
+  Black alone: 0.1%
+  Asian alone: 0.8%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $54,667
+  poverty rate: 8.9%
+  homeownership: 77.2%
+  estimated median home value: $94,405
+  estimated median gross rent: $606
+  unemployment: 2.7%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

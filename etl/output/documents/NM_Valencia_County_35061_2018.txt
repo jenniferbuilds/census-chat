@@ -1,0 +1,18 @@
+GEOGRAPHY: Valencia County, NM
+GEOGRAPHIC CODE: 35061 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 75,956
+  under 18: 23.9%
+  age 65+: 16.6%
+  White alone: 80.8%
+  Black alone: 1.1%
+  Asian alone: 0.8%
+  Hispanic or Latino: 60.4%
+  estimated median household income: $45,067
+  poverty rate: 19.5%
+  homeownership: 80.7%
+  estimated median home value: $136,043
+  estimated median gross rent: $792
+  unemployment: 8.4%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

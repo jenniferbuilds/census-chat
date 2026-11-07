@@ -1,0 +1,18 @@
+GEOGRAPHY: Sumter County, FL
+GEOGRAPHIC CODE: 12119 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 125,044
+  under 18: 7.3%
+  age 65+: 56.7%
+  White alone: 89.0%
+  Black alone: 7.1%
+  Asian alone: 0.9%
+  Hispanic or Latino: 5.7%
+  estimated median household income: $57,531
+  poverty rate: 8.2%
+  homeownership: 89.7%
+  estimated median home value: $258,617
+  estimated median gross rent: $914
+  unemployment: 3.7%
+  bachelor's degree or higher: 31.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

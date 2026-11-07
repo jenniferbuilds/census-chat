@@ -1,0 +1,18 @@
+GEOGRAPHY: Ogle County, IL
+GEOGRAPHIC CODE: 17141 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 51,328
+  under 18: 22.8%
+  age 65+: 17.8%
+  White alone: 94.2%
+  Black alone: 1.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 10.0%
+  estimated median household income: $59,616
+  poverty rate: 9.9%
+  homeownership: 73.9%
+  estimated median home value: $143,090
+  estimated median gross rent: $743
+  unemployment: 5.9%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

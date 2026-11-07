@@ -1,0 +1,18 @@
+GEOGRAPHY: Linn County, MO
+GEOGRAPHIC CODE: 29115 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,113
+  under 18: 23.7%
+  age 65+: 20.5%
+  White alone: 96.9%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $46,111
+  poverty rate: 15.4%
+  homeownership: 72.9%
+  estimated median home value: $87,157
+  estimated median gross rent: $558
+  unemployment: 1.9%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

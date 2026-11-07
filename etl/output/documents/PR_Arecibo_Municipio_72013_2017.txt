@@ -1,0 +1,18 @@
+GEOGRAPHY: Arecibo Municipio, PR
+GEOGRAPHIC CODE: 72013 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 89,550
+  under 18: 20.2%
+  age 65+: 19.7%
+  White alone: 85.3%
+  Black alone: 4.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 99.5%
+  estimated median household income: $17,200
+  poverty rate: 48.6%
+  homeownership: 67.9%
+  estimated median home value: $96,605
+  estimated median gross rent: $403
+  unemployment: 17.4%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

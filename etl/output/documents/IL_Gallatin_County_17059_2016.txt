@@ -1,0 +1,17 @@
+GEOGRAPHY: Gallatin County, IL
+GEOGRAPHIC CODE: 17059 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,325
+  under 18: 21.6%
+  age 65+: 22.6%
+  White alone: 96.4%
+  Black alone: 0.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.7%
+  estimated median household income: $41,537
+  homeownership: 77.8%
+  estimated median home value: $67,170
+  estimated median gross rent: $397
+  unemployment: 9.1%
+  bachelor's degree or higher: 11.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

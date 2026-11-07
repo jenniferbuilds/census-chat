@@ -1,0 +1,18 @@
+GEOGRAPHY: Pulaski County, AR
+GEOGRAPHIC CODE: 05119 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 393,463
+  under 18: 23.5%
+  age 65+: 14.5%
+  White alone: 56.5%
+  Black alone: 36.5%
+  Asian alone: 2.2%
+  Hispanic or Latino: 6.1%
+  estimated median household income: $50,092
+  poverty rate: 17.0%
+  homeownership: 58.4%
+  estimated median home value: $153,664
+  estimated median gross rent: $841
+  unemployment: 5.2%
+  bachelor's degree or higher: 34.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

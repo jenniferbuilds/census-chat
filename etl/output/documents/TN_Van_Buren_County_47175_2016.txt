@@ -1,0 +1,17 @@
+GEOGRAPHY: Van Buren County, TN
+GEOGRAPHIC CODE: 47175 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,641
+  under 18: 19.3%
+  age 65+: 20.4%
+  White alone: 96.6%
+  Black alone: 0.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $42,561
+  homeownership: 88.3%
+  estimated median home value: $95,233
+  estimated median gross rent: $422
+  unemployment: 11.7%
+  bachelor's degree or higher: 11.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Morehouse Parish, LA
+GEOGRAPHIC CODE: 22067 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,992
+  under 18: 24.2%
+  age 65+: 17.7%
+  White alone: 49.5%
+  Black alone: 49.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $33,372
+  poverty rate: 28.5%
+  homeownership: 67.0%
+  estimated median home value: $90,932
+  estimated median gross rent: $596
+  unemployment: 5.4%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

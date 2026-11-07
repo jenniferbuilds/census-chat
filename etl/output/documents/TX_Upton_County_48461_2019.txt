@@ -1,0 +1,18 @@
+GEOGRAPHY: Upton County, TX
+GEOGRAPHIC CODE: 48461 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,659
+  under 18: 26.2%
+  age 65+: 16.7%
+  White alone: 45.0%
+  Black alone: 6.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 53.7%
+  estimated median household income: $53,143
+  poverty rate: 14.1%
+  homeownership: 73.0%
+  estimated median home value: $66,852
+  estimated median gross rent: $717
+  unemployment: 5.2%
+  bachelor's degree or higher: 9.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

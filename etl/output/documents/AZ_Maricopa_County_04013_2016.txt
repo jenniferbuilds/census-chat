@@ -1,0 +1,17 @@
+GEOGRAPHY: Maricopa County, AZ
+GEOGRAPHIC CODE: 04013 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,088,549
+  under 18: 25.0%
+  age 65+: 13.8%
+  White alone: 78.6%
+  Black alone: 5.3%
+  Asian alone: 3.8%
+  Hispanic or Latino: 30.3%
+  estimated median household income: $56,224
+  homeownership: 60.4%
+  estimated median home value: $204,945
+  estimated median gross rent: $989
+  unemployment: 6.8%
+  bachelor's degree or higher: 31.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

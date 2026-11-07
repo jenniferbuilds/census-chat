@@ -1,0 +1,18 @@
+GEOGRAPHY: Wichita County, TX
+GEOGRAPHIC CODE: 48485 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 131,818
+  under 18: 22.6%
+  age 65+: 14.2%
+  White alone: 78.2%
+  Black alone: 10.3%
+  Asian alone: 2.2%
+  Hispanic or Latino: 18.8%
+  estimated median household income: $46,570
+  poverty rate: 18.4%
+  homeownership: 61.1%
+  estimated median home value: $95,984
+  estimated median gross rent: $791
+  unemployment: 5.3%
+  bachelor's degree or higher: 23.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

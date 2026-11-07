@@ -1,0 +1,18 @@
+GEOGRAPHY: Oglethorpe County, GA
+GEOGRAPHIC CODE: 13221 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,931
+  under 18: 22.4%
+  age 65+: 18.9%
+  White alone: 79.8%
+  Black alone: 17.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $47,468
+  poverty rate: 12.8%
+  homeownership: 77.2%
+  estimated median home value: $118,496
+  estimated median gross rent: $725
+  unemployment: 5.2%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

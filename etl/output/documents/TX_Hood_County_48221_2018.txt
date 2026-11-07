@@ -1,0 +1,18 @@
+GEOGRAPHY: Hood County, TX
+GEOGRAPHIC CODE: 48221 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 56,901
+  under 18: 21.1%
+  age 65+: 24.3%
+  White alone: 95.4%
+  Black alone: 0.9%
+  Asian alone: 0.8%
+  Hispanic or Latino: 12.3%
+  estimated median household income: $58,977
+  poverty rate: 10.7%
+  homeownership: 76.6%
+  estimated median home value: $180,890
+  estimated median gross rent: $918
+  unemployment: 2.9%
+  bachelor's degree or higher: 26.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

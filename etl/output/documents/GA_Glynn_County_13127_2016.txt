@@ -1,0 +1,17 @@
+GEOGRAPHY: Glynn County, GA
+GEOGRAPHIC CODE: 13127 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 82,623
+  under 18: 23.1%
+  age 65+: 17.5%
+  White alone: 66.9%
+  Black alone: 25.4%
+  Asian alone: 1.1%
+  Hispanic or Latino: 6.6%
+  estimated median household income: $46,700
+  homeownership: 60.6%
+  estimated median home value: $161,757
+  estimated median gross rent: $832
+  unemployment: 7.8%
+  bachelor's degree or higher: 28.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

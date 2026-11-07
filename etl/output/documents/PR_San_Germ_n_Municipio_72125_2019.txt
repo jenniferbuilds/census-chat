@@ -1,0 +1,18 @@
+GEOGRAPHY: San Germán Municipio, PR
+GEOGRAPHIC CODE: 72125 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,442
+  under 18: 19.1%
+  age 65+: 23.8%
+  White alone: 57.4%
+  Black alone: 1.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.4%
+  estimated median household income: $16,575
+  poverty rate: 50.7%
+  homeownership: 70.9%
+  estimated median home value: $82,328
+  estimated median gross rent: $410
+  unemployment: 6.6%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

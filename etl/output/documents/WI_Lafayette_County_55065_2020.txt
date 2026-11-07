@@ -1,0 +1,18 @@
+GEOGRAPHY: Lafayette County, WI
+GEOGRAPHIC CODE: 55065 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,682
+  under 18: 24.2%
+  age 65+: 18.9%
+  White alone: 96.3%
+  Black alone: 0.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $60,932
+  poverty rate: 11.2%
+  homeownership: 77.3%
+  estimated median home value: $143,568
+  estimated median gross rent: $722
+  unemployment: 1.8%
+  bachelor's degree or higher: 19.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

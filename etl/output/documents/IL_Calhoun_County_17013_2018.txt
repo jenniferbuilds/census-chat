@@ -1,0 +1,18 @@
+GEOGRAPHY: Calhoun County, IL
+GEOGRAPHIC CODE: 17013 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,858
+  under 18: 21.0%
+  age 65+: 22.9%
+  White alone: 97.6%
+  Black alone: 0.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $56,092
+  poverty rate: 12.8%
+  homeownership: 84.0%
+  estimated median home value: $114,265
+  estimated median gross rent: $606
+  unemployment: 5.1%
+  bachelor's degree or higher: 13.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Aroostook County, ME
+GEOGRAPHIC CODE: 23003 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 67,809
+  under 18: 18.4%
+  age 65+: 23.4%
+  White alone: 94.9%
+  Black alone: 1.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $41,227
+  poverty rate: 16.1%
+  homeownership: 72.0%
+  estimated median home value: $99,561
+  estimated median gross rent: $574
+  unemployment: 5.0%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

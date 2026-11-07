@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Francis County, AR
+GEOGRAPHIC CODE: 05123 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,294
+  under 18: 22.0%
+  age 65+: 15.2%
+  White alone: 40.9%
+  Black alone: 55.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $35,419
+  poverty rate: 26.6%
+  homeownership: 57.1%
+  estimated median home value: $63,324
+  estimated median gross rent: $612
+  unemployment: 8.0%
+  bachelor's degree or higher: 10.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Custer County, SD
+GEOGRAPHIC CODE: 46033 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,719
+  under 18: 15.9%
+  age 65+: 29.0%
+  White alone: 93.3%
+  Black alone: 0.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $58,415
+  poverty rate: 13.8%
+  homeownership: 84.0%
+  estimated median home value: $214,369
+  estimated median gross rent: $782
+  unemployment: 3.4%
+  bachelor's degree or higher: 23.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

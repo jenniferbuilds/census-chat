@@ -1,0 +1,18 @@
+GEOGRAPHY: Lafayette County, MS
+GEOGRAPHIC CODE: 28071 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 52,744
+  under 18: 18.2%
+  age 65+: 11.2%
+  White alone: 71.7%
+  Black alone: 23.8%
+  Asian alone: 2.1%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $45,020
+  poverty rate: 25.3%
+  homeownership: 58.4%
+  estimated median home value: $177,324
+  estimated median gross rent: $862
+  unemployment: 5.7%
+  bachelor's degree or higher: 41.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

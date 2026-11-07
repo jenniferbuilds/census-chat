@@ -1,0 +1,18 @@
+GEOGRAPHY: Skagway Municipality, AK
+GEOGRAPHIC CODE: 02230 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,038
+  under 18: 13.1%
+  age 65+: 11.3%
+  White alone: 82.8%
+  Black alone: 0.9%
+  Asian alone: 4.0%
+  Hispanic or Latino: 6.8%
+  estimated median household income: $70,441
+  poverty rate: 5.6%
+  homeownership: 52.0%
+  estimated median home value: $293,750
+  estimated median gross rent: $1,069
+  unemployment: 7.9%
+  bachelor's degree or higher: 32.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

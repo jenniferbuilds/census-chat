@@ -1,0 +1,18 @@
+GEOGRAPHY: Floyd County, TX
+GEOGRAPHIC CODE: 48153 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,803
+  under 18: 26.8%
+  age 65+: 18.6%
+  White alone: 92.6%
+  Black alone: 4.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 58.7%
+  estimated median household income: $50,740
+  poverty rate: 14.7%
+  homeownership: 74.9%
+  estimated median home value: $64,320
+  estimated median gross rent: $724
+  unemployment: 5.0%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

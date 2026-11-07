@@ -1,0 +1,18 @@
+GEOGRAPHY: Runnels County, TX
+GEOGRAPHIC CODE: 48399 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,277
+  under 18: 23.3%
+  age 65+: 20.6%
+  White alone: 92.5%
+  Black alone: 3.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 34.2%
+  estimated median household income: $44,922
+  poverty rate: 15.3%
+  homeownership: 71.1%
+  estimated median home value: $81,429
+  estimated median gross rent: $644
+  unemployment: 2.5%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

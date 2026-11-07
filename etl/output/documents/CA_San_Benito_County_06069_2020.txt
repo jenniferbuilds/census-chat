@@ -1,0 +1,18 @@
+GEOGRAPHY: San Benito County, CA
+GEOGRAPHIC CODE: 06069 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 61,547
+  under 18: 25.7%
+  age 65+: 12.7%
+  White alone: 73.4%
+  Black alone: 0.8%
+  Asian alone: 2.8%
+  Hispanic or Latino: 60.1%
+  estimated median household income: $86,882
+  poverty rate: 9.3%
+  homeownership: 65.3%
+  estimated median home value: $588,527
+  estimated median gross rent: $1,533
+  unemployment: 7.5%
+  bachelor's degree or higher: 20.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

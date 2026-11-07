@@ -1,0 +1,18 @@
+GEOGRAPHY: Seminole County, OK
+GEOGRAPHIC CODE: 40133 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,832
+  under 18: 25.0%
+  age 65+: 17.7%
+  White alone: 68.0%
+  Black alone: 4.8%
+  Asian alone: 0.6%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $39,381
+  poverty rate: 20.4%
+  homeownership: 68.0%
+  estimated median home value: $74,385
+  estimated median gross rent: $649
+  unemployment: 7.8%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

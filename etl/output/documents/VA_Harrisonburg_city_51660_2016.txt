@@ -1,0 +1,17 @@
+GEOGRAPHY: Harrisonburg city, VA
+GEOGRAPHIC CODE: 51660 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 51,979
+  under 18: 15.8%
+  age 65+: 8.1%
+  White alone: 84.5%
+  Black alone: 6.8%
+  Asian alone: 3.9%
+  Hispanic or Latino: 18.2%
+  estimated median household income: $40,547
+  homeownership: 37.4%
+  estimated median home value: $197,394
+  estimated median gross rent: $834
+  unemployment: 5.9%
+  bachelor's degree or higher: 36.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

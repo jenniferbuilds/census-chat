@@ -1,0 +1,18 @@
+GEOGRAPHY: Autauga County, AL
+GEOGRAPHIC CODE: 01001 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 55,200
+  under 18: 24.2%
+  age 65+: 14.6%
+  White alone: 76.9%
+  Black alone: 19.1%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $58,664
+  poverty rate: 15.4%
+  homeownership: 74.9%
+  estimated median home value: $147,855
+  estimated median gross rent: $966
+  unemployment: 4.2%
+  bachelor's degree or higher: 27.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

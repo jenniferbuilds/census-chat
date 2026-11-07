@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, ID
+GEOGRAPHIC CODE: 16087 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,025
+  under 18: 23.4%
+  age 65+: 24.0%
+  White alone: 86.7%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 17.1%
+  estimated median household income: $37,948
+  poverty rate: 15.7%
+  homeownership: 70.3%
+  estimated median home value: $152,166
+  estimated median gross rent: $671
+  unemployment: 5.4%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: San Joaquin County, CA
+GEOGRAPHIC CODE: 06077 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 732,212
+  under 18: 27.5%
+  age 65+: 12.2%
+  White alone: 56.3%
+  Black alone: 7.1%
+  Asian alone: 15.4%
+  Hispanic or Latino: 41.1%
+  estimated median household income: $61,156
+  poverty rate: 15.9%
+  homeownership: 55.6%
+  estimated median home value: $313,843
+  estimated median gross rent: $1,159
+  unemployment: 8.7%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

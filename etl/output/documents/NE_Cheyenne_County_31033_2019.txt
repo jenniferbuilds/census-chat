@@ -1,0 +1,18 @@
+GEOGRAPHY: Cheyenne County, NE
+GEOGRAPHIC CODE: 31033 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,604
+  under 18: 23.5%
+  age 65+: 18.5%
+  White alone: 94.9%
+  Black alone: 0.8%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $54,117
+  poverty rate: 9.6%
+  homeownership: 66.6%
+  estimated median home value: $103,041
+  estimated median gross rent: $792
+  unemployment: 2.4%
+  bachelor's degree or higher: 25.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

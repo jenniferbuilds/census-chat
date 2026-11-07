@@ -1,0 +1,18 @@
+GEOGRAPHY: Summit County, UT
+GEOGRAPHIC CODE: 49043 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,103
+  under 18: 24.8%
+  age 65+: 11.8%
+  White alone: 93.0%
+  Black alone: 0.8%
+  Asian alone: 1.8%
+  Hispanic or Latino: 11.4%
+  estimated median household income: $103,662
+  poverty rate: 5.6%
+  homeownership: 77.4%
+  estimated median home value: $641,925
+  estimated median gross rent: $1,429
+  unemployment: 1.7%
+  bachelor's degree or higher: 55.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Kandiyohi County, MN
+GEOGRAPHIC CODE: 27067 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 42,510
+  under 18: 23.9%
+  age 65+: 17.2%
+  White alone: 88.8%
+  Black alone: 3.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 11.7%
+  estimated median household income: $54,073
+  homeownership: 72.6%
+  estimated median home value: $164,259
+  estimated median gross rent: $672
+  unemployment: 3.8%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

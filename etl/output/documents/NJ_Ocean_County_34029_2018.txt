@@ -1,0 +1,18 @@
+GEOGRAPHY: Ocean County, NJ
+GEOGRAPHIC CODE: 34029 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 591,939
+  under 18: 23.7%
+  age 65+: 22.3%
+  White alone: 91.2%
+  Black alone: 3.1%
+  Asian alone: 1.9%
+  Hispanic or Latino: 9.1%
+  estimated median household income: $68,423
+  poverty rate: 10.7%
+  homeownership: 80.0%
+  estimated median home value: $272,907
+  estimated median gross rent: $1,422
+  unemployment: 5.9%
+  bachelor's degree or higher: 29.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

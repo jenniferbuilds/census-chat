@@ -1,0 +1,18 @@
+GEOGRAPHY: Kankakee County, IL
+GEOGRAPHIC CODE: 17091 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 111,061
+  under 18: 23.4%
+  age 65+: 15.9%
+  White alone: 79.7%
+  Black alone: 15.1%
+  Asian alone: 0.9%
+  Hispanic or Latino: 10.2%
+  estimated median household income: $58,044
+  poverty rate: 14.8%
+  homeownership: 68.2%
+  estimated median home value: $144,156
+  estimated median gross rent: $869
+  unemployment: 6.0%
+  bachelor's degree or higher: 21.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

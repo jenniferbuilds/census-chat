@@ -1,0 +1,18 @@
+GEOGRAPHY: Ray County, MO
+GEOGRAPHIC CODE: 29177 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,900
+  under 18: 22.7%
+  age 65+: 18.2%
+  White alone: 94.9%
+  Black alone: 1.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $64,382
+  poverty rate: 11.8%
+  homeownership: 77.8%
+  estimated median home value: $139,818
+  estimated median gross rent: $725
+  unemployment: 3.4%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

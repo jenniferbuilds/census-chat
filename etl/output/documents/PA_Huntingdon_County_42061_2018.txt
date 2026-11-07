@@ -1,0 +1,18 @@
+GEOGRAPHY: Huntingdon County, PA
+GEOGRAPHIC CODE: 42061 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,421
+  under 18: 18.5%
+  age 65+: 20.0%
+  White alone: 91.7%
+  Black alone: 5.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $48,746
+  poverty rate: 13.3%
+  homeownership: 75.6%
+  estimated median home value: $126,761
+  estimated median gross rent: $625
+  unemployment: 6.3%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

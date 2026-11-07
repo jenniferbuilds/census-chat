@@ -1,0 +1,18 @@
+GEOGRAPHY: Starr County, TX
+GEOGRAPHIC CODE: 48427 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 64,078
+  under 18: 33.0%
+  age 65+: 11.2%
+  White alone: 95.3%
+  Black alone: 0.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.2%
+  estimated median household income: $30,492
+  poverty rate: 34.7%
+  homeownership: 75.1%
+  estimated median home value: $71,908
+  estimated median gross rent: $588
+  unemployment: 14.6%
+  bachelor's degree or higher: 9.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Bucks County, PA
+GEOGRAPHIC CODE: 42017 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 626,486
+  under 18: 21.1%
+  age 65+: 17.1%
+  White alone: 88.5%
+  Black alone: 4.0%
+  Asian alone: 4.6%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $82,530
+  poverty rate: 6.1%
+  homeownership: 76.6%
+  estimated median home value: $315,706
+  estimated median gross rent: $1,171
+  unemployment: 5.4%
+  bachelor's degree or higher: 39.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Wabash County, IN
+GEOGRAPHIC CODE: 18169 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,631
+  under 18: 21.1%
+  age 65+: 20.0%
+  White alone: 95.7%
+  Black alone: 1.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $50,743
+  poverty rate: 12.7%
+  homeownership: 73.2%
+  estimated median home value: $97,173
+  estimated median gross rent: $693
+  unemployment: 4.3%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

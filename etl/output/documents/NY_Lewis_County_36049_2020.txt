@@ -1,0 +1,18 @@
+GEOGRAPHY: Lewis County, NY
+GEOGRAPHIC CODE: 36049 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,456
+  under 18: 22.9%
+  age 65+: 18.7%
+  White alone: 96.6%
+  Black alone: 0.9%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $56,486
+  poverty rate: 13.3%
+  homeownership: 80.9%
+  estimated median home value: $122,776
+  estimated median gross rent: $700
+  unemployment: 4.9%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

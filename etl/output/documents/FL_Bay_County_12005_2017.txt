@@ -1,0 +1,18 @@
+GEOGRAPHY: Bay County, FL
+GEOGRAPHIC CODE: 12005 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 180,117
+  under 18: 21.6%
+  age 65+: 16.3%
+  White alone: 81.9%
+  Black alone: 11.0%
+  Asian alone: 2.3%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $50,330
+  poverty rate: 15.4%
+  homeownership: 62.4%
+  estimated median home value: $166,388
+  estimated median gross rent: $966
+  unemployment: 6.4%
+  bachelor's degree or higher: 22.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

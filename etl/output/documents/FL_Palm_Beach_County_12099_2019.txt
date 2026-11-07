@@ -1,0 +1,18 @@
+GEOGRAPHY: Palm Beach County, FL
+GEOGRAPHIC CODE: 12099 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,465,027
+  under 18: 19.2%
+  age 65+: 23.6%
+  White alone: 73.5%
+  Black alone: 18.7%
+  Asian alone: 2.7%
+  Hispanic or Latino: 22.4%
+  estimated median household income: $63,507
+  poverty rate: 12.2%
+  homeownership: 68.9%
+  estimated median home value: $283,608
+  estimated median gross rent: $1,398
+  unemployment: 5.9%
+  bachelor's degree or higher: 36.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

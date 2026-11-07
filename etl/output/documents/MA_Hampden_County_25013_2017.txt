@@ -1,0 +1,18 @@
+GEOGRAPHY: Hampden County, MA
+GEOGRAPHIC CODE: 25013 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 469,188
+  under 18: 22.2%
+  age 65+: 15.7%
+  White alone: 80.4%
+  Black alone: 8.7%
+  Asian alone: 2.2%
+  Hispanic or Latino: 23.9%
+  estimated median household income: $52,606
+  poverty rate: 17.2%
+  homeownership: 61.2%
+  estimated median home value: $198,469
+  estimated median gross rent: $866
+  unemployment: 8.0%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

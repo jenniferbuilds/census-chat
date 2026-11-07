@@ -1,0 +1,18 @@
+GEOGRAPHY: Delta County, CO
+GEOGRAPHIC CODE: 08029 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,565
+  under 18: 19.9%
+  age 65+: 25.3%
+  White alone: 94.4%
+  Black alone: 1.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 15.2%
+  estimated median household income: $45,203
+  poverty rate: 18.3%
+  homeownership: 73.6%
+  estimated median home value: $241,534
+  estimated median gross rent: $834
+  unemployment: 6.6%
+  bachelor's degree or higher: 21.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Pocahontas County, WV
+GEOGRAPHIC CODE: 54075 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,450
+  under 18: 17.3%
+  age 65+: 24.8%
+  White alone: 98.6%
+  Black alone: 0.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $41,749
+  poverty rate: 16.6%
+  homeownership: 81.6%
+  estimated median home value: $121,670
+  estimated median gross rent: $622
+  unemployment: 4.4%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

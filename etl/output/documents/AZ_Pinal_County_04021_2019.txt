@@ -1,0 +1,18 @@
+GEOGRAPHY: Pinal County, AZ
+GEOGRAPHIC CODE: 04021 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 432,793
+  under 18: 23.0%
+  age 65+: 19.9%
+  White alone: 79.9%
+  Black alone: 4.4%
+  Asian alone: 1.6%
+  Hispanic or Latino: 30.2%
+  estimated median household income: $58,118
+  poverty rate: 13.2%
+  homeownership: 76.7%
+  estimated median home value: $183,059
+  estimated median gross rent: $1,064
+  unemployment: 7.1%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

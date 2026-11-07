@@ -1,0 +1,18 @@
+GEOGRAPHY: Martin County, NC
+GEOGRAPHIC CODE: 37117 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,054
+  under 18: 20.7%
+  age 65+: 21.8%
+  White alone: 54.5%
+  Black alone: 42.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $39,339
+  poverty rate: 18.2%
+  homeownership: 69.7%
+  estimated median home value: $88,443
+  estimated median gross rent: $671
+  unemployment: 10.9%
+  bachelor's degree or higher: 16.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

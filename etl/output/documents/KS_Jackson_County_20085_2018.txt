@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, KS
+GEOGRAPHIC CODE: 20085 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,318
+  under 18: 24.9%
+  age 65+: 18.6%
+  White alone: 86.5%
+  Black alone: 0.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $56,250
+  poverty rate: 10.0%
+  homeownership: 75.6%
+  estimated median home value: $132,524
+  estimated median gross rent: $674
+  unemployment: 5.8%
+  bachelor's degree or higher: 21.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

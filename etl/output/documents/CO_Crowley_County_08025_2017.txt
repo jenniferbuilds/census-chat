@@ -1,0 +1,18 @@
+GEOGRAPHY: Crowley County, CO
+GEOGRAPHIC CODE: 08025 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,514
+  under 18: 13.0%
+  age 65+: 13.3%
+  White alone: 87.0%
+  Black alone: 4.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 30.7%
+  estimated median household income: $35,250
+  poverty rate: 24.6%
+  homeownership: 73.9%
+  estimated median home value: $79,737
+  estimated median gross rent: $827
+  unemployment: 21.4%
+  bachelor's degree or higher: 8.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

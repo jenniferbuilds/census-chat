@@ -1,0 +1,17 @@
+GEOGRAPHY: Indian River County, FL
+GEOGRAPHIC CODE: 12061 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 145,342
+  under 18: 17.5%
+  age 65+: 30.2%
+  White alone: 85.7%
+  Black alone: 9.1%
+  Asian alone: 1.2%
+  Hispanic or Latino: 11.8%
+  estimated median household income: $47,215
+  homeownership: 74.6%
+  estimated median home value: $160,858
+  estimated median gross rent: $881
+  unemployment: 10.3%
+  bachelor's degree or higher: 27.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Hall County, NE
+GEOGRAPHIC CODE: 31079 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 61,105
+  under 18: 27.1%
+  age 65+: 14.1%
+  White alone: 90.9%
+  Black alone: 2.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 26.1%
+  estimated median household income: $51,521
+  homeownership: 61.4%
+  estimated median home value: $128,158
+  estimated median gross rent: $696
+  unemployment: 5.3%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

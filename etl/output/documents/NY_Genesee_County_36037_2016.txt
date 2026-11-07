@@ -1,0 +1,17 @@
+GEOGRAPHY: Genesee County, NY
+GEOGRAPHIC CODE: 36037 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 59,053
+  under 18: 20.9%
+  age 65+: 17.4%
+  White alone: 92.4%
+  Black alone: 2.5%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $53,266
+  homeownership: 73.3%
+  estimated median home value: $108,741
+  estimated median gross rent: $716
+  unemployment: 5.4%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

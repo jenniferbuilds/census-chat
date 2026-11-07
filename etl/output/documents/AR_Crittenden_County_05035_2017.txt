@@ -1,0 +1,18 @@
+GEOGRAPHY: Crittenden County, AR
+GEOGRAPHIC CODE: 05035 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,278
+  under 18: 27.7%
+  age 65+: 12.8%
+  White alone: 44.8%
+  Black alone: 49.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $38,981
+  poverty rate: 23.5%
+  homeownership: 56.7%
+  estimated median home value: $106,266
+  estimated median gross rent: $713
+  unemployment: 8.4%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

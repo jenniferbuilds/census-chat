@@ -1,0 +1,18 @@
+GEOGRAPHY: Lewis County, KY
+GEOGRAPHIC CODE: 21135 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,417
+  under 18: 22.3%
+  age 65+: 17.9%
+  White alone: 97.8%
+  Black alone: 0.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $31,551
+  poverty rate: 24.4%
+  homeownership: 74.0%
+  estimated median home value: $65,518
+  estimated median gross rent: $518
+  unemployment: 5.2%
+  bachelor's degree or higher: 9.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

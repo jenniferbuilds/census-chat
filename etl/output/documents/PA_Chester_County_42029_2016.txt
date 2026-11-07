@@ -1,0 +1,17 @@
+GEOGRAPHY: Chester County, PA
+GEOGRAPHIC CODE: 42029 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 512,028
+  under 18: 23.5%
+  age 65+: 14.6%
+  White alone: 86.1%
+  Black alone: 5.8%
+  Asian alone: 4.6%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $89,486
+  homeownership: 75.3%
+  estimated median home value: $330,993
+  estimated median gross rent: $1,222
+  unemployment: 5.3%
+  bachelor's degree or higher: 50.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

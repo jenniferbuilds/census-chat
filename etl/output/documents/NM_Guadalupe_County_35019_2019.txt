@@ -1,0 +1,18 @@
+GEOGRAPHY: Guadalupe County, NM
+GEOGRAPHIC CODE: 35019 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,353
+  under 18: 19.1%
+  age 65+: 21.8%
+  White alone: 78.0%
+  Black alone: 0.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 73.9%
+  estimated median household income: $24,806
+  poverty rate: 15.4%
+  homeownership: 62.6%
+  estimated median home value: $85,000
+  estimated median gross rent: $395
+  unemployment: 7.0%
+  bachelor's degree or higher: 7.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

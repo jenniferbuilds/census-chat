@@ -1,0 +1,18 @@
+GEOGRAPHY: Beaver County, UT
+GEOGRAPHIC CODE: 49001 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,517
+  under 18: 32.8%
+  age 65+: 14.2%
+  White alone: 93.6%
+  Black alone: 0.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 12.0%
+  estimated median household income: $56,190
+  poverty rate: 9.1%
+  homeownership: 74.1%
+  estimated median home value: $177,564
+  estimated median gross rent: $717
+  unemployment: 3.5%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

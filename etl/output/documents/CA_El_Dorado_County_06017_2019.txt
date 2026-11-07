@@ -1,0 +1,18 @@
+GEOGRAPHY: El Dorado County, CA
+GEOGRAPHIC CODE: 06017 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 188,563
+  under 18: 20.1%
+  age 65+: 20.5%
+  White alone: 87.6%
+  Black alone: 0.8%
+  Asian alone: 4.5%
+  Hispanic or Latino: 12.8%
+  estimated median household income: $84,361
+  poverty rate: 8.4%
+  homeownership: 75.7%
+  estimated median home value: $460,874
+  estimated median gross rent: $1,260
+  unemployment: 5.5%
+  bachelor's degree or higher: 34.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Spencer County, KY
+GEOGRAPHIC CODE: 21215 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,798
+  under 18: 23.9%
+  age 65+: 12.3%
+  White alone: 96.1%
+  Black alone: 1.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $66,431
+  homeownership: 84.2%
+  estimated median home value: $186,096
+  estimated median gross rent: $582
+  unemployment: 6.7%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

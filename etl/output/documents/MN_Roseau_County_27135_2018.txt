@@ -1,0 +1,18 @@
+GEOGRAPHY: Roseau County, MN
+GEOGRAPHIC CODE: 27135 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,462
+  under 18: 24.4%
+  age 65+: 16.2%
+  White alone: 92.8%
+  Black alone: 0.9%
+  Asian alone: 2.8%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $59,637
+  poverty rate: 9.8%
+  homeownership: 79.8%
+  estimated median home value: $125,742
+  estimated median gross rent: $709
+  unemployment: 2.6%
+  bachelor's degree or higher: 19.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

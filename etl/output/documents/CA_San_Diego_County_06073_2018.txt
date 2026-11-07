@@ -1,0 +1,18 @@
+GEOGRAPHY: San Diego County, CA
+GEOGRAPHIC CODE: 06073 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,302,833
+  under 18: 22.0%
+  age 65+: 13.3%
+  White alone: 70.7%
+  Black alone: 5.0%
+  Asian alone: 11.8%
+  Hispanic or Latino: 33.5%
+  estimated median household income: $74,867
+  poverty rate: 12.5%
+  homeownership: 53.1%
+  estimated median home value: $526,254
+  estimated median gross rent: $1,569
+  unemployment: 6.4%
+  bachelor's degree or higher: 38.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

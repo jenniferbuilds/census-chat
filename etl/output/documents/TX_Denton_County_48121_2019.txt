@@ -1,0 +1,18 @@
+GEOGRAPHY: Denton County, TX
+GEOGRAPHIC CODE: 48121 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 833,822
+  under 18: 25.1%
+  age 65+: 9.9%
+  White alone: 74.3%
+  Black alone: 9.8%
+  Asian alone: 8.7%
+  Hispanic or Latino: 19.3%
+  estimated median household income: $88,254
+  poverty rate: 7.6%
+  homeownership: 65.1%
+  estimated median home value: $277,753
+  estimated median gross rent: $1,218
+  unemployment: 3.9%
+  bachelor's degree or higher: 45.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

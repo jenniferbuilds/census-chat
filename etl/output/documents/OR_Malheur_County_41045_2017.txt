@@ -1,0 +1,18 @@
+GEOGRAPHY: Malheur County, OR
+GEOGRAPHIC CODE: 41045 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,421
+  under 18: 25.4%
+  age 65+: 16.0%
+  White alone: 87.1%
+  Black alone: 1.0%
+  Asian alone: 1.6%
+  Hispanic or Latino: 33.1%
+  estimated median household income: $37,976
+  poverty rate: 25.2%
+  homeownership: 58.0%
+  estimated median home value: $127,683
+  estimated median gross rent: $668
+  unemployment: 8.6%
+  bachelor's degree or higher: 13.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

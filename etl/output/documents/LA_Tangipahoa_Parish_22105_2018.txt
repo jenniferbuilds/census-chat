@@ -1,0 +1,18 @@
+GEOGRAPHY: Tangipahoa Parish, LA
+GEOGRAPHIC CODE: 22105 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 130,504
+  under 18: 24.7%
+  age 65+: 13.6%
+  White alone: 67.1%
+  Black alone: 29.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $46,353
+  poverty rate: 22.0%
+  homeownership: 68.3%
+  estimated median home value: $153,962
+  estimated median gross rent: $808
+  unemployment: 8.6%
+  bachelor's degree or higher: 19.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

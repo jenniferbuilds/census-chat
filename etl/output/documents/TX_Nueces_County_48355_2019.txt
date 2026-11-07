@@ -1,0 +1,18 @@
+GEOGRAPHY: Nueces County, TX
+GEOGRAPHIC CODE: 48355 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 361,540
+  under 18: 24.8%
+  age 65+: 14.1%
+  White alone: 90.1%
+  Black alone: 3.7%
+  Asian alone: 2.1%
+  Hispanic or Latino: 63.7%
+  estimated median household income: $56,387
+  poverty rate: 16.6%
+  homeownership: 58.0%
+  estimated median home value: $138,726
+  estimated median gross rent: $1,017
+  unemployment: 5.7%
+  bachelor's degree or higher: 21.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

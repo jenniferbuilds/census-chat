@@ -1,0 +1,18 @@
+GEOGRAPHY: Adams County, IN
+GEOGRAPHIC CODE: 18001 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,195
+  under 18: 31.3%
+  age 65+: 14.9%
+  White alone: 96.8%
+  Black alone: 1.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $51,249
+  poverty rate: 16.8%
+  homeownership: 77.2%
+  estimated median home value: $122,381
+  estimated median gross rent: $607
+  unemployment: 3.6%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Sarpy County, NE
+GEOGRAPHIC CODE: 31153 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 175,188
+  under 18: 28.0%
+  age 65+: 10.6%
+  White alone: 88.6%
+  Black alone: 3.9%
+  Asian alone: 2.5%
+  Hispanic or Latino: 8.7%
+  estimated median household income: $75,836
+  poverty rate: 5.3%
+  homeownership: 69.6%
+  estimated median home value: $173,861
+  estimated median gross rent: $943
+  unemployment: 3.3%
+  bachelor's degree or higher: 39.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

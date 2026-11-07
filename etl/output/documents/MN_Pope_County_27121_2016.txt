@@ -1,0 +1,17 @@
+GEOGRAPHY: Pope County, MN
+GEOGRAPHIC CODE: 27121 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,975
+  under 18: 21.2%
+  age 65+: 23.1%
+  White alone: 97.3%
+  Black alone: 0.4%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $55,831
+  homeownership: 80.2%
+  estimated median home value: $152,961
+  estimated median gross rent: $610
+  unemployment: 3.7%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

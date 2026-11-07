@@ -1,0 +1,18 @@
+GEOGRAPHY: Ripley County, IN
+GEOGRAPHIC CODE: 18137 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,391
+  under 18: 23.8%
+  age 65+: 17.3%
+  White alone: 97.3%
+  Black alone: 0.4%
+  Asian alone: 1.0%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $56,317
+  poverty rate: 11.9%
+  homeownership: 75.9%
+  estimated median home value: $152,094
+  estimated median gross rent: $693
+  unemployment: 5.2%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

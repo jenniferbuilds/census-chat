@@ -1,0 +1,18 @@
+GEOGRAPHY: Mitchell County, TX
+GEOGRAPHIC CODE: 48335 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,558
+  under 18: 19.3%
+  age 65+: 15.2%
+  White alone: 78.9%
+  Black alone: 11.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 39.5%
+  estimated median household income: $49,690
+  poverty rate: 9.1%
+  homeownership: 77.8%
+  estimated median home value: $69,978
+  estimated median gross rent: $672
+  unemployment: 5.8%
+  bachelor's degree or higher: 11.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+  }
+  * {
+    @apply box-border;
+  }
+}
+
+/* Custom scrollbar for chat window */
+.chat-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.chat-scroll::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+}
+.chat-scroll::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 rounded-full;
+}
+
+/* Markdown rendered inside messages */
+.prose-chat p { @apply mb-2 last:mb-0; }
+.prose-chat ul { @apply list-disc ml-4 mb-2; }
+.prose-chat ol { @apply list-decimal ml-4 mb-2; }
+.prose-chat strong { @apply font-semibold; }
+.prose-chat code { @apply bg-gray-100 px-1 rounded text-sm font-mono; }

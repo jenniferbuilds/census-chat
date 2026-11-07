@@ -1,0 +1,18 @@
+GEOGRAPHY: Louisa County, IA
+GEOGRAPHIC CODE: 19115 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,238
+  under 18: 23.2%
+  age 65+: 16.7%
+  White alone: 91.6%
+  Black alone: 1.0%
+  Asian alone: 3.9%
+  Hispanic or Latino: 15.8%
+  estimated median household income: $54,933
+  poverty rate: 11.0%
+  homeownership: 77.5%
+  estimated median home value: $104,167
+  estimated median gross rent: $623
+  unemployment: 4.1%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

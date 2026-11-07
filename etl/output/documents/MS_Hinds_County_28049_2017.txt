@@ -1,0 +1,18 @@
+GEOGRAPHY: Hinds County, MS
+GEOGRAPHIC CODE: 28049 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 243,249
+  under 18: 24.9%
+  age 65+: 12.6%
+  White alone: 26.0%
+  Black alone: 71.9%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $41,118
+  poverty rate: 23.9%
+  homeownership: 59.3%
+  estimated median home value: $109,395
+  estimated median gross rent: $812
+  unemployment: 10.0%
+  bachelor's degree or higher: 28.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

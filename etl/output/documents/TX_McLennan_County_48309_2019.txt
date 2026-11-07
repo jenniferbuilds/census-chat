@@ -1,0 +1,18 @@
+GEOGRAPHY: McLennan County, TX
+GEOGRAPHIC CODE: 48309 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 251,089
+  under 18: 24.7%
+  age 65+: 14.1%
+  White alone: 78.4%
+  Black alone: 14.6%
+  Asian alone: 1.6%
+  Hispanic or Latino: 26.3%
+  estimated median household income: $49,766
+  poverty rate: 19.2%
+  homeownership: 59.2%
+  estimated median home value: $142,849
+  estimated median gross rent: $871
+  unemployment: 4.2%
+  bachelor's degree or higher: 24.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

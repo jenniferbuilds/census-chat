@@ -1,0 +1,18 @@
+GEOGRAPHY: Montgomery County, IA
+GEOGRAPHIC CODE: 19137 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,053
+  under 18: 22.9%
+  age 65+: 20.9%
+  White alone: 94.6%
+  Black alone: 0.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $51,902
+  poverty rate: 12.0%
+  homeownership: 70.2%
+  estimated median home value: $85,676
+  estimated median gross rent: $644
+  unemployment: 4.1%
+  bachelor's degree or higher: 18.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

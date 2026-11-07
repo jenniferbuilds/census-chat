@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, CO
+GEOGRAPHIC CODE: 08121 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,869
+  under 18: 22.0%
+  age 65+: 20.5%
+  White alone: 94.8%
+  Black alone: 1.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 10.5%
+  estimated median household income: $51,294
+  poverty rate: 12.3%
+  homeownership: 69.8%
+  estimated median home value: $162,165
+  estimated median gross rent: $765
+  unemployment: 2.1%
+  bachelor's degree or higher: 21.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

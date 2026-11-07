@@ -1,0 +1,18 @@
+GEOGRAPHY: Johnson County, WY
+GEOGRAPHIC CODE: 56019 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,515
+  under 18: 22.3%
+  age 65+: 21.8%
+  White alone: 92.2%
+  Black alone: 0.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $55,123
+  poverty rate: 11.4%
+  homeownership: 71.0%
+  estimated median home value: $257,838
+  estimated median gross rent: $881
+  unemployment: 4.0%
+  bachelor's degree or higher: 28.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

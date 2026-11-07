@@ -1,0 +1,17 @@
+GEOGRAPHY: Cherokee County, KS
+GEOGRAPHIC CODE: 20021 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,737
+  under 18: 24.2%
+  age 65+: 17.6%
+  White alone: 90.4%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $41,768
+  homeownership: 74.9%
+  estimated median home value: $74,755
+  estimated median gross rent: $661
+  unemployment: 6.5%
+  bachelor's degree or higher: 18.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

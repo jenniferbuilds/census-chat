@@ -1,0 +1,17 @@
+GEOGRAPHY: Clear Creek County, CO
+GEOGRAPHIC CODE: 08019 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,238
+  under 18: 15.8%
+  age 65+: 18.2%
+  White alone: 94.3%
+  Black alone: 1.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.7%
+  estimated median household income: $68,012
+  homeownership: 78.0%
+  estimated median home value: $296,960
+  estimated median gross rent: $808
+  unemployment: 4.4%
+  bachelor's degree or higher: 44.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Calvert County, MD
+GEOGRAPHIC CODE: 24009 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 90,824
+  under 18: 23.9%
+  age 65+: 13.6%
+  White alone: 81.3%
+  Black alone: 11.9%
+  Asian alone: 1.7%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $100,308
+  poverty rate: 5.7%
+  homeownership: 83.4%
+  estimated median home value: $347,196
+  estimated median gross rent: $1,612
+  unemployment: 7.3%
+  bachelor's degree or higher: 30.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

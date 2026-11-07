@@ -1,0 +1,18 @@
+GEOGRAPHY: Pendleton County, WV
+GEOGRAPHIC CODE: 54071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,001
+  under 18: 18.3%
+  age 65+: 26.5%
+  White alone: 95.5%
+  Black alone: 3.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $42,480
+  poverty rate: 15.2%
+  homeownership: 80.5%
+  estimated median home value: $122,789
+  estimated median gross rent: $513
+  unemployment: 4.4%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

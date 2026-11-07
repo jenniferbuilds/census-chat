@@ -1,0 +1,17 @@
+GEOGRAPHY: Alexandria city, VA
+GEOGRAPHIC CODE: 51510 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 151,473
+  under 18: 18.0%
+  age 65+: 10.0%
+  White alone: 62.7%
+  Black alone: 21.6%
+  Asian alone: 6.5%
+  Hispanic or Latino: 16.7%
+  estimated median household income: $90,239
+  homeownership: 42.2%
+  estimated median home value: $520,710
+  estimated median gross rent: $1,611
+  unemployment: 4.0%
+  bachelor's degree or higher: 62.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

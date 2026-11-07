@@ -1,0 +1,18 @@
+GEOGRAPHY: Maury County, TN
+GEOGRAPHIC CODE: 47119 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 87,606
+  under 18: 23.6%
+  age 65+: 15.0%
+  White alone: 84.0%
+  Black alone: 11.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $52,165
+  poverty rate: 13.0%
+  homeownership: 68.7%
+  estimated median home value: $156,009
+  estimated median gross rent: $796
+  unemployment: 6.2%
+  bachelor's degree or higher: 20.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

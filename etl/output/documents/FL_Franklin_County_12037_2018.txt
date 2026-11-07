@@ -1,0 +1,18 @@
+GEOGRAPHY: Franklin County, FL
+GEOGRAPHIC CODE: 12037 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,736
+  under 18: 16.4%
+  age 65+: 21.4%
+  White alone: 80.7%
+  Black alone: 13.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $43,236
+  poverty rate: 20.7%
+  homeownership: 75.7%
+  estimated median home value: $139,462
+  estimated median gross rent: $803
+  unemployment: 7.5%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

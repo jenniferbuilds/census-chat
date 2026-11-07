@@ -1,0 +1,18 @@
+GEOGRAPHY: Sherman County, KS
+GEOGRAPHIC CODE: 20181 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,938
+  under 18: 23.6%
+  age 65+: 18.8%
+  White alone: 90.8%
+  Black alone: 1.9%
+  Asian alone: 0.9%
+  Hispanic or Latino: 12.2%
+  estimated median household income: $54,876
+  poverty rate: 11.5%
+  homeownership: 66.9%
+  estimated median home value: $111,425
+  estimated median gross rent: $819
+  unemployment: 3.6%
+  bachelor's degree or higher: 21.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

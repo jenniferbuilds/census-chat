@@ -1,0 +1,17 @@
+GEOGRAPHY: Pasquotank County, NC
+GEOGRAPHIC CODE: 37139 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,909
+  under 18: 22.0%
+  age 65+: 15.2%
+  White alone: 58.7%
+  Black alone: 36.5%
+  Asian alone: 1.6%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $45,868
+  homeownership: 59.6%
+  estimated median home value: $156,444
+  estimated median gross rent: $859
+  unemployment: 8.5%
+  bachelor's degree or higher: 18.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, OR
+GEOGRAPHIC CODE: 41041 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 48,547
+  under 18: 16.9%
+  age 65+: 27.9%
+  White alone: 88.2%
+  Black alone: 0.6%
+  Asian alone: 1.2%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $47,373
+  poverty rate: 16.3%
+  homeownership: 65.6%
+  estimated median home value: $251,168
+  estimated median gross rent: $924
+  unemployment: 6.1%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Crosby County, TX
+GEOGRAPHIC CODE: 48107 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,836
+  under 18: 26.9%
+  age 65+: 18.2%
+  White alone: 88.2%
+  Black alone: 3.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 56.0%
+  estimated median household income: $40,959
+  poverty rate: 20.6%
+  homeownership: 75.3%
+  estimated median home value: $60,761
+  estimated median gross rent: $593
+  unemployment: 5.4%
+  bachelor's degree or higher: 13.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

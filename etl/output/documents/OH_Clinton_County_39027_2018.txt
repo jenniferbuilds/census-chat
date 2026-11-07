@@ -1,0 +1,18 @@
+GEOGRAPHY: Clinton County, OH
+GEOGRAPHIC CODE: 39027 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,896
+  under 18: 23.5%
+  age 65+: 16.1%
+  White alone: 94.3%
+  Black alone: 2.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $51,299
+  poverty rate: 13.0%
+  homeownership: 65.5%
+  estimated median home value: $125,324
+  estimated median gross rent: $717
+  unemployment: 6.1%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Suwannee County, FL
+GEOGRAPHIC CODE: 12121 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,814
+  under 18: 21.6%
+  age 65+: 19.9%
+  White alone: 83.2%
+  Black alone: 13.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 8.8%
+  estimated median household income: $40,785
+  poverty rate: 20.4%
+  homeownership: 70.8%
+  estimated median home value: $92,432
+  estimated median gross rent: $702
+  unemployment: 9.1%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

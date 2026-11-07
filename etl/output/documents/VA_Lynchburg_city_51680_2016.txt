@@ -1,0 +1,17 @@
+GEOGRAPHY: Lynchburg city, VA
+GEOGRAPHIC CODE: 51680 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 78,755
+  under 18: 19.3%
+  age 65+: 14.0%
+  White alone: 65.1%
+  Black alone: 28.4%
+  Asian alone: 2.7%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $40,864
+  homeownership: 50.5%
+  estimated median home value: $149,557
+  estimated median gross rent: $782
+  unemployment: 7.2%
+  bachelor's degree or higher: 33.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

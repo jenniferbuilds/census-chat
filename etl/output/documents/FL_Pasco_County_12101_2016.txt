@@ -1,0 +1,17 @@
+GEOGRAPHY: Pasco County, FL
+GEOGRAPHIC CODE: 12101 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 488,310
+  under 18: 20.5%
+  age 65+: 22.4%
+  White alone: 88.5%
+  Black alone: 5.1%
+  Asian alone: 2.4%
+  Hispanic or Latino: 13.4%
+  estimated median household income: $46,138
+  homeownership: 72.8%
+  estimated median home value: $122,118
+  estimated median gross rent: $946
+  unemployment: 8.2%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

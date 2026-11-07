@@ -1,0 +1,18 @@
+GEOGRAPHY: Herkimer County, NY
+GEOGRAPHIC CODE: 36043 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 62,943
+  under 18: 21.1%
+  age 65+: 19.0%
+  White alone: 96.0%
+  Black alone: 1.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $49,086
+  poverty rate: 14.9%
+  homeownership: 71.7%
+  estimated median home value: $95,795
+  estimated median gross rent: $657
+  unemployment: 8.2%
+  bachelor's degree or higher: 20.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

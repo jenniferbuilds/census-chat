@@ -1,0 +1,18 @@
+GEOGRAPHY: Preble County, OH
+GEOGRAPHIC CODE: 39135 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,093
+  under 18: 22.6%
+  age 65+: 18.7%
+  White alone: 96.9%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $59,226
+  poverty rate: 10.1%
+  homeownership: 78.4%
+  estimated median home value: $125,120
+  estimated median gross rent: $741
+  unemployment: 3.6%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

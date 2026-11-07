@@ -1,0 +1,18 @@
+GEOGRAPHY: Barceloneta Municipio, PR
+GEOGRAPHIC CODE: 72017 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,079
+  under 18: 20.4%
+  age 65+: 18.9%
+  White alone: 81.8%
+  Black alone: 3.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 99.5%
+  estimated median household income: $17,493
+  poverty rate: 48.6%
+  homeownership: 71.6%
+  estimated median home value: $104,555
+  estimated median gross rent: $481
+  unemployment: 19.8%
+  bachelor's degree or higher: 22.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

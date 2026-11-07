@@ -1,0 +1,18 @@
+GEOGRAPHY: El Paso County, CO
+GEOGRAPHIC CODE: 08041 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 698,974
+  under 18: 24.3%
+  age 65+: 12.5%
+  White alone: 79.6%
+  Black alone: 6.4%
+  Asian alone: 2.8%
+  Hispanic or Latino: 17.1%
+  estimated median household income: $69,036
+  poverty rate: 10.1%
+  homeownership: 64.0%
+  estimated median home value: $275,023
+  estimated median gross rent: $1,174
+  unemployment: 5.8%
+  bachelor's degree or higher: 38.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

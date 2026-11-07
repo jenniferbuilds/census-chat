@@ -1,0 +1,18 @@
+GEOGRAPHY: Rappahannock County, VA
+GEOGRAPHIC CODE: 51157 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,378
+  under 18: 17.5%
+  age 65+: 25.8%
+  White alone: 90.3%
+  Black alone: 4.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $73,320
+  poverty rate: 8.8%
+  homeownership: 74.2%
+  estimated median home value: $377,667
+  estimated median gross rent: $1,055
+  unemployment: 4.3%
+  bachelor's degree or higher: 35.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

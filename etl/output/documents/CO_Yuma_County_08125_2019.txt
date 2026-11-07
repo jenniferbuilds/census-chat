@@ -1,0 +1,18 @@
+GEOGRAPHY: Yuma County, CO
+GEOGRAPHIC CODE: 08125 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,003
+  under 18: 26.6%
+  age 65+: 18.2%
+  White alone: 95.8%
+  Black alone: 1.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 23.4%
+  estimated median household income: $53,395
+  poverty rate: 14.0%
+  homeownership: 66.9%
+  estimated median home value: $191,755
+  estimated median gross rent: $823
+  unemployment: 3.8%
+  bachelor's degree or higher: 21.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

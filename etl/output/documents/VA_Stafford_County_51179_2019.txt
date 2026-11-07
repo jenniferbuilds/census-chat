@@ -1,0 +1,18 @@
+GEOGRAPHY: Stafford County, VA
+GEOGRAPHIC CODE: 51179 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 146,773
+  under 18: 26.2%
+  age 65+: 10.1%
+  White alone: 67.3%
+  Black alone: 17.7%
+  Asian alone: 3.3%
+  Hispanic or Latino: 13.0%
+  estimated median household income: $110,931
+  poverty rate: 4.4%
+  homeownership: 77.4%
+  estimated median home value: $346,110
+  estimated median gross rent: $1,546
+  unemployment: 3.7%
+  bachelor's degree or higher: 39.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

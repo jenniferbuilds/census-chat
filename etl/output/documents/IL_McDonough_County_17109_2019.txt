@@ -1,0 +1,18 @@
+GEOGRAPHY: McDonough County, IL
+GEOGRAPHIC CODE: 17109 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,479
+  under 18: 17.1%
+  age 65+: 17.2%
+  White alone: 89.8%
+  Black alone: 4.7%
+  Asian alone: 2.1%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $44,453
+  poverty rate: 21.9%
+  homeownership: 66.3%
+  estimated median home value: $91,800
+  estimated median gross rent: $662
+  unemployment: 7.4%
+  bachelor's degree or higher: 32.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

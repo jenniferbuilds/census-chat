@@ -1,0 +1,17 @@
+GEOGRAPHY: Montana (MT)
+GEOGRAPHIC CODE: 30 | LEVEL: State | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,023,391
+  under 18: 22.0%
+  age 65+: 16.7%
+  White alone: 89.1%
+  Black alone: 0.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $48,488
+  homeownership: 67.2%
+  estimated median home value: $199,741
+  estimated median gross rent: $732
+  unemployment: 5.6%
+  bachelor's degree or higher: 29.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

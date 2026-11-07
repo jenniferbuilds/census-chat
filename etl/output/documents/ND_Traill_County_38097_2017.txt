@@ -1,0 +1,18 @@
+GEOGRAPHY: Traill County, ND
+GEOGRAPHIC CODE: 38097 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,050
+  under 18: 22.2%
+  age 65+: 18.8%
+  White alone: 94.6%
+  Black alone: 1.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $61,244
+  poverty rate: 6.9%
+  homeownership: 73.5%
+  estimated median home value: $127,165
+  estimated median gross rent: $575
+  unemployment: 2.9%
+  bachelor's degree or higher: 26.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

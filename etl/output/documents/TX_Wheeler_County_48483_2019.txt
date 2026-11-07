@@ -1,0 +1,18 @@
+GEOGRAPHY: Wheeler County, TX
+GEOGRAPHIC CODE: 48483 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,338
+  under 18: 25.6%
+  age 65+: 19.2%
+  White alone: 87.6%
+  Black alone: 3.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 26.0%
+  estimated median household income: $49,544
+  poverty rate: 18.3%
+  homeownership: 66.6%
+  estimated median home value: $83,977
+  estimated median gross rent: $705
+  unemployment: 4.6%
+  bachelor's degree or higher: 16.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

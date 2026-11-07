@@ -1,0 +1,18 @@
+GEOGRAPHY: Allegany County, NY
+GEOGRAPHIC CODE: 36003 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,400
+  under 18: 20.4%
+  age 65+: 17.4%
+  White alone: 95.5%
+  Black alone: 1.4%
+  Asian alone: 1.2%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $45,369
+  poverty rate: 16.5%
+  homeownership: 74.3%
+  estimated median home value: $73,262
+  estimated median gross rent: $633
+  unemployment: 7.3%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

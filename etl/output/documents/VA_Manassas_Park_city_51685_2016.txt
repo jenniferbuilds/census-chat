@@ -1,0 +1,17 @@
+GEOGRAPHY: Manassas Park city, VA
+GEOGRAPHIC CODE: 51685 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,827
+  under 18: 27.2%
+  age 65+: 6.7%
+  White alone: 66.6%
+  Black alone: 13.0%
+  Asian alone: 9.9%
+  Hispanic or Latino: 36.5%
+  estimated median household income: $75,037
+  homeownership: 65.8%
+  estimated median home value: $257,768
+  estimated median gross rent: $1,551
+  unemployment: 4.6%
+  bachelor's degree or higher: 30.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

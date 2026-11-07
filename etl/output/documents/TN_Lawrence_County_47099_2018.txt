@@ -1,0 +1,18 @@
+GEOGRAPHY: Lawrence County, TN
+GEOGRAPHIC CODE: 47099 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 42,937
+  under 18: 25.1%
+  age 65+: 17.6%
+  White alone: 95.5%
+  Black alone: 1.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $41,830
+  poverty rate: 19.0%
+  homeownership: 74.1%
+  estimated median home value: $103,245
+  estimated median gross rent: $634
+  unemployment: 8.7%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

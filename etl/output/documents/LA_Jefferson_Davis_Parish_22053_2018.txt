@@ -1,0 +1,18 @@
+GEOGRAPHY: Jefferson Davis Parish, LA
+GEOGRAPHIC CODE: 22053 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,467
+  under 18: 25.6%
+  age 65+: 15.7%
+  White alone: 79.9%
+  Black alone: 16.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $39,655
+  poverty rate: 19.4%
+  homeownership: 71.6%
+  estimated median home value: $111,630
+  estimated median gross rent: $614
+  unemployment: 9.0%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

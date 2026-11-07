@@ -1,0 +1,18 @@
+GEOGRAPHY: Gregg County, TX
+GEOGRAPHIC CODE: 48183 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 123,633
+  under 18: 25.8%
+  age 65+: 15.4%
+  White alone: 71.2%
+  Black alone: 19.6%
+  Asian alone: 1.2%
+  Hispanic or Latino: 18.9%
+  estimated median household income: $52,382
+  poverty rate: 17.6%
+  homeownership: 59.2%
+  estimated median home value: $144,324
+  estimated median gross rent: $872
+  unemployment: 4.1%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

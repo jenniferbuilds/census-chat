@@ -1,0 +1,18 @@
+GEOGRAPHY: Wrangell City and Borough, AK
+GEOGRAPHIC CODE: 02275 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,510
+  under 18: 20.9%
+  age 65+: 23.0%
+  White alone: 65.2%
+  Black alone: 0.3%
+  Asian alone: 1.7%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $59,157
+  poverty rate: 8.0%
+  homeownership: 71.3%
+  estimated median home value: $221,655
+  estimated median gross rent: $868
+  unemployment: 6.0%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

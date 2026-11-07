@@ -1,0 +1,18 @@
+GEOGRAPHY: Butler County, OH
+GEOGRAPHIC CODE: 39017 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 382,129
+  under 18: 23.5%
+  age 65+: 14.8%
+  White alone: 83.0%
+  Black alone: 7.7%
+  Asian alone: 3.4%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $69,481
+  poverty rate: 11.5%
+  homeownership: 69.1%
+  estimated median home value: $180,177
+  estimated median gross rent: $911
+  unemployment: 4.9%
+  bachelor's degree or higher: 31.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

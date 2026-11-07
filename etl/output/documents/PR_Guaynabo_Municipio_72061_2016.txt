@@ -1,0 +1,17 @@
+GEOGRAPHY: Guaynabo Municipio, PR
+GEOGRAPHIC CODE: 72061 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 92,444
+  under 18: 18.9%
+  age 65+: 18.9%
+  White alone: 77.6%
+  Black alone: 5.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 98.7%
+  estimated median household income: $34,027
+  homeownership: 73.4%
+  estimated median home value: $199,054
+  estimated median gross rent: $647
+  unemployment: 11.6%
+  bachelor's degree or higher: 45.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

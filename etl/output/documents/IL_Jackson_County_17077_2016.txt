@@ -1,0 +1,17 @@
+GEOGRAPHY: Jackson County, IL
+GEOGRAPHIC CODE: 17077 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 59,188
+  under 18: 18.1%
+  age 65+: 13.1%
+  White alone: 77.4%
+  Black alone: 14.4%
+  Asian alone: 3.6%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $33,898
+  homeownership: 51.9%
+  estimated median home value: $108,950
+  estimated median gross rent: $651
+  unemployment: 9.0%
+  bachelor's degree or higher: 35.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

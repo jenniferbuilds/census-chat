@@ -1,0 +1,18 @@
+GEOGRAPHY: Rooks County, KS
+GEOGRAPHIC CODE: 20163 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,118
+  under 18: 22.7%
+  age 65+: 21.5%
+  White alone: 96.3%
+  Black alone: 0.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $50,796
+  poverty rate: 8.0%
+  homeownership: 79.0%
+  estimated median home value: $78,023
+  estimated median gross rent: $545
+  unemployment: 4.0%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

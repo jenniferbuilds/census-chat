@@ -1,0 +1,17 @@
+GEOGRAPHY: Shelby County, AL
+GEOGRAPHIC CODE: 01117 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 205,951
+  under 18: 24.4%
+  age 65+: 13.0%
+  White alone: 81.2%
+  Black alone: 11.6%
+  Asian alone: 2.0%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $72,370
+  homeownership: 79.3%
+  estimated median home value: $195,373
+  estimated median gross rent: $954
+  unemployment: 4.6%
+  bachelor's degree or higher: 41.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

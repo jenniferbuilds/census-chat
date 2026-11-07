@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, AL
+GEOGRAPHIC CODE: 01071 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 52,094
+  under 18: 21.4%
+  age 65+: 19.1%
+  White alone: 91.0%
+  Black alone: 3.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $39,822
+  poverty rate: 20.2%
+  homeownership: 74.1%
+  estimated median home value: $105,334
+  estimated median gross rent: $619
+  unemployment: 5.9%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

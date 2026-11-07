@@ -1,0 +1,18 @@
+GEOGRAPHY: Wilbarger County, TX
+GEOGRAPHIC CODE: 48487 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,972
+  under 18: 22.9%
+  age 65+: 16.6%
+  White alone: 81.2%
+  Black alone: 8.4%
+  Asian alone: 0.9%
+  Hispanic or Latino: 28.6%
+  estimated median household income: $44,088
+  poverty rate: 16.5%
+  homeownership: 64.8%
+  estimated median home value: $69,925
+  estimated median gross rent: $638
+  unemployment: 5.8%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

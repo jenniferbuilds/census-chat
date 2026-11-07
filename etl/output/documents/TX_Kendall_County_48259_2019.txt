@@ -1,0 +1,18 @@
+GEOGRAPHY: Kendall County, TX
+GEOGRAPHIC CODE: 48259 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,769
+  under 18: 23.7%
+  age 65+: 18.9%
+  White alone: 89.9%
+  Black alone: 0.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 23.9%
+  estimated median household income: $87,737
+  poverty rate: 5.6%
+  homeownership: 74.1%
+  estimated median home value: $348,537
+  estimated median gross rent: $1,196
+  unemployment: 4.0%
+  bachelor's degree or higher: 42.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

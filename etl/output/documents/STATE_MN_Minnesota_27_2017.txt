@@ -1,0 +1,18 @@
+GEOGRAPHY: Minnesota (MN)
+GEOGRAPHIC CODE: 27 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,490,726
+  under 18: 23.4%
+  age 65+: 14.6%
+  White alone: 83.7%
+  Black alone: 6.0%
+  Asian alone: 4.7%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $66,078
+  poverty rate: 10.5%
+  homeownership: 71.6%
+  estimated median home value: $199,677
+  estimated median gross rent: $906
+  unemployment: 4.3%
+  bachelor's degree or higher: 34.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

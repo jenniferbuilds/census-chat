@@ -1,0 +1,17 @@
+GEOGRAPHY: Collingsworth County, TX
+GEOGRAPHIC CODE: 48087 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,032
+  under 18: 26.0%
+  age 65+: 17.6%
+  White alone: 80.6%
+  Black alone: 3.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 32.8%
+  estimated median household income: $40,324
+  homeownership: 76.4%
+  estimated median home value: $57,615
+  estimated median gross rent: $582
+  unemployment: 4.9%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

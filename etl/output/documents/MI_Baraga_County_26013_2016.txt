@@ -1,0 +1,17 @@
+GEOGRAPHY: Baraga County, MI
+GEOGRAPHIC CODE: 26013 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,612
+  under 18: 17.0%
+  age 65+: 18.7%
+  White alone: 73.6%
+  Black alone: 18.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $42,396
+  homeownership: 84.2%
+  estimated median home value: $90,879
+  estimated median gross rent: $536
+  unemployment: 6.8%
+  bachelor's degree or higher: 15.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

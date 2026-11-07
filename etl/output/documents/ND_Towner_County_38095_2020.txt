@@ -1,0 +1,18 @@
+GEOGRAPHY: Towner County, ND
+GEOGRAPHIC CODE: 38095 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,191
+  under 18: 21.0%
+  age 65+: 24.5%
+  White alone: 91.1%
+  Black alone: 0.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $49,615
+  poverty rate: 9.1%
+  homeownership: 72.7%
+  estimated median home value: $93,519
+  estimated median gross rent: $556
+  unemployment: 2.1%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

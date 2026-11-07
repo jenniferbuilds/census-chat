@@ -1,0 +1,18 @@
+GEOGRAPHY: Clay County, IN
+GEOGRAPHIC CODE: 18021 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,268
+  under 18: 23.1%
+  age 65+: 17.3%
+  White alone: 96.5%
+  Black alone: 0.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $53,461
+  poverty rate: 14.0%
+  homeownership: 76.9%
+  estimated median home value: $102,016
+  estimated median gross rent: $678
+  unemployment: 5.3%
+  bachelor's degree or higher: 16.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

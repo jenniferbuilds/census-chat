@@ -1,0 +1,17 @@
+GEOGRAPHY: Montgomery County, IL
+GEOGRAPHIC CODE: 17135 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,301
+  under 18: 20.1%
+  age 65+: 18.5%
+  White alone: 89.9%
+  Black alone: 8.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $45,228
+  homeownership: 77.4%
+  estimated median home value: $79,950
+  estimated median gross rent: $603
+  unemployment: 5.7%
+  bachelor's degree or higher: 13.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

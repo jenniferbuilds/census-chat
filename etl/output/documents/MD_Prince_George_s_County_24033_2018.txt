@@ -1,0 +1,18 @@
+GEOGRAPHY: Prince George's County, MD
+GEOGRAPHIC CODE: 24033 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 906,202
+  under 18: 22.5%
+  age 65+: 12.3%
+  White alone: 18.0%
+  Black alone: 63.0%
+  Asian alone: 4.2%
+  Hispanic or Latino: 17.9%
+  estimated median household income: $82,373
+  poverty rate: 8.9%
+  homeownership: 62.0%
+  estimated median home value: $287,753
+  estimated median gross rent: $1,434
+  unemployment: 6.7%
+  bachelor's degree or higher: 32.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

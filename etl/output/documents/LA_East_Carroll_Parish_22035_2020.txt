@@ -1,0 +1,18 @@
+GEOGRAPHY: East Carroll Parish, LA
+GEOGRAPHIC CODE: 22035 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,947
+  under 18: 24.7%
+  age 65+: 13.3%
+  White alone: 27.0%
+  Black alone: 71.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.7%
+  estimated median household income: $24,375
+  poverty rate: 50.7%
+  homeownership: 56.8%
+  estimated median home value: $62,826
+  estimated median gross rent: $596
+  unemployment: 6.4%
+  bachelor's degree or higher: 9.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

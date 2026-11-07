@@ -1,0 +1,17 @@
+GEOGRAPHY: Fairbanks North Star Borough, AK
+GEOGRAPHIC CODE: 02090 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 100,150
+  under 18: 24.5%
+  age 65+: 7.8%
+  White alone: 76.5%
+  Black alone: 4.2%
+  Asian alone: 3.0%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $73,368
+  homeownership: 59.5%
+  estimated median home value: $224,011
+  estimated median gross rent: $1,240
+  unemployment: 8.5%
+  bachelor's degree or higher: 33.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

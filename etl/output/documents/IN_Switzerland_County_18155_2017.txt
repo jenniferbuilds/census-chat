@@ -1,0 +1,18 @@
+GEOGRAPHY: Switzerland County, IN
+GEOGRAPHIC CODE: 18155 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,617
+  under 18: 25.2%
+  age 65+: 17.3%
+  White alone: 96.6%
+  Black alone: 0.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $43,792
+  poverty rate: 19.7%
+  homeownership: 70.6%
+  estimated median home value: $114,324
+  estimated median gross rent: $763
+  unemployment: 6.6%
+  bachelor's degree or higher: 8.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

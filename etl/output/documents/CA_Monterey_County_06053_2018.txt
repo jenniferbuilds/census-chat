@@ -1,0 +1,18 @@
+GEOGRAPHY: Monterey County, CA
+GEOGRAPHIC CODE: 06053 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 433,212
+  under 18: 26.3%
+  age 65+: 12.8%
+  White alone: 59.3%
+  Black alone: 2.6%
+  Asian alone: 5.6%
+  Hispanic or Latino: 58.3%
+  estimated median household income: $67,632
+  poverty rate: 14.1%
+  homeownership: 51.1%
+  estimated median home value: $477,215
+  estimated median gross rent: $1,401
+  unemployment: 5.4%
+  bachelor's degree or higher: 24.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

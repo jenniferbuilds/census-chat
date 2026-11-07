@@ -1,0 +1,18 @@
+GEOGRAPHY: Breathitt County, KY
+GEOGRAPHIC CODE: 21025 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,116
+  under 18: 20.6%
+  age 65+: 15.7%
+  White alone: 97.4%
+  Black alone: 1.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $26,536
+  poverty rate: 35.5%
+  homeownership: 71.8%
+  estimated median home value: $50,803
+  estimated median gross rent: $480
+  unemployment: 11.6%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

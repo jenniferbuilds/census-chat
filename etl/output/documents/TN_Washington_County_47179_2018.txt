@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, TN
+GEOGRAPHIC CODE: 47179 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 127,055
+  under 18: 19.4%
+  age 65+: 17.5%
+  White alone: 91.3%
+  Black alone: 4.2%
+  Asian alone: 1.6%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $46,721
+  poverty rate: 15.7%
+  homeownership: 64.7%
+  estimated median home value: $159,401
+  estimated median gross rent: $743
+  unemployment: 4.8%
+  bachelor's degree or higher: 32.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

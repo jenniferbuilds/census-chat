@@ -1,0 +1,18 @@
+GEOGRAPHY: Pitt County, NC
+GEOGRAPHIC CODE: 37147 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 179,961
+  under 18: 21.3%
+  age 65+: 13.2%
+  White alone: 56.2%
+  Black alone: 34.9%
+  Asian alone: 1.8%
+  Hispanic or Latino: 6.4%
+  estimated median household income: $49,339
+  poverty rate: 20.8%
+  homeownership: 52.6%
+  estimated median home value: $146,699
+  estimated median gross rent: $793
+  unemployment: 8.1%
+  bachelor's degree or higher: 32.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

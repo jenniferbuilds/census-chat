@@ -1,0 +1,18 @@
+GEOGRAPHY: Hutchinson County, TX
+GEOGRAPHIC CODE: 48233 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,704
+  under 18: 26.0%
+  age 65+: 15.3%
+  White alone: 88.1%
+  Black alone: 2.2%
+  Asian alone: 0.6%
+  Hispanic or Latino: 22.5%
+  estimated median household income: $50,036
+  poverty rate: 16.4%
+  homeownership: 79.5%
+  estimated median home value: $75,545
+  estimated median gross rent: $726
+  unemployment: 5.2%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

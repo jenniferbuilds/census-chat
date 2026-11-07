@@ -1,0 +1,18 @@
+GEOGRAPHY: Cocke County, TN
+GEOGRAPHIC CODE: 47029 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,262
+  under 18: 20.6%
+  age 65+: 20.0%
+  White alone: 94.9%
+  Black alone: 2.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $32,297
+  poverty rate: 25.0%
+  homeownership: 68.3%
+  estimated median home value: $107,185
+  estimated median gross rent: $547
+  unemployment: 9.6%
+  bachelor's degree or higher: 11.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

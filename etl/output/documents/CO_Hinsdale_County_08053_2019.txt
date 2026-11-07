@@ -1,0 +1,18 @@
+GEOGRAPHY: Hinsdale County, CO
+GEOGRAPHIC CODE: 08053 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 857
+  under 18: 16.1%
+  age 65+: 24.5%
+  White alone: 94.2%
+  Black alone: 0.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.7%
+  estimated median household income: $54,881
+  poverty rate: 9.8%
+  homeownership: 71.6%
+  estimated median home value: $350,000
+  estimated median gross rent: $756
+  unemployment: 4.7%
+  bachelor's degree or higher: 45.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

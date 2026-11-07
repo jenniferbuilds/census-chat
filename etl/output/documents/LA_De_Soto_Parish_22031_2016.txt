@@ -1,0 +1,17 @@
+GEOGRAPHY: De Soto Parish, LA
+GEOGRAPHIC CODE: 22031 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,047
+  under 18: 24.0%
+  age 65+: 16.0%
+  White alone: 59.1%
+  Black alone: 37.4%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $42,486
+  homeownership: 72.8%
+  estimated median home value: $103,618
+  estimated median gross rent: $581
+  unemployment: 9.8%
+  bachelor's degree or higher: 13.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

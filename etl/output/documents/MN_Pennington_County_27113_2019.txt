@@ -1,0 +1,18 @@
+GEOGRAPHY: Pennington County, MN
+GEOGRAPHIC CODE: 27113 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,183
+  under 18: 23.4%
+  age 65+: 17.9%
+  White alone: 94.0%
+  Black alone: 1.1%
+  Asian alone: 1.2%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $60,111
+  poverty rate: 11.0%
+  homeownership: 72.8%
+  estimated median home value: $155,097
+  estimated median gross rent: $693
+  unemployment: 2.8%
+  bachelor's degree or higher: 19.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

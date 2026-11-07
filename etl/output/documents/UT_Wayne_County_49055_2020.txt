@@ -1,0 +1,18 @@
+GEOGRAPHY: Wayne County, UT
+GEOGRAPHIC CODE: 49055 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,698
+  under 18: 26.1%
+  age 65+: 21.8%
+  White alone: 97.3%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 6.2%
+  estimated median household income: $49,042
+  poverty rate: 10.1%
+  homeownership: 73.4%
+  estimated median home value: $228,829
+  estimated median gross rent: $680
+  unemployment: 1.8%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

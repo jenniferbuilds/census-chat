@@ -1,0 +1,18 @@
+GEOGRAPHY: Borden County, TX
+GEOGRAPHIC CODE: 48033 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 613
+  under 18: 29.2%
+  age 65+: 27.2%
+  White alone: 97.6%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 13.7%
+  estimated median household income: $73,816
+  poverty rate: 2.6%
+  homeownership: 75.8%
+  estimated median home value: $153,333
+  estimated median gross rent: $486
+  unemployment: 2.5%
+  bachelor's degree or higher: 39.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

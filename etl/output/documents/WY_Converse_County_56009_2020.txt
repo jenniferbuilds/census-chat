@@ -1,0 +1,18 @@
+GEOGRAPHY: Converse County, WY
+GEOGRAPHIC CODE: 56009 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,842
+  under 18: 24.9%
+  age 65+: 16.8%
+  White alone: 95.7%
+  Black alone: 0.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 8.3%
+  estimated median household income: $74,354
+  poverty rate: 8.0%
+  homeownership: 76.5%
+  estimated median home value: $224,884
+  estimated median gross rent: $738
+  unemployment: 5.4%
+  bachelor's degree or higher: 19.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Whatcom County, WA
+GEOGRAPHIC CODE: 53073 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 216,812
+  under 18: 19.8%
+  age 65+: 16.4%
+  White alone: 83.9%
+  Black alone: 1.0%
+  Asian alone: 4.1%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $59,451
+  poverty rate: 15.0%
+  homeownership: 62.0%
+  estimated median home value: $318,397
+  estimated median gross rent: $1,015
+  unemployment: 6.3%
+  bachelor's degree or higher: 33.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

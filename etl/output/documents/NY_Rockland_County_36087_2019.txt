@@ -1,0 +1,18 @@
+GEOGRAPHY: Rockland County, NY
+GEOGRAPHIC CODE: 36087 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 324,422
+  under 18: 28.0%
+  age 65+: 15.5%
+  White alone: 70.7%
+  Black alone: 12.3%
+  Asian alone: 5.9%
+  Hispanic or Latino: 17.7%
+  estimated median household income: $93,488
+  poverty rate: 13.9%
+  homeownership: 68.3%
+  estimated median home value: $443,353
+  estimated median gross rent: $1,504
+  unemployment: 5.5%
+  bachelor's degree or higher: 41.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Santa Cruz County, AZ
+GEOGRAPHIC CODE: 04023 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,480
+  under 18: 27.3%
+  age 65+: 17.3%
+  White alone: 85.7%
+  Black alone: 0.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 83.5%
+  estimated median household income: $41,352
+  poverty rate: 23.3%
+  homeownership: 67.7%
+  estimated median home value: $151,247
+  estimated median gross rent: $675
+  unemployment: 7.7%
+  bachelor's degree or higher: 20.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Woodward County, OK
+GEOGRAPHIC CODE: 40153 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,967
+  under 18: 25.5%
+  age 65+: 14.5%
+  White alone: 89.0%
+  Black alone: 1.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 12.5%
+  estimated median household income: $58,240
+  poverty rate: 11.6%
+  homeownership: 71.2%
+  estimated median home value: $119,517
+  estimated median gross rent: $791
+  unemployment: 5.2%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

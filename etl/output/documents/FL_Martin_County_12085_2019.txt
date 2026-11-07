@@ -1,0 +1,18 @@
+GEOGRAPHY: Martin County, FL
+GEOGRAPHIC CODE: 12085 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 159,065
+  under 18: 16.5%
+  age 65+: 30.6%
+  White alone: 88.1%
+  Black alone: 5.7%
+  Asian alone: 1.4%
+  Hispanic or Latino: 13.6%
+  estimated median household income: $61,195
+  poverty rate: 9.9%
+  homeownership: 78.0%
+  estimated median home value: $273,710
+  estimated median gross rent: $1,111
+  unemployment: 4.5%
+  bachelor's degree or higher: 34.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

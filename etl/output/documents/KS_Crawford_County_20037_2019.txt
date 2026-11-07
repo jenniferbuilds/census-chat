@@ -1,0 +1,18 @@
+GEOGRAPHY: Crawford County, KS
+GEOGRAPHIC CODE: 20037 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,968
+  under 18: 21.9%
+  age 65+: 15.2%
+  White alone: 91.2%
+  Black alone: 2.3%
+  Asian alone: 1.9%
+  Hispanic or Latino: 5.7%
+  estimated median household income: $40,917
+  poverty rate: 20.3%
+  homeownership: 59.4%
+  estimated median home value: $93,922
+  estimated median gross rent: $717
+  unemployment: 5.1%
+  bachelor's degree or higher: 29.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

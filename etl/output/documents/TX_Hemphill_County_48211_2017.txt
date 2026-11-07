@@ -1,0 +1,18 @@
+GEOGRAPHY: Hemphill County, TX
+GEOGRAPHIC CODE: 48211 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,152
+  under 18: 31.9%
+  age 65+: 12.4%
+  White alone: 92.5%
+  Black alone: 0.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 35.2%
+  estimated median household income: $68,447
+  poverty rate: 8.8%
+  homeownership: 68.4%
+  estimated median home value: $130,720
+  estimated median gross rent: $814
+  unemployment: 6.9%
+  bachelor's degree or higher: 22.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

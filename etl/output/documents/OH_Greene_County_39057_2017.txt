@@ -1,0 +1,18 @@
+GEOGRAPHY: Greene County, OH
+GEOGRAPHIC CODE: 39057 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 164,825
+  under 18: 20.7%
+  age 65+: 15.9%
+  White alone: 86.2%
+  Black alone: 6.9%
+  Asian alone: 3.0%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $64,843
+  poverty rate: 12.3%
+  homeownership: 66.9%
+  estimated median home value: $163,471
+  estimated median gross rent: $866
+  unemployment: 5.7%
+  bachelor's degree or higher: 38.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

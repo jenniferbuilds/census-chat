@@ -1,0 +1,17 @@
+GEOGRAPHY: Los Alamos County, NM
+GEOGRAPHIC CODE: 35028 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,895
+  under 18: 23.4%
+  age 65+: 17.1%
+  White alone: 86.5%
+  Black alone: 0.5%
+  Asian alone: 5.9%
+  Hispanic or Latino: 16.8%
+  estimated median household income: $105,097
+  homeownership: 72.6%
+  estimated median home value: $274,195
+  estimated median gross rent: $951
+  unemployment: 2.6%
+  bachelor's degree or higher: 64.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

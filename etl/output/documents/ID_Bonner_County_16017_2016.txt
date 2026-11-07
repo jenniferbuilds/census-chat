@@ -1,0 +1,17 @@
+GEOGRAPHY: Bonner County, ID
+GEOGRAPHIC CODE: 16017 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,389
+  under 18: 20.4%
+  age 65+: 21.4%
+  White alone: 95.4%
+  Black alone: 0.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $43,702
+  homeownership: 73.0%
+  estimated median home value: $212,084
+  estimated median gross rent: $734
+  unemployment: 5.7%
+  bachelor's degree or higher: 22.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

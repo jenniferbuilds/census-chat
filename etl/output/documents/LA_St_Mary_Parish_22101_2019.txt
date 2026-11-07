@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Mary Parish, LA
+GEOGRAPHIC CODE: 22101 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 50,968
+  under 18: 24.2%
+  age 65+: 16.1%
+  White alone: 58.9%
+  Black alone: 30.5%
+  Asian alone: 1.4%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $40,545
+  poverty rate: 19.7%
+  homeownership: 60.7%
+  estimated median home value: $106,882
+  estimated median gross rent: $781
+  unemployment: 8.7%
+  bachelor's degree or higher: 10.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

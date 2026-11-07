@@ -1,0 +1,18 @@
+GEOGRAPHY: Saunders County, NE
+GEOGRAPHIC CODE: 31155 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,356
+  under 18: 24.2%
+  age 65+: 18.5%
+  White alone: 96.8%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $71,300
+  poverty rate: 6.2%
+  homeownership: 80.0%
+  estimated median home value: $171,561
+  estimated median gross rent: $762
+  unemployment: 2.0%
+  bachelor's degree or higher: 27.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

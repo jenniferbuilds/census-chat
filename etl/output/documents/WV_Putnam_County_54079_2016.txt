@@ -1,0 +1,17 @@
+GEOGRAPHY: Putnam County, WV
+GEOGRAPHIC CODE: 54079 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 56,743
+  under 18: 23.0%
+  age 65+: 16.6%
+  White alone: 96.5%
+  Black alone: 1.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $56,537
+  homeownership: 82.0%
+  estimated median home value: $151,818
+  estimated median gross rent: $765
+  unemployment: 3.1%
+  bachelor's degree or higher: 25.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Fayette County, TN
+GEOGRAPHIC CODE: 47047 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,071
+  under 18: 20.9%
+  age 65+: 18.6%
+  White alone: 69.5%
+  Black alone: 27.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $55,974
+  homeownership: 79.3%
+  estimated median home value: $182,978
+  estimated median gross rent: $643
+  unemployment: 8.4%
+  bachelor's degree or higher: 22.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

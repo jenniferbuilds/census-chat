@@ -1,0 +1,18 @@
+GEOGRAPHY: Sandusky County, OH
+GEOGRAPHIC CODE: 39143 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 59,559
+  under 18: 23.1%
+  age 65+: 17.4%
+  White alone: 89.9%
+  Black alone: 2.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 9.7%
+  estimated median household income: $50,420
+  poverty rate: 13.6%
+  homeownership: 71.4%
+  estimated median home value: $111,928
+  estimated median gross rent: $666
+  unemployment: 5.4%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

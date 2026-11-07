@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, NC
+GEOGRAPHIC CODE: 37187 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,922
+  under 18: 20.3%
+  age 65+: 23.6%
+  White alone: 45.7%
+  Black alone: 47.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $36,135
+  poverty rate: 22.3%
+  homeownership: 66.5%
+  estimated median home value: $85,392
+  estimated median gross rent: $607
+  unemployment: 7.5%
+  bachelor's degree or higher: 11.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

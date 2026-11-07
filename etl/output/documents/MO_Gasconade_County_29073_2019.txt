@@ -1,0 +1,18 @@
+GEOGRAPHY: Gasconade County, MO
+GEOGRAPHIC CODE: 29073 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,711
+  under 18: 20.7%
+  age 65+: 22.3%
+  White alone: 97.2%
+  Black alone: 0.5%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $54,737
+  poverty rate: 9.0%
+  homeownership: 78.4%
+  estimated median home value: $134,219
+  estimated median gross rent: $611
+  unemployment: 2.7%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

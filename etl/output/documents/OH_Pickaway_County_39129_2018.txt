@@ -1,0 +1,18 @@
+GEOGRAPHY: Pickaway County, OH
+GEOGRAPHIC CODE: 39129 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 57,420
+  under 18: 21.8%
+  age 65+: 15.1%
+  White alone: 93.4%
+  Black alone: 3.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $61,931
+  poverty rate: 11.7%
+  homeownership: 75.2%
+  estimated median home value: $157,759
+  estimated median gross rent: $792
+  unemployment: 4.1%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

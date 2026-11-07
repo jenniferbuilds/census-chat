@@ -1,0 +1,17 @@
+GEOGRAPHY: King County, WA
+GEOGRAPHIC CODE: 53033 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,079,550
+  under 18: 20.9%
+  age 65+: 12.2%
+  White alone: 67.2%
+  Black alone: 6.2%
+  Asian alone: 16.0%
+  Hispanic or Latino: 9.3%
+  estimated median household income: $78,981
+  homeownership: 57.3%
+  estimated median home value: $407,432
+  estimated median gross rent: $1,273
+  unemployment: 5.5%
+  bachelor's degree or higher: 49.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

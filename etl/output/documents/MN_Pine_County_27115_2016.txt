@@ -1,0 +1,17 @@
+GEOGRAPHY: Pine County, MN
+GEOGRAPHIC CODE: 27115 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,067
+  under 18: 20.7%
+  age 65+: 18.3%
+  White alone: 91.5%
+  Black alone: 2.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $45,380
+  homeownership: 77.8%
+  estimated median home value: $144,765
+  estimated median gross rent: $703
+  unemployment: 6.6%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

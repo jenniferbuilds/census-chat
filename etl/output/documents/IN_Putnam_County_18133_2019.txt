@@ -1,0 +1,18 @@
+GEOGRAPHY: Putnam County, IN
+GEOGRAPHIC CODE: 18133 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,384
+  under 18: 19.5%
+  age 65+: 16.4%
+  White alone: 93.2%
+  Black alone: 2.6%
+  Asian alone: 2.5%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $61,428
+  poverty rate: 11.3%
+  homeownership: 71.6%
+  estimated median home value: $128,828
+  estimated median gross rent: $787
+  unemployment: 3.1%
+  bachelor's degree or higher: 16.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

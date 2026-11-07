@@ -1,0 +1,18 @@
+GEOGRAPHY: Beltrami County, MN
+GEOGRAPHIC CODE: 27007 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,117
+  under 18: 25.2%
+  age 65+: 15.2%
+  White alone: 73.1%
+  Black alone: 1.1%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $47,531
+  poverty rate: 18.5%
+  homeownership: 67.2%
+  estimated median home value: $156,995
+  estimated median gross rent: $737
+  unemployment: 7.7%
+  bachelor's degree or higher: 28.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

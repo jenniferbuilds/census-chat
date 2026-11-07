@@ -1,0 +1,18 @@
+GEOGRAPHY: Trempealeau County, WI
+GEOGRAPHIC CODE: 55121 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,510
+  under 18: 24.6%
+  age 65+: 17.0%
+  White alone: 92.6%
+  Black alone: 0.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 7.6%
+  estimated median household income: $54,399
+  poverty rate: 9.0%
+  homeownership: 72.1%
+  estimated median home value: $146,986
+  estimated median gross rent: $682
+  unemployment: 3.3%
+  bachelor's degree or higher: 19.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

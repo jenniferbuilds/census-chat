@@ -1,0 +1,18 @@
+GEOGRAPHY: Dickinson County, KS
+GEOGRAPHIC CODE: 20041 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,614
+  under 18: 23.3%
+  age 65+: 19.8%
+  White alone: 94.4%
+  Black alone: 1.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $53,718
+  poverty rate: 10.0%
+  homeownership: 73.3%
+  estimated median home value: $116,416
+  estimated median gross rent: $677
+  unemployment: 2.9%
+  bachelor's degree or higher: 24.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Mineral County, WV
+GEOGRAPHIC CODE: 54057 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,278
+  under 18: 20.4%
+  age 65+: 20.6%
+  White alone: 94.9%
+  Black alone: 3.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $46,579
+  poverty rate: 14.5%
+  homeownership: 72.0%
+  estimated median home value: $135,144
+  estimated median gross rent: $623
+  unemployment: 6.4%
+  bachelor's degree or higher: 14.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Washoe County, NV
+GEOGRAPHIC CODE: 32031 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 456,936
+  under 18: 21.8%
+  age 65+: 16.0%
+  White alone: 77.6%
+  Black alone: 2.3%
+  Asian alone: 5.3%
+  Hispanic or Latino: 24.4%
+  estimated median household income: $65,503
+  poverty rate: 11.3%
+  homeownership: 58.3%
+  estimated median home value: $334,056
+  estimated median gross rent: $1,074
+  unemployment: 5.3%
+  bachelor's degree or higher: 30.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

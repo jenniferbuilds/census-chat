@@ -1,0 +1,18 @@
+GEOGRAPHY: Allegan County, MI
+GEOGRAPHIC CODE: 26005 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 114,145
+  under 18: 24.8%
+  age 65+: 15.2%
+  White alone: 94.4%
+  Black alone: 1.4%
+  Asian alone: 0.6%
+  Hispanic or Latino: 7.2%
+  estimated median household income: $58,562
+  poverty rate: 10.8%
+  homeownership: 81.9%
+  estimated median home value: $150,629
+  estimated median gross rent: $775
+  unemployment: 3.6%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

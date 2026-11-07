@@ -1,0 +1,18 @@
+GEOGRAPHY: Dillingham Census Area, AK
+GEOGRAPHIC CODE: 02070 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,934
+  under 18: 31.3%
+  age 65+: 11.3%
+  White alone: 16.5%
+  Black alone: 1.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $57,500
+  poverty rate: 17.6%
+  homeownership: 60.4%
+  estimated median home value: $155,952
+  estimated median gross rent: $997
+  unemployment: 11.6%
+  bachelor's degree or higher: 19.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

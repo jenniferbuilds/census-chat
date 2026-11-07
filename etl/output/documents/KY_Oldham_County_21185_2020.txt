@@ -1,0 +1,18 @@
+GEOGRAPHY: Oldham County, KY
+GEOGRAPHIC CODE: 21185 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 66,508
+  under 18: 25.4%
+  age 65+: 13.1%
+  White alone: 90.5%
+  Black alone: 3.9%
+  Asian alone: 1.7%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $103,392
+  poverty rate: 4.8%
+  homeownership: 86.4%
+  estimated median home value: $299,322
+  estimated median gross rent: $964
+  unemployment: 3.6%
+  bachelor's degree or higher: 43.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

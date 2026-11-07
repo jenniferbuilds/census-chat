@@ -1,0 +1,18 @@
+GEOGRAPHY: Ida County, IA
+GEOGRAPHIC CODE: 19093 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,901
+  under 18: 23.5%
+  age 65+: 21.9%
+  White alone: 97.3%
+  Black alone: 0.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $57,304
+  poverty rate: 9.6%
+  homeownership: 75.6%
+  estimated median home value: $100,864
+  estimated median gross rent: $532
+  unemployment: 2.6%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

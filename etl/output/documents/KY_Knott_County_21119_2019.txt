@@ -1,0 +1,18 @@
+GEOGRAPHY: Knott County, KY
+GEOGRAPHIC CODE: 21119 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,260
+  under 18: 20.1%
+  age 65+: 17.6%
+  White alone: 97.3%
+  Black alone: 0.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $31,241
+  poverty rate: 31.2%
+  homeownership: 74.8%
+  estimated median home value: $51,452
+  estimated median gross rent: $504
+  unemployment: 11.2%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Buffalo County, NE
+GEOGRAPHIC CODE: 31019 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,594
+  under 18: 23.4%
+  age 65+: 14.6%
+  White alone: 90.8%
+  Black alone: 0.9%
+  Asian alone: 1.5%
+  Hispanic or Latino: 9.3%
+  estimated median household income: $63,375
+  poverty rate: 11.9%
+  homeownership: 66.2%
+  estimated median home value: $185,317
+  estimated median gross rent: $797
+  unemployment: 2.8%
+  bachelor's degree or higher: 33.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

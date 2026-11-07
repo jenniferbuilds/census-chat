@@ -1,0 +1,18 @@
+GEOGRAPHY: Duval County, FL
+GEOGRAPHIC CODE: 12031 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 936,186
+  under 18: 22.7%
+  age 65+: 13.7%
+  White alone: 59.8%
+  Black alone: 29.6%
+  Asian alone: 4.6%
+  Hispanic or Latino: 9.7%
+  estimated median household income: $56,491
+  poverty rate: 14.5%
+  homeownership: 56.7%
+  estimated median home value: $180,716
+  estimated median gross rent: $1,074
+  unemployment: 5.8%
+  bachelor's degree or higher: 30.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

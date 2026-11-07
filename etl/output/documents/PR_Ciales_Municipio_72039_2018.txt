@@ -1,0 +1,18 @@
+GEOGRAPHY: Ciales Municipio, PR
+GEOGRAPHIC CODE: 72039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,912
+  under 18: 21.0%
+  age 65+: 18.4%
+  White alone: 96.4%
+  Black alone: 1.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.1%
+  estimated median household income: $15,073
+  poverty rate: 55.9%
+  homeownership: 67.5%
+  estimated median home value: $89,734
+  estimated median gross rent: $385
+  unemployment: 20.0%
+  bachelor's degree or higher: 15.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

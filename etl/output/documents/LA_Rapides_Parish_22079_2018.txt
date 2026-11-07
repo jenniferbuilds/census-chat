@@ -1,0 +1,18 @@
+GEOGRAPHY: Rapides Parish, LA
+GEOGRAPHIC CODE: 22079 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 131,546
+  under 18: 25.0%
+  age 65+: 15.6%
+  White alone: 63.7%
+  Black alone: 31.8%
+  Asian alone: 1.4%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $44,869
+  poverty rate: 19.4%
+  homeownership: 61.0%
+  estimated median home value: $138,560
+  estimated median gross rent: $807
+  unemployment: 7.2%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Roanoke city, VA
+GEOGRAPHIC CODE: 51770 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 99,329
+  under 18: 22.0%
+  age 65+: 14.9%
+  White alone: 63.8%
+  Black alone: 28.3%
+  Asian alone: 2.7%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $39,210
+  homeownership: 52.1%
+  estimated median home value: $133,022
+  estimated median gross rent: $748
+  unemployment: 7.4%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

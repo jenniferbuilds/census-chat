@@ -1,0 +1,18 @@
+GEOGRAPHY: Douglas County, NE
+GEOGRAPHIC CODE: 31055 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 549,706
+  under 18: 25.8%
+  age 65+: 11.9%
+  White alone: 79.8%
+  Black alone: 11.1%
+  Asian alone: 3.4%
+  Hispanic or Latino: 12.2%
+  estimated median household income: $58,915
+  poverty rate: 13.5%
+  homeownership: 61.1%
+  estimated median home value: $155,124
+  estimated median gross rent: $871
+  unemployment: 4.4%
+  bachelor's degree or higher: 37.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

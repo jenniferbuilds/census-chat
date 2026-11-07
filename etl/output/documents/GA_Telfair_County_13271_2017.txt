@@ -1,0 +1,18 @@
+GEOGRAPHY: Telfair County, GA
+GEOGRAPHIC CODE: 13271 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,339
+  under 18: 17.5%
+  age 65+: 16.1%
+  White alone: 54.6%
+  Black alone: 42.9%
+  Asian alone: 0.0%
+  Hispanic or Latino: 11.6%
+  estimated median household income: $28,260
+  poverty rate: 27.7%
+  homeownership: 61.8%
+  estimated median home value: $55,604
+  estimated median gross rent: $540
+  unemployment: 4.1%
+  bachelor's degree or higher: 8.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

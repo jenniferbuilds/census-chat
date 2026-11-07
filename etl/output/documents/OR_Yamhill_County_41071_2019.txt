@@ -1,0 +1,18 @@
+GEOGRAPHY: Yamhill County, OR
+GEOGRAPHIC CODE: 41071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 104,831
+  under 18: 22.5%
+  age 65+: 16.8%
+  White alone: 87.5%
+  Black alone: 0.8%
+  Asian alone: 1.5%
+  Hispanic or Latino: 15.9%
+  estimated median household income: $64,385
+  poverty rate: 12.1%
+  homeownership: 70.0%
+  estimated median home value: $295,898
+  estimated median gross rent: $1,052
+  unemployment: 4.1%
+  bachelor's degree or higher: 26.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Bureau County, IL
+GEOGRAPHIC CODE: 17011 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,822
+  under 18: 22.0%
+  age 65+: 20.0%
+  White alone: 95.0%
+  Black alone: 0.7%
+  Asian alone: 0.8%
+  Hispanic or Latino: 8.5%
+  estimated median household income: $51,736
+  homeownership: 75.6%
+  estimated median home value: $105,263
+  estimated median gross rent: $641
+  unemployment: 6.9%
+  bachelor's degree or higher: 18.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

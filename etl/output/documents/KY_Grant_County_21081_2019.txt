@@ -1,0 +1,18 @@
+GEOGRAPHY: Grant County, KY
+GEOGRAPHIC CODE: 21081 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,951
+  under 18: 26.7%
+  age 65+: 13.6%
+  White alone: 95.5%
+  Black alone: 0.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $49,213
+  poverty rate: 16.4%
+  homeownership: 68.5%
+  estimated median home value: $130,186
+  estimated median gross rent: $727
+  unemployment: 3.6%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

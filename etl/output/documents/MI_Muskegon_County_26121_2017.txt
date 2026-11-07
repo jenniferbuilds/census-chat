@@ -1,0 +1,18 @@
+GEOGRAPHY: Muskegon County, MI
+GEOGRAPHIC CODE: 26121 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 172,707
+  under 18: 23.6%
+  age 65+: 15.5%
+  White alone: 80.7%
+  Black alone: 13.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $46,211
+  poverty rate: 18.5%
+  homeownership: 74.3%
+  estimated median home value: $105,316
+  estimated median gross rent: $717
+  unemployment: 8.9%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

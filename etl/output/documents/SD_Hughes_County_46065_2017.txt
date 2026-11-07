@@ -1,0 +1,18 @@
+GEOGRAPHY: Hughes County, SD
+GEOGRAPHIC CODE: 46065 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,572
+  under 18: 23.9%
+  age 65+: 15.6%
+  White alone: 83.9%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $59,720
+  poverty rate: 11.3%
+  homeownership: 64.7%
+  estimated median home value: $173,408
+  estimated median gross rent: $621
+  unemployment: 2.1%
+  bachelor's degree or higher: 34.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Grant County, WA
+GEOGRAPHIC CODE: 53025 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 95,502
+  under 18: 29.6%
+  age 65+: 13.5%
+  White alone: 68.9%
+  Black alone: 0.8%
+  Asian alone: 1.0%
+  Hispanic or Latino: 41.6%
+  estimated median household income: $56,390
+  poverty rate: 14.8%
+  homeownership: 62.5%
+  estimated median home value: $177,523
+  estimated median gross rent: $785
+  unemployment: 6.2%
+  bachelor's degree or higher: 17.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Rankin County, MS
+GEOGRAPHIC CODE: 28121 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 154,119
+  under 18: 23.1%
+  age 65+: 15.2%
+  White alone: 74.7%
+  Black alone: 21.4%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $69,538
+  poverty rate: 9.0%
+  homeownership: 77.7%
+  estimated median home value: $165,206
+  estimated median gross rent: $1,044
+  unemployment: 4.7%
+  bachelor's degree or higher: 30.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

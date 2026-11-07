@@ -1,0 +1,18 @@
+GEOGRAPHY: Clark County, WI
+GEOGRAPHIC CODE: 55019 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,579
+  under 18: 29.5%
+  age 65+: 16.4%
+  White alone: 96.5%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $54,518
+  poverty rate: 12.1%
+  homeownership: 78.4%
+  estimated median home value: $127,172
+  estimated median gross rent: $623
+  unemployment: 2.7%
+  bachelor's degree or higher: 12.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

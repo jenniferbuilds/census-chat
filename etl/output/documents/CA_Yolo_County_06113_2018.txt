@@ -1,0 +1,18 @@
+GEOGRAPHY: Yolo County, CA
+GEOGRAPHIC CODE: 06113 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 214,977
+  under 18: 21.4%
+  age 65+: 11.8%
+  White alone: 67.8%
+  Black alone: 2.7%
+  Asian alone: 13.8%
+  Hispanic or Latino: 31.5%
+  estimated median household income: $65,627
+  poverty rate: 19.6%
+  homeownership: 51.7%
+  estimated median home value: $395,533
+  estimated median gross rent: $1,266
+  unemployment: 6.5%
+  bachelor's degree or higher: 41.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Anne Arundel County, MD
+GEOGRAPHIC CODE: 24003 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 571,275
+  under 18: 22.4%
+  age 65+: 14.4%
+  White alone: 72.7%
+  Black alone: 16.8%
+  Asian alone: 3.8%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $100,902
+  poverty rate: 5.8%
+  homeownership: 74.2%
+  estimated median home value: $361,227
+  estimated median gross rent: $1,663
+  unemployment: 4.2%
+  bachelor's degree or higher: 41.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

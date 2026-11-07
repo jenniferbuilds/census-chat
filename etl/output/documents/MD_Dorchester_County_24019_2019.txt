@@ -1,0 +1,18 @@
+GEOGRAPHY: Dorchester County, MD
+GEOGRAPHIC CODE: 24019 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,138
+  under 18: 21.2%
+  age 65+: 21.0%
+  White alone: 65.5%
+  Black alone: 26.6%
+  Asian alone: 1.1%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $52,339
+  poverty rate: 15.8%
+  homeownership: 68.0%
+  estimated median home value: $183,311
+  estimated median gross rent: $879
+  unemployment: 8.0%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

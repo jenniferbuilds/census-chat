@@ -1,0 +1,18 @@
+GEOGRAPHY: Lenawee County, MI
+GEOGRAPHIC CODE: 26091 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 98,585
+  under 18: 21.6%
+  age 65+: 17.3%
+  White alone: 92.7%
+  Black alone: 2.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $51,532
+  poverty rate: 13.7%
+  homeownership: 77.7%
+  estimated median home value: $124,930
+  estimated median gross rent: $756
+  unemployment: 5.9%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Todd County, KY
+GEOGRAPHIC CODE: 21219 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,377
+  under 18: 27.0%
+  age 65+: 15.6%
+  White alone: 86.8%
+  Black alone: 7.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $38,341
+  poverty rate: 20.1%
+  homeownership: 71.2%
+  estimated median home value: $94,759
+  estimated median gross rent: $612
+  unemployment: 6.9%
+  bachelor's degree or higher: 12.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

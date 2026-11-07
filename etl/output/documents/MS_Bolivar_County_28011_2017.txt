@@ -1,0 +1,18 @@
+GEOGRAPHY: Bolivar County, MS
+GEOGRAPHIC CODE: 28011 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,121
+  under 18: 25.0%
+  age 65+: 14.2%
+  White alone: 32.8%
+  Black alone: 64.2%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $28,833
+  poverty rate: 37.4%
+  homeownership: 55.4%
+  estimated median home value: $89,119
+  estimated median gross rent: $604
+  unemployment: 12.6%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

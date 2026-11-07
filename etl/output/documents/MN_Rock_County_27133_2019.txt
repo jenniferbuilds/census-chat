@@ -1,0 +1,18 @@
+GEOGRAPHY: Rock County, MN
+GEOGRAPHIC CODE: 27133 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,402
+  under 18: 25.5%
+  age 65+: 19.8%
+  White alone: 96.4%
+  Black alone: 0.9%
+  Asian alone: 1.1%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $62,579
+  poverty rate: 9.0%
+  homeownership: 75.5%
+  estimated median home value: $152,993
+  estimated median gross rent: $678
+  unemployment: 1.7%
+  bachelor's degree or higher: 23.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

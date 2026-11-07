@@ -1,0 +1,18 @@
+GEOGRAPHY: San Francisco County, CA
+GEOGRAPHIC CODE: 06075 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 874,961
+  under 18: 13.4%
+  age 65+: 15.4%
+  White alone: 46.4%
+  Black alone: 5.2%
+  Asian alone: 34.4%
+  Hispanic or Latino: 15.2%
+  estimated median household income: $113,432
+  poverty rate: 10.3%
+  homeownership: 37.6%
+  estimated median home value: $1,140,272
+  estimated median gross rent: $1,895
+  unemployment: 4.2%
+  bachelor's degree or higher: 58.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

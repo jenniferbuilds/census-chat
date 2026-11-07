@@ -1,0 +1,18 @@
+GEOGRAPHY: Wabash County, IL
+GEOGRAPHIC CODE: 17185 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,546
+  under 18: 22.2%
+  age 65+: 20.2%
+  White alone: 95.8%
+  Black alone: 0.7%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $50,968
+  poverty rate: 12.0%
+  homeownership: 78.0%
+  estimated median home value: $82,776
+  estimated median gross rent: $633
+  unemployment: 3.4%
+  bachelor's degree or higher: 18.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

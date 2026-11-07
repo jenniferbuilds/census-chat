@@ -1,0 +1,18 @@
+GEOGRAPHY: Lee County, IL
+GEOGRAPHIC CODE: 17103 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,204
+  under 18: 19.7%
+  age 65+: 19.5%
+  White alone: 89.8%
+  Black alone: 5.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 6.4%
+  estimated median household income: $59,989
+  poverty rate: 12.0%
+  homeownership: 69.6%
+  estimated median home value: $122,598
+  estimated median gross rent: $671
+  unemployment: 3.3%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

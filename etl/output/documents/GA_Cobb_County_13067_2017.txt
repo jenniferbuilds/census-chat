@@ -1,0 +1,18 @@
+GEOGRAPHY: Cobb County, GA
+GEOGRAPHIC CODE: 13067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 739,072
+  under 18: 24.4%
+  age 65+: 11.0%
+  White alone: 59.9%
+  Black alone: 27.1%
+  Asian alone: 5.1%
+  Hispanic or Latino: 12.8%
+  estimated median household income: $71,644
+  poverty rate: 10.9%
+  homeownership: 64.3%
+  estimated median home value: $219,701
+  estimated median gross rent: $1,102
+  unemployment: 6.0%
+  bachelor's degree or higher: 45.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

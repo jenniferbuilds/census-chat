@@ -1,0 +1,18 @@
+GEOGRAPHY: Lexington city, VA
+GEOGRAPHIC CODE: 51678 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,110
+  under 18: 8.8%
+  age 65+: 15.7%
+  White alone: 86.7%
+  Black alone: 6.4%
+  Asian alone: 3.7%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $36,518
+  poverty rate: 21.6%
+  homeownership: 52.9%
+  estimated median home value: $203,571
+  estimated median gross rent: $809
+  unemployment: 4.2%
+  bachelor's degree or higher: 39.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

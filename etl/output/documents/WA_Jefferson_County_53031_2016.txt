@@ -1,0 +1,17 @@
+GEOGRAPHY: Jefferson County, WA
+GEOGRAPHIC CODE: 53031 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,333
+  under 18: 13.7%
+  age 65+: 31.6%
+  White alone: 91.0%
+  Black alone: 0.9%
+  Asian alone: 1.6%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $51,379
+  homeownership: 73.9%
+  estimated median home value: $291,190
+  estimated median gross rent: $862
+  unemployment: 7.2%
+  bachelor's degree or higher: 38.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

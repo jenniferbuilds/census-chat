@@ -1,0 +1,18 @@
+GEOGRAPHY: Massac County, IL
+GEOGRAPHIC CODE: 17127 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,219
+  under 18: 22.5%
+  age 65+: 20.8%
+  White alone: 91.1%
+  Black alone: 5.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $47,426
+  poverty rate: 16.7%
+  homeownership: 75.5%
+  estimated median home value: $83,576
+  estimated median gross rent: $692
+  unemployment: 4.4%
+  bachelor's degree or higher: 13.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

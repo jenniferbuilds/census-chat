@@ -1,0 +1,18 @@
+GEOGRAPHY: Cheboygan County, MI
+GEOGRAPHIC CODE: 26031 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,418
+  under 18: 16.7%
+  age 65+: 26.8%
+  White alone: 93.2%
+  Black alone: 0.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $47,850
+  poverty rate: 14.9%
+  homeownership: 82.4%
+  estimated median home value: $130,859
+  estimated median gross rent: $699
+  unemployment: 7.5%
+  bachelor's degree or higher: 20.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

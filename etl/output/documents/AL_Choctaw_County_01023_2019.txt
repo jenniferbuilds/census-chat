@@ -1,0 +1,18 @@
+GEOGRAPHY: Choctaw County, AL
+GEOGRAPHIC CODE: 01023 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,925
+  under 18: 20.1%
+  age 65+: 22.6%
+  White alone: 56.8%
+  Black alone: 42.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $35,885
+  poverty rate: 23.3%
+  homeownership: 80.9%
+  estimated median home value: $74,062
+  estimated median gross rent: $525
+  unemployment: 7.9%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

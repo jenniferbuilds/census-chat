@@ -1,0 +1,18 @@
+GEOGRAPHY: Vermillion County, IN
+GEOGRAPHIC CODE: 18165 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,644
+  under 18: 22.3%
+  age 65+: 18.8%
+  White alone: 97.9%
+  Black alone: 0.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $45,503
+  poverty rate: 13.4%
+  homeownership: 75.0%
+  estimated median home value: $74,635
+  estimated median gross rent: $581
+  unemployment: 5.1%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

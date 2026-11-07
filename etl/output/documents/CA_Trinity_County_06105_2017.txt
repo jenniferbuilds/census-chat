@@ -1,0 +1,18 @@
+GEOGRAPHY: Trinity County, CA
+GEOGRAPHIC CODE: 06105 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,037
+  under 18: 16.6%
+  age 65+: 25.5%
+  White alone: 86.6%
+  Black alone: 0.8%
+  Asian alone: 1.2%
+  Hispanic or Latino: 7.2%
+  estimated median household income: $37,143
+  poverty rate: 19.9%
+  homeownership: 68.8%
+  estimated median home value: $286,486
+  estimated median gross rent: $803
+  unemployment: 9.6%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

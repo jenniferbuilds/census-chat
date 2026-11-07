@@ -1,0 +1,18 @@
+GEOGRAPHY: Albemarle County, VA
+GEOGRAPHIC CODE: 51003 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 106,355
+  under 18: 20.4%
+  age 65+: 17.3%
+  White alone: 81.6%
+  Black alone: 9.8%
+  Asian alone: 5.3%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $75,418
+  poverty rate: 9.8%
+  homeownership: 62.5%
+  estimated median home value: $344,516
+  estimated median gross rent: $1,244
+  unemployment: 2.9%
+  bachelor's degree or higher: 53.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

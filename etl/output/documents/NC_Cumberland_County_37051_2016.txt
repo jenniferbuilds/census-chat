@@ -1,0 +1,17 @@
+GEOGRAPHY: Cumberland County, NC
+GEOGRAPHIC CODE: 37051 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 325,841
+  under 18: 25.8%
+  age 65+: 10.8%
+  White alone: 51.0%
+  Black alone: 36.9%
+  Asian alone: 2.4%
+  Hispanic or Latino: 10.9%
+  estimated median household income: $44,845
+  homeownership: 51.9%
+  estimated median home value: $129,002
+  estimated median gross rent: $878
+  unemployment: 11.4%
+  bachelor's degree or higher: 24.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

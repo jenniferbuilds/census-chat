@@ -1,0 +1,18 @@
+GEOGRAPHY: Santa Clara County, CA
+GEOGRAPHIC CODE: 06085 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,911,226
+  under 18: 22.8%
+  age 65+: 12.6%
+  White alone: 45.5%
+  Black alone: 2.5%
+  Asian alone: 35.1%
+  Hispanic or Latino: 26.1%
+  estimated median household income: $108,459
+  poverty rate: 8.6%
+  homeownership: 56.9%
+  estimated median home value: $829,551
+  estimated median gross rent: $1,955
+  unemployment: 5.7%
+  bachelor's degree or higher: 50.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

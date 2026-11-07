@@ -1,0 +1,18 @@
+GEOGRAPHY: Lemhi County, ID
+GEOGRAPHIC CODE: 16059 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,798
+  under 18: 18.4%
+  age 65+: 28.7%
+  White alone: 94.8%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $38,681
+  poverty rate: 13.1%
+  homeownership: 75.4%
+  estimated median home value: $170,990
+  estimated median gross rent: $646
+  unemployment: 3.5%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

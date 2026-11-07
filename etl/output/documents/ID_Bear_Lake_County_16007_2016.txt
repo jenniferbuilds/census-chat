@@ -1,0 +1,17 @@
+GEOGRAPHY: Bear Lake County, ID
+GEOGRAPHIC CODE: 16007 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,928
+  under 18: 26.9%
+  age 65+: 20.0%
+  White alone: 95.9%
+  Black alone: 0.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $47,410
+  homeownership: 78.0%
+  estimated median home value: $136,689
+  estimated median gross rent: $553
+  unemployment: 3.4%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

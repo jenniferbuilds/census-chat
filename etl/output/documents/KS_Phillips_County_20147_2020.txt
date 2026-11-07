@@ -1,0 +1,18 @@
+GEOGRAPHY: Phillips County, KS
+GEOGRAPHIC CODE: 20147 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,297
+  under 18: 22.4%
+  age 65+: 23.4%
+  White alone: 95.8%
+  Black alone: 1.2%
+  Asian alone: 0.9%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $52,643
+  poverty rate: 13.1%
+  homeownership: 71.2%
+  estimated median home value: $82,672
+  estimated median gross rent: $577
+  unemployment: 2.5%
+  bachelor's degree or higher: 23.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

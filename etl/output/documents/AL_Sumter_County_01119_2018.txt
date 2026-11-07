@@ -1,0 +1,18 @@
+GEOGRAPHY: Sumter County, AL
+GEOGRAPHIC CODE: 01119 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,985
+  under 18: 19.4%
+  age 65+: 16.9%
+  White alone: 24.7%
+  Black alone: 72.0%
+  Asian alone: 2.6%
+  Hispanic or Latino: 0.1%
+  estimated median household income: $23,066
+  poverty rate: 31.3%
+  homeownership: 64.9%
+  estimated median home value: $74,641
+  estimated median gross rent: $578
+  unemployment: 12.1%
+  bachelor's degree or higher: 21.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

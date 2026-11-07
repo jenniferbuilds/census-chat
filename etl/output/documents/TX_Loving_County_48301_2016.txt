@@ -1,0 +1,17 @@
+GEOGRAPHY: Loving County, TX
+GEOGRAPHIC CODE: 48301 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 76
+  under 18: 7.9%
+  age 65+: 25.0%
+  White alone: 88.2%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 15.8%
+  estimated median household income: $57,500
+  homeownership: 45.9%
+  estimated median home value: $98,333
+  estimated median gross rent: $850
+  unemployment: 0.0%
+  bachelor's degree or higher: 3.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

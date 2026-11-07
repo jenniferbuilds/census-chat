@@ -1,0 +1,18 @@
+GEOGRAPHY: Susquehanna County, PA
+GEOGRAPHIC CODE: 42115 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,716
+  under 18: 19.2%
+  age 65+: 21.4%
+  White alone: 97.6%
+  Black alone: 0.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $52,056
+  poverty rate: 13.0%
+  homeownership: 77.1%
+  estimated median home value: $159,101
+  estimated median gross rent: $738
+  unemployment: 6.7%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Grafton County, NH
+GEOGRAPHIC CODE: 33009 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 89,777
+  under 18: 16.4%
+  age 65+: 20.0%
+  White alone: 92.2%
+  Black alone: 1.2%
+  Asian alone: 3.7%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $63,650
+  poverty rate: 9.6%
+  homeownership: 69.3%
+  estimated median home value: $220,250
+  estimated median gross rent: $953
+  unemployment: 2.9%
+  bachelor's degree or higher: 40.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

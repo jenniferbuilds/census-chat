@@ -1,0 +1,18 @@
+GEOGRAPHY: Cook County, IL
+GEOGRAPHIC CODE: 17031 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,223,719
+  under 18: 22.2%
+  age 65+: 13.9%
+  White alone: 56.6%
+  Black alone: 23.6%
+  Asian alone: 7.2%
+  Hispanic or Latino: 25.2%
+  estimated median household income: $62,262
+  poverty rate: 15.1%
+  homeownership: 56.9%
+  estimated median home value: $237,231
+  estimated median gross rent: $1,091
+  unemployment: 7.8%
+  bachelor's degree or higher: 38.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

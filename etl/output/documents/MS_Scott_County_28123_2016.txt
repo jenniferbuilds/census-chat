@@ -1,0 +1,17 @@
+GEOGRAPHY: Scott County, MS
+GEOGRAPHIC CODE: 28123 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,268
+  under 18: 26.7%
+  age 65+: 13.6%
+  White alone: 58.0%
+  Black alone: 37.8%
+  Asian alone: 1.1%
+  Hispanic or Latino: 10.8%
+  estimated median household income: $32,539
+  homeownership: 72.2%
+  estimated median home value: $69,632
+  estimated median gross rent: $628
+  unemployment: 12.0%
+  bachelor's degree or higher: 11.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

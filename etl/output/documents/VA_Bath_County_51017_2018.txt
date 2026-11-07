@@ -1,0 +1,18 @@
+GEOGRAPHY: Bath County, VA
+GEOGRAPHIC CODE: 51017 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,393
+  under 18: 16.2%
+  age 65+: 19.7%
+  White alone: 94.2%
+  Black alone: 1.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $46,663
+  poverty rate: 11.3%
+  homeownership: 72.2%
+  estimated median home value: $151,524
+  estimated median gross rent: $485
+  unemployment: 8.8%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

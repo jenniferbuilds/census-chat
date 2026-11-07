@@ -1,0 +1,18 @@
+GEOGRAPHY: Cherokee County, GA
+GEOGRAPHIC CODE: 13057 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 235,896
+  under 18: 25.7%
+  age 65+: 12.3%
+  White alone: 86.4%
+  Black alone: 6.6%
+  Asian alone: 1.9%
+  Hispanic or Latino: 10.0%
+  estimated median household income: $75,537
+  poverty rate: 9.4%
+  homeownership: 76.4%
+  estimated median home value: $220,167
+  estimated median gross rent: $1,138
+  unemployment: 4.9%
+  bachelor's degree or higher: 35.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

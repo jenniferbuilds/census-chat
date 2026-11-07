@@ -1,0 +1,18 @@
+GEOGRAPHY: Greenup County, KY
+GEOGRAPHIC CODE: 21089 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,012
+  under 18: 21.7%
+  age 65+: 19.7%
+  White alone: 97.0%
+  Black alone: 0.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $47,562
+  poverty rate: 16.5%
+  homeownership: 76.2%
+  estimated median home value: $103,307
+  estimated median gross rent: $681
+  unemployment: 8.7%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

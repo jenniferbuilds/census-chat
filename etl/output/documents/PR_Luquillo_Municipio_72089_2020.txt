@@ -1,0 +1,18 @@
+GEOGRAPHY: Luquillo Municipio, PR
+GEOGRAPHIC CODE: 72089 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,924
+  under 18: 18.7%
+  age 65+: 21.6%
+  White alone: 51.5%
+  Black alone: 9.3%
+  Asian alone: 0.2%
+  Hispanic or Latino: 99.2%
+  estimated median household income: $21,953
+  poverty rate: 42.2%
+  homeownership: 70.3%
+  estimated median home value: $110,951
+  estimated median gross rent: $470
+  unemployment: 25.5%
+  bachelor's degree or higher: 21.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

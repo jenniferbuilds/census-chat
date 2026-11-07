@@ -1,0 +1,18 @@
+GEOGRAPHY: Comerío Municipio, PR
+GEOGRAPHIC CODE: 72045 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,539
+  under 18: 21.2%
+  age 65+: 16.7%
+  White alone: 82.0%
+  Black alone: 9.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 99.4%
+  estimated median household income: $13,033
+  poverty rate: 60.3%
+  homeownership: 58.2%
+  estimated median home value: $89,667
+  estimated median gross rent: $398
+  unemployment: 26.2%
+  bachelor's degree or higher: 11.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

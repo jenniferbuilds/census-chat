@@ -1,0 +1,18 @@
+GEOGRAPHY: Gillespie County, TX
+GEOGRAPHIC CODE: 48171 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,459
+  under 18: 20.1%
+  age 65+: 29.3%
+  White alone: 91.0%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 23.2%
+  estimated median household income: $58,933
+  poverty rate: 9.5%
+  homeownership: 72.4%
+  estimated median home value: $286,868
+  estimated median gross rent: $948
+  unemployment: 4.3%
+  bachelor's degree or higher: 32.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

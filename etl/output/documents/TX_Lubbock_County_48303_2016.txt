@@ -1,0 +1,17 @@
+GEOGRAPHY: Lubbock County, TX
+GEOGRAPHIC CODE: 48303 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 294,682
+  under 18: 24.1%
+  age 65+: 11.8%
+  White alone: 79.9%
+  Black alone: 7.2%
+  Asian alone: 2.0%
+  Hispanic or Latino: 33.9%
+  estimated median household income: $47,195
+  homeownership: 56.3%
+  estimated median home value: $117,067
+  estimated median gross rent: $844
+  unemployment: 5.4%
+  bachelor's degree or higher: 28.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

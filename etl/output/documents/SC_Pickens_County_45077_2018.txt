@@ -1,0 +1,18 @@
+GEOGRAPHY: Pickens County, SC
+GEOGRAPHIC CODE: 45077 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 122,746
+  under 18: 19.3%
+  age 65+: 15.9%
+  White alone: 88.3%
+  Black alone: 6.6%
+  Asian alone: 2.0%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $47,020
+  poverty rate: 17.5%
+  homeownership: 67.6%
+  estimated median home value: $138,945
+  estimated median gross rent: $749
+  unemployment: 5.8%
+  bachelor's degree or higher: 24.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

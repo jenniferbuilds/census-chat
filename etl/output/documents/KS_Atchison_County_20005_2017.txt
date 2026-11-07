@@ -1,0 +1,18 @@
+GEOGRAPHY: Atchison County, KS
+GEOGRAPHIC CODE: 20005 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,466
+  under 18: 23.6%
+  age 65+: 16.6%
+  White alone: 90.6%
+  Black alone: 3.1%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $46,726
+  poverty rate: 18.5%
+  homeownership: 70.1%
+  estimated median home value: $92,906
+  estimated median gross rent: $626
+  unemployment: 6.3%
+  bachelor's degree or higher: 20.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

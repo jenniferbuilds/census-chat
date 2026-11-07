@@ -1,0 +1,18 @@
+GEOGRAPHY: Cumberland County, PA
+GEOGRAPHIC CODE: 42041 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 247,433
+  under 18: 20.3%
+  age 65+: 17.8%
+  White alone: 88.2%
+  Black alone: 3.8%
+  Asian alone: 4.1%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $68,787
+  poverty rate: 7.4%
+  homeownership: 70.4%
+  estimated median home value: $197,882
+  estimated median gross rent: $973
+  unemployment: 3.8%
+  bachelor's degree or higher: 35.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

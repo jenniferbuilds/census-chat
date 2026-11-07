@@ -1,0 +1,18 @@
+GEOGRAPHY: Poweshiek County, IA
+GEOGRAPHIC CODE: 19157 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,391
+  under 18: 19.5%
+  age 65+: 20.4%
+  White alone: 93.3%
+  Black alone: 1.3%
+  Asian alone: 2.3%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $55,513
+  poverty rate: 10.9%
+  homeownership: 66.3%
+  estimated median home value: $148,186
+  estimated median gross rent: $734
+  unemployment: 5.0%
+  bachelor's degree or higher: 28.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

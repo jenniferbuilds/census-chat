@@ -1,0 +1,18 @@
+GEOGRAPHY: Allen Parish, LA
+GEOGRAPHIC CODE: 22003 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,667
+  under 18: 22.0%
+  age 65+: 14.2%
+  White alone: 73.5%
+  Black alone: 19.5%
+  Asian alone: 0.7%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $42,374
+  poverty rate: 16.6%
+  homeownership: 75.9%
+  estimated median home value: $84,783
+  estimated median gross rent: $570
+  unemployment: 9.4%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

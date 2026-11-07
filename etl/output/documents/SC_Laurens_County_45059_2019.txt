@@ -1,0 +1,18 @@
+GEOGRAPHY: Laurens County, SC
+GEOGRAPHIC CODE: 45059 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 66,846
+  under 18: 22.0%
+  age 65+: 17.9%
+  White alone: 70.1%
+  Black alone: 24.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $43,245
+  poverty rate: 20.3%
+  homeownership: 69.8%
+  estimated median home value: $101,194
+  estimated median gross rent: $734
+  unemployment: 7.5%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

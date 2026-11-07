@@ -1,0 +1,17 @@
+GEOGRAPHY: Iowa (IA)
+GEOGRAPHIC CODE: 19 | LEVEL: State | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,106,589
+  under 18: 23.4%
+  age 65+: 15.8%
+  White alone: 90.9%
+  Black alone: 3.3%
+  Asian alone: 2.1%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $54,942
+  homeownership: 71.1%
+  estimated median home value: $132,777
+  estimated median gross rent: $715
+  unemployment: 4.5%
+  bachelor's degree or higher: 27.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

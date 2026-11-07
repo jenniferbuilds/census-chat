@@ -1,0 +1,18 @@
+GEOGRAPHY: Haakon County, SD
+GEOGRAPHIC CODE: 46055 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,082
+  under 18: 23.7%
+  age 65+: 24.1%
+  White alone: 94.6%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $37,473
+  poverty rate: 13.3%
+  homeownership: 80.0%
+  estimated median home value: $86,944
+  estimated median gross rent: $663
+  unemployment: 2.6%
+  bachelor's degree or higher: 15.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Oregon (OR)
+GEOGRAPHIC CODE: 41 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,025,127
+  under 18: 21.5%
+  age 65+: 16.3%
+  White alone: 84.9%
+  Black alone: 1.9%
+  Asian alone: 4.1%
+  Hispanic or Latino: 12.7%
+  estimated median household income: $56,530
+  poverty rate: 14.9%
+  homeownership: 61.7%
+  estimated median home value: $265,744
+  estimated median gross rent: $988
+  unemployment: 6.8%
+  bachelor's degree or higher: 32.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Benton County, AR
+GEOGRAPHIC CODE: 05007 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 251,823
+  under 18: 27.0%
+  age 65+: 13.0%
+  White alone: 88.1%
+  Black alone: 1.6%
+  Asian alone: 3.7%
+  Hispanic or Latino: 16.3%
+  estimated median household income: $61,364
+  poverty rate: 10.5%
+  homeownership: 66.3%
+  estimated median home value: $162,954
+  estimated median gross rent: $845
+  unemployment: 3.1%
+  bachelor's degree or higher: 31.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

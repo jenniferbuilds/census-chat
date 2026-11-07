@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, OK
+GEOGRAPHIC CODE: 40081 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,759
+  under 18: 24.6%
+  age 65+: 17.3%
+  White alone: 85.4%
+  Black alone: 1.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $47,773
+  poverty rate: 14.3%
+  homeownership: 79.2%
+  estimated median home value: $103,399
+  estimated median gross rent: $651
+  unemployment: 5.9%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

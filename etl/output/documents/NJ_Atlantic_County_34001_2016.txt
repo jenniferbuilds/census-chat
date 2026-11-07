@@ -1,0 +1,17 @@
+GEOGRAPHY: Atlantic County, NJ
+GEOGRAPHIC CODE: 34001 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 274,026
+  under 18: 22.1%
+  age 65+: 15.9%
+  White alone: 67.3%
+  Black alone: 15.6%
+  Asian alone: 8.3%
+  Hispanic or Latino: 18.3%
+  estimated median household income: $55,809
+  homeownership: 67.1%
+  estimated median home value: $222,158
+  estimated median gross rent: $1,054
+  unemployment: 11.8%
+  bachelor's degree or higher: 25.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

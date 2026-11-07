@@ -1,0 +1,18 @@
+GEOGRAPHY: Box Butte County, NE
+GEOGRAPHIC CODE: 31013 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,200
+  under 18: 25.5%
+  age 65+: 16.8%
+  White alone: 92.0%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 12.1%
+  estimated median household income: $57,436
+  poverty rate: 10.9%
+  homeownership: 71.7%
+  estimated median home value: $105,421
+  estimated median gross rent: $575
+  unemployment: 5.1%
+  bachelor's degree or higher: 17.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

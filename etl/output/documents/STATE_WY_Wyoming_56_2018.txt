@@ -1,0 +1,18 @@
+GEOGRAPHY: Wyoming (WY)
+GEOGRAPHIC CODE: 56 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 581,836
+  under 18: 23.7%
+  age 65+: 15.1%
+  White alone: 91.4%
+  Black alone: 1.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 9.8%
+  estimated median household income: $62,315
+  poverty rate: 11.1%
+  homeownership: 69.4%
+  estimated median home value: $213,298
+  estimated median gross rent: $843
+  unemployment: 4.5%
+  bachelor's degree or higher: 26.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

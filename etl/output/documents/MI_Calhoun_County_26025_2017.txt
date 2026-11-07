@@ -1,0 +1,18 @@
+GEOGRAPHY: Calhoun County, MI
+GEOGRAPHIC CODE: 26025 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 134,327
+  under 18: 23.3%
+  age 65+: 16.6%
+  White alone: 82.2%
+  Black alone: 10.8%
+  Asian alone: 2.1%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $46,455
+  poverty rate: 17.4%
+  homeownership: 69.8%
+  estimated median home value: $102,629
+  estimated median gross rent: $714
+  unemployment: 7.4%
+  bachelor's degree or higher: 21.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

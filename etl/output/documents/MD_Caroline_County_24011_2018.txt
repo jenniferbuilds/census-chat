@@ -1,0 +1,18 @@
+GEOGRAPHY: Caroline County, MD
+GEOGRAPHIC CODE: 24011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,875
+  under 18: 23.8%
+  age 65+: 15.9%
+  White alone: 80.4%
+  Black alone: 14.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $56,854
+  poverty rate: 14.7%
+  homeownership: 72.4%
+  estimated median home value: $199,577
+  estimated median gross rent: $920
+  unemployment: 5.2%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

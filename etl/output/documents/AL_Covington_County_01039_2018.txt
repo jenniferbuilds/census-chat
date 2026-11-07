@@ -1,0 +1,18 @@
+GEOGRAPHY: Covington County, AL
+GEOGRAPHIC CODE: 01039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,351
+  under 18: 21.9%
+  age 65+: 20.5%
+  White alone: 84.7%
+  Black alone: 12.9%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $40,718
+  poverty rate: 18.3%
+  homeownership: 74.0%
+  estimated median home value: $95,502
+  estimated median gross rent: $608
+  unemployment: 8.7%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

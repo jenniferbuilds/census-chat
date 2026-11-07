@@ -1,0 +1,18 @@
+GEOGRAPHY: Walton County, FL
+GEOGRAPHIC CODE: 12131 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,457
+  under 18: 20.4%
+  age 65+: 18.9%
+  White alone: 86.2%
+  Black alone: 4.9%
+  Asian alone: 1.3%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $50,889
+  poverty rate: 17.0%
+  homeownership: 71.2%
+  estimated median home value: $203,130
+  estimated median gross rent: $936
+  unemployment: 5.7%
+  bachelor's degree or higher: 26.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

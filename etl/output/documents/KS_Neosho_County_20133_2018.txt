@@ -1,0 +1,18 @@
+GEOGRAPHY: Neosho County, KS
+GEOGRAPHIC CODE: 20133 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,125
+  under 18: 24.8%
+  age 65+: 19.0%
+  White alone: 94.7%
+  Black alone: 1.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $44,317
+  poverty rate: 17.5%
+  homeownership: 70.5%
+  estimated median home value: $81,208
+  estimated median gross rent: $612
+  unemployment: 3.8%
+  bachelor's degree or higher: 20.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

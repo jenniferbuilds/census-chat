@@ -1,0 +1,17 @@
+GEOGRAPHY: Echols County, GA
+GEOGRAPHIC CODE: 13101 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,025
+  under 18: 27.7%
+  age 65+: 11.1%
+  White alone: 77.5%
+  Black alone: 2.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 29.7%
+  estimated median household income: $35,616
+  homeownership: 60.7%
+  estimated median home value: $55,565
+  estimated median gross rent: $669
+  unemployment: 7.0%
+  bachelor's degree or higher: 7.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

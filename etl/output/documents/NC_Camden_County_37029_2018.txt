@@ -1,0 +1,18 @@
+GEOGRAPHY: Camden County, NC
+GEOGRAPHIC CODE: 37029 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,447
+  under 18: 23.8%
+  age 65+: 17.1%
+  White alone: 82.5%
+  Black alone: 14.0%
+  Asian alone: 1.8%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $64,644
+  poverty rate: 11.2%
+  homeownership: 80.5%
+  estimated median home value: $210,324
+  estimated median gross rent: $1,045
+  unemployment: 9.3%
+  bachelor's degree or higher: 17.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Transylvania County, NC
+GEOGRAPHIC CODE: 37175 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,062
+  under 18: 16.6%
+  age 65+: 27.9%
+  White alone: 90.4%
+  Black alone: 3.9%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $44,224
+  homeownership: 76.0%
+  estimated median home value: $203,148
+  estimated median gross rent: $670
+  unemployment: 6.7%
+  bachelor's degree or higher: 29.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

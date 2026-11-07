@@ -1,0 +1,18 @@
+GEOGRAPHY: Saginaw County, MI
+GEOGRAPHIC CODE: 26145 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 192,778
+  under 18: 21.6%
+  age 65+: 18.2%
+  White alone: 74.9%
+  Black alone: 18.7%
+  Asian alone: 1.3%
+  Hispanic or Latino: 8.4%
+  estimated median household income: $47,037
+  poverty rate: 17.7%
+  homeownership: 71.6%
+  estimated median home value: $97,711
+  estimated median gross rent: $760
+  unemployment: 7.5%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

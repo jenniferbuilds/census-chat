@@ -1,0 +1,18 @@
+GEOGRAPHY: Slope County, ND
+GEOGRAPHIC CODE: 38087 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 742
+  under 18: 19.9%
+  age 65+: 26.5%
+  White alone: 96.4%
+  Black alone: 1.8%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $61,705
+  poverty rate: 7.5%
+  homeownership: 82.2%
+  estimated median home value: $101,786
+  estimated median gross rent: $633
+  unemployment: 2.1%
+  bachelor's degree or higher: 25.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

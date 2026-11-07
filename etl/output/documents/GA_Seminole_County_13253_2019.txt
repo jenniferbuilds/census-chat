@@ -1,0 +1,18 @@
+GEOGRAPHY: Seminole County, GA
+GEOGRAPHIC CODE: 13253 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,321
+  under 18: 20.6%
+  age 65+: 22.8%
+  White alone: 62.1%
+  Black alone: 33.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $33,539
+  poverty rate: 23.7%
+  homeownership: 65.3%
+  estimated median home value: $81,144
+  estimated median gross rent: $721
+  unemployment: 6.8%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Marion County, IN
+GEOGRAPHIC CODE: 18097 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 951,869
+  under 18: 24.7%
+  age 65+: 12.3%
+  White alone: 61.7%
+  Black alone: 28.0%
+  Asian alone: 3.3%
+  Hispanic or Latino: 10.4%
+  estimated median household income: $48,398
+  poverty rate: 17.8%
+  homeownership: 53.9%
+  estimated median home value: $136,704
+  estimated median gross rent: $889
+  unemployment: 6.3%
+  bachelor's degree or higher: 30.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

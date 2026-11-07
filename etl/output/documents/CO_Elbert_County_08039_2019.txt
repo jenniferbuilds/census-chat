@@ -1,0 +1,18 @@
+GEOGRAPHY: Elbert County, CO
+GEOGRAPHIC CODE: 08039 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,717
+  under 18: 21.7%
+  age 65+: 15.5%
+  White alone: 93.6%
+  Black alone: 0.4%
+  Asian alone: 1.0%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $99,135
+  poverty rate: 4.8%
+  homeownership: 90.0%
+  estimated median home value: $463,619
+  estimated median gross rent: $1,182
+  unemployment: 2.0%
+  bachelor's degree or higher: 35.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

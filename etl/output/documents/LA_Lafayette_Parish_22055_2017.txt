@@ -1,0 +1,18 @@
+GEOGRAPHY: Lafayette Parish, LA
+GEOGRAPHIC CODE: 22055 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 238,230
+  under 18: 23.8%
+  age 65+: 11.8%
+  White alone: 69.8%
+  Black alone: 25.8%
+  Asian alone: 1.8%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $54,772
+  poverty rate: 16.6%
+  homeownership: 65.5%
+  estimated median home value: $172,462
+  estimated median gross rent: $834
+  unemployment: 5.1%
+  bachelor's degree or higher: 31.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

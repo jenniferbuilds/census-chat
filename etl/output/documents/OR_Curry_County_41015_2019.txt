@@ -1,0 +1,18 @@
+GEOGRAPHY: Curry County, OR
+GEOGRAPHIC CODE: 41015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,650
+  under 18: 14.6%
+  age 65+: 33.7%
+  White alone: 90.9%
+  Black alone: 0.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $48,255
+  poverty rate: 12.4%
+  homeownership: 71.4%
+  estimated median home value: $265,365
+  estimated median gross rent: $888
+  unemployment: 8.3%
+  bachelor's degree or higher: 24.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

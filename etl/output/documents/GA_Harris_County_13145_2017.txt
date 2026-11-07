@@ -1,0 +1,18 @@
+GEOGRAPHY: Harris County, GA
+GEOGRAPHIC CODE: 13145 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,198
+  under 18: 22.1%
+  age 65+: 16.9%
+  White alone: 79.0%
+  Black alone: 16.0%
+  Asian alone: 1.0%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $70,271
+  poverty rate: 7.3%
+  homeownership: 84.7%
+  estimated median home value: $194,782
+  estimated median gross rent: $909
+  unemployment: 8.5%
+  bachelor's degree or higher: 27.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

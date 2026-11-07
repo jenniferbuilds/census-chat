@@ -1,0 +1,18 @@
+GEOGRAPHY: Kiowa County, KS
+GEOGRAPHIC CODE: 20097 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,526
+  under 18: 22.6%
+  age 65+: 20.9%
+  White alone: 93.9%
+  Black alone: 1.2%
+  Asian alone: 1.2%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $51,476
+  poverty rate: 8.3%
+  homeownership: 71.3%
+  estimated median home value: $119,886
+  estimated median gross rent: $617
+  unemployment: 2.6%
+  bachelor's degree or higher: 27.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Crawford County, AR
+GEOGRAPHIC CODE: 05033 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 62,472
+  under 18: 24.8%
+  age 65+: 16.1%
+  White alone: 88.4%
+  Black alone: 1.6%
+  Asian alone: 1.9%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $46,646
+  poverty rate: 15.9%
+  homeownership: 76.7%
+  estimated median home value: $116,899
+  estimated median gross rent: $692
+  unemployment: 5.1%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

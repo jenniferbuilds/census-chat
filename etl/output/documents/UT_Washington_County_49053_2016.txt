@@ -1,0 +1,17 @@
+GEOGRAPHY: Washington County, UT
+GEOGRAPHIC CODE: 49053 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 151,959
+  under 18: 28.2%
+  age 65+: 19.6%
+  White alone: 91.2%
+  Black alone: 0.6%
+  Asian alone: 0.7%
+  Hispanic or Latino: 9.9%
+  estimated median household income: $52,881
+  homeownership: 70.7%
+  estimated median home value: $221,721
+  estimated median gross rent: $964
+  unemployment: 6.3%
+  bachelor's degree or higher: 27.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

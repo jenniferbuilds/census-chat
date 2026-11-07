@@ -1,0 +1,17 @@
+GEOGRAPHY: Union County, IL
+GEOGRAPHIC CODE: 17181 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,458
+  under 18: 20.8%
+  age 65+: 19.5%
+  White alone: 94.0%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $45,392
+  homeownership: 79.1%
+  estimated median home value: $94,156
+  estimated median gross rent: $475
+  unemployment: 6.3%
+  bachelor's degree or higher: 21.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

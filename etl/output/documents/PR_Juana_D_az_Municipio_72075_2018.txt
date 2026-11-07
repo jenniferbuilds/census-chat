@@ -1,0 +1,18 @@
+GEOGRAPHY: Juana Díaz Municipio, PR
+GEOGRAPHIC CODE: 72075 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,960
+  under 18: 22.7%
+  age 65+: 16.3%
+  White alone: 46.3%
+  Black alone: 8.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 99.8%
+  estimated median household income: $20,926
+  poverty rate: 46.5%
+  homeownership: 72.7%
+  estimated median home value: $93,311
+  estimated median gross rent: $487
+  unemployment: 22.0%
+  bachelor's degree or higher: 25.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

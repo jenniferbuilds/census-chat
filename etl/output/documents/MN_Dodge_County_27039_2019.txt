@@ -1,0 +1,18 @@
+GEOGRAPHY: Dodge County, MN
+GEOGRAPHIC CODE: 27039 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,669
+  under 18: 26.3%
+  age 65+: 14.4%
+  White alone: 94.7%
+  Black alone: 0.3%
+  Asian alone: 0.9%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $74,532
+  poverty rate: 5.1%
+  homeownership: 83.9%
+  estimated median home value: $183,908
+  estimated median gross rent: $653
+  unemployment: 2.6%
+  bachelor's degree or higher: 25.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

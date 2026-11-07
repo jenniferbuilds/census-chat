@@ -1,0 +1,18 @@
+GEOGRAPHY: Floyd County, IA
+GEOGRAPHIC CODE: 19067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,904
+  under 18: 22.6%
+  age 65+: 21.4%
+  White alone: 94.5%
+  Black alone: 1.9%
+  Asian alone: 1.7%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $48,917
+  poverty rate: 15.6%
+  homeownership: 72.4%
+  estimated median home value: $102,373
+  estimated median gross rent: $556
+  unemployment: 2.7%
+  bachelor's degree or higher: 20.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

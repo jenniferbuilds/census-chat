@@ -1,0 +1,18 @@
+GEOGRAPHY: Hamilton County, IN
+GEOGRAPHIC CODE: 18057 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 330,455
+  under 18: 26.9%
+  age 65+: 12.3%
+  White alone: 86.0%
+  Black alone: 3.9%
+  Asian alone: 6.1%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $99,008
+  poverty rate: 4.4%
+  homeownership: 76.7%
+  estimated median home value: $282,676
+  estimated median gross rent: $1,188
+  unemployment: 2.8%
+  bachelor's degree or higher: 59.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

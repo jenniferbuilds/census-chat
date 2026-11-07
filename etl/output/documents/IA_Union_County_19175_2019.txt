@@ -1,0 +1,18 @@
+GEOGRAPHY: Union County, IA
+GEOGRAPHIC CODE: 19175 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,358
+  under 18: 22.5%
+  age 65+: 20.0%
+  White alone: 96.7%
+  Black alone: 0.5%
+  Asian alone: 1.5%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $49,905
+  poverty rate: 14.2%
+  homeownership: 70.4%
+  estimated median home value: $103,983
+  estimated median gross rent: $609
+  unemployment: 4.4%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

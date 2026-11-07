@@ -1,0 +1,18 @@
+GEOGRAPHY: Mora County, NM
+GEOGRAPHIC CODE: 35033 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,536
+  under 18: 11.6%
+  age 65+: 30.4%
+  White alone: 65.9%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 81.5%
+  estimated median household income: $28,202
+  poverty rate: 20.0%
+  homeownership: 85.5%
+  estimated median home value: $112,277
+  estimated median gross rent: $703
+  unemployment: 9.1%
+  bachelor's degree or higher: 11.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

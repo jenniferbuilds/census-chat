@@ -1,0 +1,17 @@
+GEOGRAPHY: Robertson County, TN
+GEOGRAPHIC CODE: 47147 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 67,905
+  under 18: 25.0%
+  age 65+: 13.4%
+  White alone: 88.5%
+  Black alone: 7.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 6.1%
+  estimated median household income: $56,283
+  homeownership: 75.2%
+  estimated median home value: $158,829
+  estimated median gross rent: $831
+  unemployment: 7.4%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

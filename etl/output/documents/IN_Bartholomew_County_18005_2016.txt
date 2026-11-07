@@ -1,0 +1,17 @@
+GEOGRAPHY: Bartholomew County, IN
+GEOGRAPHIC CODE: 18005 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 80,203
+  under 18: 24.2%
+  age 65+: 15.0%
+  White alone: 86.2%
+  Black alone: 1.9%
+  Asian alone: 5.7%
+  Hispanic or Latino: 6.3%
+  estimated median household income: $56,318
+  homeownership: 70.1%
+  estimated median home value: $137,450
+  estimated median gross rent: $825
+  unemployment: 5.2%
+  bachelor's degree or higher: 29.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

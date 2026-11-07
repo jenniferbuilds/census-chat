@@ -1,0 +1,18 @@
+GEOGRAPHY: Latah County, ID
+GEOGRAPHIC CODE: 16057 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,505
+  under 18: 18.7%
+  age 65+: 13.0%
+  White alone: 92.0%
+  Black alone: 1.2%
+  Asian alone: 2.3%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $49,382
+  poverty rate: 18.1%
+  homeownership: 54.3%
+  estimated median home value: $228,153
+  estimated median gross rent: $737
+  unemployment: 4.2%
+  bachelor's degree or higher: 45.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

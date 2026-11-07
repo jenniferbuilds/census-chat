@@ -1,0 +1,18 @@
+GEOGRAPHY: Hempstead County, AR
+GEOGRAPHIC CODE: 05057 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,842
+  under 18: 25.7%
+  age 65+: 17.9%
+  White alone: 57.3%
+  Black alone: 30.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 12.8%
+  estimated median household income: $43,322
+  poverty rate: 22.7%
+  homeownership: 69.3%
+  estimated median home value: $81,072
+  estimated median gross rent: $694
+  unemployment: 4.6%
+  bachelor's degree or higher: 15.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

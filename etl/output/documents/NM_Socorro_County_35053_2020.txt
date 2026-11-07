@@ -1,0 +1,18 @@
+GEOGRAPHY: Socorro County, NM
+GEOGRAPHIC CODE: 35053 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,723
+  under 18: 22.6%
+  age 65+: 19.4%
+  White alone: 73.5%
+  Black alone: 0.7%
+  Asian alone: 2.1%
+  Hispanic or Latino: 50.2%
+  estimated median household income: $40,216
+  poverty rate: 31.1%
+  homeownership: 76.6%
+  estimated median home value: $117,899
+  estimated median gross rent: $695
+  unemployment: 4.7%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

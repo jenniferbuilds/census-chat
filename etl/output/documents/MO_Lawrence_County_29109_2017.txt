@@ -1,0 +1,18 @@
+GEOGRAPHY: Lawrence County, MO
+GEOGRAPHIC CODE: 29109 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,131
+  under 18: 25.5%
+  age 65+: 17.4%
+  White alone: 94.9%
+  Black alone: 0.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 7.2%
+  estimated median household income: $41,997
+  poverty rate: 17.1%
+  homeownership: 70.7%
+  estimated median home value: $98,029
+  estimated median gross rent: $650
+  unemployment: 6.2%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

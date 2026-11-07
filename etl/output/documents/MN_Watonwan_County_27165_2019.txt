@@ -1,0 +1,18 @@
+GEOGRAPHY: Watonwan County, MN
+GEOGRAPHIC CODE: 27165 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,972
+  under 18: 24.5%
+  age 65+: 20.0%
+  White alone: 85.8%
+  Black alone: 0.9%
+  Asian alone: 1.2%
+  Hispanic or Latino: 25.5%
+  estimated median household income: $53,529
+  poverty rate: 13.4%
+  homeownership: 76.9%
+  estimated median home value: $96,877
+  estimated median gross rent: $669
+  unemployment: 2.9%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

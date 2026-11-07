@@ -1,0 +1,18 @@
+GEOGRAPHY: Hamilton County, TN
+GEOGRAPHIC CODE: 47065 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 360,919
+  under 18: 20.9%
+  age 65+: 17.2%
+  White alone: 75.3%
+  Black alone: 19.1%
+  Asian alone: 2.1%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $54,962
+  poverty rate: 12.8%
+  homeownership: 64.0%
+  estimated median home value: $180,886
+  estimated median gross rent: $868
+  unemployment: 4.9%
+  bachelor's degree or higher: 32.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

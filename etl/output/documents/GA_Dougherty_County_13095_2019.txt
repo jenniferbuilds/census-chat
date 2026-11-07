@@ -1,0 +1,18 @@
+GEOGRAPHY: Dougherty County, GA
+GEOGRAPHIC CODE: 13095 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 89,703
+  under 18: 24.1%
+  age 65+: 15.3%
+  White alone: 26.4%
+  Black alone: 69.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $39,547
+  poverty rate: 28.4%
+  homeownership: 46.0%
+  estimated median home value: $103,453
+  estimated median gross rent: $746
+  unemployment: 13.2%
+  bachelor's degree or higher: 21.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

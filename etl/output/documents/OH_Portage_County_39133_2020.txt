@@ -1,0 +1,18 @@
+GEOGRAPHY: Portage County, OH
+GEOGRAPHIC CODE: 39133 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 162,476
+  under 18: 18.7%
+  age 65+: 16.5%
+  White alone: 89.7%
+  Black alone: 4.4%
+  Asian alone: 1.9%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $59,435
+  poverty rate: 11.3%
+  homeownership: 70.6%
+  estimated median home value: $160,306
+  estimated median gross rent: $870
+  unemployment: 5.8%
+  bachelor's degree or higher: 29.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

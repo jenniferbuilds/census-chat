@@ -1,0 +1,17 @@
+GEOGRAPHY: Campbell County, KY
+GEOGRAPHIC CODE: 21037 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 91,456
+  under 18: 21.8%
+  age 65+: 13.9%
+  White alone: 93.8%
+  Black alone: 3.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $56,963
+  homeownership: 68.2%
+  estimated median home value: $156,561
+  estimated median gross rent: $777
+  unemployment: 5.8%
+  bachelor's degree or higher: 30.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

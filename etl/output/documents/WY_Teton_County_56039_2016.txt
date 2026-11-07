@@ -1,0 +1,17 @@
+GEOGRAPHY: Teton County, WY
+GEOGRAPHIC CODE: 56039 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,623
+  under 18: 19.5%
+  age 65+: 11.8%
+  White alone: 92.7%
+  Black alone: 0.7%
+  Asian alone: 1.8%
+  Hispanic or Latino: 15.2%
+  estimated median household income: $75,591
+  homeownership: 59.8%
+  estimated median home value: $719,952
+  estimated median gross rent: $1,187
+  unemployment: 2.1%
+  bachelor's degree or higher: 53.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

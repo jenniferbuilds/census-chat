@@ -1,0 +1,18 @@
+GEOGRAPHY: Kosciusko County, IN
+GEOGRAPHIC CODE: 18085 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 79,156
+  under 18: 23.9%
+  age 65+: 16.5%
+  White alone: 92.8%
+  Black alone: 0.7%
+  Asian alone: 1.5%
+  Hispanic or Latino: 8.1%
+  estimated median household income: $62,272
+  poverty rate: 9.3%
+  homeownership: 74.7%
+  estimated median home value: $153,512
+  estimated median gross rent: $800
+  unemployment: 3.6%
+  bachelor's degree or higher: 24.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

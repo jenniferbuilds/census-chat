@@ -1,0 +1,18 @@
+GEOGRAPHY: Silver Bow County, MT
+GEOGRAPHIC CODE: 30093 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,770
+  under 18: 20.2%
+  age 65+: 18.7%
+  White alone: 94.4%
+  Black alone: 0.5%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $45,587
+  poverty rate: 17.4%
+  homeownership: 68.9%
+  estimated median home value: $149,773
+  estimated median gross rent: $638
+  unemployment: 4.6%
+  bachelor's degree or higher: 27.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

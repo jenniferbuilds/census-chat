@@ -1,0 +1,18 @@
+GEOGRAPHY: St. James Parish, LA
+GEOGRAPHIC CODE: 22093 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,357
+  under 18: 22.9%
+  age 65+: 16.0%
+  White alone: 48.4%
+  Black alone: 49.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $51,076
+  poverty rate: 16.7%
+  homeownership: 77.3%
+  estimated median home value: $152,546
+  estimated median gross rent: $699
+  unemployment: 6.5%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Guadalupe County, TX
+GEOGRAPHIC CODE: 48187 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 147,313
+  under 18: 26.2%
+  age 65+: 13.0%
+  White alone: 75.3%
+  Black alone: 7.1%
+  Asian alone: 1.7%
+  Hispanic or Latino: 36.9%
+  estimated median household income: $65,027
+  homeownership: 75.4%
+  estimated median home value: $169,204
+  estimated median gross rent: $966
+  unemployment: 5.2%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Hancock County, GA
+GEOGRAPHIC CODE: 13141 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,667
+  under 18: 14.4%
+  age 65+: 20.6%
+  White alone: 24.5%
+  Black alone: 73.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $29,096
+  poverty rate: 30.0%
+  homeownership: 78.5%
+  estimated median home value: $66,132
+  estimated median gross rent: $795
+  unemployment: 4.0%
+  bachelor's degree or higher: 8.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

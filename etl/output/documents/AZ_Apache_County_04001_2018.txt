@@ -1,0 +1,18 @@
+GEOGRAPHY: Apache County, AZ
+GEOGRAPHIC CODE: 04001 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 71,522
+  under 18: 27.7%
+  age 65+: 14.6%
+  White alone: 22.9%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 6.2%
+  estimated median household income: $33,064
+  poverty rate: 35.3%
+  homeownership: 78.4%
+  estimated median home value: $62,327
+  estimated median gross rent: $486
+  unemployment: 12.0%
+  bachelor's degree or higher: 11.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

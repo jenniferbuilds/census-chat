@@ -1,0 +1,18 @@
+GEOGRAPHY: Okanogan County, WA
+GEOGRAPHIC CODE: 53047 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,638
+  under 18: 23.0%
+  age 65+: 20.7%
+  White alone: 73.1%
+  Black alone: 0.5%
+  Asian alone: 0.9%
+  Hispanic or Latino: 19.7%
+  estimated median household income: $46,027
+  poverty rate: 20.6%
+  homeownership: 66.2%
+  estimated median home value: $173,497
+  estimated median gross rent: $681
+  unemployment: 6.4%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

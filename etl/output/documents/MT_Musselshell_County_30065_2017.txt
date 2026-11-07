@@ -1,0 +1,18 @@
+GEOGRAPHY: Musselshell County, MT
+GEOGRAPHIC CODE: 30065 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,766
+  under 18: 21.3%
+  age 65+: 22.9%
+  White alone: 95.3%
+  Black alone: 0.8%
+  Asian alone: 1.5%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $38,634
+  poverty rate: 17.4%
+  homeownership: 70.1%
+  estimated median home value: $161,373
+  estimated median gross rent: $680
+  unemployment: 5.6%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

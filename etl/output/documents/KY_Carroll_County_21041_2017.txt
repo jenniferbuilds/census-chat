@@ -1,0 +1,18 @@
+GEOGRAPHY: Carroll County, KY
+GEOGRAPHIC CODE: 21041 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,695
+  under 18: 25.6%
+  age 65+: 14.9%
+  White alone: 90.7%
+  Black alone: 2.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 6.6%
+  estimated median household income: $43,339
+  poverty rate: 27.7%
+  homeownership: 66.3%
+  estimated median home value: $103,789
+  estimated median gross rent: $625
+  unemployment: 10.3%
+  bachelor's degree or higher: 11.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Victoria County, TX
+GEOGRAPHIC CODE: 48469 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 91,518
+  under 18: 25.8%
+  age 65+: 15.0%
+  White alone: 87.4%
+  Black alone: 6.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 46.0%
+  estimated median household income: $55,952
+  poverty rate: 14.8%
+  homeownership: 65.6%
+  estimated median home value: $129,097
+  estimated median gross rent: $864
+  unemployment: 5.1%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

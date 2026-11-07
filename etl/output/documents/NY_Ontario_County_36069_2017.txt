@@ -1,0 +1,18 @@
+GEOGRAPHY: Ontario County, NY
+GEOGRAPHIC CODE: 36069 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 109,491
+  under 18: 20.8%
+  age 65+: 18.2%
+  White alone: 92.7%
+  Black alone: 2.5%
+  Asian alone: 1.3%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $62,008
+  poverty rate: 9.7%
+  homeownership: 73.2%
+  estimated median home value: $156,540
+  estimated median gross rent: $837
+  unemployment: 4.7%
+  bachelor's degree or higher: 33.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

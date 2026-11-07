@@ -1,0 +1,18 @@
+GEOGRAPHY: Paulding County, OH
+GEOGRAPHIC CODE: 39125 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,742
+  under 18: 23.5%
+  age 65+: 18.7%
+  White alone: 95.2%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $56,806
+  poverty rate: 10.3%
+  homeownership: 80.3%
+  estimated median home value: $102,605
+  estimated median gross rent: $706
+  unemployment: 4.5%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

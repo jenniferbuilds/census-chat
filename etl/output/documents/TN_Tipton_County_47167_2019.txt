@@ -1,0 +1,18 @@
+GEOGRAPHY: Tipton County, TN
+GEOGRAPHIC CODE: 47167 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 61,447
+  under 18: 24.6%
+  age 65+: 14.1%
+  White alone: 77.7%
+  Black alone: 18.4%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $61,253
+  poverty rate: 12.4%
+  homeownership: 71.3%
+  estimated median home value: $150,021
+  estimated median gross rent: $825
+  unemployment: 6.1%
+  bachelor's degree or higher: 17.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

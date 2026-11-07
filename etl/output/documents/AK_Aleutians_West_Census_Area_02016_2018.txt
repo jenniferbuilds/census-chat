@@ -1,0 +1,18 @@
+GEOGRAPHY: Aleutians West Census Area, AK
+GEOGRAPHIC CODE: 02016 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,750
+  under 18: 16.7%
+  age 65+: 5.8%
+  White alone: 29.5%
+  Black alone: 4.3%
+  Asian alone: 40.0%
+  Hispanic or Latino: 13.9%
+  estimated median household income: $87,335
+  poverty rate: 8.5%
+  homeownership: 28.1%
+  estimated median home value: $247,917
+  estimated median gross rent: $1,321
+  unemployment: 2.0%
+  bachelor's degree or higher: 16.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

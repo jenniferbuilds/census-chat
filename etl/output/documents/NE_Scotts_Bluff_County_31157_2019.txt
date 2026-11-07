@@ -1,0 +1,18 @@
+GEOGRAPHY: Scotts Bluff County, NE
+GEOGRAPHIC CODE: 31157 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,074
+  under 18: 24.9%
+  age 65+: 18.7%
+  White alone: 91.6%
+  Black alone: 0.9%
+  Asian alone: 0.7%
+  Hispanic or Latino: 23.8%
+  estimated median household income: $49,740
+  poverty rate: 13.6%
+  homeownership: 66.9%
+  estimated median home value: $128,075
+  estimated median gross rent: $761
+  unemployment: 5.1%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Gaines County, TX
+GEOGRAPHIC CODE: 48165 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,889
+  under 18: 35.7%
+  age 65+: 8.6%
+  White alone: 93.6%
+  Black alone: 2.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 40.6%
+  estimated median household income: $58,796
+  poverty rate: 11.0%
+  homeownership: 76.3%
+  estimated median home value: $110,974
+  estimated median gross rent: $697
+  unemployment: 4.5%
+  bachelor's degree or higher: 11.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Meriwether County, GA
+GEOGRAPHIC CODE: 13199 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,113
+  under 18: 21.9%
+  age 65+: 19.3%
+  White alone: 57.1%
+  Black alone: 38.7%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $36,542
+  poverty rate: 21.5%
+  homeownership: 67.1%
+  estimated median home value: $98,013
+  estimated median gross rent: $672
+  unemployment: 5.9%
+  bachelor's degree or higher: 11.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Nye County, NV
+GEOGRAPHIC CODE: 32023 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,514
+  under 18: 17.0%
+  age 65+: 30.0%
+  White alone: 80.8%
+  Black alone: 2.1%
+  Asian alone: 1.7%
+  Hispanic or Latino: 15.1%
+  estimated median household income: $47,392
+  poverty rate: 16.5%
+  homeownership: 71.5%
+  estimated median home value: $172,259
+  estimated median gross rent: $821
+  unemployment: 8.7%
+  bachelor's degree or higher: 12.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

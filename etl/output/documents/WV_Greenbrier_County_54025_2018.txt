@@ -1,0 +1,18 @@
+GEOGRAPHY: Greenbrier County, WV
+GEOGRAPHIC CODE: 54025 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,347
+  under 18: 19.8%
+  age 65+: 22.2%
+  White alone: 94.0%
+  Black alone: 2.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $39,071
+  poverty rate: 17.9%
+  homeownership: 71.6%
+  estimated median home value: $120,464
+  estimated median gross rent: $674
+  unemployment: 6.7%
+  bachelor's degree or higher: 19.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

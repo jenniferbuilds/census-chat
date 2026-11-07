@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, WI
+GEOGRAPHIC CODE: 55069 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,687
+  under 18: 18.4%
+  age 65+: 21.6%
+  White alone: 96.4%
+  Black alone: 0.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $59,364
+  poverty rate: 9.3%
+  homeownership: 77.9%
+  estimated median home value: $141,662
+  estimated median gross rent: $651
+  unemployment: 3.9%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

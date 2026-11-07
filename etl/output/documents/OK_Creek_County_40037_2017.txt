@@ -1,0 +1,18 @@
+GEOGRAPHY: Creek County, OK
+GEOGRAPHIC CODE: 40037 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 70,899
+  under 18: 24.2%
+  age 65+: 16.8%
+  White alone: 79.7%
+  Black alone: 2.2%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $47,469
+  poverty rate: 15.2%
+  homeownership: 74.1%
+  estimated median home value: $112,133
+  estimated median gross rent: $755
+  unemployment: 4.2%
+  bachelor's degree or higher: 15.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

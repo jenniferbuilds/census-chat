@@ -1,0 +1,18 @@
+GEOGRAPHY: Hughes County, OK
+GEOGRAPHIC CODE: 40063 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,372
+  under 18: 22.1%
+  age 65+: 18.8%
+  White alone: 67.0%
+  Black alone: 5.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $39,236
+  poverty rate: 20.7%
+  homeownership: 72.8%
+  estimated median home value: $73,073
+  estimated median gross rent: $555
+  unemployment: 8.2%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

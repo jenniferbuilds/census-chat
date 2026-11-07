@@ -1,0 +1,17 @@
+GEOGRAPHY: Reynolds County, MO
+GEOGRAPHIC CODE: 29179 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,530
+  under 18: 21.1%
+  age 65+: 22.8%
+  White alone: 95.7%
+  Black alone: 1.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $37,386
+  homeownership: 80.0%
+  estimated median home value: $82,202
+  estimated median gross rent: $517
+  unemployment: 8.8%
+  bachelor's degree or higher: 9.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

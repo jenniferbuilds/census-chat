@@ -1,0 +1,18 @@
+GEOGRAPHY: Union County, AR
+GEOGRAPHIC CODE: 05139 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,449
+  under 18: 24.2%
+  age 65+: 17.2%
+  White alone: 63.9%
+  Black alone: 32.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $44,591
+  poverty rate: 19.1%
+  homeownership: 75.4%
+  estimated median home value: $86,505
+  estimated median gross rent: $674
+  unemployment: 5.0%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

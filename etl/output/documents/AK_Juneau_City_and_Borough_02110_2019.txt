@@ -1,0 +1,18 @@
+GEOGRAPHY: Juneau City and Borough, AK
+GEOGRAPHIC CODE: 02110 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,227
+  under 18: 21.5%
+  age 65+: 12.5%
+  White alone: 68.0%
+  Black alone: 1.0%
+  Asian alone: 6.9%
+  Hispanic or Latino: 6.8%
+  estimated median household income: $89,779
+  poverty rate: 7.7%
+  homeownership: 64.8%
+  estimated median home value: $345,921
+  estimated median gross rent: $1,310
+  unemployment: 4.6%
+  bachelor's degree or higher: 38.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

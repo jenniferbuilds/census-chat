@@ -1,0 +1,18 @@
+GEOGRAPHY: Virginia Beach city, VA
+GEOGRAPHIC CODE: 51810 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 450,135
+  under 18: 22.4%
+  age 65+: 13.2%
+  White alone: 66.7%
+  Black alone: 19.0%
+  Asian alone: 6.6%
+  Hispanic or Latino: 8.0%
+  estimated median household income: $74,207
+  poverty rate: 7.6%
+  homeownership: 64.1%
+  estimated median home value: $274,274
+  estimated median gross rent: $1,339
+  unemployment: 4.9%
+  bachelor's degree or higher: 35.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

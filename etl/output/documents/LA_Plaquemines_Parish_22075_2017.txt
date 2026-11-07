@@ -1,0 +1,18 @@
+GEOGRAPHY: Plaquemines Parish, LA
+GEOGRAPHIC CODE: 22075 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,394
+  under 18: 26.5%
+  age 65+: 11.9%
+  White alone: 68.8%
+  Black alone: 20.9%
+  Asian alone: 3.3%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $49,650
+  poverty rate: 19.3%
+  homeownership: 69.0%
+  estimated median home value: $165,915
+  estimated median gross rent: $1,118
+  unemployment: 3.0%
+  bachelor's degree or higher: 19.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

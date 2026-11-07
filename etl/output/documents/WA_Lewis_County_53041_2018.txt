@@ -1,0 +1,18 @@
+GEOGRAPHY: Lewis County, WA
+GEOGRAPHIC CODE: 53041 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 76,947
+  under 18: 21.6%
+  age 65+: 20.4%
+  White alone: 90.6%
+  Black alone: 0.6%
+  Asian alone: 1.2%
+  Hispanic or Latino: 10.0%
+  estimated median household income: $50,191
+  poverty rate: 14.4%
+  homeownership: 69.7%
+  estimated median home value: $191,069
+  estimated median gross rent: $854
+  unemployment: 8.2%
+  bachelor's degree or higher: 16.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

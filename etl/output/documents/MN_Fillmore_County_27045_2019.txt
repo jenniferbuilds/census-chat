@@ -1,0 +1,18 @@
+GEOGRAPHY: Fillmore County, MN
+GEOGRAPHIC CODE: 27045 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,949
+  under 18: 24.4%
+  age 65+: 20.5%
+  White alone: 97.6%
+  Black alone: 0.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $61,324
+  poverty rate: 10.7%
+  homeownership: 80.8%
+  estimated median home value: $153,790
+  estimated median gross rent: $659
+  unemployment: 2.6%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

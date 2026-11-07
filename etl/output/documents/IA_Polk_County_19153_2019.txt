@@ -1,0 +1,18 @@
+GEOGRAPHY: Polk County, IA
+GEOGRAPHIC CODE: 19153 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 479,612
+  under 18: 25.0%
+  age 65+: 12.8%
+  White alone: 84.0%
+  Black alone: 6.8%
+  Asian alone: 4.6%
+  Hispanic or Latino: 8.4%
+  estimated median household income: $67,897
+  poverty rate: 10.4%
+  homeownership: 67.1%
+  estimated median home value: $179,948
+  estimated median gross rent: $910
+  unemployment: 4.2%
+  bachelor's degree or higher: 36.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

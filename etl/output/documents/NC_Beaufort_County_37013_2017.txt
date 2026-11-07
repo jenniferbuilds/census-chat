@@ -1,0 +1,18 @@
+GEOGRAPHY: Beaufort County, NC
+GEOGRAPHIC CODE: 37013 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,316
+  under 18: 20.9%
+  age 65+: 22.1%
+  White alone: 71.2%
+  Black alone: 26.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 7.6%
+  estimated median household income: $41,300
+  poverty rate: 19.1%
+  homeownership: 70.8%
+  estimated median home value: $123,642
+  estimated median gross rent: $691
+  unemployment: 9.0%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

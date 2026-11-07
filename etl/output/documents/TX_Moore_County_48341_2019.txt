@@ -1,0 +1,18 @@
+GEOGRAPHY: Moore County, TX
+GEOGRAPHIC CODE: 48341 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,399
+  under 18: 31.5%
+  age 65+: 10.7%
+  White alone: 76.7%
+  Black alone: 3.8%
+  Asian alone: 6.8%
+  Hispanic or Latino: 56.1%
+  estimated median household income: $56,473
+  poverty rate: 12.8%
+  homeownership: 65.8%
+  estimated median home value: $121,863
+  estimated median gross rent: $816
+  unemployment: 5.0%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

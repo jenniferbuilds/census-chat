@@ -1,0 +1,18 @@
+GEOGRAPHY: Androscoggin County, ME
+GEOGRAPHIC CODE: 23001 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 107,317
+  under 18: 21.9%
+  age 65+: 16.3%
+  White alone: 92.0%
+  Black alone: 1.8%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $49,510
+  poverty rate: 14.3%
+  homeownership: 64.0%
+  estimated median home value: $152,017
+  estimated median gross rent: $724
+  unemployment: 5.2%
+  bachelor's degree or higher: 22.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

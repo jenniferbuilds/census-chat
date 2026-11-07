@@ -1,0 +1,18 @@
+GEOGRAPHY: Mineral County, MT
+GEOGRAPHIC CODE: 30061 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,211
+  under 18: 18.0%
+  age 65+: 28.0%
+  White alone: 93.2%
+  Black alone: 0.1%
+  Asian alone: 1.4%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $42,385
+  poverty rate: 17.0%
+  homeownership: 73.0%
+  estimated median home value: $165,976
+  estimated median gross rent: $587
+  unemployment: 6.8%
+  bachelor's degree or higher: 17.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

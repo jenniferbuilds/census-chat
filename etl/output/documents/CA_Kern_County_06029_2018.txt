@@ -1,0 +1,18 @@
+GEOGRAPHY: Kern County, CA
+GEOGRAPHIC CODE: 06029 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 883,053
+  under 18: 29.2%
+  age 65+: 10.4%
+  White alone: 75.1%
+  Black alone: 5.5%
+  Asian alone: 4.7%
+  Hispanic or Latino: 52.8%
+  estimated median household income: $52,540
+  poverty rate: 22.0%
+  homeownership: 58.0%
+  estimated median home value: $205,151
+  estimated median gross rent: $956
+  unemployment: 10.3%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

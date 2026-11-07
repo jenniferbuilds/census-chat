@@ -1,0 +1,18 @@
+GEOGRAPHY: Lauderdale County, TN
+GEOGRAPHIC CODE: 47097 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,297
+  under 18: 23.0%
+  age 65+: 15.2%
+  White alone: 62.3%
+  Black alone: 33.5%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $37,977
+  poverty rate: 22.3%
+  homeownership: 57.7%
+  estimated median home value: $84,082
+  estimated median gross rent: $646
+  unemployment: 8.3%
+  bachelor's degree or higher: 8.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

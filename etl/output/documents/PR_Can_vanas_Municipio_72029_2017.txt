@@ -1,0 +1,18 @@
+GEOGRAPHY: Canóvanas Municipio, PR
+GEOGRAPHIC CODE: 72029 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,779
+  under 18: 22.9%
+  age 65+: 15.2%
+  White alone: 50.2%
+  Black alone: 11.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 99.8%
+  estimated median household income: $19,987
+  poverty rate: 42.8%
+  homeownership: 77.1%
+  estimated median home value: $115,922
+  estimated median gross rent: $512
+  unemployment: 23.3%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Scott County, MO
+GEOGRAPHIC CODE: 29201 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,633
+  under 18: 23.8%
+  age 65+: 17.8%
+  White alone: 85.2%
+  Black alone: 11.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $44,332
+  poverty rate: 19.8%
+  homeownership: 66.7%
+  estimated median home value: $109,234
+  estimated median gross rent: $687
+  unemployment: 4.4%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

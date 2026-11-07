@@ -1,0 +1,17 @@
+GEOGRAPHY: Palo Pinto County, TX
+GEOGRAPHIC CODE: 48363 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,922
+  under 18: 23.8%
+  age 65+: 18.2%
+  White alone: 91.5%
+  Black alone: 2.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 19.6%
+  estimated median household income: $42,673
+  homeownership: 68.2%
+  estimated median home value: $87,022
+  estimated median gross rent: $724
+  unemployment: 6.7%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

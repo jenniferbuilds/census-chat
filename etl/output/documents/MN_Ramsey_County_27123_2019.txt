@@ -1,0 +1,18 @@
+GEOGRAPHY: Ramsey County, MN
+GEOGRAPHIC CODE: 27123 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 544,442
+  under 18: 23.3%
+  age 65+: 14.1%
+  White alone: 66.3%
+  Black alone: 12.1%
+  Asian alone: 14.4%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $65,575
+  poverty rate: 14.0%
+  homeownership: 59.4%
+  estimated median home value: $229,619
+  estimated median gross rent: $1,007
+  unemployment: 4.5%
+  bachelor's degree or higher: 42.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

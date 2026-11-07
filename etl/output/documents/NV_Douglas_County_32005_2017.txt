@@ -1,0 +1,18 @@
+GEOGRAPHY: Douglas County, NV
+GEOGRAPHIC CODE: 32005 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,632
+  under 18: 17.9%
+  age 65+: 25.4%
+  White alone: 88.2%
+  Black alone: 0.6%
+  Asian alone: 1.5%
+  Hispanic or Latino: 12.3%
+  estimated median household income: $61,712
+  poverty rate: 9.8%
+  homeownership: 69.4%
+  estimated median home value: $311,443
+  estimated median gross rent: $1,094
+  unemployment: 6.2%
+  bachelor's degree or higher: 27.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

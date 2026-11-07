@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, MN
+GEOGRAPHIC CODE: 27081 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,707
+  under 18: 23.0%
+  age 65+: 24.6%
+  White alone: 97.8%
+  Black alone: 0.3%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $53,176
+  poverty rate: 10.4%
+  homeownership: 78.5%
+  estimated median home value: $94,255
+  estimated median gross rent: $588
+  unemployment: 2.4%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

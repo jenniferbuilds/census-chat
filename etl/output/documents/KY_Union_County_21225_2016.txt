@@ -1,0 +1,17 @@
+GEOGRAPHY: Union County, KY
+GEOGRAPHIC CODE: 21225 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,065
+  under 18: 20.2%
+  age 65+: 15.0%
+  White alone: 84.2%
+  Black alone: 12.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $41,920
+  homeownership: 71.3%
+  estimated median home value: $82,122
+  estimated median gross rent: $558
+  unemployment: 8.4%
+  bachelor's degree or higher: 12.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

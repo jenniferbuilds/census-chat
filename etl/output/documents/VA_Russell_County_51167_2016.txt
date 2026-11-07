@@ -1,0 +1,17 @@
+GEOGRAPHY: Russell County, VA
+GEOGRAPHIC CODE: 51167 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,973
+  under 18: 19.8%
+  age 65+: 18.5%
+  White alone: 97.3%
+  Black alone: 1.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $38,164
+  homeownership: 77.8%
+  estimated median home value: $94,102
+  estimated median gross rent: $544
+  unemployment: 6.6%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

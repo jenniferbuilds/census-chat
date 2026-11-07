@@ -1,0 +1,18 @@
+GEOGRAPHY: Oceana County, MI
+GEOGRAPHIC CODE: 26127 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,416
+  under 18: 23.0%
+  age 65+: 20.4%
+  White alone: 94.6%
+  Black alone: 1.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 14.9%
+  estimated median household income: $50,114
+  poverty rate: 15.0%
+  homeownership: 82.6%
+  estimated median home value: $118,804
+  estimated median gross rent: $729
+  unemployment: 5.9%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

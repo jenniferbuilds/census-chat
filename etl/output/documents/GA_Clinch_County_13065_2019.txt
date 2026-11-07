@@ -1,0 +1,18 @@
+GEOGRAPHY: Clinch County, GA
+GEOGRAPHIC CODE: 13065 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,686
+  under 18: 25.8%
+  age 65+: 15.5%
+  White alone: 65.6%
+  Black alone: 28.4%
+  Asian alone: 0.0%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $27,158
+  poverty rate: 40.2%
+  homeownership: 74.9%
+  estimated median home value: $60,983
+  estimated median gross rent: $439
+  unemployment: 6.0%
+  bachelor's degree or higher: 10.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

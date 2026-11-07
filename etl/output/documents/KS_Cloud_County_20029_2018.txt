@@ -1,0 +1,18 @@
+GEOGRAPHY: Cloud County, KS
+GEOGRAPHIC CODE: 20029 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,060
+  under 18: 23.1%
+  age 65+: 20.7%
+  White alone: 95.4%
+  Black alone: 1.8%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $43,912
+  poverty rate: 12.1%
+  homeownership: 70.9%
+  estimated median home value: $73,910
+  estimated median gross rent: $628
+  unemployment: 4.7%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

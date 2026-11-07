@@ -1,0 +1,18 @@
+GEOGRAPHY: Addison County, VT
+GEOGRAPHIC CODE: 50001 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,825
+  under 18: 17.9%
+  age 65+: 17.7%
+  White alone: 94.5%
+  Black alone: 1.1%
+  Asian alone: 1.9%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $61,887
+  poverty rate: 7.8%
+  homeownership: 72.4%
+  estimated median home value: $237,014
+  estimated median gross rent: $955
+  unemployment: 4.4%
+  bachelor's degree or higher: 36.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

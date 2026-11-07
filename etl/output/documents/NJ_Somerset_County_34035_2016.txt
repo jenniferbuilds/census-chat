@@ -1,0 +1,17 @@
+GEOGRAPHY: Somerset County, NJ
+GEOGRAPHIC CODE: 34035 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 331,686
+  under 18: 23.2%
+  age 65+: 14.1%
+  White alone: 67.9%
+  Black alone: 9.3%
+  Asian alone: 16.6%
+  Hispanic or Latino: 14.1%
+  estimated median household income: $103,281
+  homeownership: 75.8%
+  estimated median home value: $404,095
+  estimated median gross rent: $1,435
+  unemployment: 5.4%
+  bachelor's degree or higher: 53.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

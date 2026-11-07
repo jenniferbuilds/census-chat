@@ -1,0 +1,17 @@
+GEOGRAPHY: St. Joseph County, IN
+GEOGRAPHIC CODE: 18141 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 267,696
+  under 18: 24.1%
+  age 65+: 14.3%
+  White alone: 79.1%
+  Black alone: 12.9%
+  Asian alone: 2.1%
+  Hispanic or Latino: 8.1%
+  estimated median household income: $46,208
+  homeownership: 68.1%
+  estimated median home value: $116,759
+  estimated median gross rent: $721
+  unemployment: 7.5%
+  bachelor's degree or higher: 28.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

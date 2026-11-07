@@ -1,0 +1,17 @@
+GEOGRAPHY: Sampson County, NC
+GEOGRAPHIC CODE: 37163 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,713
+  under 18: 24.8%
+  age 65+: 16.2%
+  White alone: 62.2%
+  Black alone: 25.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 18.2%
+  estimated median household income: $36,621
+  homeownership: 69.4%
+  estimated median home value: $87,934
+  estimated median gross rent: $598
+  unemployment: 9.4%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

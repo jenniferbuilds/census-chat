@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, SD
+GEOGRAPHIC CODE: 46083 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 53,147
+  under 18: 28.8%
+  age 65+: 11.1%
+  White alone: 94.9%
+  Black alone: 1.1%
+  Asian alone: 1.1%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $81,981
+  poverty rate: 3.0%
+  homeownership: 78.9%
+  estimated median home value: $209,680
+  estimated median gross rent: $895
+  unemployment: 2.1%
+  bachelor's degree or higher: 41.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

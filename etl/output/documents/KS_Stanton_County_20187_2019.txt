@@ -1,0 +1,18 @@
+GEOGRAPHY: Stanton County, KS
+GEOGRAPHIC CODE: 20187 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,052
+  under 18: 29.9%
+  age 65+: 17.1%
+  White alone: 97.1%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 40.6%
+  estimated median household income: $51,494
+  poverty rate: 18.3%
+  homeownership: 74.4%
+  estimated median home value: $92,619
+  estimated median gross rent: $675
+  unemployment: 1.5%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

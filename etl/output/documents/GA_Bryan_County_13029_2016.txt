@@ -1,0 +1,17 @@
+GEOGRAPHY: Bryan County, GA
+GEOGRAPHIC CODE: 13029 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,104
+  under 18: 29.1%
+  age 65+: 10.0%
+  White alone: 78.4%
+  Black alone: 15.2%
+  Asian alone: 1.8%
+  Hispanic or Latino: 6.4%
+  estimated median household income: $66,815
+  homeownership: 69.4%
+  estimated median home value: $201,963
+  estimated median gross rent: $1,088
+  unemployment: 9.3%
+  bachelor's degree or higher: 33.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

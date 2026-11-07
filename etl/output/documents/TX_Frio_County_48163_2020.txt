@@ -1,0 +1,18 @@
+GEOGRAPHY: Frio County, TX
+GEOGRAPHIC CODE: 48163 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,013
+  under 18: 23.4%
+  age 65+: 12.1%
+  White alone: 79.0%
+  Black alone: 4.0%
+  Asian alone: 1.0%
+  Hispanic or Latino: 79.6%
+  estimated median household income: $48,663
+  poverty rate: 19.6%
+  homeownership: 66.8%
+  estimated median home value: $85,955
+  estimated median gross rent: $807
+  unemployment: 7.5%
+  bachelor's degree or higher: 8.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

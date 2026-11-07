@@ -1,0 +1,18 @@
+GEOGRAPHY: Itawamba County, MS
+GEOGRAPHIC CODE: 28057 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,439
+  under 18: 22.1%
+  age 65+: 16.7%
+  White alone: 91.1%
+  Black alone: 7.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $38,767
+  poverty rate: 18.4%
+  homeownership: 75.3%
+  estimated median home value: $87,041
+  estimated median gross rent: $647
+  unemployment: 6.1%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

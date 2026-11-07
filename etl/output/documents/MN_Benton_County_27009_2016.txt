@@ -1,0 +1,17 @@
+GEOGRAPHY: Benton County, MN
+GEOGRAPHIC CODE: 27009 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,457
+  under 18: 24.6%
+  age 65+: 13.8%
+  White alone: 93.9%
+  Black alone: 2.7%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $52,118
+  homeownership: 69.1%
+  estimated median home value: $158,370
+  estimated median gross rent: $668
+  unemployment: 5.0%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

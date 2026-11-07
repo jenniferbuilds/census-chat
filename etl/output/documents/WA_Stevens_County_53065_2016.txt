@@ -1,0 +1,17 @@
+GEOGRAPHY: Stevens County, WA
+GEOGRAPHIC CODE: 53065 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,744
+  under 18: 22.3%
+  age 65+: 20.6%
+  White alone: 88.9%
+  Black alone: 0.5%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $44,205
+  homeownership: 75.9%
+  estimated median home value: $174,808
+  estimated median gross rent: $674
+  unemployment: 8.9%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

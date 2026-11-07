@@ -1,0 +1,18 @@
+GEOGRAPHY: Russell County, KS
+GEOGRAPHIC CODE: 20167 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,948
+  under 18: 20.8%
+  age 65+: 23.6%
+  White alone: 94.5%
+  Black alone: 2.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $44,770
+  poverty rate: 11.1%
+  homeownership: 78.0%
+  estimated median home value: $93,435
+  estimated median gross rent: $636
+  unemployment: 6.6%
+  bachelor's degree or higher: 23.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

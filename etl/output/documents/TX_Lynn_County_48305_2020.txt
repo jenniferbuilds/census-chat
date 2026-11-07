@@ -1,0 +1,18 @@
+GEOGRAPHY: Lynn County, TX
+GEOGRAPHIC CODE: 48305 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,886
+  under 18: 26.7%
+  age 65+: 16.8%
+  White alone: 83.4%
+  Black alone: 0.9%
+  Asian alone: 0.5%
+  Hispanic or Latino: 46.6%
+  estimated median household income: $46,704
+  poverty rate: 16.0%
+  homeownership: 69.2%
+  estimated median home value: $89,899
+  estimated median gross rent: $825
+  unemployment: 3.7%
+  bachelor's degree or higher: 20.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

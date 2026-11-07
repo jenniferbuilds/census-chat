@@ -1,0 +1,18 @@
+GEOGRAPHY: Hancock County, ME
+GEOGRAPHIC CODE: 23009 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 54,601
+  under 18: 17.3%
+  age 65+: 24.0%
+  White alone: 95.9%
+  Black alone: 0.9%
+  Asian alone: 1.1%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $57,364
+  poverty rate: 10.8%
+  homeownership: 76.3%
+  estimated median home value: $212,683
+  estimated median gross rent: $818
+  unemployment: 4.1%
+  bachelor's degree or higher: 34.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Marshall County, MS
+GEOGRAPHIC CODE: 28093 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,196
+  under 18: 22.2%
+  age 65+: 15.1%
+  White alone: 49.2%
+  Black alone: 47.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $40,772
+  homeownership: 76.5%
+  estimated median home value: $93,094
+  estimated median gross rent: $645
+  unemployment: 7.5%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

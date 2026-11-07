@@ -1,0 +1,18 @@
+GEOGRAPHY: Red Willow County, NE
+GEOGRAPHIC CODE: 31145 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,806
+  under 18: 22.9%
+  age 65+: 19.6%
+  White alone: 96.2%
+  Black alone: 0.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $46,511
+  poverty rate: 9.7%
+  homeownership: 73.5%
+  estimated median home value: $99,575
+  estimated median gross rent: $618
+  unemployment: 3.2%
+  bachelor's degree or higher: 18.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

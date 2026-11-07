@@ -1,0 +1,18 @@
+GEOGRAPHY: Burke County, ND
+GEOGRAPHIC CODE: 38013 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,182
+  under 18: 27.3%
+  age 65+: 16.9%
+  White alone: 96.2%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $77,232
+  poverty rate: 5.9%
+  homeownership: 78.9%
+  estimated median home value: $114,375
+  estimated median gross rent: $716
+  unemployment: 2.4%
+  bachelor's degree or higher: 22.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

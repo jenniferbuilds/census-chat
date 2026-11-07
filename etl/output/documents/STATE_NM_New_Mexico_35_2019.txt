@@ -1,0 +1,18 @@
+GEOGRAPHY: New Mexico (NM)
+GEOGRAPHIC CODE: 35 | LEVEL: State | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,092,454
+  under 18: 23.3%
+  age 65+: 16.9%
+  White alone: 74.8%
+  Black alone: 2.1%
+  Asian alone: 1.6%
+  Hispanic or Latino: 48.8%
+  estimated median household income: $49,754
+  poverty rate: 19.1%
+  homeownership: 67.7%
+  estimated median home value: $171,416
+  estimated median gross rent: $844
+  unemployment: 6.7%
+  bachelor's degree or higher: 27.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

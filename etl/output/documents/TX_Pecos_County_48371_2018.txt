@@ -1,0 +1,18 @@
+GEOGRAPHY: Pecos County, TX
+GEOGRAPHIC CODE: 48371 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,797
+  under 18: 24.4%
+  age 65+: 12.6%
+  White alone: 82.8%
+  Black alone: 3.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 68.6%
+  estimated median household income: $51,681
+  poverty rate: 12.3%
+  homeownership: 71.0%
+  estimated median home value: $75,115
+  estimated median gross rent: $872
+  unemployment: 3.5%
+  bachelor's degree or higher: 9.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Adams County, WA
+GEOGRAPHIC CODE: 53001 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,100
+  under 18: 35.2%
+  age 65+: 10.4%
+  White alone: 70.9%
+  Black alone: 0.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 61.9%
+  estimated median household income: $47,200
+  homeownership: 67.7%
+  estimated median home value: $146,387
+  estimated median gross rent: $697
+  unemployment: 6.1%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

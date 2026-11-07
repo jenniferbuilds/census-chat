@@ -1,0 +1,18 @@
+GEOGRAPHY: Dickinson County, IA
+GEOGRAPHIC CODE: 19059 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,056
+  under 18: 18.9%
+  age 65+: 24.9%
+  White alone: 97.4%
+  Black alone: 0.7%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $58,930
+  poverty rate: 8.0%
+  homeownership: 79.0%
+  estimated median home value: $179,316
+  estimated median gross rent: $771
+  unemployment: 2.8%
+  bachelor's degree or higher: 31.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

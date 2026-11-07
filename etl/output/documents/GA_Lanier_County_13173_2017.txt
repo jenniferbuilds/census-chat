@@ -1,0 +1,18 @@
+GEOGRAPHY: Lanier County, GA
+GEOGRAPHIC CODE: 13173 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,388
+  under 18: 25.5%
+  age 65+: 12.6%
+  White alone: 73.9%
+  Black alone: 24.1%
+  Asian alone: 0.3%
+  Hispanic or Latino: 5.5%
+  estimated median household income: $32,007
+  poverty rate: 28.7%
+  homeownership: 61.6%
+  estimated median home value: $101,951
+  estimated median gross rent: $681
+  unemployment: 10.6%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Grundy County, IL
+GEOGRAPHIC CODE: 17063 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 50,666
+  under 18: 25.4%
+  age 65+: 13.6%
+  White alone: 93.3%
+  Black alone: 1.4%
+  Asian alone: 0.8%
+  Hispanic or Latino: 9.9%
+  estimated median household income: $77,824
+  poverty rate: 7.6%
+  homeownership: 71.3%
+  estimated median home value: $199,314
+  estimated median gross rent: $999
+  unemployment: 4.2%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

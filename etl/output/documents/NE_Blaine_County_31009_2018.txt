@@ -1,0 +1,18 @@
+GEOGRAPHY: Blaine County, NE
+GEOGRAPHIC CODE: 31009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 480
+  under 18: 21.9%
+  age 65+: 25.6%
+  White alone: 100.0%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $51,356
+  poverty rate: 12.5%
+  homeownership: 66.5%
+  estimated median home value: $83,929
+  estimated median gross rent: $650
+  unemployment: 0.0%
+  bachelor's degree or higher: 22.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

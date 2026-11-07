@@ -1,0 +1,18 @@
+GEOGRAPHY: Cumberland County, ME
+GEOGRAPHIC CODE: 23005 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 294,520
+  under 18: 18.6%
+  age 65+: 18.5%
+  White alone: 90.7%
+  Black alone: 3.1%
+  Asian alone: 2.3%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $76,181
+  poverty rate: 8.3%
+  homeownership: 70.0%
+  estimated median home value: $288,785
+  estimated median gross rent: $1,193
+  unemployment: 3.2%
+  bachelor's degree or higher: 48.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

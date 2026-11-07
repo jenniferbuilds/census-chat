@@ -1,0 +1,18 @@
+GEOGRAPHY: Swisher County, TX
+GEOGRAPHIC CODE: 48437 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,403
+  under 18: 24.9%
+  age 65+: 19.1%
+  White alone: 84.2%
+  Black alone: 7.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 44.4%
+  estimated median household income: $36,008
+  poverty rate: 25.3%
+  homeownership: 72.4%
+  estimated median home value: $78,576
+  estimated median gross rent: $701
+  unemployment: 7.4%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

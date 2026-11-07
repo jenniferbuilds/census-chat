@@ -1,0 +1,18 @@
+GEOGRAPHY: Grant County, OK
+GEOGRAPHIC CODE: 40053 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,418
+  under 18: 24.0%
+  age 65+: 20.7%
+  White alone: 89.7%
+  Black alone: 1.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $56,258
+  poverty rate: 9.4%
+  homeownership: 75.9%
+  estimated median home value: $78,500
+  estimated median gross rent: $665
+  unemployment: 3.0%
+  bachelor's degree or higher: 23.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

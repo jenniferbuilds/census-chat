@@ -1,0 +1,17 @@
+GEOGRAPHY: Tippecanoe County, IN
+GEOGRAPHIC CODE: 18157 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 183,397
+  under 18: 20.7%
+  age 65+: 10.2%
+  White alone: 84.1%
+  Black alone: 4.7%
+  Asian alone: 7.6%
+  Hispanic or Latino: 8.0%
+  estimated median household income: $47,785
+  homeownership: 53.4%
+  estimated median home value: $139,489
+  estimated median gross rent: $802
+  unemployment: 6.2%
+  bachelor's degree or higher: 35.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

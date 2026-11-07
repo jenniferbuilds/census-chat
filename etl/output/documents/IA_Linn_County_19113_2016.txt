@@ -1,0 +1,17 @@
+GEOGRAPHY: Linn County, IA
+GEOGRAPHIC CODE: 19113 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 218,076
+  under 18: 23.9%
+  age 65+: 14.3%
+  White alone: 89.5%
+  Black alone: 4.7%
+  Asian alone: 2.1%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $60,941
+  homeownership: 73.5%
+  estimated median home value: $148,591
+  estimated median gross rent: $709
+  unemployment: 4.2%
+  bachelor's degree or higher: 32.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

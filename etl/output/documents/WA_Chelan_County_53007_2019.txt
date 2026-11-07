@@ -1,0 +1,18 @@
+GEOGRAPHY: Chelan County, WA
+GEOGRAPHIC CODE: 53007 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 76,229
+  under 18: 23.7%
+  age 65+: 18.6%
+  White alone: 80.4%
+  Black alone: 0.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 27.9%
+  estimated median household income: $58,490
+  poverty rate: 11.7%
+  homeownership: 64.4%
+  estimated median home value: $292,946
+  estimated median gross rent: $909
+  unemployment: 3.9%
+  bachelor's degree or higher: 25.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

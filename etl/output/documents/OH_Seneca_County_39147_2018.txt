@@ -1,0 +1,18 @@
+GEOGRAPHY: Seneca County, OH
+GEOGRAPHIC CODE: 39147 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 55,475
+  under 18: 22.1%
+  age 65+: 17.0%
+  White alone: 93.8%
+  Black alone: 2.8%
+  Asian alone: 0.6%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $49,947
+  poverty rate: 14.7%
+  homeownership: 71.6%
+  estimated median home value: $101,758
+  estimated median gross rent: $700
+  unemployment: 4.9%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

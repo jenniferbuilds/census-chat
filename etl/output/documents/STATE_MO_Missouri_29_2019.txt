@@ -1,0 +1,18 @@
+GEOGRAPHY: Missouri (MO)
+GEOGRAPHIC CODE: 29 | LEVEL: State | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,104,910
+  under 18: 22.6%
+  age 65+: 16.5%
+  White alone: 82.2%
+  Black alone: 11.5%
+  Asian alone: 2.0%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $55,835
+  poverty rate: 13.7%
+  homeownership: 66.8%
+  estimated median home value: $157,180
+  estimated median gross rent: $830
+  unemployment: 4.6%
+  bachelor's degree or higher: 29.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

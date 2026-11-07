@@ -1,0 +1,18 @@
+GEOGRAPHY: Franklin County, MA
+GEOGRAPHIC CODE: 25011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 70,935
+  under 18: 17.7%
+  age 65+: 20.3%
+  White alone: 93.1%
+  Black alone: 1.5%
+  Asian alone: 1.6%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $59,567
+  poverty rate: 10.4%
+  homeownership: 69.3%
+  estimated median home value: $229,333
+  estimated median gross rent: $926
+  unemployment: 5.2%
+  bachelor's degree or higher: 37.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

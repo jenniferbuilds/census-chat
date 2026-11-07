@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, WY
+GEOGRAPHIC CODE: 56023 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,791
+  under 18: 27.4%
+  age 65+: 15.3%
+  White alone: 95.9%
+  Black alone: 0.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $64,815
+  poverty rate: 9.3%
+  homeownership: 78.4%
+  estimated median home value: $205,884
+  estimated median gross rent: $836
+  unemployment: 6.0%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

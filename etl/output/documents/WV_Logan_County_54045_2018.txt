@@ -1,0 +1,18 @@
+GEOGRAPHY: Logan County, WV
+GEOGRAPHIC CODE: 54045 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,801
+  under 18: 20.7%
+  age 65+: 18.5%
+  White alone: 96.6%
+  Black alone: 1.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $37,954
+  poverty rate: 23.3%
+  homeownership: 73.4%
+  estimated median home value: $90,056
+  estimated median gross rent: $646
+  unemployment: 13.2%
+  bachelor's degree or higher: 10.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

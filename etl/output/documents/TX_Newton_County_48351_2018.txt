@@ -1,0 +1,18 @@
+GEOGRAPHY: Newton County, TX
+GEOGRAPHIC CODE: 48351 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,057
+  under 18: 20.5%
+  age 65+: 19.6%
+  White alone: 77.0%
+  Black alone: 19.7%
+  Asian alone: 1.2%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $41,377
+  poverty rate: 20.6%
+  homeownership: 86.4%
+  estimated median home value: $74,617
+  estimated median gross rent: $682
+  unemployment: 8.0%
+  bachelor's degree or higher: 8.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

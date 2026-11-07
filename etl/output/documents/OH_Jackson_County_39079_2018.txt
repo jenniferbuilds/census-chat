@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, OH
+GEOGRAPHIC CODE: 39079 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,524
+  under 18: 24.2%
+  age 65+: 16.4%
+  White alone: 96.9%
+  Black alone: 0.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $45,341
+  poverty rate: 19.6%
+  homeownership: 70.2%
+  estimated median home value: $94,636
+  estimated median gross rent: $695
+  unemployment: 10.5%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

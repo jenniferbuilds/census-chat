@@ -1,0 +1,18 @@
+GEOGRAPHY: Meigs County, OH
+GEOGRAPHIC CODE: 39105 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,078
+  under 18: 21.6%
+  age 65+: 19.3%
+  White alone: 97.1%
+  Black alone: 1.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.7%
+  estimated median household income: $44,917
+  poverty rate: 19.6%
+  homeownership: 78.6%
+  estimated median home value: $94,983
+  estimated median gross rent: $622
+  unemployment: 7.8%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

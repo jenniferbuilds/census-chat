@@ -1,0 +1,18 @@
+GEOGRAPHY: Erie County, NY
+GEOGRAPHIC CODE: 36029 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 919,866
+  under 18: 20.5%
+  age 65+: 17.2%
+  White alone: 77.9%
+  Black alone: 13.4%
+  Asian alone: 3.5%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $56,231
+  poverty rate: 14.5%
+  homeownership: 64.8%
+  estimated median home value: $146,531
+  estimated median gross rent: $804
+  unemployment: 4.8%
+  bachelor's degree or higher: 33.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Glascock County, GA
+GEOGRAPHIC CODE: 13125 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,996
+  under 18: 22.8%
+  age 65+: 16.5%
+  White alone: 88.6%
+  Black alone: 10.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $45,000
+  poverty rate: 18.9%
+  homeownership: 74.7%
+  estimated median home value: $81,695
+  estimated median gross rent: $625
+  unemployment: 1.9%
+  bachelor's degree or higher: 11.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Miami-Dade County, FL
+GEOGRAPHIC CODE: 12086 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,664,418
+  under 18: 20.6%
+  age 65+: 15.2%
+  White alone: 75.6%
+  Black alone: 18.4%
+  Asian alone: 1.6%
+  Hispanic or Latino: 66.4%
+  estimated median household income: $44,349
+  homeownership: 52.6%
+  estimated median home value: $221,126
+  estimated median gross rent: $1,143
+  unemployment: 8.5%
+  bachelor's degree or higher: 27.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

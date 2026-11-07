@@ -1,0 +1,18 @@
+GEOGRAPHY: Calloway County, KY
+GEOGRAPHIC CODE: 21035 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,616
+  under 18: 18.1%
+  age 65+: 16.4%
+  White alone: 91.3%
+  Black alone: 3.7%
+  Asian alone: 1.8%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $39,327
+  poverty rate: 22.4%
+  homeownership: 63.6%
+  estimated median home value: $130,067
+  estimated median gross rent: $651
+  unemployment: 5.7%
+  bachelor's degree or higher: 28.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

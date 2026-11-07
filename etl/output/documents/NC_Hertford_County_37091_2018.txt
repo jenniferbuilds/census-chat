@@ -1,0 +1,18 @@
+GEOGRAPHY: Hertford County, NC
+GEOGRAPHIC CODE: 37091 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,153
+  under 18: 19.2%
+  age 65+: 18.8%
+  White alone: 34.9%
+  Black alone: 59.5%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $36,934
+  poverty rate: 23.4%
+  homeownership: 67.1%
+  estimated median home value: $85,429
+  estimated median gross rent: $733
+  unemployment: 11.0%
+  bachelor's degree or higher: 14.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

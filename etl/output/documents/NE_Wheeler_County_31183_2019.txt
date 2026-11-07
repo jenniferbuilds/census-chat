@@ -1,0 +1,18 @@
+GEOGRAPHY: Wheeler County, NE
+GEOGRAPHIC CODE: 31183 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 783
+  under 18: 20.1%
+  age 65+: 23.9%
+  White alone: 99.1%
+  Black alone: 0.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $53,256
+  poverty rate: 13.2%
+  homeownership: 67.1%
+  estimated median home value: $97,778
+  estimated median gross rent: $508
+  unemployment: 0.0%
+  bachelor's degree or higher: 19.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

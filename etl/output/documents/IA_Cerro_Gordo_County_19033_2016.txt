@@ -1,0 +1,17 @@
+GEOGRAPHY: Cerro Gordo County, IA
+GEOGRAPHIC CODE: 19033 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,303
+  under 18: 20.8%
+  age 65+: 19.7%
+  White alone: 94.9%
+  Black alone: 1.6%
+  Asian alone: 1.1%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $48,135
+  homeownership: 69.9%
+  estimated median home value: $115,939
+  estimated median gross rent: $645
+  unemployment: 4.1%
+  bachelor's degree or higher: 21.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Hardin County, OH
+GEOGRAPHIC CODE: 39065 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,542
+  under 18: 23.4%
+  age 65+: 15.2%
+  White alone: 96.2%
+  Black alone: 0.7%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $48,531
+  poverty rate: 16.7%
+  homeownership: 70.9%
+  estimated median home value: $98,407
+  estimated median gross rent: $663
+  unemployment: 5.9%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

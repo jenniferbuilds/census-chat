@@ -1,0 +1,17 @@
+GEOGRAPHY: Centre County, PA
+GEOGRAPHIC CODE: 42027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 159,178
+  under 18: 15.4%
+  age 65+: 12.4%
+  White alone: 88.0%
+  Black alone: 3.8%
+  Asian alone: 5.8%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $54,803
+  homeownership: 61.0%
+  estimated median home value: $205,976
+  estimated median gross rent: $930
+  unemployment: 4.9%
+  bachelor's degree or higher: 42.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

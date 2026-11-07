@@ -1,0 +1,18 @@
+GEOGRAPHY: Gates County, NC
+GEOGRAPHIC CODE: 37073 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,563
+  under 18: 20.7%
+  age 65+: 19.1%
+  White alone: 63.3%
+  Black alone: 33.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $52,578
+  poverty rate: 11.1%
+  homeownership: 78.3%
+  estimated median home value: $143,959
+  estimated median gross rent: $794
+  unemployment: 6.8%
+  bachelor's degree or higher: 14.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

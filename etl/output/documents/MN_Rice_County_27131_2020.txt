@@ -1,0 +1,18 @@
+GEOGRAPHY: Rice County, MN
+GEOGRAPHIC CODE: 27131 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 66,549
+  under 18: 21.8%
+  age 65+: 15.7%
+  White alone: 84.6%
+  Black alone: 5.7%
+  Asian alone: 2.1%
+  Hispanic or Latino: 8.3%
+  estimated median household income: $70,817
+  poverty rate: 10.1%
+  homeownership: 74.4%
+  estimated median home value: $232,762
+  estimated median gross rent: $882
+  unemployment: 5.1%
+  bachelor's degree or higher: 28.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

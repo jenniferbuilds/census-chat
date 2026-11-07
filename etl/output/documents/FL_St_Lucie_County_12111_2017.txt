@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Lucie County, FL
+GEOGRAPHIC CODE: 12111 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 298,763
+  under 18: 20.6%
+  age 65+: 22.8%
+  White alone: 73.5%
+  Black alone: 19.7%
+  Asian alone: 1.9%
+  Hispanic or Latino: 18.1%
+  estimated median household income: $47,059
+  poverty rate: 16.6%
+  homeownership: 72.2%
+  estimated median home value: $150,745
+  estimated median gross rent: $1,088
+  unemployment: 7.6%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

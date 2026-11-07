@@ -1,0 +1,18 @@
+GEOGRAPHY: Madison County, OH
+GEOGRAPHIC CODE: 39097 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,135
+  under 18: 20.6%
+  age 65+: 15.2%
+  White alone: 90.2%
+  Black alone: 5.9%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $68,522
+  poverty rate: 9.1%
+  homeownership: 71.2%
+  estimated median home value: $166,522
+  estimated median gross rent: $858
+  unemployment: 4.2%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

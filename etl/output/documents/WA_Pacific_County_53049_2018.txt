@@ -1,0 +1,18 @@
+GEOGRAPHY: Pacific County, WA
+GEOGRAPHIC CODE: 53049 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,281
+  under 18: 17.0%
+  age 65+: 29.3%
+  White alone: 88.5%
+  Black alone: 0.3%
+  Asian alone: 1.8%
+  Hispanic or Latino: 9.4%
+  estimated median household income: $44,847
+  poverty rate: 17.4%
+  homeownership: 77.8%
+  estimated median home value: $170,807
+  estimated median gross rent: $753
+  unemployment: 6.8%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

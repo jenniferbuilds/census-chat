@@ -1,0 +1,18 @@
+GEOGRAPHY: Cayuga County, NY
+GEOGRAPHIC CODE: 36011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 77,868
+  under 18: 20.1%
+  age 65+: 17.8%
+  White alone: 91.9%
+  Black alone: 4.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $56,688
+  poverty rate: 11.7%
+  homeownership: 71.0%
+  estimated median home value: $122,957
+  estimated median gross rent: $747
+  unemployment: 5.4%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

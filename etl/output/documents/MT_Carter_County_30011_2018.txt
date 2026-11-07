@@ -1,0 +1,18 @@
+GEOGRAPHY: Carter County, MT
+GEOGRAPHIC CODE: 30011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,318
+  under 18: 19.5%
+  age 65+: 25.4%
+  White alone: 97.5%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.2%
+  estimated median household income: $43,676
+  poverty rate: 13.3%
+  homeownership: 81.9%
+  estimated median home value: $101,293
+  estimated median gross rent: $725
+  unemployment: 2.1%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

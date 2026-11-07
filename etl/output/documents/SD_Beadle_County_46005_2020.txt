@@ -1,0 +1,18 @@
+GEOGRAPHY: Beadle County, SD
+GEOGRAPHIC CODE: 46005 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,338
+  under 18: 27.0%
+  age 65+: 18.4%
+  White alone: 79.4%
+  Black alone: 1.2%
+  Asian alone: 5.6%
+  Hispanic or Latino: 10.7%
+  estimated median household income: $53,255
+  poverty rate: 14.2%
+  homeownership: 66.1%
+  estimated median home value: $120,874
+  estimated median gross rent: $691
+  unemployment: 2.3%
+  bachelor's degree or higher: 23.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

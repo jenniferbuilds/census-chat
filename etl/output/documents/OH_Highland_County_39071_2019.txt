@@ -1,0 +1,18 @@
+GEOGRAPHY: Highland County, OH
+GEOGRAPHIC CODE: 39071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,016
+  under 18: 24.0%
+  age 65+: 18.0%
+  White alone: 95.7%
+  Black alone: 1.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $44,318
+  poverty rate: 19.4%
+  homeownership: 68.4%
+  estimated median home value: $117,413
+  estimated median gross rent: $681
+  unemployment: 6.7%
+  bachelor's degree or higher: 13.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

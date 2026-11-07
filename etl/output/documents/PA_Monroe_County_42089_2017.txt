@@ -1,0 +1,18 @@
+GEOGRAPHY: Monroe County, PA
+GEOGRAPHIC CODE: 42089 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 167,306
+  under 18: 20.6%
+  age 65+: 15.7%
+  White alone: 77.0%
+  Black alone: 14.1%
+  Asian alone: 2.3%
+  Hispanic or Latino: 14.9%
+  estimated median household income: $61,469
+  poverty rate: 11.1%
+  homeownership: 78.2%
+  estimated median home value: $167,179
+  estimated median gross rent: $1,071
+  unemployment: 9.2%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

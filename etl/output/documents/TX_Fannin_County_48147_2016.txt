@@ -1,0 +1,17 @@
+GEOGRAPHY: Fannin County, TX
+GEOGRAPHIC CODE: 48147 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,757
+  under 18: 21.1%
+  age 65+: 18.6%
+  White alone: 88.1%
+  Black alone: 6.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 10.4%
+  estimated median household income: $45,507
+  homeownership: 75.0%
+  estimated median home value: $94,540
+  estimated median gross rent: $709
+  unemployment: 6.4%
+  bachelor's degree or higher: 15.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

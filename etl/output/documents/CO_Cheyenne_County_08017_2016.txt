@@ -1,0 +1,17 @@
+GEOGRAPHY: Cheyenne County, CO
+GEOGRAPHIC CODE: 08017 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,071
+  under 18: 29.6%
+  age 65+: 11.6%
+  White alone: 96.0%
+  Black alone: 0.3%
+  Asian alone: 1.8%
+  Hispanic or Latino: 12.8%
+  estimated median household income: $55,000
+  homeownership: 76.2%
+  estimated median home value: $89,167
+  estimated median gross rent: $625
+  unemployment: 8.8%
+  bachelor's degree or higher: 23.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

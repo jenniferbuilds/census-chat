@@ -1,0 +1,18 @@
+GEOGRAPHY: Westmoreland County, VA
+GEOGRAPHIC CODE: 51193 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,873
+  under 18: 18.8%
+  age 65+: 25.3%
+  White alone: 67.2%
+  Black alone: 25.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $54,184
+  poverty rate: 15.7%
+  homeownership: 73.9%
+  estimated median home value: $200,965
+  estimated median gross rent: $884
+  unemployment: 12.7%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

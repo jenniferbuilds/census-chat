@@ -1,0 +1,18 @@
+GEOGRAPHY: Fairfield County, SC
+GEOGRAPHIC CODE: 45039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,712
+  under 18: 19.7%
+  age 65+: 19.7%
+  White alone: 39.7%
+  Black alone: 56.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $36,523
+  poverty rate: 22.9%
+  homeownership: 73.7%
+  estimated median home value: $102,669
+  estimated median gross rent: $722
+  unemployment: 7.9%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

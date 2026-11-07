@@ -1,0 +1,18 @@
+GEOGRAPHY: Cuyahoga County, OH
+GEOGRAPHIC CODE: 39035 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,257,401
+  under 18: 21.3%
+  age 65+: 17.0%
+  White alone: 63.0%
+  Black alone: 29.6%
+  Asian alone: 2.8%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $46,819
+  poverty rate: 18.3%
+  homeownership: 58.8%
+  estimated median home value: $123,894
+  estimated median gross rent: $766
+  unemployment: 8.9%
+  bachelor's degree or higher: 31.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

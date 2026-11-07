@@ -1,0 +1,18 @@
+GEOGRAPHY: Newton County, GA
+GEOGRAPHIC CODE: 13217 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 105,042
+  under 18: 26.9%
+  age 65+: 12.0%
+  White alone: 52.0%
+  Black alone: 43.3%
+  Asian alone: 1.0%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $53,066
+  poverty rate: 16.7%
+  homeownership: 69.0%
+  estimated median home value: $123,324
+  estimated median gross rent: $936
+  unemployment: 9.0%
+  bachelor's degree or higher: 19.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

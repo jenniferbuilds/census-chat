@@ -1,0 +1,18 @@
+GEOGRAPHY: Ector County, TX
+GEOGRAPHIC CODE: 48135 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 155,744
+  under 18: 29.9%
+  age 65+: 9.5%
+  White alone: 82.3%
+  Black alone: 4.4%
+  Asian alone: 1.1%
+  Hispanic or Latino: 58.7%
+  estimated median household income: $59,700
+  poverty rate: 12.3%
+  homeownership: 66.0%
+  estimated median home value: $120,833
+  estimated median gross rent: $971
+  unemployment: 6.9%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

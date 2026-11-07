@@ -1,0 +1,18 @@
+GEOGRAPHY: Audrain County, MO
+GEOGRAPHIC CODE: 29007 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,336
+  under 18: 22.9%
+  age 65+: 17.8%
+  White alone: 89.6%
+  Black alone: 5.5%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $44,579
+  poverty rate: 14.8%
+  homeownership: 70.5%
+  estimated median home value: $89,159
+  estimated median gross rent: $630
+  unemployment: 5.0%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

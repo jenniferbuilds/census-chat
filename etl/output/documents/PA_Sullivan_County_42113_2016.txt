@@ -1,0 +1,17 @@
+GEOGRAPHY: Sullivan County, PA
+GEOGRAPHIC CODE: 42113 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,302
+  under 18: 12.4%
+  age 65+: 26.9%
+  White alone: 94.4%
+  Black alone: 2.5%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $44,921
+  homeownership: 82.6%
+  estimated median home value: $145,833
+  estimated median gross rent: $569
+  unemployment: 8.9%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

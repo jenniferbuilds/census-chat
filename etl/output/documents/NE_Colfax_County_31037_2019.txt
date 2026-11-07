@@ -1,0 +1,18 @@
+GEOGRAPHY: Colfax County, NE
+GEOGRAPHIC CODE: 31037 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,714
+  under 18: 29.8%
+  age 65+: 12.6%
+  White alone: 88.8%
+  Black alone: 3.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 45.4%
+  estimated median household income: $58,621
+  poverty rate: 12.7%
+  homeownership: 72.3%
+  estimated median home value: $101,088
+  estimated median gross rent: $696
+  unemployment: 2.1%
+  bachelor's degree or higher: 15.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Tunica County, MS
+GEOGRAPHIC CODE: 28143 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,988
+  under 18: 29.5%
+  age 65+: 11.8%
+  White alone: 19.1%
+  Black alone: 78.5%
+  Asian alone: 1.4%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $39,031
+  poverty rate: 24.0%
+  homeownership: 40.2%
+  estimated median home value: $107,093
+  estimated median gross rent: $785
+  unemployment: 7.6%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

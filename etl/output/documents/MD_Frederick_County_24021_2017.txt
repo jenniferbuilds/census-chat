@@ -1,0 +1,18 @@
+GEOGRAPHY: Frederick County, MD
+GEOGRAPHIC CODE: 24021 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 246,105
+  under 18: 23.7%
+  age 65+: 13.4%
+  White alone: 81.2%
+  Black alone: 9.0%
+  Asian alone: 4.5%
+  Hispanic or Latino: 8.8%
+  estimated median household income: $88,488
+  poverty rate: 7.2%
+  homeownership: 74.8%
+  estimated median home value: $315,373
+  estimated median gross rent: $1,338
+  unemployment: 5.1%
+  bachelor's degree or higher: 40.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

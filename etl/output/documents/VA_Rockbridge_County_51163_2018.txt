@@ -1,0 +1,18 @@
+GEOGRAPHY: Rockbridge County, VA
+GEOGRAPHIC CODE: 51163 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,509
+  under 18: 17.9%
+  age 65+: 24.9%
+  White alone: 93.6%
+  Black alone: 3.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $53,482
+  poverty rate: 13.8%
+  homeownership: 78.3%
+  estimated median home value: $212,961
+  estimated median gross rent: $728
+  unemployment: 5.9%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

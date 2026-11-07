@@ -1,0 +1,18 @@
+GEOGRAPHY: Hendry County, FL
+GEOGRAPHIC CODE: 12051 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 40,732
+  under 18: 27.0%
+  age 65+: 13.1%
+  White alone: 78.6%
+  Black alone: 11.5%
+  Asian alone: 0.9%
+  Hispanic or Latino: 53.7%
+  estimated median household income: $40,885
+  poverty rate: 25.3%
+  homeownership: 65.3%
+  estimated median home value: $94,494
+  estimated median gross rent: $786
+  unemployment: 7.4%
+  bachelor's degree or higher: 8.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

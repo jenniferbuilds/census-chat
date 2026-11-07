@@ -1,0 +1,18 @@
+GEOGRAPHY: Iberia Parish, LA
+GEOGRAPHIC CODE: 22045 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 71,887
+  under 18: 26.3%
+  age 65+: 14.5%
+  White alone: 60.7%
+  Black alone: 31.7%
+  Asian alone: 2.7%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $46,924
+  poverty rate: 22.1%
+  homeownership: 67.9%
+  estimated median home value: $115,569
+  estimated median gross rent: $768
+  unemployment: 9.3%
+  bachelor's degree or higher: 13.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

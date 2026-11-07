@@ -1,0 +1,18 @@
+GEOGRAPHY: Leon County, TX
+GEOGRAPHIC CODE: 48289 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,098
+  under 18: 22.8%
+  age 65+: 23.9%
+  White alone: 88.8%
+  Black alone: 7.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 14.4%
+  estimated median household income: $44,817
+  poverty rate: 16.6%
+  homeownership: 78.5%
+  estimated median home value: $110,118
+  estimated median gross rent: $730
+  unemployment: 6.8%
+  bachelor's degree or higher: 16.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

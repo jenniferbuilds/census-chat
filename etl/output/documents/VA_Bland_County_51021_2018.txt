@@ -1,0 +1,18 @@
+GEOGRAPHY: Bland County, VA
+GEOGRAPHIC CODE: 51021 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,447
+  under 18: 16.3%
+  age 65+: 21.8%
+  White alone: 96.9%
+  Black alone: 1.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.7%
+  estimated median household income: $51,130
+  poverty rate: 8.4%
+  homeownership: 82.7%
+  estimated median home value: $102,362
+  estimated median gross rent: $662
+  unemployment: 7.1%
+  bachelor's degree or higher: 17.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

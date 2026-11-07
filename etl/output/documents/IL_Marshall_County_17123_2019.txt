@@ -1,0 +1,18 @@
+GEOGRAPHY: Marshall County, IL
+GEOGRAPHIC CODE: 17123 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,679
+  under 18: 20.5%
+  age 65+: 22.8%
+  White alone: 97.1%
+  Black alone: 0.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $58,235
+  poverty rate: 10.6%
+  homeownership: 81.8%
+  estimated median home value: $104,935
+  estimated median gross rent: $623
+  unemployment: 5.5%
+  bachelor's degree or higher: 18.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

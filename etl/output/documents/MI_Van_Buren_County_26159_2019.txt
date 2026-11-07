@@ -1,0 +1,18 @@
+GEOGRAPHY: Van Buren County, MI
+GEOGRAPHIC CODE: 26159 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 75,358
+  under 18: 23.5%
+  age 65+: 17.6%
+  White alone: 86.2%
+  Black alone: 3.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 11.5%
+  estimated median household income: $54,854
+  poverty rate: 14.9%
+  homeownership: 77.0%
+  estimated median home value: $139,354
+  estimated median gross rent: $705
+  unemployment: 5.7%
+  bachelor's degree or higher: 21.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

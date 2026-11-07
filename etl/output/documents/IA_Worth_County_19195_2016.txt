@@ -1,0 +1,17 @@
+GEOGRAPHY: Worth County, IA
+GEOGRAPHIC CODE: 19195 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,562
+  under 18: 21.5%
+  age 65+: 19.8%
+  White alone: 97.2%
+  Black alone: 0.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $49,324
+  homeownership: 79.9%
+  estimated median home value: $95,149
+  estimated median gross rent: $540
+  unemployment: 6.3%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

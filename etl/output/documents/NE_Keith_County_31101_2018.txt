@@ -1,0 +1,18 @@
+GEOGRAPHY: Keith County, NE
+GEOGRAPHIC CODE: 31101 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,099
+  under 18: 19.9%
+  age 65+: 26.5%
+  White alone: 96.3%
+  Black alone: 0.9%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $48,731
+  poverty rate: 11.7%
+  homeownership: 70.6%
+  estimated median home value: $114,214
+  estimated median gross rent: $594
+  unemployment: 3.7%
+  bachelor's degree or higher: 20.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

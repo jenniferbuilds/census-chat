@@ -1,0 +1,18 @@
+GEOGRAPHY: Orocovis Municipio, PR
+GEOGRAPHIC CODE: 72107 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,407
+  under 18: 22.1%
+  age 65+: 15.6%
+  White alone: 83.2%
+  Black alone: 3.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.6%
+  estimated median household income: $13,537
+  poverty rate: 57.5%
+  homeownership: 65.4%
+  estimated median home value: $89,765
+  estimated median gross rent: $373
+  unemployment: 34.1%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

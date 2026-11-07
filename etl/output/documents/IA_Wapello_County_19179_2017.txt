@@ -1,0 +1,18 @@
+GEOGRAPHY: Wapello County, IA
+GEOGRAPHIC CODE: 19179 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,321
+  under 18: 22.6%
+  age 65+: 16.9%
+  White alone: 88.1%
+  Black alone: 3.0%
+  Asian alone: 0.9%
+  Hispanic or Latino: 10.5%
+  estimated median household income: $43,182
+  poverty rate: 17.0%
+  homeownership: 71.7%
+  estimated median home value: $80,974
+  estimated median gross rent: $636
+  unemployment: 6.3%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

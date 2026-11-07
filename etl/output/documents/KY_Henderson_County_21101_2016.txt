@@ -1,0 +1,17 @@
+GEOGRAPHY: Henderson County, KY
+GEOGRAPHIC CODE: 21101 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,362
+  under 18: 23.3%
+  age 65+: 15.7%
+  White alone: 88.4%
+  Black alone: 7.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $42,273
+  homeownership: 61.1%
+  estimated median home value: $113,469
+  estimated median gross rent: $622
+  unemployment: 6.4%
+  bachelor's degree or higher: 17.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

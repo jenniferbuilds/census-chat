@@ -1,0 +1,18 @@
+GEOGRAPHY: Nobles County, MN
+GEOGRAPHIC CODE: 27105 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,854
+  under 18: 26.6%
+  age 65+: 15.5%
+  White alone: 78.1%
+  Black alone: 4.3%
+  Asian alone: 6.3%
+  Hispanic or Latino: 26.8%
+  estimated median household income: $54,102
+  poverty rate: 15.8%
+  homeownership: 71.1%
+  estimated median home value: $118,272
+  estimated median gross rent: $690
+  unemployment: 6.5%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

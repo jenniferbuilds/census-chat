@@ -1,0 +1,18 @@
+GEOGRAPHY: Hayes County, NE
+GEOGRAPHIC CODE: 31085 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 957
+  under 18: 20.2%
+  age 65+: 17.8%
+  White alone: 99.3%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 5.9%
+  estimated median household income: $44,911
+  poverty rate: 9.0%
+  homeownership: 66.9%
+  estimated median home value: $77,500
+  estimated median gross rent: $491
+  unemployment: 1.6%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

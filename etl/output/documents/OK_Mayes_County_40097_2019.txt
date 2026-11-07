@@ -1,0 +1,18 @@
+GEOGRAPHY: Mayes County, OK
+GEOGRAPHIC CODE: 40097 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,044
+  under 18: 23.6%
+  age 65+: 18.2%
+  White alone: 66.5%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $50,265
+  poverty rate: 18.1%
+  homeownership: 72.9%
+  estimated median home value: $112,788
+  estimated median gross rent: $745
+  unemployment: 5.6%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

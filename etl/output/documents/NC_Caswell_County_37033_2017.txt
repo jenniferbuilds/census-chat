@@ -1,0 +1,18 @@
+GEOGRAPHY: Caswell County, NC
+GEOGRAPHIC CODE: 37033 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,833
+  under 18: 19.0%
+  age 65+: 19.4%
+  White alone: 62.7%
+  Black alone: 33.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $39,236
+  poverty rate: 21.3%
+  homeownership: 76.4%
+  estimated median home value: $104,686
+  estimated median gross rent: $557
+  unemployment: 8.4%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

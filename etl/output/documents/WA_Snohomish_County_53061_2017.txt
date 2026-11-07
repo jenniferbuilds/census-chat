@@ -1,0 +1,18 @@
+GEOGRAPHY: Snohomish County, WA
+GEOGRAPHIC CODE: 53061 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 771,904
+  under 18: 23.0%
+  age 65+: 12.3%
+  White alone: 77.2%
+  Black alone: 2.8%
+  Asian alone: 10.0%
+  Hispanic or Latino: 9.8%
+  estimated median household income: $78,092
+  poverty rate: 8.8%
+  homeownership: 66.6%
+  estimated median home value: $338,440
+  estimated median gross rent: $1,269
+  unemployment: 5.4%
+  bachelor's degree or higher: 31.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

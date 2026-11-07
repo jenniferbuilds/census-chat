@@ -1,0 +1,18 @@
+GEOGRAPHY: Rockingham County, NC
+GEOGRAPHIC CODE: 37157 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 91,566
+  under 18: 20.8%
+  age 65+: 18.9%
+  White alone: 75.9%
+  Black alone: 18.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $42,182
+  poverty rate: 18.5%
+  homeownership: 68.4%
+  estimated median home value: $109,572
+  estimated median gross rent: $635
+  unemployment: 7.2%
+  bachelor's degree or higher: 14.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

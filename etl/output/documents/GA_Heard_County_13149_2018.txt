@@ -1,0 +1,18 @@
+GEOGRAPHY: Heard County, GA
+GEOGRAPHIC CODE: 13149 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,677
+  under 18: 23.3%
+  age 65+: 16.2%
+  White alone: 86.9%
+  Black alone: 9.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $47,500
+  poverty rate: 15.6%
+  homeownership: 69.8%
+  estimated median home value: $96,923
+  estimated median gross rent: $676
+  unemployment: 7.7%
+  bachelor's degree or higher: 9.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

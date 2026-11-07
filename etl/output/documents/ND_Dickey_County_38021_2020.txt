@@ -1,0 +1,18 @@
+GEOGRAPHY: Dickey County, ND
+GEOGRAPHIC CODE: 38021 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,857
+  under 18: 23.7%
+  age 65+: 20.7%
+  White alone: 95.3%
+  Black alone: 0.7%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $64,766
+  poverty rate: 5.5%
+  homeownership: 75.3%
+  estimated median home value: $129,565
+  estimated median gross rent: $640
+  unemployment: 3.0%
+  bachelor's degree or higher: 27.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

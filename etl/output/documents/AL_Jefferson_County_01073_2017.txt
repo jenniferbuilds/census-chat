@@ -1,0 +1,18 @@
+GEOGRAPHY: Jefferson County, AL
+GEOGRAPHIC CODE: 01073 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 659,460
+  under 18: 23.1%
+  age 65+: 14.6%
+  White alone: 52.1%
+  Black alone: 42.6%
+  Asian alone: 1.5%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $49,378
+  poverty rate: 17.6%
+  homeownership: 62.8%
+  estimated median home value: $148,993
+  estimated median gross rent: $847
+  unemployment: 7.7%
+  bachelor's degree or higher: 31.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

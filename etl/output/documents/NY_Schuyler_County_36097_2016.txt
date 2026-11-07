@@ -1,0 +1,17 @@
+GEOGRAPHY: Schuyler County, NY
+GEOGRAPHIC CODE: 36097 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,336
+  under 18: 19.8%
+  age 65+: 19.4%
+  White alone: 96.7%
+  Black alone: 1.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $47,586
+  homeownership: 78.2%
+  estimated median home value: $111,335
+  estimated median gross rent: $708
+  unemployment: 7.3%
+  bachelor's degree or higher: 20.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Phelps County, MO
+GEOGRAPHIC CODE: 29161 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,630
+  under 18: 21.1%
+  age 65+: 15.8%
+  White alone: 90.5%
+  Black alone: 2.4%
+  Asian alone: 3.6%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $44,239
+  poverty rate: 20.6%
+  homeownership: 59.6%
+  estimated median home value: $134,988
+  estimated median gross rent: $727
+  unemployment: 5.2%
+  bachelor's degree or higher: 29.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

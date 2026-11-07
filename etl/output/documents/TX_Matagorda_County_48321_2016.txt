@@ -1,0 +1,17 @@
+GEOGRAPHY: Matagorda County, TX
+GEOGRAPHIC CODE: 48321 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,719
+  under 18: 26.1%
+  age 65+: 15.4%
+  White alone: 76.8%
+  Black alone: 10.6%
+  Asian alone: 2.1%
+  Hispanic or Latino: 40.7%
+  estimated median household income: $41,650
+  homeownership: 67.1%
+  estimated median home value: $98,671
+  estimated median gross rent: $695
+  unemployment: 6.0%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

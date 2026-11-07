@@ -1,0 +1,18 @@
+GEOGRAPHY: Hardin County, TN
+GEOGRAPHIC CODE: 47071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,715
+  under 18: 20.7%
+  age 65+: 22.4%
+  White alone: 94.3%
+  Black alone: 3.9%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $40,638
+  poverty rate: 20.1%
+  homeownership: 72.5%
+  estimated median home value: $124,283
+  estimated median gross rent: $592
+  unemployment: 6.4%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

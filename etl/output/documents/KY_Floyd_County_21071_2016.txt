@@ -1,0 +1,17 @@
+GEOGRAPHY: Floyd County, KY
+GEOGRAPHIC CODE: 21071 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,144
+  under 18: 22.0%
+  age 65+: 15.8%
+  White alone: 97.8%
+  Black alone: 0.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.7%
+  estimated median household income: $30,586
+  homeownership: 70.0%
+  estimated median home value: $69,380
+  estimated median gross rent: $543
+  unemployment: 11.2%
+  bachelor's degree or higher: 11.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

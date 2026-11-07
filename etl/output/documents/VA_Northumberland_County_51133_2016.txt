@@ -1,0 +1,17 @@
+GEOGRAPHY: Northumberland County, VA
+GEOGRAPHIC CODE: 51133 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,272
+  under 18: 15.8%
+  age 65+: 33.9%
+  White alone: 70.1%
+  Black alone: 29.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $54,750
+  homeownership: 86.4%
+  estimated median home value: $256,403
+  estimated median gross rent: $675
+  unemployment: 7.6%
+  bachelor's degree or higher: 27.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

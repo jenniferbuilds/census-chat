@@ -1,0 +1,17 @@
+GEOGRAPHY: Liberty County, GA
+GEOGRAPHIC CODE: 13179 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,949
+  under 18: 28.6%
+  age 65+: 7.5%
+  White alone: 46.8%
+  Black alone: 41.3%
+  Asian alone: 2.2%
+  Hispanic or Latino: 12.1%
+  estimated median household income: $43,057
+  homeownership: 45.5%
+  estimated median home value: $122,539
+  estimated median gross rent: $993
+  unemployment: 13.0%
+  bachelor's degree or higher: 18.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

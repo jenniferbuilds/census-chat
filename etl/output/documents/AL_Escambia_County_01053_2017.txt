@@ -1,0 +1,18 @@
+GEOGRAPHY: Escambia County, AL
+GEOGRAPHIC CODE: 01053 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,621
+  under 18: 22.3%
+  age 65+: 17.0%
+  White alone: 61.4%
+  Black alone: 32.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $35,033
+  poverty rate: 23.8%
+  homeownership: 71.8%
+  estimated median home value: $94,545
+  estimated median gross rent: $580
+  unemployment: 13.7%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

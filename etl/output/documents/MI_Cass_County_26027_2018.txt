@@ -1,0 +1,18 @@
+GEOGRAPHY: Cass County, MI
+GEOGRAPHIC CODE: 26027 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 51,460
+  under 18: 21.0%
+  age 65+: 19.8%
+  White alone: 88.7%
+  Black alone: 5.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $54,641
+  poverty rate: 12.1%
+  homeownership: 80.5%
+  estimated median home value: $134,700
+  estimated median gross rent: $729
+  unemployment: 6.7%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Gem County, ID
+GEOGRAPHIC CODE: 16045 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,331
+  under 18: 23.2%
+  age 65+: 21.2%
+  White alone: 90.1%
+  Black alone: 0.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 8.4%
+  estimated median household income: $45,332
+  poverty rate: 17.0%
+  homeownership: 74.8%
+  estimated median home value: $168,700
+  estimated median gross rent: $745
+  unemployment: 3.0%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

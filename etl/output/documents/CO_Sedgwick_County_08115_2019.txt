@@ -1,0 +1,18 @@
+GEOGRAPHY: Sedgwick County, CO
+GEOGRAPHIC CODE: 08115 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,322
+  under 18: 25.2%
+  age 65+: 23.1%
+  White alone: 93.7%
+  Black alone: 0.8%
+  Asian alone: 0.9%
+  Hispanic or Latino: 13.4%
+  estimated median household income: $43,150
+  poverty rate: 19.0%
+  homeownership: 71.4%
+  estimated median home value: $97,097
+  estimated median gross rent: $556
+  unemployment: 7.0%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

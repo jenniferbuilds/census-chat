@@ -1,0 +1,17 @@
+GEOGRAPHY: Lake County, IN
+GEOGRAPHIC CODE: 18089 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 489,698
+  under 18: 24.5%
+  age 65+: 14.6%
+  White alone: 61.8%
+  Black alone: 24.7%
+  Asian alone: 1.4%
+  Hispanic or Latino: 18.0%
+  estimated median household income: $51,066
+  homeownership: 68.8%
+  estimated median home value: $137,760
+  estimated median gross rent: $831
+  unemployment: 9.6%
+  bachelor's degree or higher: 20.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

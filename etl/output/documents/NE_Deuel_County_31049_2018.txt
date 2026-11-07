@@ -1,0 +1,18 @@
+GEOGRAPHY: Deuel County, NE
+GEOGRAPHIC CODE: 31049 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,894
+  under 18: 20.4%
+  age 65+: 24.6%
+  White alone: 94.5%
+  Black alone: 0.2%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $49,082
+  poverty rate: 10.2%
+  homeownership: 75.7%
+  estimated median home value: $78,182
+  estimated median gross rent: $626
+  unemployment: 4.8%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,221 @@
+{
+  "/CensusChatFrontendStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "aws:cdk:templateFile",
+      "data": "CensusChatFrontendStack.template.json"
+    }
+  ],
+  "/CensusChatFrontendStack/Custom::S3AutoDeleteObjectsCustomResourceProvider": [
+    {
+      "type": "aws:cdk:is-custom-resource-handler-customResourceProvider",
+      "data": true
+    }
+  ],
+  "/CensusChatFrontendStack/CensusChatDistribution": [
+    {
+      "type": "aws:cdk:warning",
+      "data": "Ignoring 'minimumProtocolVersion': it has no effect without a custom 'certificate'. The distribution uses the CloudFront default certificate, whose security policy is fixed at TLSv1. [ack: @aws-cdk/aws-cloudfront:minimumProtocolVersionWithoutCertificate]",
+      "trace": [
+        "Annotations.addMessage (/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/jsii-kernel-jlr8G5/node_modules/aws-cdk-lib/core/lib/annotations.js:1:3506)",
+        "Annotations.addWarningV2 (/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/jsii-kernel-jlr8G5/node_modules/aws-cdk-lib/core/lib/annotations.js:1:2194)",
+        "new Distribution2 (/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/jsii-kernel-jlr8G5/node_modules/aws-cdk-lib/aws-cloudfront/lib/distribution.js:1:14567)",
+        "new Distribution2 (/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/jsii-kernel-jlr8G5/node_modules/aws-cdk-lib/core/lib/no-box-stack-traces.js:1:349)",
+        "new Distribution2 (/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/jsii-kernel-jlr8G5/node_modules/aws-cdk-lib/core/lib/prop-injectable.js:1:861)",
+        "Kernel._Kernel_create (/private/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/tmpdnymh0md/lib/program.js:1:63996)",
+        "Kernel.create (/private/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/tmpdnymh0md/lib/program.js:1:53537)",
+        "KernelHost.processRequest (/private/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/tmpdnymh0md/lib/program.js:1:233750)",
+        "KernelHost.run (/private/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/tmpdnymh0md/lib/program.js:1:232607)",
+        "Immediate._onImmediate (/private/var/folders/zw/fp7x_23j4dsf6y39wbn2cj9c0000gn/T/tmpdnymh0md/lib/program.js:1:232651)",
+        "process.processImmediate (node:internal/timers:505:21)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/FrontendBucketName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "FrontendBucketName"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/CloudFrontUrl": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CloudFrontUrl"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/DistributionId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DistributionId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/CensusChatFrontendBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CensusChatFrontendBucketA4C34F8F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketAutoDeleteObjects"
+      }
+    }
+  ],
+  "/CensusChatFrontendStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Role": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderRole3B1BD092"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Handler": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderHandler9D90184F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/CensusChatDistribution/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CensusChatDistributionBB8C6097"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/CensusChatFrontendBucket/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CensusChatFrontendBucketPolicyEF4846F6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketPolicyStatements"
+      }
+    }
+  ],
+  "/CensusChatFrontendStack/CensusChatFrontendBucket/AutoDeleteObjectsCustomResource/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CensusChatFrontendBucketAutoDeleteObjectsCustomResourceBE0DE997"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/CensusChatFrontendStack/CensusChatDistribution/Origin1/S3OriginAccessControl/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CensusChatDistributionOrigin1S3OriginAccessControl5DA76603"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ]
+}

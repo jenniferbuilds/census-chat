@@ -1,0 +1,17 @@
+GEOGRAPHY: Crow Wing County, MN
+GEOGRAPHIC CODE: 27035 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,321
+  under 18: 22.2%
+  age 65+: 20.7%
+  White alone: 96.3%
+  Black alone: 0.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $51,137
+  homeownership: 75.2%
+  estimated median home value: $181,845
+  estimated median gross rent: $758
+  unemployment: 4.3%
+  bachelor's degree or higher: 24.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

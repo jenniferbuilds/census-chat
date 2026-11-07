@@ -1,0 +1,17 @@
+GEOGRAPHY: Wilson County, TX
+GEOGRAPHIC CODE: 48493 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,444
+  under 18: 24.8%
+  age 65+: 14.6%
+  White alone: 93.9%
+  Black alone: 1.4%
+  Asian alone: 0.3%
+  Hispanic or Latino: 38.8%
+  estimated median household income: $69,141
+  homeownership: 83.5%
+  estimated median home value: $162,272
+  estimated median gross rent: $889
+  unemployment: 6.2%
+  bachelor's degree or higher: 19.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

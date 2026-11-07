@@ -1,0 +1,17 @@
+GEOGRAPHY: Scioto County, OH
+GEOGRAPHIC CODE: 39145 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 77,366
+  under 18: 22.0%
+  age 65+: 16.6%
+  White alone: 94.4%
+  Black alone: 2.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $38,071
+  homeownership: 68.4%
+  estimated median home value: $91,957
+  estimated median gross rent: $571
+  unemployment: 9.0%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

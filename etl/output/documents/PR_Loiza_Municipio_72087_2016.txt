@@ -1,0 +1,17 @@
+GEOGRAPHY: Loiza Municipio, PR
+GEOGRAPHIC CODE: 72087 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,857
+  under 18: 23.6%
+  age 65+: 13.9%
+  White alone: 23.7%
+  Black alone: 35.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 99.8%
+  estimated median household income: $18,135
+  homeownership: 72.7%
+  estimated median home value: $105,526
+  estimated median gross rent: $411
+  unemployment: 26.1%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

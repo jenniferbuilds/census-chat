@@ -1,0 +1,18 @@
+GEOGRAPHY: Kittitas County, WA
+GEOGRAPHIC CODE: 53037 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,897
+  under 18: 17.2%
+  age 65+: 15.7%
+  White alone: 88.5%
+  Black alone: 1.0%
+  Asian alone: 1.6%
+  Hispanic or Latino: 8.8%
+  estimated median household income: $55,642
+  poverty rate: 18.0%
+  homeownership: 59.1%
+  estimated median home value: $286,946
+  estimated median gross rent: $1,004
+  unemployment: 5.6%
+  bachelor's degree or higher: 32.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

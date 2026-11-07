@@ -1,0 +1,18 @@
+GEOGRAPHY: Orange County, NY
+GEOGRAPHIC CODE: 36071 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 378,174
+  under 18: 25.8%
+  age 65+: 13.0%
+  White alone: 74.1%
+  Black alone: 10.6%
+  Asian alone: 2.6%
+  Hispanic or Latino: 19.7%
+  estimated median household income: $75,140
+  poverty rate: 12.2%
+  homeownership: 68.4%
+  estimated median home value: $260,271
+  estimated median gross rent: $1,187
+  unemployment: 5.6%
+  bachelor's degree or higher: 29.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

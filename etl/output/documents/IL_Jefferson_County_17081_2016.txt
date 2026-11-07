@@ -1,0 +1,17 @@
+GEOGRAPHY: Jefferson County, IL
+GEOGRAPHIC CODE: 17081 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,523
+  under 18: 21.9%
+  age 65+: 17.8%
+  White alone: 87.7%
+  Black alone: 8.3%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $43,805
+  homeownership: 73.0%
+  estimated median home value: $88,498
+  estimated median gross rent: $594
+  unemployment: 9.4%
+  bachelor's degree or higher: 16.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

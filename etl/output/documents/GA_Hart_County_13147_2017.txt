@@ -1,0 +1,18 @@
+GEOGRAPHY: Hart County, GA
+GEOGRAPHIC CODE: 13147 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,535
+  under 18: 21.1%
+  age 65+: 20.6%
+  White alone: 76.9%
+  Black alone: 19.0%
+  Asian alone: 0.9%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $41,684
+  poverty rate: 18.8%
+  homeownership: 74.7%
+  estimated median home value: $131,232
+  estimated median gross rent: $666
+  unemployment: 4.7%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

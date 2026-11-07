@@ -1,0 +1,18 @@
+GEOGRAPHY: San Juan County, UT
+GEOGRAPHIC CODE: 49037 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,302
+  under 18: 30.8%
+  age 65+: 13.7%
+  White alone: 48.5%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.7%
+  estimated median household income: $45,544
+  poverty rate: 25.0%
+  homeownership: 80.6%
+  estimated median home value: $129,665
+  estimated median gross rent: $644
+  unemployment: 8.8%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

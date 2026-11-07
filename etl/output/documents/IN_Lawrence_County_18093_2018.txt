@@ -1,0 +1,18 @@
+GEOGRAPHY: Lawrence County, IN
+GEOGRAPHIC CODE: 18093 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,619
+  under 18: 22.2%
+  age 65+: 19.2%
+  White alone: 96.5%
+  Black alone: 0.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $52,001
+  poverty rate: 11.8%
+  homeownership: 77.6%
+  estimated median home value: $115,744
+  estimated median gross rent: $684
+  unemployment: 4.9%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

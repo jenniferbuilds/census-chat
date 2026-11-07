@@ -1,0 +1,17 @@
+GEOGRAPHY: Walker County, GA
+GEOGRAPHIC CODE: 13295 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 68,143
+  under 18: 22.7%
+  age 65+: 16.6%
+  White alone: 92.5%
+  Black alone: 4.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $41,369
+  homeownership: 71.5%
+  estimated median home value: $107,467
+  estimated median gross rent: $665
+  unemployment: 7.0%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

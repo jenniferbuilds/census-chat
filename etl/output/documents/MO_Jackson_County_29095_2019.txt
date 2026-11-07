@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, MO
+GEOGRAPHIC CODE: 29095 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 696,216
+  under 18: 23.7%
+  age 65+: 14.6%
+  White alone: 67.0%
+  Black alone: 23.3%
+  Asian alone: 1.8%
+  Hispanic or Latino: 9.0%
+  estimated median household income: $55,517
+  poverty rate: 14.7%
+  homeownership: 58.2%
+  estimated median home value: $147,382
+  estimated median gross rent: $910
+  unemployment: 4.4%
+  bachelor's degree or higher: 31.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

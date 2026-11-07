@@ -1,0 +1,18 @@
+GEOGRAPHY: Golden Valley County, ND
+GEOGRAPHIC CODE: 38033 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,882
+  under 18: 22.8%
+  age 65+: 21.6%
+  White alone: 97.0%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $56,951
+  poverty rate: 6.5%
+  homeownership: 67.6%
+  estimated median home value: $119,977
+  estimated median gross rent: $661
+  unemployment: 1.6%
+  bachelor's degree or higher: 28.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

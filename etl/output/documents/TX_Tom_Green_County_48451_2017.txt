@@ -1,0 +1,18 @@
+GEOGRAPHY: Tom Green County, TX
+GEOGRAPHIC CODE: 48451 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 116,906
+  under 18: 23.6%
+  age 65+: 14.6%
+  White alone: 85.0%
+  Black alone: 4.3%
+  Asian alone: 1.2%
+  Hispanic or Latino: 38.8%
+  estimated median household income: $49,657
+  poverty rate: 12.9%
+  homeownership: 63.1%
+  estimated median home value: $122,550
+  estimated median gross rent: $832
+  unemployment: 3.8%
+  bachelor's degree or higher: 23.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

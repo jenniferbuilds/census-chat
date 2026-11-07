@@ -1,0 +1,18 @@
+GEOGRAPHY: Orleans Parish, LA
+GEOGRAPHIC CODE: 22071 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 389,648
+  under 18: 20.2%
+  age 65+: 13.5%
+  White alone: 34.0%
+  Black alone: 59.7%
+  Asian alone: 2.9%
+  Hispanic or Latino: 5.5%
+  estimated median household income: $39,641
+  poverty rate: 24.6%
+  homeownership: 47.4%
+  estimated median home value: $219,624
+  estimated median gross rent: $973
+  unemployment: 8.4%
+  bachelor's degree or higher: 36.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

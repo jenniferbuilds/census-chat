@@ -1,0 +1,18 @@
+GEOGRAPHY: McKinley County, NM
+GEOGRAPHIC CODE: 35031 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 72,849
+  under 18: 29.6%
+  age 65+: 11.1%
+  White alone: 16.3%
+  Black alone: 0.5%
+  Asian alone: 1.0%
+  Hispanic or Latino: 14.1%
+  estimated median household income: $30,415
+  poverty rate: 37.5%
+  homeownership: 71.5%
+  estimated median home value: $62,820
+  estimated median gross rent: $651
+  unemployment: 16.1%
+  bachelor's degree or higher: 10.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

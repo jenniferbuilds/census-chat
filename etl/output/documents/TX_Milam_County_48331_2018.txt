@@ -1,0 +1,18 @@
+GEOGRAPHY: Milam County, TX
+GEOGRAPHIC CODE: 48331 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,664
+  under 18: 24.6%
+  age 65+: 19.7%
+  White alone: 84.5%
+  Black alone: 9.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 26.2%
+  estimated median household income: $47,184
+  poverty rate: 14.6%
+  homeownership: 68.6%
+  estimated median home value: $97,097
+  estimated median gross rent: $711
+  unemployment: 4.2%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Whitfield County, GA
+GEOGRAPHIC CODE: 13313 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 104,237
+  under 18: 26.2%
+  age 65+: 13.7%
+  White alone: 88.7%
+  Black alone: 3.8%
+  Asian alone: 1.5%
+  Hispanic or Latino: 35.1%
+  estimated median household income: $48,443
+  poverty rate: 15.9%
+  homeownership: 64.6%
+  estimated median home value: $133,417
+  estimated median gross rent: $720
+  unemployment: 5.3%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

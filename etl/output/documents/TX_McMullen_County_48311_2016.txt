@@ -1,0 +1,17 @@
+GEOGRAPHY: McMullen County, TX
+GEOGRAPHIC CODE: 48311 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 671
+  under 18: 24.4%
+  age 65+: 28.0%
+  White alone: 94.8%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 48.1%
+  estimated median household income: $52,059
+  homeownership: 74.7%
+  estimated median home value: $78,125
+  estimated median gross rent: $523
+  unemployment: 15.2%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

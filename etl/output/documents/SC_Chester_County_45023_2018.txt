@@ -1,0 +1,18 @@
+GEOGRAPHY: Chester County, SC
+GEOGRAPHIC CODE: 45023 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,326
+  under 18: 22.9%
+  age 65+: 17.8%
+  White alone: 60.6%
+  Black alone: 36.9%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $40,094
+  poverty rate: 21.1%
+  homeownership: 75.3%
+  estimated median home value: $90,489
+  estimated median gross rent: $625
+  unemployment: 7.2%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

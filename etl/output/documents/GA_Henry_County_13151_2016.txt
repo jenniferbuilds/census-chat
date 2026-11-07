@@ -1,0 +1,17 @@
+GEOGRAPHY: Henry County, GA
+GEOGRAPHIC CODE: 13151 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 214,171
+  under 18: 27.1%
+  age 65+: 10.3%
+  White alone: 51.8%
+  Black alone: 40.3%
+  Asian alone: 3.2%
+  Hispanic or Latino: 6.3%
+  estimated median household income: $62,548
+  homeownership: 72.6%
+  estimated median home value: $146,095
+  estimated median gross rent: $1,081
+  unemployment: 8.9%
+  bachelor's degree or higher: 27.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

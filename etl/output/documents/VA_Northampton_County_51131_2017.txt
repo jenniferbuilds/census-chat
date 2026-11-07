@@ -1,0 +1,18 @@
+GEOGRAPHY: Northampton County, VA
+GEOGRAPHIC CODE: 51131 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,998
+  under 18: 19.9%
+  age 65+: 25.2%
+  White alone: 61.9%
+  Black alone: 35.0%
+  Asian alone: 0.9%
+  Hispanic or Latino: 8.4%
+  estimated median household income: $41,260
+  poverty rate: 20.3%
+  homeownership: 64.6%
+  estimated median home value: $165,807
+  estimated median gross rent: $713
+  unemployment: 4.4%
+  bachelor's degree or higher: 23.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

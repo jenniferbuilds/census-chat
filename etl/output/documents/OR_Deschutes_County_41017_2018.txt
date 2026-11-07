@@ -1,0 +1,18 @@
+GEOGRAPHY: Deschutes County, OR
+GEOGRAPHIC CODE: 41017 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 180,640
+  under 18: 20.8%
+  age 65+: 19.1%
+  White alone: 93.5%
+  Black alone: 0.6%
+  Asian alone: 1.2%
+  Hispanic or Latino: 7.9%
+  estimated median household income: $63,645
+  poverty rate: 10.8%
+  homeownership: 65.7%
+  estimated median home value: $336,448
+  estimated median gross rent: $1,130
+  unemployment: 5.2%
+  bachelor's degree or higher: 34.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

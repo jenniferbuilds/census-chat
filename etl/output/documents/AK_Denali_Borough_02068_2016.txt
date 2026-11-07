@@ -1,0 +1,17 @@
+GEOGRAPHY: Denali Borough, AK
+GEOGRAPHIC CODE: 02068 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,125
+  under 18: 17.9%
+  age 65+: 7.3%
+  White alone: 85.5%
+  Black alone: 1.0%
+  Asian alone: 3.4%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $85,791
+  homeownership: 75.4%
+  estimated median home value: $228,623
+  estimated median gross rent: $933
+  unemployment: 1.2%
+  bachelor's degree or higher: 38.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

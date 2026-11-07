@@ -1,0 +1,18 @@
+GEOGRAPHY: Bamberg County, SC
+GEOGRAPHIC CODE: 45009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,600
+  under 18: 20.3%
+  age 65+: 20.3%
+  White alone: 36.2%
+  Black alone: 61.1%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $33,456
+  poverty rate: 25.9%
+  homeownership: 71.6%
+  estimated median home value: $71,350
+  estimated median gross rent: $800
+  unemployment: 5.8%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

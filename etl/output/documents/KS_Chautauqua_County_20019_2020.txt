@@ -1,0 +1,18 @@
+GEOGRAPHY: Chautauqua County, KS
+GEOGRAPHIC CODE: 20019 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,280
+  under 18: 20.8%
+  age 65+: 25.0%
+  White alone: 87.1%
+  Black alone: 1.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $39,731
+  poverty rate: 19.6%
+  homeownership: 75.9%
+  estimated median home value: $51,667
+  estimated median gross rent: $628
+  unemployment: 6.4%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

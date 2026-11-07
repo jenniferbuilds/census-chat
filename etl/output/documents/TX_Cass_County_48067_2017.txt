@@ -1,0 +1,18 @@
+GEOGRAPHY: Cass County, TX
+GEOGRAPHIC CODE: 48067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,118
+  under 18: 22.8%
+  age 65+: 21.0%
+  White alone: 78.4%
+  Black alone: 17.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.3%
+  estimated median household income: $41,638
+  poverty rate: 18.5%
+  homeownership: 77.9%
+  estimated median home value: $86,178
+  estimated median gross rent: $585
+  unemployment: 7.3%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

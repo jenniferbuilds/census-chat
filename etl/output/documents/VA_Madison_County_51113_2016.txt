@@ -1,0 +1,17 @@
+GEOGRAPHY: Madison County, VA
+GEOGRAPHIC CODE: 51113 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,122
+  under 18: 21.2%
+  age 65+: 20.4%
+  White alone: 85.6%
+  Black alone: 7.1%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $48,271
+  homeownership: 72.5%
+  estimated median home value: $241,259
+  estimated median gross rent: $752
+  unemployment: 5.3%
+  bachelor's degree or higher: 25.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Gilliam County, OR
+GEOGRAPHIC CODE: 41021 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,910
+  under 18: 22.3%
+  age 65+: 25.1%
+  White alone: 93.4%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 8.1%
+  estimated median household income: $39,838
+  poverty rate: 9.9%
+  homeownership: 64.0%
+  estimated median home value: $110,921
+  estimated median gross rent: $814
+  unemployment: 7.5%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

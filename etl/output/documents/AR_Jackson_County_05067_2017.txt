@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, AR
+GEOGRAPHIC CODE: 05067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,429
+  under 18: 20.2%
+  age 65+: 16.3%
+  White alone: 79.5%
+  Black alone: 17.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $33,043
+  poverty rate: 25.1%
+  homeownership: 70.6%
+  estimated median home value: $61,320
+  estimated median gross rent: $576
+  unemployment: 7.0%
+  bachelor's degree or higher: 9.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

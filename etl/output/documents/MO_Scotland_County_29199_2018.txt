@@ -1,0 +1,18 @@
+GEOGRAPHY: Scotland County, MO
+GEOGRAPHIC CODE: 29199 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,898
+  under 18: 28.4%
+  age 65+: 18.2%
+  White alone: 97.4%
+  Black alone: 1.6%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $43,423
+  poverty rate: 15.8%
+  homeownership: 70.9%
+  estimated median home value: $87,179
+  estimated median gross rent: $527
+  unemployment: 5.0%
+  bachelor's degree or higher: 12.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

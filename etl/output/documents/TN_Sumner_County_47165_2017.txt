@@ -1,0 +1,18 @@
+GEOGRAPHY: Sumner County, TN
+GEOGRAPHIC CODE: 47165 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 175,730
+  under 18: 24.2%
+  age 65+: 14.8%
+  White alone: 88.4%
+  Black alone: 6.9%
+  Asian alone: 1.3%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $61,684
+  poverty rate: 9.7%
+  homeownership: 73.5%
+  estimated median home value: $194,857
+  estimated median gross rent: $930
+  unemployment: 4.5%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

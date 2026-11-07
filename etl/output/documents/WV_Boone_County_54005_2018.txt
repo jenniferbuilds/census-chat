@@ -1,0 +1,18 @@
+GEOGRAPHY: Boone County, WV
+GEOGRAPHIC CODE: 54005 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,817
+  under 18: 21.9%
+  age 65+: 18.3%
+  White alone: 97.9%
+  Black alone: 0.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 0.2%
+  estimated median household income: $38,623
+  poverty rate: 24.3%
+  homeownership: 75.6%
+  estimated median home value: $69,868
+  estimated median gross rent: $642
+  unemployment: 9.4%
+  bachelor's degree or higher: 8.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Boulder County, CO
+GEOGRAPHIC CODE: 08013 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 321,030
+  under 18: 19.6%
+  age 65+: 13.1%
+  White alone: 88.7%
+  Black alone: 0.9%
+  Asian alone: 4.7%
+  Hispanic or Latino: 13.8%
+  estimated median household income: $78,858
+  poverty rate: 12.5%
+  homeownership: 62.0%
+  estimated median home value: $462,215
+  estimated median gross rent: $1,411
+  unemployment: 4.8%
+  bachelor's degree or higher: 60.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

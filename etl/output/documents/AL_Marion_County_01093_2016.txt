@@ -1,0 +1,17 @@
+GEOGRAPHY: Marion County, AL
+GEOGRAPHIC CODE: 01093 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,239
+  under 18: 21.1%
+  age 65+: 20.1%
+  White alone: 93.4%
+  Black alone: 3.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $34,411
+  homeownership: 76.5%
+  estimated median home value: $85,492
+  estimated median gross rent: $482
+  unemployment: 7.6%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

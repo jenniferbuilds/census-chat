@@ -1,0 +1,17 @@
+GEOGRAPHY: Monona County, IA
+GEOGRAPHIC CODE: 19133 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,013
+  under 18: 19.9%
+  age 65+: 24.5%
+  White alone: 97.0%
+  Black alone: 0.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $41,846
+  homeownership: 71.2%
+  estimated median home value: $80,064
+  estimated median gross rent: $560
+  unemployment: 4.1%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

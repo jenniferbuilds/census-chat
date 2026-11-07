@@ -1,0 +1,18 @@
+GEOGRAPHY: Breckinridge County, KY
+GEOGRAPHIC CODE: 21027 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,991
+  under 18: 23.2%
+  age 65+: 18.3%
+  White alone: 95.6%
+  Black alone: 1.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $44,392
+  poverty rate: 17.7%
+  homeownership: 78.1%
+  estimated median home value: $95,178
+  estimated median gross rent: $550
+  unemployment: 9.8%
+  bachelor's degree or higher: 9.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

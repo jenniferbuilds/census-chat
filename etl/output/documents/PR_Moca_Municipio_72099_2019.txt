@@ -1,0 +1,18 @@
+GEOGRAPHY: Moca Municipio, PR
+GEOGRAPHIC CODE: 72099 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,161
+  under 18: 20.7%
+  age 65+: 16.9%
+  White alone: 82.4%
+  Black alone: 3.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 99.3%
+  estimated median household income: $15,041
+  poverty rate: 54.2%
+  homeownership: 63.7%
+  estimated median home value: $93,761
+  estimated median gross rent: $422
+  unemployment: 24.4%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

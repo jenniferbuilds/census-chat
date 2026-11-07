@@ -1,0 +1,17 @@
+GEOGRAPHY: Jackson County, NC
+GEOGRAPHIC CODE: 37099 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,227
+  under 18: 17.3%
+  age 65+: 17.5%
+  White alone: 83.5%
+  Black alone: 3.1%
+  Asian alone: 1.0%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $40,407
+  homeownership: 65.1%
+  estimated median home value: $172,801
+  estimated median gross rent: $671
+  unemployment: 5.1%
+  bachelor's degree or higher: 29.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

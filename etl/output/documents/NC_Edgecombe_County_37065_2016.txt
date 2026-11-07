@@ -1,0 +1,17 @@
+GEOGRAPHY: Edgecombe County, NC
+GEOGRAPHIC CODE: 37065 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 54,669
+  under 18: 23.4%
+  age 65+: 17.0%
+  White alone: 38.4%
+  Black alone: 56.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $32,655
+  homeownership: 59.6%
+  estimated median home value: $82,211
+  estimated median gross rent: $653
+  unemployment: 12.5%
+  bachelor's degree or higher: 10.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

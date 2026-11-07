@@ -1,0 +1,17 @@
+GEOGRAPHY: Lander County, NV
+GEOGRAPHIC CODE: 32015 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,907
+  under 18: 28.6%
+  age 65+: 12.6%
+  White alone: 87.5%
+  Black alone: 0.1%
+  Asian alone: 0.7%
+  Hispanic or Latino: 26.0%
+  estimated median household income: $82,356
+  homeownership: 80.4%
+  estimated median home value: $128,178
+  estimated median gross rent: $616
+  unemployment: 7.9%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

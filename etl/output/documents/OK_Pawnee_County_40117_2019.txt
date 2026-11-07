@@ -1,0 +1,18 @@
+GEOGRAPHY: Pawnee County, OK
+GEOGRAPHIC CODE: 40117 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,412
+  under 18: 23.8%
+  age 65+: 18.8%
+  White alone: 78.5%
+  Black alone: 1.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $47,806
+  poverty rate: 15.9%
+  homeownership: 75.6%
+  estimated median home value: $92,870
+  estimated median gross rent: $741
+  unemployment: 4.0%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

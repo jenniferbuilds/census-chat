@@ -1,0 +1,18 @@
+GEOGRAPHY: Norfolk city, VA
+GEOGRAPHIC CODE: 51710 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 245,752
+  under 18: 20.0%
+  age 65+: 10.3%
+  White alone: 47.4%
+  Black alone: 42.0%
+  Asian alone: 3.6%
+  Hispanic or Latino: 7.6%
+  estimated median household income: $47,098
+  poverty rate: 21.0%
+  homeownership: 43.4%
+  estimated median home value: $194,751
+  estimated median gross rent: $1,003
+  unemployment: 8.5%
+  bachelor's degree or higher: 27.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

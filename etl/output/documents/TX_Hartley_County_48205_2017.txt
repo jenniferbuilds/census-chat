@@ -1,0 +1,18 @@
+GEOGRAPHY: Hartley County, TX
+GEOGRAPHIC CODE: 48205 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,821
+  under 18: 21.6%
+  age 65+: 13.9%
+  White alone: 82.4%
+  Black alone: 8.5%
+  Asian alone: 1.4%
+  Hispanic or Latino: 26.2%
+  estimated median household income: $64,414
+  poverty rate: 8.1%
+  homeownership: 60.8%
+  estimated median home value: $146,934
+  estimated median gross rent: $742
+  unemployment: 1.2%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

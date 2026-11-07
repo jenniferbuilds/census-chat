@@ -1,0 +1,18 @@
+GEOGRAPHY: Rogers County, OK
+GEOGRAPHIC CODE: 40131 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 91,353
+  under 18: 23.8%
+  age 65+: 15.9%
+  White alone: 74.6%
+  Black alone: 1.0%
+  Asian alone: 1.4%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $65,716
+  poverty rate: 9.9%
+  homeownership: 78.2%
+  estimated median home value: $162,268
+  estimated median gross rent: $872
+  unemployment: 4.5%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

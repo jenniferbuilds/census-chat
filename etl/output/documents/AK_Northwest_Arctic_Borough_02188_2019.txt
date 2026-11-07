@@ -1,0 +1,18 @@
+GEOGRAPHY: Northwest Arctic Borough, AK
+GEOGRAPHIC CODE: 02188 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,715
+  under 18: 35.3%
+  age 65+: 7.5%
+  White alone: 11.3%
+  Black alone: 1.2%
+  Asian alone: 1.0%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $61,195
+  poverty rate: 26.1%
+  homeownership: 56.2%
+  estimated median home value: $141,369
+  estimated median gross rent: $1,304
+  unemployment: 18.2%
+  bachelor's degree or higher: 13.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

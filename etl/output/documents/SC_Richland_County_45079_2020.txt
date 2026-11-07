@@ -1,0 +1,18 @@
+GEOGRAPHY: Richland County, SC
+GEOGRAPHIC CODE: 45079 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 414,660
+  under 18: 21.5%
+  age 65+: 12.7%
+  White alone: 44.0%
+  Black alone: 47.4%
+  Asian alone: 2.9%
+  Hispanic or Latino: 5.3%
+  estimated median household income: $55,271
+  poverty rate: 16.5%
+  homeownership: 59.8%
+  estimated median home value: $167,514
+  estimated median gross rent: $998
+  unemployment: 6.1%
+  bachelor's degree or higher: 39.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

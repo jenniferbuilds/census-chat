@@ -1,0 +1,18 @@
+GEOGRAPHY: Hays County, TX
+GEOGRAPHIC CODE: 48209 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 204,150
+  under 18: 23.3%
+  age 65+: 10.4%
+  White alone: 88.0%
+  Black alone: 4.0%
+  Asian alone: 1.4%
+  Hispanic or Latino: 38.4%
+  estimated median household income: $66,173
+  poverty rate: 15.0%
+  homeownership: 61.8%
+  estimated median home value: $222,270
+  estimated median gross rent: $1,107
+  unemployment: 5.3%
+  bachelor's degree or higher: 37.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

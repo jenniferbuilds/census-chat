@@ -1,0 +1,18 @@
+GEOGRAPHY: Lenoir County, NC
+GEOGRAPHIC CODE: 37107 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 57,227
+  under 18: 22.6%
+  age 65+: 19.1%
+  White alone: 55.0%
+  Black alone: 39.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 7.6%
+  estimated median household income: $38,543
+  poverty rate: 23.0%
+  homeownership: 59.4%
+  estimated median home value: $95,692
+  estimated median gross rent: $724
+  unemployment: 12.3%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

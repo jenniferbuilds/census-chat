@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Charles Parish, LA
+GEOGRAPHIC CODE: 22089 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 52,724
+  under 18: 24.9%
+  age 65+: 12.5%
+  White alone: 69.8%
+  Black alone: 26.5%
+  Asian alone: 1.1%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $68,869
+  poverty rate: 11.6%
+  homeownership: 80.4%
+  estimated median home value: $189,297
+  estimated median gross rent: $912
+  unemployment: 5.7%
+  bachelor's degree or higher: 24.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

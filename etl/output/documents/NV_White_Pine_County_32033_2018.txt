@@ -1,0 +1,18 @@
+GEOGRAPHY: White Pine County, NV
+GEOGRAPHIC CODE: 32033 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,737
+  under 18: 20.6%
+  age 65+: 16.3%
+  White alone: 85.6%
+  Black alone: 5.3%
+  Asian alone: 1.1%
+  Hispanic or Latino: 15.6%
+  estimated median household income: $61,935
+  poverty rate: 10.9%
+  homeownership: 73.9%
+  estimated median home value: $151,940
+  estimated median gross rent: $681
+  unemployment: 3.8%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

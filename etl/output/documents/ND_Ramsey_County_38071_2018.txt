@@ -1,0 +1,18 @@
+GEOGRAPHY: Ramsey County, ND
+GEOGRAPHIC CODE: 38071 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,557
+  under 18: 23.4%
+  age 65+: 18.9%
+  White alone: 85.0%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $57,674
+  poverty rate: 11.6%
+  homeownership: 60.5%
+  estimated median home value: $152,083
+  estimated median gross rent: $563
+  unemployment: 0.8%
+  bachelor's degree or higher: 26.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

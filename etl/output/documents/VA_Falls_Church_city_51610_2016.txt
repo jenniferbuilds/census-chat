@@ -1,0 +1,17 @@
+GEOGRAPHY: Falls Church city, VA
+GEOGRAPHIC CODE: 51610 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,597
+  under 18: 24.7%
+  age 65+: 12.4%
+  White alone: 77.0%
+  Black alone: 5.5%
+  Asian alone: 9.1%
+  Hispanic or Latino: 9.9%
+  estimated median household income: $116,166
+  homeownership: 59.6%
+  estimated median home value: $723,996
+  estimated median gross rent: $1,569
+  unemployment: 5.3%
+  bachelor's degree or higher: 80.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

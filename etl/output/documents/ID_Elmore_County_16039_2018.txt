@@ -1,0 +1,18 @@
+GEOGRAPHY: Elmore County, ID
+GEOGRAPHIC CODE: 16039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,433
+  under 18: 25.6%
+  age 65+: 12.9%
+  White alone: 86.7%
+  Black alone: 2.6%
+  Asian alone: 2.6%
+  Hispanic or Latino: 16.7%
+  estimated median household income: $47,013
+  poverty rate: 13.8%
+  homeownership: 58.1%
+  estimated median home value: $145,625
+  estimated median gross rent: $809
+  unemployment: 7.0%
+  bachelor's degree or higher: 16.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

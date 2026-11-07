@@ -1,0 +1,17 @@
+GEOGRAPHY: Lawrence County, AR
+GEOGRAPHIC CODE: 05075 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,915
+  under 18: 22.2%
+  age 65+: 19.2%
+  White alone: 97.2%
+  Black alone: 0.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $33,633
+  homeownership: 67.7%
+  estimated median home value: $69,704
+  estimated median gross rent: $526
+  unemployment: 8.2%
+  bachelor's degree or higher: 13.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Albany County, WY
+GEOGRAPHIC CODE: 56001 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,836
+  under 18: 16.5%
+  age 65+: 9.5%
+  White alone: 89.8%
+  Black alone: 1.5%
+  Asian alone: 3.0%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $43,248
+  homeownership: 48.9%
+  estimated median home value: $220,885
+  estimated median gross rent: $729
+  unemployment: 4.6%
+  bachelor's degree or higher: 47.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

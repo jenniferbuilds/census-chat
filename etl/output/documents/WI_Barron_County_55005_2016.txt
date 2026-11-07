@@ -1,0 +1,17 @@
+GEOGRAPHY: Barron County, WI
+GEOGRAPHIC CODE: 55005 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,548
+  under 18: 21.6%
+  age 65+: 20.1%
+  White alone: 95.7%
+  Black alone: 1.2%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $46,776
+  homeownership: 73.1%
+  estimated median home value: $140,892
+  estimated median gross rent: $665
+  unemployment: 5.4%
+  bachelor's degree or higher: 18.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

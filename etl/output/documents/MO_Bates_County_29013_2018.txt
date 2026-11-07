@@ -1,0 +1,18 @@
+GEOGRAPHY: Bates County, MO
+GEOGRAPHIC CODE: 29013 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,374
+  under 18: 23.9%
+  age 65+: 19.1%
+  White alone: 95.5%
+  Black alone: 1.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $46,142
+  poverty rate: 12.3%
+  homeownership: 72.7%
+  estimated median home value: $114,505
+  estimated median gross rent: $673
+  unemployment: 4.4%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

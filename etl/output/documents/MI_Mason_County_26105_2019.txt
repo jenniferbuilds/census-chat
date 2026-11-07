@@ -1,0 +1,18 @@
+GEOGRAPHY: Mason County, MI
+GEOGRAPHIC CODE: 26105 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,954
+  under 18: 20.5%
+  age 65+: 23.1%
+  White alone: 94.8%
+  Black alone: 0.9%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $51,651
+  poverty rate: 15.0%
+  homeownership: 76.9%
+  estimated median home value: $141,416
+  estimated median gross rent: $698
+  unemployment: 4.4%
+  bachelor's degree or higher: 23.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

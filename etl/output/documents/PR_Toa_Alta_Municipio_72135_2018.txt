@@ -1,0 +1,18 @@
+GEOGRAPHY: Toa Alta Municipio, PR
+GEOGRAPHIC CODE: 72135 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 73,405
+  under 18: 22.0%
+  age 65+: 13.0%
+  White alone: 81.6%
+  Black alone: 7.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 99.0%
+  estimated median household income: $28,882
+  poverty rate: 29.0%
+  homeownership: 83.1%
+  estimated median home value: $137,539
+  estimated median gross rent: $631
+  unemployment: 12.1%
+  bachelor's degree or higher: 30.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

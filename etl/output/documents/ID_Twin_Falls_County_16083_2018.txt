@@ -1,0 +1,18 @@
+GEOGRAPHY: Twin Falls County, ID
+GEOGRAPHIC CODE: 16083 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 83,666
+  under 18: 27.8%
+  age 65+: 14.9%
+  White alone: 92.0%
+  Black alone: 0.7%
+  Asian alone: 1.8%
+  Hispanic or Latino: 16.1%
+  estimated median household income: $50,817
+  poverty rate: 14.8%
+  homeownership: 68.6%
+  estimated median home value: $160,231
+  estimated median gross rent: $777
+  unemployment: 3.4%
+  bachelor's degree or higher: 20.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

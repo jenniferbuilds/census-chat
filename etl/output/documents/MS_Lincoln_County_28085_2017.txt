@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, MS
+GEOGRAPHIC CODE: 28085 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,542
+  under 18: 24.5%
+  age 65+: 15.9%
+  White alone: 68.2%
+  Black alone: 30.8%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $36,996
+  poverty rate: 23.6%
+  homeownership: 74.9%
+  estimated median home value: $94,846
+  estimated median gross rent: $688
+  unemployment: 7.5%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

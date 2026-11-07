@@ -1,0 +1,18 @@
+GEOGRAPHY: Mason County, IL
+GEOGRAPHIC CODE: 17125 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,621
+  under 18: 20.7%
+  age 65+: 22.1%
+  White alone: 97.0%
+  Black alone: 0.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $48,401
+  poverty rate: 14.3%
+  homeownership: 77.8%
+  estimated median home value: $82,951
+  estimated median gross rent: $664
+  unemployment: 6.6%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

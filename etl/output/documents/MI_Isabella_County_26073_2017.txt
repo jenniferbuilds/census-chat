@@ -1,0 +1,18 @@
+GEOGRAPHY: Isabella County, MI
+GEOGRAPHIC CODE: 26073 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 70,572
+  under 18: 17.4%
+  age 65+: 11.4%
+  White alone: 88.5%
+  Black alone: 2.6%
+  Asian alone: 1.7%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $42,843
+  poverty rate: 27.3%
+  homeownership: 61.5%
+  estimated median home value: $128,377
+  estimated median gross rent: $723
+  unemployment: 8.4%
+  bachelor's degree or higher: 29.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

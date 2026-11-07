@@ -1,0 +1,18 @@
+GEOGRAPHY: Gosper County, NE
+GEOGRAPHIC CODE: 31073 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,019
+  under 18: 19.7%
+  age 65+: 22.8%
+  White alone: 98.1%
+  Black alone: 0.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $64,573
+  poverty rate: 5.7%
+  homeownership: 69.6%
+  estimated median home value: $116,346
+  estimated median gross rent: $621
+  unemployment: 4.6%
+  bachelor's degree or higher: 24.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

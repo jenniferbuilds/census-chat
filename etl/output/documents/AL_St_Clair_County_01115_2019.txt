@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Clair County, AL
+GEOGRAPHIC CODE: 01115 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 87,989
+  under 18: 22.8%
+  age 65+: 16.3%
+  White alone: 87.3%
+  Black alone: 9.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $59,062
+  poverty rate: 12.2%
+  homeownership: 79.9%
+  estimated median home value: $154,859
+  estimated median gross rent: $819
+  unemployment: 5.3%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

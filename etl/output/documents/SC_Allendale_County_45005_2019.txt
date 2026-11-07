@@ -1,0 +1,18 @@
+GEOGRAPHY: Allendale County, SC
+GEOGRAPHIC CODE: 45005 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,024
+  under 18: 18.8%
+  age 65+: 19.7%
+  White alone: 23.4%
+  Black alone: 73.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $28,165
+  poverty rate: 25.0%
+  homeownership: 68.2%
+  estimated median home value: $49,217
+  estimated median gross rent: $602
+  unemployment: 16.0%
+  bachelor's degree or higher: 9.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

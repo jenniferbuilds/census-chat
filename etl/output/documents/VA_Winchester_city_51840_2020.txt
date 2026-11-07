@@ -1,0 +1,18 @@
+GEOGRAPHY: Winchester city, VA
+GEOGRAPHIC CODE: 51840 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,912
+  under 18: 22.8%
+  age 65+: 16.7%
+  White alone: 77.4%
+  Black alone: 10.0%
+  Asian alone: 2.1%
+  Hispanic or Latino: 17.8%
+  estimated median household income: $60,915
+  poverty rate: 15.3%
+  homeownership: 44.7%
+  estimated median home value: $247,816
+  estimated median gross rent: $1,096
+  unemployment: 5.3%
+  bachelor's degree or higher: 34.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

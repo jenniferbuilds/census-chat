@@ -1,0 +1,17 @@
+GEOGRAPHY: Carteret County, NC
+GEOGRAPHIC CODE: 37031 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 68,537
+  under 18: 18.5%
+  age 65+: 21.8%
+  White alone: 88.9%
+  Black alone: 6.1%
+  Asian alone: 1.2%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $50,660
+  homeownership: 72.5%
+  estimated median home value: $197,639
+  estimated median gross rent: $847
+  unemployment: 9.2%
+  bachelor's degree or higher: 25.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

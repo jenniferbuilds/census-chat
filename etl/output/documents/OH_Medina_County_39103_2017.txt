@@ -1,0 +1,18 @@
+GEOGRAPHY: Medina County, OH
+GEOGRAPHIC CODE: 39103 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 176,362
+  under 18: 23.3%
+  age 65+: 16.1%
+  White alone: 95.6%
+  Black alone: 1.5%
+  Asian alone: 1.2%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $71,374
+  poverty rate: 6.2%
+  homeownership: 79.9%
+  estimated median home value: $185,842
+  estimated median gross rent: $846
+  unemployment: 3.6%
+  bachelor's degree or higher: 32.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

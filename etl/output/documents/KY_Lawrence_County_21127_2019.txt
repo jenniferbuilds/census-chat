@@ -1,0 +1,18 @@
+GEOGRAPHY: Lawrence County, KY
+GEOGRAPHIC CODE: 21127 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,671
+  under 18: 23.8%
+  age 65+: 17.1%
+  White alone: 98.8%
+  Black alone: 0.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $33,520
+  poverty rate: 26.5%
+  homeownership: 74.9%
+  estimated median home value: $79,433
+  estimated median gross rent: $568
+  unemployment: 8.4%
+  bachelor's degree or higher: 9.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

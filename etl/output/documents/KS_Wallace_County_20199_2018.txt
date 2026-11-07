@@ -1,0 +1,18 @@
+GEOGRAPHY: Wallace County, KS
+GEOGRAPHIC CODE: 20199 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,575
+  under 18: 25.1%
+  age 65+: 21.7%
+  White alone: 94.7%
+  Black alone: 0.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 5.3%
+  estimated median household income: $58,750
+  poverty rate: 11.7%
+  homeownership: 77.7%
+  estimated median home value: $99,333
+  estimated median gross rent: $481
+  unemployment: 2.5%
+  bachelor's degree or higher: 30.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

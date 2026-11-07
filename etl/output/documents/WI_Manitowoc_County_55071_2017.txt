@@ -1,0 +1,18 @@
+GEOGRAPHY: Manitowoc County, WI
+GEOGRAPHIC CODE: 55071 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 79,680
+  under 18: 21.1%
+  age 65+: 18.8%
+  White alone: 94.5%
+  Black alone: 0.7%
+  Asian alone: 2.6%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $51,246
+  poverty rate: 10.2%
+  homeownership: 75.0%
+  estimated median home value: $126,208
+  estimated median gross rent: $648
+  unemployment: 3.7%
+  bachelor's degree or higher: 19.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

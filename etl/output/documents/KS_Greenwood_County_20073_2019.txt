@@ -1,0 +1,18 @@
+GEOGRAPHY: Greenwood County, KS
+GEOGRAPHIC CODE: 20073 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,081
+  under 18: 21.4%
+  age 65+: 24.7%
+  White alone: 95.1%
+  Black alone: 0.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $41,838
+  poverty rate: 13.3%
+  homeownership: 73.8%
+  estimated median home value: $66,682
+  estimated median gross rent: $578
+  unemployment: 2.3%
+  bachelor's degree or higher: 19.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

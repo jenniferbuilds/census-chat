@@ -1,0 +1,18 @@
+GEOGRAPHY: Chicot County, AR
+GEOGRAPHIC CODE: 05017 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,008
+  under 18: 22.3%
+  age 65+: 19.2%
+  White alone: 43.2%
+  Black alone: 54.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $31,743
+  poverty rate: 29.4%
+  homeownership: 66.3%
+  estimated median home value: $62,980
+  estimated median gross rent: $564
+  unemployment: 10.1%
+  bachelor's degree or higher: 13.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

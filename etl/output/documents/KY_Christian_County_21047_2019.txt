@@ -1,0 +1,18 @@
+GEOGRAPHY: Christian County, KY
+GEOGRAPHIC CODE: 21047 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 71,414
+  under 18: 27.1%
+  age 65+: 12.1%
+  White alone: 71.2%
+  Black alone: 22.0%
+  Asian alone: 1.6%
+  Hispanic or Latino: 7.9%
+  estimated median household income: $43,962
+  poverty rate: 19.6%
+  homeownership: 48.1%
+  estimated median home value: $117,390
+  estimated median gross rent: $854
+  unemployment: 7.4%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

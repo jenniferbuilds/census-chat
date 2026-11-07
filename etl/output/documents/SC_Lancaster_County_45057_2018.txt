@@ -1,0 +1,18 @@
+GEOGRAPHY: Lancaster County, SC
+GEOGRAPHIC CODE: 45057 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 89,546
+  under 18: 21.9%
+  age 65+: 20.1%
+  White alone: 73.8%
+  Black alone: 21.4%
+  Asian alone: 1.1%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $54,892
+  poverty rate: 14.5%
+  homeownership: 78.2%
+  estimated median home value: $182,416
+  estimated median gross rent: $753
+  unemployment: 6.7%
+  bachelor's degree or higher: 26.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

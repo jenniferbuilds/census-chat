@@ -1,0 +1,18 @@
+GEOGRAPHY: Geneva County, AL
+GEOGRAPHIC CODE: 01061 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,491
+  under 18: 22.1%
+  age 65+: 19.4%
+  White alone: 86.3%
+  Black alone: 9.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $38,341
+  poverty rate: 24.0%
+  homeownership: 70.8%
+  estimated median home value: $92,317
+  estimated median gross rent: $615
+  unemployment: 8.6%
+  bachelor's degree or higher: 11.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

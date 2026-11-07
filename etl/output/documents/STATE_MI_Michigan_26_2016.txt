@@ -1,0 +1,17 @@
+GEOGRAPHY: Michigan (MI)
+GEOGRAPHIC CODE: 26 | LEVEL: State | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,909,600
+  under 18: 22.5%
+  age 65+: 15.4%
+  White alone: 78.9%
+  Black alone: 13.9%
+  Asian alone: 2.8%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $50,968
+  homeownership: 70.8%
+  estimated median home value: $127,804
+  estimated median gross rent: $799
+  unemployment: 8.5%
+  bachelor's degree or higher: 27.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

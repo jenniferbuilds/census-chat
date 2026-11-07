@@ -1,0 +1,17 @@
+GEOGRAPHY: Carson City, NV
+GEOGRAPHIC CODE: 32510 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 54,412
+  under 18: 20.7%
+  age 65+: 19.1%
+  White alone: 81.6%
+  Black alone: 1.1%
+  Asian alone: 3.0%
+  Hispanic or Latino: 22.9%
+  estimated median household income: $48,170
+  homeownership: 55.5%
+  estimated median home value: $199,488
+  estimated median gross rent: $827
+  unemployment: 9.5%
+  bachelor's degree or higher: 21.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

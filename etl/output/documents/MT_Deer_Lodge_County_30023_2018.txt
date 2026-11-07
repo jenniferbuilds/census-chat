@@ -1,0 +1,18 @@
+GEOGRAPHY: Deer Lodge County, MT
+GEOGRAPHIC CODE: 30023 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,100
+  under 18: 15.6%
+  age 65+: 22.2%
+  White alone: 92.9%
+  Black alone: 0.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $41,956
+  poverty rate: 19.2%
+  homeownership: 68.6%
+  estimated median home value: $120,257
+  estimated median gross rent: $546
+  unemployment: 3.0%
+  bachelor's degree or higher: 17.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

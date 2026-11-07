@@ -1,0 +1,18 @@
+GEOGRAPHY: Owyhee County, ID
+GEOGRAPHIC CODE: 16073 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,384
+  under 18: 26.7%
+  age 65+: 16.9%
+  White alone: 85.7%
+  Black alone: 0.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 26.6%
+  estimated median household income: $36,438
+  poverty rate: 23.3%
+  homeownership: 68.4%
+  estimated median home value: $125,741
+  estimated median gross rent: $624
+  unemployment: 6.2%
+  bachelor's degree or higher: 9.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

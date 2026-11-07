@@ -1,0 +1,18 @@
+GEOGRAPHY: Fairfield County, CT
+GEOGRAPHIC CODE: 09001 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 943,926
+  under 18: 22.7%
+  age 65+: 15.5%
+  White alone: 73.0%
+  Black alone: 11.6%
+  Asian alone: 5.3%
+  Hispanic or Latino: 19.7%
+  estimated median household income: $95,734
+  poverty rate: 8.9%
+  homeownership: 67.1%
+  estimated median home value: $428,549
+  estimated median gross rent: $1,499
+  unemployment: 6.6%
+  bachelor's degree or higher: 47.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

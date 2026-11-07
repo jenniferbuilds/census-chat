@@ -1,0 +1,18 @@
+GEOGRAPHY: Huron County, MI
+GEOGRAPHIC CODE: 26063 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,105
+  under 18: 19.2%
+  age 65+: 25.3%
+  White alone: 96.1%
+  Black alone: 0.4%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $49,520
+  poverty rate: 12.5%
+  homeownership: 80.5%
+  estimated median home value: $109,046
+  estimated median gross rent: $637
+  unemployment: 5.1%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

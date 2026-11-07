@@ -1,0 +1,17 @@
+GEOGRAPHY: Yauco Municipio, PR
+GEOGRAPHIC CODE: 72153 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,519
+  under 18: 21.4%
+  age 65+: 18.3%
+  White alone: 84.1%
+  Black alone: 3.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.6%
+  estimated median household income: $14,712
+  homeownership: 77.7%
+  estimated median home value: $92,453
+  estimated median gross rent: $381
+  unemployment: 24.0%
+  bachelor's degree or higher: 21.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

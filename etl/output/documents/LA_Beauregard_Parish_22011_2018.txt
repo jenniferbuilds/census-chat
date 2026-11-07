@@ -1,0 +1,18 @@
+GEOGRAPHY: Beauregard Parish, LA
+GEOGRAPHIC CODE: 22011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,769
+  under 18: 24.7%
+  age 65+: 15.2%
+  White alone: 82.9%
+  Black alone: 12.5%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $50,843
+  poverty rate: 17.2%
+  homeownership: 77.7%
+  estimated median home value: $116,611
+  estimated median gross rent: $724
+  unemployment: 7.9%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

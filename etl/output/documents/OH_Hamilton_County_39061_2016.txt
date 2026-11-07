@@ -1,0 +1,17 @@
+GEOGRAPHY: Hamilton County, OH
+GEOGRAPHIC CODE: 39061 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 805,965
+  under 18: 23.3%
+  age 65+: 14.2%
+  White alone: 68.2%
+  Black alone: 25.8%
+  Asian alone: 2.4%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $50,488
+  homeownership: 57.7%
+  estimated median home value: $143,716
+  estimated median gross rent: $725
+  unemployment: 7.9%
+  bachelor's degree or higher: 35.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

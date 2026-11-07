@@ -1,0 +1,17 @@
+GEOGRAPHY: McLean County, ND
+GEOGRAPHIC CODE: 38055 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,576
+  under 18: 21.4%
+  age 65+: 21.7%
+  White alone: 90.6%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $59,977
+  homeownership: 79.5%
+  estimated median home value: $150,342
+  estimated median gross rent: $598
+  unemployment: 1.5%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: McClain County, OK
+GEOGRAPHIC CODE: 40087 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,222
+  under 18: 25.8%
+  age 65+: 14.6%
+  White alone: 84.1%
+  Black alone: 1.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 7.6%
+  estimated median household income: $58,954
+  homeownership: 79.2%
+  estimated median home value: $158,609
+  estimated median gross rent: $681
+  unemployment: 4.0%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

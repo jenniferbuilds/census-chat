@@ -1,0 +1,18 @@
+GEOGRAPHY: Terry County, TX
+GEOGRAPHIC CODE: 48445 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,615
+  under 18: 27.4%
+  age 65+: 15.2%
+  White alone: 89.0%
+  Black alone: 5.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 54.4%
+  estimated median household income: $44,973
+  poverty rate: 15.7%
+  homeownership: 68.7%
+  estimated median home value: $76,051
+  estimated median gross rent: $723
+  unemployment: 10.2%
+  bachelor's degree or higher: 12.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

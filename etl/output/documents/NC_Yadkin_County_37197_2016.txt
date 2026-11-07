@@ -1,0 +1,17 @@
+GEOGRAPHY: Yadkin County, NC
+GEOGRAPHIC CODE: 37197 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,819
+  under 18: 21.9%
+  age 65+: 18.2%
+  White alone: 91.5%
+  Black alone: 3.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 10.6%
+  estimated median household income: $39,166
+  homeownership: 76.3%
+  estimated median home value: $126,873
+  estimated median gross rent: $593
+  unemployment: 6.8%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

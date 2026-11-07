@@ -1,0 +1,18 @@
+GEOGRAPHY: Monroe County, MS
+GEOGRAPHIC CODE: 28095 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,673
+  under 18: 22.7%
+  age 65+: 19.0%
+  White alone: 68.1%
+  Black alone: 31.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $41,675
+  poverty rate: 17.4%
+  homeownership: 74.3%
+  estimated median home value: $91,728
+  estimated median gross rent: $618
+  unemployment: 5.0%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

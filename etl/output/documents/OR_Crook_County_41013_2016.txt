@@ -1,0 +1,17 @@
+GEOGRAPHY: Crook County, OR
+GEOGRAPHIC CODE: 41013 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,334
+  under 18: 19.6%
+  age 65+: 24.2%
+  White alone: 91.9%
+  Black alone: 0.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 7.4%
+  estimated median household income: $39,735
+  homeownership: 69.0%
+  estimated median home value: $172,592
+  estimated median gross rent: $793
+  unemployment: 11.3%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

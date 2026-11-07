@@ -1,0 +1,18 @@
+GEOGRAPHY: Marshall County, KY
+GEOGRAPHIC CODE: 21157 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,192
+  under 18: 20.5%
+  age 65+: 21.7%
+  White alone: 97.4%
+  Black alone: 0.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $56,203
+  poverty rate: 10.4%
+  homeownership: 81.0%
+  estimated median home value: $131,088
+  estimated median gross rent: $690
+  unemployment: 4.0%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

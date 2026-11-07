@@ -1,0 +1,21 @@
+{
+  "version": "55.0.0",
+  "files": {
+    "9cc7058999ade2de97bd427ef07cac5c7bddfe0493e54a1cadf5402e5ec1f824": {
+      "displayName": "CensusChatAgentStack Template",
+      "source": {
+        "path": "CensusChatAgentStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "887083795887-us-east-2-2497dc6e": {
+          "bucketName": "cdk-hnb659fds-assets-887083795887-us-east-2",
+          "objectKey": "9cc7058999ade2de97bd427ef07cac5c7bddfe0493e54a1cadf5402e5ec1f824.json",
+          "region": "us-east-2",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::887083795887:role/cdk-hnb659fds-file-publishing-role-887083795887-us-east-2"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}

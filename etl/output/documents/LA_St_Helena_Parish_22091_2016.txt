@@ -1,0 +1,17 @@
+GEOGRAPHY: St. Helena Parish, LA
+GEOGRAPHIC CODE: 22091 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,714
+  under 18: 22.5%
+  age 65+: 17.4%
+  White alone: 44.6%
+  Black alone: 53.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 0.1%
+  estimated median household income: $36,392
+  homeownership: 82.0%
+  estimated median home value: $89,911
+  estimated median gross rent: $616
+  unemployment: 14.3%
+  bachelor's degree or higher: 10.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

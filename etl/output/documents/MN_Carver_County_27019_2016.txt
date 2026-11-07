@@ -1,0 +1,17 @@
+GEOGRAPHY: Carver County, MN
+GEOGRAPHIC CODE: 27019 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 97,143
+  under 18: 27.9%
+  age 65+: 10.0%
+  White alone: 92.9%
+  Black alone: 1.4%
+  Asian alone: 2.8%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $89,286
+  homeownership: 79.8%
+  estimated median home value: $277,625
+  estimated median gross rent: $976
+  unemployment: 3.0%
+  bachelor's degree or higher: 46.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

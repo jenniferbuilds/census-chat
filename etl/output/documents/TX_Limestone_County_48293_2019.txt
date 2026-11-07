@@ -1,0 +1,18 @@
+GEOGRAPHY: Limestone County, TX
+GEOGRAPHIC CODE: 48293 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,417
+  under 18: 22.5%
+  age 65+: 18.7%
+  White alone: 76.9%
+  Black alone: 17.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 21.9%
+  estimated median household income: $44,580
+  poverty rate: 19.4%
+  homeownership: 74.1%
+  estimated median home value: $95,449
+  estimated median gross rent: $701
+  unemployment: 6.7%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

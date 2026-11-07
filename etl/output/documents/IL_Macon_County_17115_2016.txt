@@ -1,0 +1,17 @@
+GEOGRAPHY: Macon County, IL
+GEOGRAPHIC CODE: 17115 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 108,404
+  under 18: 22.4%
+  age 65+: 17.8%
+  White alone: 78.4%
+  Black alone: 14.1%
+  Asian alone: 1.2%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $47,477
+  homeownership: 69.1%
+  estimated median home value: $95,669
+  estimated median gross rent: $653
+  unemployment: 10.1%
+  bachelor's degree or higher: 22.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

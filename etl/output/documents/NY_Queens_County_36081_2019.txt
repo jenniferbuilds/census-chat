@@ -1,0 +1,18 @@
+GEOGRAPHY: Queens County, NY
+GEOGRAPHIC CODE: 36081 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,287,388
+  under 18: 20.2%
+  age 65+: 15.3%
+  White alone: 38.3%
+  Black alone: 18.3%
+  Asian alone: 25.5%
+  Hispanic or Latino: 28.0%
+  estimated median household income: $69,068
+  poverty rate: 12.2%
+  homeownership: 44.8%
+  estimated median home value: $543,779
+  estimated median gross rent: $1,583
+  unemployment: 5.6%
+  bachelor's degree or higher: 32.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

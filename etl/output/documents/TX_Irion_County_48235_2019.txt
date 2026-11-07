@@ -1,0 +1,18 @@
+GEOGRAPHY: Irion County, TX
+GEOGRAPHIC CODE: 48235 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,620
+  under 18: 26.2%
+  age 65+: 16.9%
+  White alone: 76.1%
+  Black alone: 4.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 25.6%
+  estimated median household income: $48,214
+  poverty rate: 14.9%
+  homeownership: 77.6%
+  estimated median home value: $118,287
+  estimated median gross rent: $1,031
+  unemployment: 5.8%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

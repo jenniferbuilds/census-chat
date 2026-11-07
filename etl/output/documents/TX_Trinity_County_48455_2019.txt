@@ -1,0 +1,18 @@
+GEOGRAPHY: Trinity County, TX
+GEOGRAPHIC CODE: 48455 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,620
+  under 18: 20.4%
+  age 65+: 26.2%
+  White alone: 85.9%
+  Black alone: 9.9%
+  Asian alone: 0.0%
+  Hispanic or Latino: 10.0%
+  estimated median household income: $41,827
+  poverty rate: 15.5%
+  homeownership: 77.4%
+  estimated median home value: $83,734
+  estimated median gross rent: $748
+  unemployment: 7.2%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

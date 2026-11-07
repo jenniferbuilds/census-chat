@@ -1,0 +1,18 @@
+GEOGRAPHY: Miami County, KS
+GEOGRAPHIC CODE: 20121 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,127
+  under 18: 25.1%
+  age 65+: 16.7%
+  White alone: 95.5%
+  Black alone: 1.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $68,363
+  poverty rate: 7.7%
+  homeownership: 78.5%
+  estimated median home value: $191,114
+  estimated median gross rent: $830
+  unemployment: 3.2%
+  bachelor's degree or higher: 27.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, TX
+GEOGRAPHIC CODE: 48239 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,820
+  under 18: 25.6%
+  age 65+: 16.8%
+  White alone: 86.2%
+  Black alone: 6.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 32.9%
+  estimated median household income: $60,203
+  poverty rate: 13.9%
+  homeownership: 68.1%
+  estimated median home value: $103,295
+  estimated median gross rent: $828
+  unemployment: 4.1%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

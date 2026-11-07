@@ -1,0 +1,18 @@
+GEOGRAPHY: Lawrence County, AL
+GEOGRAPHIC CODE: 01079 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,171
+  under 18: 21.8%
+  age 65+: 17.4%
+  White alone: 78.2%
+  Black alone: 10.9%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $44,599
+  poverty rate: 16.8%
+  homeownership: 79.1%
+  estimated median home value: $107,232
+  estimated median gross rent: $540
+  unemployment: 5.7%
+  bachelor's degree or higher: 11.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

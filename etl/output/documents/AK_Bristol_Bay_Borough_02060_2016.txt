@@ -1,0 +1,17 @@
+GEOGRAPHY: Bristol Bay Borough, AK
+GEOGRAPHIC CODE: 02060 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 942
+  under 18: 23.4%
+  age 65+: 8.0%
+  White alone: 55.7%
+  Black alone: 0.3%
+  Asian alone: 1.2%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $84,722
+  homeownership: 54.7%
+  estimated median home value: $199,038
+  estimated median gross rent: $1,040
+  unemployment: 5.7%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

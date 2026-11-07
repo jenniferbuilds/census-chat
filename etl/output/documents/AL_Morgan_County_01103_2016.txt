@@ -1,0 +1,17 @@
+GEOGRAPHY: Morgan County, AL
+GEOGRAPHIC CODE: 01103 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 119,555
+  under 18: 23.2%
+  age 65+: 15.8%
+  White alone: 81.9%
+  Black alone: 12.2%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $46,799
+  homeownership: 70.9%
+  estimated median home value: $124,898
+  estimated median gross rent: $613
+  unemployment: 8.9%
+  bachelor's degree or higher: 21.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

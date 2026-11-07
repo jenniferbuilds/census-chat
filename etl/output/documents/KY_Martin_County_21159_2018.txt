@@ -1,0 +1,18 @@
+GEOGRAPHY: Martin County, KY
+GEOGRAPHIC CODE: 21159 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,919
+  under 18: 20.2%
+  age 65+: 14.9%
+  White alone: 93.5%
+  Black alone: 5.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $35,141
+  poverty rate: 26.3%
+  homeownership: 72.3%
+  estimated median home value: $67,470
+  estimated median gross rent: $577
+  unemployment: 13.7%
+  bachelor's degree or higher: 8.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

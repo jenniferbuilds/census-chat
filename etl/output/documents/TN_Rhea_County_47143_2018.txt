@@ -1,0 +1,18 @@
+GEOGRAPHY: Rhea County, TN
+GEOGRAPHIC CODE: 47143 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,628
+  under 18: 23.3%
+  age 65+: 17.9%
+  White alone: 94.4%
+  Black alone: 2.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $39,510
+  poverty rate: 21.9%
+  homeownership: 70.3%
+  estimated median home value: $113,536
+  estimated median gross rent: $635
+  unemployment: 7.7%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

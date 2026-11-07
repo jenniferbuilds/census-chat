@@ -1,0 +1,18 @@
+GEOGRAPHY: Clinton County, MI
+GEOGRAPHIC CODE: 26037 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 78,389
+  under 18: 22.6%
+  age 65+: 16.5%
+  White alone: 93.6%
+  Black alone: 1.8%
+  Asian alone: 1.5%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $70,441
+  poverty rate: 8.8%
+  homeownership: 80.0%
+  estimated median home value: $172,824
+  estimated median gross rent: $839
+  unemployment: 3.5%
+  bachelor's degree or higher: 32.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

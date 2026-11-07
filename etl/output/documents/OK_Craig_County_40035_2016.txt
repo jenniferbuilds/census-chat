@@ -1,0 +1,17 @@
+GEOGRAPHY: Craig County, OK
+GEOGRAPHIC CODE: 40035 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,683
+  under 18: 22.2%
+  age 65+: 19.1%
+  White alone: 66.0%
+  Black alone: 3.1%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $40,043
+  homeownership: 74.9%
+  estimated median home value: $91,405
+  estimated median gross rent: $632
+  unemployment: 5.3%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

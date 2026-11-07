@@ -1,0 +1,18 @@
+GEOGRAPHY: Ochiltree County, TX
+GEOGRAPHIC CODE: 48357 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,907
+  under 18: 31.3%
+  age 65+: 10.1%
+  White alone: 80.9%
+  Black alone: 1.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 54.8%
+  estimated median household income: $54,695
+  poverty rate: 14.8%
+  homeownership: 73.2%
+  estimated median home value: $104,327
+  estimated median gross rent: $820
+  unemployment: 3.8%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

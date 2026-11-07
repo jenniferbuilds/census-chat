@@ -1,0 +1,18 @@
+GEOGRAPHY: Dixon County, NE
+GEOGRAPHIC CODE: 31051 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,746
+  under 18: 25.2%
+  age 65+: 19.6%
+  White alone: 94.3%
+  Black alone: 0.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 13.3%
+  estimated median household income: $57,408
+  poverty rate: 12.5%
+  homeownership: 78.5%
+  estimated median home value: $90,662
+  estimated median gross rent: $702
+  unemployment: 3.3%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Monmouth County, NJ
+GEOGRAPHIC CODE: 34025 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 621,659
+  under 18: 21.4%
+  age 65+: 17.1%
+  White alone: 82.4%
+  Black alone: 7.2%
+  Asian alone: 5.4%
+  Hispanic or Latino: 10.8%
+  estimated median household income: $99,739
+  poverty rate: 6.9%
+  homeownership: 73.8%
+  estimated median home value: $421,939
+  estimated median gross rent: $1,399
+  unemployment: 4.9%
+  bachelor's degree or higher: 46.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

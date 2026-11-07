@@ -1,0 +1,17 @@
+GEOGRAPHY: DuPage County, IL
+GEOGRAPHIC CODE: 17043 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 930,514
+  under 18: 23.5%
+  age 65+: 13.4%
+  White alone: 78.9%
+  Black alone: 4.7%
+  Asian alone: 11.1%
+  Hispanic or Latino: 14.0%
+  estimated median household income: $82,074
+  homeownership: 72.9%
+  estimated median home value: $283,542
+  estimated median gross rent: $1,178
+  unemployment: 6.1%
+  bachelor's degree or higher: 47.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

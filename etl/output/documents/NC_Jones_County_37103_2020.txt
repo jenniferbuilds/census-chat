@@ -1,0 +1,18 @@
+GEOGRAPHY: Jones County, NC
+GEOGRAPHIC CODE: 37103 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,453
+  under 18: 18.7%
+  age 65+: 23.3%
+  White alone: 64.3%
+  Black alone: 29.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $37,898
+  poverty rate: 23.5%
+  homeownership: 74.2%
+  estimated median home value: $92,229
+  estimated median gross rent: $627
+  unemployment: 8.4%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

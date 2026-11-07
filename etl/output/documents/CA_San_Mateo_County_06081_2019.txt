@@ -1,0 +1,18 @@
+GEOGRAPHY: San Mateo County, CA
+GEOGRAPHIC CODE: 06081 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 767,423
+  under 18: 20.8%
+  age 65+: 15.8%
+  White alone: 50.6%
+  Black alone: 2.3%
+  Asian alone: 28.7%
+  Hispanic or Latino: 24.4%
+  estimated median household income: $122,779
+  poverty rate: 6.7%
+  homeownership: 60.2%
+  estimated median home value: $1,125,271
+  estimated median gross rent: $2,316
+  unemployment: 3.7%
+  bachelor's degree or higher: 51.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

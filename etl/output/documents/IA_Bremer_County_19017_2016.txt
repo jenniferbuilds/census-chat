@@ -1,0 +1,17 @@
+GEOGRAPHY: Bremer County, IA
+GEOGRAPHIC CODE: 19017 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,663
+  under 18: 22.0%
+  age 65+: 18.5%
+  White alone: 96.3%
+  Black alone: 1.1%
+  Asian alone: 0.9%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $64,998
+  homeownership: 80.7%
+  estimated median home value: $153,187
+  estimated median gross rent: $588
+  unemployment: 3.2%
+  bachelor's degree or higher: 27.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

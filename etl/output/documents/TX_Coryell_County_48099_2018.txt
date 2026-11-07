@@ -1,0 +1,18 @@
+GEOGRAPHY: Coryell County, TX
+GEOGRAPHIC CODE: 48099 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 75,389
+  under 18: 23.6%
+  age 65+: 9.3%
+  White alone: 72.0%
+  Black alone: 14.1%
+  Asian alone: 2.1%
+  Hispanic or Latino: 18.1%
+  estimated median household income: $51,575
+  poverty rate: 13.5%
+  homeownership: 58.1%
+  estimated median home value: $110,098
+  estimated median gross rent: $944
+  unemployment: 9.2%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

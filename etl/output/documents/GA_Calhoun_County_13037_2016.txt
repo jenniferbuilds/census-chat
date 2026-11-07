@@ -1,0 +1,17 @@
+GEOGRAPHY: Calhoun County, GA
+GEOGRAPHIC CODE: 13037 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,443
+  under 18: 18.9%
+  age 65+: 12.5%
+  White alone: 34.0%
+  Black alone: 60.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $27,750
+  homeownership: 65.6%
+  estimated median home value: $55,645
+  estimated median gross rent: $558
+  unemployment: 14.4%
+  bachelor's degree or higher: 10.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

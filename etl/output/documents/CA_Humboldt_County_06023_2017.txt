@@ -1,0 +1,18 @@
+GEOGRAPHY: Humboldt County, CA
+GEOGRAPHIC CODE: 06023 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 135,490
+  under 18: 19.5%
+  age 65+: 16.1%
+  White alone: 80.7%
+  Black alone: 1.2%
+  Asian alone: 2.9%
+  Hispanic or Latino: 11.1%
+  estimated median household income: $43,831
+  poverty rate: 20.8%
+  homeownership: 56.5%
+  estimated median home value: $285,761
+  estimated median gross rent: $914
+  unemployment: 8.9%
+  bachelor's degree or higher: 29.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

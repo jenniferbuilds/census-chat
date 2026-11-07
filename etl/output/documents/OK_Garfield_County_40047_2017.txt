@@ -1,0 +1,18 @@
+GEOGRAPHY: Garfield County, OK
+GEOGRAPHIC CODE: 40047 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 62,421
+  under 18: 26.0%
+  age 65+: 15.2%
+  White alone: 82.0%
+  Black alone: 3.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 11.6%
+  estimated median household income: $50,738
+  poverty rate: 13.6%
+  homeownership: 65.4%
+  estimated median home value: $103,983
+  estimated median gross rent: $806
+  unemployment: 5.3%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

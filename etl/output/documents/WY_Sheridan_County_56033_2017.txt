@@ -1,0 +1,18 @@
+GEOGRAPHY: Sheridan County, WY
+GEOGRAPHIC CODE: 56033 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,964
+  under 18: 21.9%
+  age 65+: 18.7%
+  White alone: 94.4%
+  Black alone: 1.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $56,399
+  poverty rate: 6.8%
+  homeownership: 68.6%
+  estimated median home value: $240,923
+  estimated median gross rent: $810
+  unemployment: 3.1%
+  bachelor's degree or higher: 31.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

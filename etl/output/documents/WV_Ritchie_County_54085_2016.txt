@@ -1,0 +1,17 @@
+GEOGRAPHY: Ritchie County, WV
+GEOGRAPHIC CODE: 54085 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,044
+  under 18: 20.6%
+  age 65+: 20.1%
+  White alone: 98.3%
+  Black alone: 0.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $40,871
+  homeownership: 77.3%
+  estimated median home value: $80,361
+  estimated median gross rent: $532
+  unemployment: 8.4%
+  bachelor's degree or higher: 10.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

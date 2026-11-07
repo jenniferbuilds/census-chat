@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson Parish, LA
+GEOGRAPHIC CODE: 22049 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,926
+  under 18: 22.1%
+  age 65+: 19.3%
+  White alone: 68.4%
+  Black alone: 30.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $38,894
+  poverty rate: 26.0%
+  homeownership: 71.0%
+  estimated median home value: $87,235
+  estimated median gross rent: $524
+  unemployment: 6.0%
+  bachelor's degree or higher: 13.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Morrow County, OH
+GEOGRAPHIC CODE: 39117 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,976
+  under 18: 23.8%
+  age 65+: 16.1%
+  White alone: 96.3%
+  Black alone: 1.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $56,973
+  poverty rate: 10.2%
+  homeownership: 82.0%
+  estimated median home value: $144,910
+  estimated median gross rent: $703
+  unemployment: 3.6%
+  bachelor's degree or higher: 13.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

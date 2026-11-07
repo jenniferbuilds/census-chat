@@ -1,0 +1,17 @@
+GEOGRAPHY: Lamar County, TX
+GEOGRAPHIC CODE: 48277 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,626
+  under 18: 23.6%
+  age 65+: 18.2%
+  White alone: 81.2%
+  Black alone: 12.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 7.2%
+  estimated median household income: $40,369
+  homeownership: 64.5%
+  estimated median home value: $86,346
+  estimated median gross rent: $662
+  unemployment: 7.0%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

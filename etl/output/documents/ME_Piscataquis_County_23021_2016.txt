@@ -1,0 +1,17 @@
+GEOGRAPHY: Piscataquis County, ME
+GEOGRAPHIC CODE: 23021 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,044
+  under 18: 17.7%
+  age 65+: 23.5%
+  White alone: 96.2%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $37,121
+  homeownership: 74.3%
+  estimated median home value: $106,801
+  estimated median gross rent: $597
+  unemployment: 10.0%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

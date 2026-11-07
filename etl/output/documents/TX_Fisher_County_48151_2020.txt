@@ -1,0 +1,18 @@
+GEOGRAPHY: Fisher County, TX
+GEOGRAPHIC CODE: 48151 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,827
+  under 18: 21.5%
+  age 65+: 22.2%
+  White alone: 86.2%
+  Black alone: 3.1%
+  Asian alone: 0.3%
+  Hispanic or Latino: 27.3%
+  estimated median household income: $52,710
+  poverty rate: 12.4%
+  homeownership: 75.4%
+  estimated median home value: $63,857
+  estimated median gross rent: $621
+  unemployment: 2.6%
+  bachelor's degree or higher: 20.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

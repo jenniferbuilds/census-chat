@@ -1,0 +1,18 @@
+GEOGRAPHY: Williams County, ND
+GEOGRAPHIC CODE: 38105 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,208
+  under 18: 28.1%
+  age 65+: 9.1%
+  White alone: 81.7%
+  Black alone: 4.5%
+  Asian alone: 1.0%
+  Hispanic or Latino: 7.7%
+  estimated median household income: $88,129
+  poverty rate: 6.1%
+  homeownership: 52.6%
+  estimated median home value: $247,357
+  estimated median gross rent: $968
+  unemployment: 2.2%
+  bachelor's degree or higher: 23.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

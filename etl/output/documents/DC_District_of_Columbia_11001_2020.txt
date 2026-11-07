@@ -1,0 +1,18 @@
+GEOGRAPHY: District of Columbia, DC
+GEOGRAPHIC CODE: 11001 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 701,974
+  under 18: 18.0%
+  age 65+: 12.2%
+  White alone: 41.1%
+  Black alone: 45.4%
+  Asian alone: 4.1%
+  Hispanic or Latino: 11.1%
+  estimated median household income: $91,664
+  poverty rate: 15.5%
+  homeownership: 42.5%
+  estimated median home value: $618,056
+  estimated median gross rent: $1,607
+  unemployment: 7.1%
+  bachelor's degree or higher: 59.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

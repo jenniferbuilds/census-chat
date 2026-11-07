@@ -1,0 +1,18 @@
+GEOGRAPHY: Ogemaw County, MI
+GEOGRAPHIC CODE: 26129 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,898
+  under 18: 18.5%
+  age 65+: 25.2%
+  White alone: 96.5%
+  Black alone: 0.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $40,375
+  poverty rate: 17.1%
+  homeownership: 81.4%
+  estimated median home value: $98,230
+  estimated median gross rent: $701
+  unemployment: 8.1%
+  bachelor's degree or higher: 12.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

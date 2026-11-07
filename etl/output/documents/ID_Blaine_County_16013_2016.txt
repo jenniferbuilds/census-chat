@@ -1,0 +1,17 @@
+GEOGRAPHY: Blaine County, ID
+GEOGRAPHIC CODE: 16013 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,427
+  under 18: 23.3%
+  age 65+: 16.0%
+  White alone: 92.0%
+  Black alone: 0.1%
+  Asian alone: 1.1%
+  Hispanic or Latino: 20.7%
+  estimated median household income: $58,426
+  homeownership: 67.3%
+  estimated median home value: $384,764
+  estimated median gross rent: $964
+  unemployment: 3.7%
+  bachelor's degree or higher: 41.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Chowan County, NC
+GEOGRAPHIC CODE: 37041 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,556
+  under 18: 21.0%
+  age 65+: 22.1%
+  White alone: 62.9%
+  Black alone: 33.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $41,058
+  homeownership: 69.1%
+  estimated median home value: $131,506
+  estimated median gross rent: $733
+  unemployment: 13.4%
+  bachelor's degree or higher: 20.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

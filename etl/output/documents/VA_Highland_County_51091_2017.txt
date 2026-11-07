@@ -1,0 +1,18 @@
+GEOGRAPHY: Highland County, VA
+GEOGRAPHIC CODE: 51091 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,213
+  under 18: 12.8%
+  age 65+: 38.8%
+  White alone: 99.4%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $45,090
+  poverty rate: 10.6%
+  homeownership: 85.5%
+  estimated median home value: $184,043
+  estimated median gross rent: $555
+  unemployment: 0.5%
+  bachelor's degree or higher: 25.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

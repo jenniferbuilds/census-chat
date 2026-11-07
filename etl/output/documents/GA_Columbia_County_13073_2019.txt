@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbia County, GA
+GEOGRAPHIC CODE: 13073 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 150,705
+  under 18: 25.5%
+  age 65+: 13.2%
+  White alone: 73.9%
+  Black alone: 16.7%
+  Asian alone: 3.9%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $83,338
+  poverty rate: 7.5%
+  homeownership: 79.5%
+  estimated median home value: $203,424
+  estimated median gross rent: $1,149
+  unemployment: 4.5%
+  bachelor's degree or higher: 36.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

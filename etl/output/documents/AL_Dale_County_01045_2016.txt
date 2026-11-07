@@ -1,0 +1,17 @@
+GEOGRAPHY: Dale County, AL
+GEOGRAPHIC CODE: 01045 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,607
+  under 18: 23.6%
+  age 65+: 15.4%
+  White alone: 74.4%
+  Black alone: 19.7%
+  Asian alone: 1.0%
+  Hispanic or Latino: 5.9%
+  estimated median household income: $43,898
+  homeownership: 60.7%
+  estimated median home value: $103,761
+  estimated median gross rent: $636
+  unemployment: 10.4%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

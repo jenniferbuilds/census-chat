@@ -1,0 +1,17 @@
+GEOGRAPHY: Stearns County, MN
+GEOGRAPHIC CODE: 27145 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 153,661
+  under 18: 22.9%
+  age 65+: 13.3%
+  White alone: 90.1%
+  Black alone: 4.5%
+  Asian alone: 2.0%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $57,136
+  homeownership: 68.8%
+  estimated median home value: $168,167
+  estimated median gross rent: $754
+  unemployment: 4.8%
+  bachelor's degree or higher: 25.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

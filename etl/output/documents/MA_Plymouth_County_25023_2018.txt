@@ -1,0 +1,18 @@
+GEOGRAPHY: Plymouth County, MA
+GEOGRAPHIC CODE: 25023 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 512,135
+  under 18: 22.0%
+  age 65+: 17.1%
+  White alone: 83.4%
+  Black alone: 9.4%
+  Asian alone: 1.3%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $86,349
+  poverty rate: 7.6%
+  homeownership: 75.9%
+  estimated median home value: $356,713
+  estimated median gross rent: $1,227
+  unemployment: 5.4%
+  bachelor's degree or higher: 36.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

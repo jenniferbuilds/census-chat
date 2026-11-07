@@ -1,0 +1,18 @@
+GEOGRAPHY: Nemaha County, KS
+GEOGRAPHIC CODE: 20131 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,121
+  under 18: 26.6%
+  age 65+: 19.7%
+  White alone: 96.8%
+  Black alone: 0.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $63,391
+  poverty rate: 8.8%
+  homeownership: 74.9%
+  estimated median home value: $130,485
+  estimated median gross rent: $644
+  unemployment: 1.3%
+  bachelor's degree or higher: 25.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

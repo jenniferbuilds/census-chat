@@ -1,0 +1,18 @@
+GEOGRAPHY: Delaware County, IA
+GEOGRAPHIC CODE: 19055 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,326
+  under 18: 24.0%
+  age 65+: 18.2%
+  White alone: 98.1%
+  Black alone: 0.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $60,494
+  poverty rate: 9.2%
+  homeownership: 82.2%
+  estimated median home value: $125,955
+  estimated median gross rent: $593
+  unemployment: 2.5%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Monroe County, MO
+GEOGRAPHIC CODE: 29137 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,642
+  under 18: 22.4%
+  age 65+: 20.7%
+  White alone: 94.9%
+  Black alone: 2.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $41,281
+  homeownership: 73.3%
+  estimated median home value: $98,291
+  estimated median gross rent: $547
+  unemployment: 5.7%
+  bachelor's degree or higher: 14.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

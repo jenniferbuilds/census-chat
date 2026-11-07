@@ -1,0 +1,18 @@
+GEOGRAPHY: Mecklenburg County, NC
+GEOGRAPHIC CODE: 37119 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,034,290
+  under 18: 24.3%
+  age 65+: 10.4%
+  White alone: 55.1%
+  Black alone: 31.2%
+  Asian alone: 5.5%
+  Hispanic or Latino: 12.9%
+  estimated median household income: $61,935
+  poverty rate: 13.4%
+  homeownership: 56.7%
+  estimated median home value: $203,854
+  estimated median gross rent: $1,032
+  unemployment: 6.8%
+  bachelor's degree or higher: 44.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

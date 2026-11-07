@@ -1,0 +1,18 @@
+GEOGRAPHY: Mercer County, WV
+GEOGRAPHIC CODE: 54055 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 60,963
+  under 18: 20.6%
+  age 65+: 20.2%
+  White alone: 91.2%
+  Black alone: 6.1%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $37,798
+  poverty rate: 21.4%
+  homeownership: 71.8%
+  estimated median home value: $89,411
+  estimated median gross rent: $614
+  unemployment: 6.2%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

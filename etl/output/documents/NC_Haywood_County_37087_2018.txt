@@ -1,0 +1,18 @@
+GEOGRAPHY: Haywood County, NC
+GEOGRAPHIC CODE: 37087 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 60,433
+  under 18: 18.3%
+  age 65+: 24.1%
+  White alone: 95.6%
+  Black alone: 1.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $49,824
+  poverty rate: 13.9%
+  homeownership: 71.9%
+  estimated median home value: $175,562
+  estimated median gross rent: $748
+  unemployment: 4.7%
+  bachelor's degree or higher: 25.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

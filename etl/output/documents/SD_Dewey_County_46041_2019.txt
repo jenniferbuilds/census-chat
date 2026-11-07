@@ -1,0 +1,18 @@
+GEOGRAPHY: Dewey County, SD
+GEOGRAPHIC CODE: 46041 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,833
+  under 18: 37.0%
+  age 65+: 9.6%
+  White alone: 19.9%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $47,338
+  poverty rate: 31.3%
+  homeownership: 61.1%
+  estimated median home value: $64,375
+  estimated median gross rent: $579
+  unemployment: 21.0%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

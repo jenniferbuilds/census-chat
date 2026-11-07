@@ -1,0 +1,17 @@
+GEOGRAPHY: Haywood County, TN
+GEOGRAPHIC CODE: 47075 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,129
+  under 18: 23.6%
+  age 65+: 16.3%
+  White alone: 46.0%
+  Black alone: 50.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $35,137
+  homeownership: 61.0%
+  estimated median home value: $100,506
+  estimated median gross rent: $595
+  unemployment: 7.2%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

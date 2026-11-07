@@ -1,0 +1,18 @@
+GEOGRAPHY: Madison County, ID
+GEOGRAPHIC CODE: 16065 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,241
+  under 18: 27.1%
+  age 65+: 6.3%
+  White alone: 93.7%
+  Black alone: 0.6%
+  Asian alone: 1.1%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $33,357
+  poverty rate: 31.8%
+  homeownership: 46.4%
+  estimated median home value: $190,499
+  estimated median gross rent: $673
+  unemployment: 9.2%
+  bachelor's degree or higher: 37.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

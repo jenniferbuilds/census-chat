@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbia County, FL
+GEOGRAPHIC CODE: 12023 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 69,105
+  under 18: 21.9%
+  age 65+: 18.0%
+  White alone: 77.1%
+  Black alone: 17.7%
+  Asian alone: 0.9%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $44,584
+  poverty rate: 17.4%
+  homeownership: 73.4%
+  estimated median home value: $117,770
+  estimated median gross rent: $827
+  unemployment: 9.5%
+  bachelor's degree or higher: 15.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

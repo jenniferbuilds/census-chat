@@ -1,0 +1,18 @@
+GEOGRAPHY: Midland County, MI
+GEOGRAPHIC CODE: 26111 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 83,355
+  under 18: 21.5%
+  age 65+: 18.0%
+  White alone: 93.2%
+  Black alone: 1.4%
+  Asian alone: 2.3%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $62,422
+  poverty rate: 10.4%
+  homeownership: 76.6%
+  estimated median home value: $141,739
+  estimated median gross rent: $777
+  unemployment: 5.2%
+  bachelor's degree or higher: 35.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

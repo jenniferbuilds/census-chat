@@ -1,0 +1,18 @@
+GEOGRAPHY: Alleghany County, NC
+GEOGRAPHIC CODE: 37005 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,008
+  under 18: 17.4%
+  age 65+: 26.5%
+  White alone: 95.4%
+  Black alone: 2.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 9.7%
+  estimated median household income: $37,768
+  poverty rate: 23.4%
+  homeownership: 76.3%
+  estimated median home value: $139,779
+  estimated median gross rent: $622
+  unemployment: 3.9%
+  bachelor's degree or higher: 17.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

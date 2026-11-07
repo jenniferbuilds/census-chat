@@ -1,0 +1,18 @@
+GEOGRAPHY: Garfield County, WA
+GEOGRAPHIC CODE: 53023 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,258
+  under 18: 20.0%
+  age 65+: 26.4%
+  White alone: 90.0%
+  Black alone: 0.0%
+  Asian alone: 4.0%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $57,538
+  poverty rate: 8.3%
+  homeownership: 75.9%
+  estimated median home value: $152,358
+  estimated median gross rent: $565
+  unemployment: 6.5%
+  bachelor's degree or higher: 25.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Kanawha County, WV
+GEOGRAPHIC CODE: 54039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 185,710
+  under 18: 20.2%
+  age 65+: 19.4%
+  White alone: 88.5%
+  Black alone: 7.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $45,374
+  poverty rate: 17.1%
+  homeownership: 68.8%
+  estimated median home value: $112,438
+  estimated median gross rent: $735
+  unemployment: 6.2%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

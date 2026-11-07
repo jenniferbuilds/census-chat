@@ -1,0 +1,17 @@
+GEOGRAPHY: Dodge County, GA
+GEOGRAPHIC CODE: 13091 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,995
+  under 18: 21.0%
+  age 65+: 15.0%
+  White alone: 66.8%
+  Black alone: 27.9%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $35,589
+  homeownership: 64.1%
+  estimated median home value: $68,905
+  estimated median gross rent: $561
+  unemployment: 10.5%
+  bachelor's degree or higher: 13.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

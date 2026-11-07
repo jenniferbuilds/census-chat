@@ -1,0 +1,18 @@
+GEOGRAPHY: Ellis County, TX
+GEOGRAPHIC CODE: 48139 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 173,772
+  under 18: 26.8%
+  age 65+: 12.6%
+  White alone: 81.5%
+  Black alone: 10.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 26.2%
+  estimated median household income: $77,425
+  poverty rate: 8.8%
+  homeownership: 74.4%
+  estimated median home value: $191,448
+  estimated median gross rent: $1,054
+  unemployment: 3.4%
+  bachelor's degree or higher: 24.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

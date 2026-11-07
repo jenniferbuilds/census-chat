@@ -1,0 +1,18 @@
+GEOGRAPHY: Lee County, MS
+GEOGRAPHIC CODE: 28081 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 85,072
+  under 18: 25.4%
+  age 65+: 14.5%
+  White alone: 66.9%
+  Black alone: 29.5%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $50,643
+  poverty rate: 14.6%
+  homeownership: 67.9%
+  estimated median home value: $133,684
+  estimated median gross rent: $752
+  unemployment: 5.8%
+  bachelor's degree or higher: 24.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Okaloosa County, FL
+GEOGRAPHIC CODE: 12091 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 200,737
+  under 18: 22.2%
+  age 65+: 15.4%
+  White alone: 78.4%
+  Black alone: 9.8%
+  Asian alone: 3.0%
+  Hispanic or Latino: 9.0%
+  estimated median household income: $61,937
+  poverty rate: 11.5%
+  homeownership: 63.0%
+  estimated median home value: $207,646
+  estimated median gross rent: $1,101
+  unemployment: 5.6%
+  bachelor's degree or higher: 30.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

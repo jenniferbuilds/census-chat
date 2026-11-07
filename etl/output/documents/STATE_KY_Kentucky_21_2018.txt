@@ -1,0 +1,18 @@
+GEOGRAPHY: Kentucky (KY)
+GEOGRAPHIC CODE: 21 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,440,204
+  under 18: 22.8%
+  age 65+: 15.6%
+  White alone: 87.1%
+  Black alone: 8.0%
+  Asian alone: 1.4%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $48,411
+  poverty rate: 17.9%
+  homeownership: 67.0%
+  estimated median home value: $135,346
+  estimated median gross rent: $741
+  unemployment: 6.1%
+  bachelor's degree or higher: 23.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

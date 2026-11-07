@@ -1,0 +1,18 @@
+GEOGRAPHY: Shackelford County, TX
+GEOGRAPHIC CODE: 48417 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,311
+  under 18: 23.7%
+  age 65+: 18.4%
+  White alone: 96.1%
+  Black alone: 0.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 11.6%
+  estimated median household income: $45,325
+  poverty rate: 14.8%
+  homeownership: 80.8%
+  estimated median home value: $80,283
+  estimated median gross rent: $582
+  unemployment: 8.1%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Moore County, NC
+GEOGRAPHIC CODE: 37125 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 97,294
+  under 18: 21.3%
+  age 65+: 23.8%
+  White alone: 82.2%
+  Black alone: 12.4%
+  Asian alone: 1.3%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $59,968
+  poverty rate: 11.3%
+  homeownership: 75.7%
+  estimated median home value: $216,457
+  estimated median gross rent: $879
+  unemployment: 4.8%
+  bachelor's degree or higher: 37.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

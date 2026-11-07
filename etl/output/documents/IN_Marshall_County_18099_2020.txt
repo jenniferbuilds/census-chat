@@ -1,0 +1,18 @@
+GEOGRAPHY: Marshall County, IN
+GEOGRAPHIC CODE: 18099 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,336
+  under 18: 25.2%
+  age 65+: 17.6%
+  White alone: 94.4%
+  Black alone: 0.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 10.2%
+  estimated median household income: $55,028
+  poverty rate: 12.5%
+  homeownership: 74.9%
+  estimated median home value: $144,424
+  estimated median gross rent: $760
+  unemployment: 3.4%
+  bachelor's degree or higher: 19.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

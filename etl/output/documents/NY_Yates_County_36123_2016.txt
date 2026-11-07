@@ -1,0 +1,17 @@
+GEOGRAPHY: Yates County, NY
+GEOGRAPHIC CODE: 36123 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,106
+  under 18: 22.9%
+  age 65+: 18.2%
+  White alone: 96.7%
+  Black alone: 0.8%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $50,128
+  homeownership: 77.1%
+  estimated median home value: $126,865
+  estimated median gross rent: $701
+  unemployment: 7.2%
+  bachelor's degree or higher: 23.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

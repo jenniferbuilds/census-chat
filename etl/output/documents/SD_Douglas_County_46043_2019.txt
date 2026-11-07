@@ -1,0 +1,18 @@
+GEOGRAPHY: Douglas County, SD
+GEOGRAPHIC CODE: 46043 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,929
+  under 18: 24.6%
+  age 65+: 23.5%
+  White alone: 95.0%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $58,947
+  poverty rate: 6.3%
+  homeownership: 79.8%
+  estimated median home value: $94,375
+  estimated median gross rent: $537
+  unemployment: 0.8%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

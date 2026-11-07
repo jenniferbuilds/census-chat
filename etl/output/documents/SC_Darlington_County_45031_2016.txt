@@ -1,0 +1,17 @@
+GEOGRAPHY: Darlington County, SC
+GEOGRAPHIC CODE: 45031 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 67,689
+  under 18: 23.1%
+  age 65+: 16.5%
+  White alone: 56.6%
+  Black alone: 40.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $34,787
+  homeownership: 68.3%
+  estimated median home value: $84,749
+  estimated median gross rent: $615
+  unemployment: 15.7%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

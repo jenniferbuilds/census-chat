@@ -1,0 +1,18 @@
+GEOGRAPHY: Morgan County, WV
+GEOGRAPHIC CODE: 54065 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,709
+  under 18: 18.5%
+  age 65+: 22.8%
+  White alone: 95.5%
+  Black alone: 1.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $51,952
+  poverty rate: 7.9%
+  homeownership: 83.3%
+  estimated median home value: $183,213
+  estimated median gross rent: $732
+  unemployment: 7.0%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

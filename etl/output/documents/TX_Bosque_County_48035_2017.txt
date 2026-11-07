@@ -1,0 +1,18 @@
+GEOGRAPHY: Bosque County, TX
+GEOGRAPHIC CODE: 48035 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,955
+  under 18: 21.7%
+  age 65+: 24.1%
+  White alone: 94.3%
+  Black alone: 1.4%
+  Asian alone: 0.3%
+  Hispanic or Latino: 17.6%
+  estimated median household income: $48,838
+  poverty rate: 15.6%
+  homeownership: 77.3%
+  estimated median home value: $106,664
+  estimated median gross rent: $685
+  unemployment: 5.2%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

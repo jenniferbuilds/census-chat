@@ -1,0 +1,18 @@
+GEOGRAPHY: Seminole County, FL
+GEOGRAPHIC CODE: 12117 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 455,086
+  under 18: 21.3%
+  age 65+: 14.8%
+  White alone: 77.2%
+  Black alone: 11.7%
+  Asian alone: 4.4%
+  Hispanic or Latino: 20.7%
+  estimated median household income: $64,077
+  poverty rate: 11.4%
+  homeownership: 65.2%
+  estimated median home value: $224,017
+  estimated median gross rent: $1,198
+  unemployment: 5.6%
+  bachelor's degree or higher: 38.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

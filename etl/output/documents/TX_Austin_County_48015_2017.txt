@@ -1,0 +1,18 @@
+GEOGRAPHY: Austin County, TX
+GEOGRAPHIC CODE: 48015 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,292
+  under 18: 24.2%
+  age 65+: 18.0%
+  White alone: 80.6%
+  Black alone: 9.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 25.9%
+  estimated median household income: $61,347
+  poverty rate: 13.4%
+  homeownership: 74.2%
+  estimated median home value: $175,152
+  estimated median gross rent: $802
+  unemployment: 5.4%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

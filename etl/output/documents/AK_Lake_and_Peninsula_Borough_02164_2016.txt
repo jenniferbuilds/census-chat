@@ -1,0 +1,17 @@
+GEOGRAPHY: Lake and Peninsula Borough, AK
+GEOGRAPHIC CODE: 02164 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,411
+  under 18: 30.9%
+  age 65+: 6.1%
+  White alone: 21.3%
+  Black alone: 0.8%
+  Asian alone: 2.8%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $44,107
+  homeownership: 67.9%
+  estimated median home value: $143,750
+  estimated median gross rent: $743
+  unemployment: 11.7%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

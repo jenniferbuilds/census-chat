@@ -1,0 +1,18 @@
+GEOGRAPHY: Shelby County, IL
+GEOGRAPHIC CODE: 17173 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,737
+  under 18: 21.3%
+  age 65+: 22.1%
+  White alone: 98.3%
+  Black alone: 0.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $53,020
+  poverty rate: 10.8%
+  homeownership: 81.0%
+  estimated median home value: $96,462
+  estimated median gross rent: $653
+  unemployment: 4.4%
+  bachelor's degree or higher: 16.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

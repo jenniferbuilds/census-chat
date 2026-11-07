@@ -1,0 +1,17 @@
+GEOGRAPHY: Treutlen County, GA
+GEOGRAPHIC CODE: 13283 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,711
+  under 18: 21.9%
+  age 65+: 17.3%
+  White alone: 68.4%
+  Black alone: 31.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $40,160
+  homeownership: 69.7%
+  estimated median home value: $71,309
+  estimated median gross rent: $531
+  unemployment: 6.2%
+  bachelor's degree or higher: 16.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Delaware County, OK
+GEOGRAPHIC CODE: 40041 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 42,112
+  under 18: 20.7%
+  age 65+: 24.2%
+  White alone: 65.6%
+  Black alone: 0.4%
+  Asian alone: 1.2%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $39,763
+  poverty rate: 19.0%
+  homeownership: 75.8%
+  estimated median home value: $114,866
+  estimated median gross rent: $673
+  unemployment: 7.5%
+  bachelor's degree or higher: 17.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

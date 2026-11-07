@@ -1,0 +1,18 @@
+GEOGRAPHY: Howard County, NE
+GEOGRAPHIC CODE: 31093 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,417
+  under 18: 24.2%
+  age 65+: 21.1%
+  White alone: 96.6%
+  Black alone: 0.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $59,661
+  poverty rate: 7.9%
+  homeownership: 76.5%
+  estimated median home value: $148,757
+  estimated median gross rent: $685
+  unemployment: 3.5%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

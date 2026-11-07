@@ -1,0 +1,18 @@
+GEOGRAPHY: Clarke County, GA
+GEOGRAPHIC CODE: 13059 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 124,602
+  under 18: 17.4%
+  age 65+: 10.3%
+  White alone: 62.9%
+  Black alone: 27.6%
+  Asian alone: 4.1%
+  Hispanic or Latino: 10.7%
+  estimated median household income: $36,956
+  poverty rate: 31.3%
+  homeownership: 39.0%
+  estimated median home value: $163,667
+  estimated median gross rent: $845
+  unemployment: 6.4%
+  bachelor's degree or higher: 42.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

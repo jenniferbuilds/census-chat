@@ -1,0 +1,18 @@
+GEOGRAPHY: Wilkinson County, GA
+GEOGRAPHIC CODE: 13319 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,147
+  under 18: 23.2%
+  age 65+: 17.8%
+  White alone: 58.8%
+  Black alone: 38.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $39,136
+  poverty rate: 23.3%
+  homeownership: 76.6%
+  estimated median home value: $69,086
+  estimated median gross rent: $616
+  unemployment: 8.8%
+  bachelor's degree or higher: 9.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

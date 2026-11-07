@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Tammany Parish, LA
+GEOGRAPHIC CODE: 22103 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 255,155
+  under 18: 24.1%
+  age 65+: 16.4%
+  White alone: 82.8%
+  Black alone: 12.1%
+  Asian alone: 1.6%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $68,653
+  poverty rate: 11.5%
+  homeownership: 78.4%
+  estimated median home value: $218,491
+  estimated median gross rent: $1,086
+  unemployment: 5.5%
+  bachelor's degree or higher: 33.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

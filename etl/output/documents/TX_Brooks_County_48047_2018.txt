@@ -1,0 +1,18 @@
+GEOGRAPHY: Brooks County, TX
+GEOGRAPHIC CODE: 48047 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,180
+  under 18: 25.7%
+  age 65+: 15.5%
+  White alone: 90.0%
+  Black alone: 0.7%
+  Asian alone: 0.0%
+  Hispanic or Latino: 93.9%
+  estimated median household income: $27,796
+  poverty rate: 38.9%
+  homeownership: 62.4%
+  estimated median home value: $63,980
+  estimated median gross rent: $626
+  unemployment: 14.6%
+  bachelor's degree or higher: 17.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

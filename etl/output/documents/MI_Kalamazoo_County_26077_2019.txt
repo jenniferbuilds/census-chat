@@ -1,0 +1,18 @@
+GEOGRAPHY: Kalamazoo County, MI
+GEOGRAPHIC CODE: 26077 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 262,745
+  under 18: 21.7%
+  age 65+: 14.6%
+  White alone: 80.8%
+  Black alone: 11.1%
+  Asian alone: 2.4%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $56,959
+  poverty rate: 14.9%
+  homeownership: 64.0%
+  estimated median home value: $159,259
+  estimated median gross rent: $812
+  unemployment: 5.5%
+  bachelor's degree or higher: 38.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

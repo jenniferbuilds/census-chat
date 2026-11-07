@@ -1,0 +1,17 @@
+GEOGRAPHY: Morovis Municipio, PR
+GEOGRAPHIC CODE: 72101 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,087
+  under 18: 24.2%
+  age 65+: 13.2%
+  White alone: 92.6%
+  Black alone: 1.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 99.8%
+  estimated median household income: $17,819
+  homeownership: 72.7%
+  estimated median home value: $99,405
+  estimated median gross rent: $493
+  unemployment: 21.8%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

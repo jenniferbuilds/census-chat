@@ -1,0 +1,18 @@
+GEOGRAPHY: Marion County, OR
+GEOGRAPHIC CODE: 41047 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 335,553
+  under 18: 25.1%
+  age 65+: 15.0%
+  White alone: 81.1%
+  Black alone: 1.4%
+  Asian alone: 2.0%
+  Hispanic or Latino: 26.3%
+  estimated median household income: $56,315
+  poverty rate: 15.2%
+  homeownership: 59.5%
+  estimated median home value: $225,783
+  estimated median gross rent: $941
+  unemployment: 6.1%
+  bachelor's degree or higher: 22.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

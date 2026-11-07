@@ -1,0 +1,18 @@
+GEOGRAPHY: Clarendon County, SC
+GEOGRAPHIC CODE: 45027 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,017
+  under 18: 19.8%
+  age 65+: 21.9%
+  White alone: 49.3%
+  Black alone: 48.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $37,964
+  poverty rate: 23.4%
+  homeownership: 76.3%
+  estimated median home value: $93,775
+  estimated median gross rent: $605
+  unemployment: 11.8%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

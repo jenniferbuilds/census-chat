@@ -1,0 +1,18 @@
+GEOGRAPHY: Bristol County, MA
+GEOGRAPHIC CODE: 25005 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 558,905
+  under 18: 20.9%
+  age 65+: 16.3%
+  White alone: 84.6%
+  Black alone: 4.1%
+  Asian alone: 2.3%
+  Hispanic or Latino: 7.7%
+  estimated median household income: $66,273
+  poverty rate: 11.5%
+  homeownership: 62.5%
+  estimated median home value: $290,148
+  estimated median gross rent: $872
+  unemployment: 5.8%
+  bachelor's degree or higher: 28.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

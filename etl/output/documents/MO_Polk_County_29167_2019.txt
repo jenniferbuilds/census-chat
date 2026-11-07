@@ -1,0 +1,18 @@
+GEOGRAPHY: Polk County, MO
+GEOGRAPHIC CODE: 29167 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,748
+  under 18: 23.1%
+  age 65+: 17.8%
+  White alone: 95.6%
+  Black alone: 0.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $45,653
+  poverty rate: 16.5%
+  homeownership: 69.0%
+  estimated median home value: $132,345
+  estimated median gross rent: $701
+  unemployment: 3.8%
+  bachelor's degree or higher: 19.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

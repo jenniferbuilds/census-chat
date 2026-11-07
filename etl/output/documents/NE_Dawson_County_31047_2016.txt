@@ -1,0 +1,17 @@
+GEOGRAPHY: Dawson County, NE
+GEOGRAPHIC CODE: 31047 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,924
+  under 18: 27.7%
+  age 65+: 14.7%
+  White alone: 89.1%
+  Black alone: 5.4%
+  Asian alone: 0.0%
+  Hispanic or Latino: 32.7%
+  estimated median household income: $49,925
+  homeownership: 67.4%
+  estimated median home value: $95,649
+  estimated median gross rent: $671
+  unemployment: 4.7%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

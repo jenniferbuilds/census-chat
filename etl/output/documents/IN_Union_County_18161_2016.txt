@@ -1,0 +1,17 @@
+GEOGRAPHY: Union County, IN
+GEOGRAPHIC CODE: 18161 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,251
+  under 18: 23.2%
+  age 65+: 17.3%
+  White alone: 96.2%
+  Black alone: 0.2%
+  Asian alone: 0.6%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $45,132
+  homeownership: 72.7%
+  estimated median home value: $106,074
+  estimated median gross rent: $710
+  unemployment: 5.4%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

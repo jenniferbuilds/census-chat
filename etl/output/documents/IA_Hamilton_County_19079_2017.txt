@@ -1,0 +1,18 @@
+GEOGRAPHY: Hamilton County, IA
+GEOGRAPHIC CODE: 19079 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,201
+  under 18: 22.9%
+  age 65+: 19.4%
+  White alone: 93.8%
+  Black alone: 1.1%
+  Asian alone: 3.0%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $55,799
+  poverty rate: 9.4%
+  homeownership: 71.6%
+  estimated median home value: $98,949
+  estimated median gross rent: $653
+  unemployment: 2.3%
+  bachelor's degree or higher: 23.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

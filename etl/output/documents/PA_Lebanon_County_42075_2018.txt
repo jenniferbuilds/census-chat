@@ -1,0 +1,18 @@
+GEOGRAPHY: Lebanon County, PA
+GEOGRAPHIC CODE: 42075 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 138,674
+  under 18: 22.9%
+  age 65+: 18.8%
+  White alone: 87.1%
+  Black alone: 2.4%
+  Asian alone: 1.4%
+  Hispanic or Latino: 12.6%
+  estimated median household income: $59,310
+  poverty rate: 10.4%
+  homeownership: 69.8%
+  estimated median home value: $169,237
+  estimated median gross rent: $844
+  unemployment: 5.3%
+  bachelor's degree or higher: 20.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

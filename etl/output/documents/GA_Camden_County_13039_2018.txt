@@ -1,0 +1,18 @@
+GEOGRAPHY: Camden County, GA
+GEOGRAPHIC CODE: 13039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 52,714
+  under 18: 24.5%
+  age 65+: 12.2%
+  White alone: 72.9%
+  Black alone: 18.7%
+  Asian alone: 2.1%
+  Hispanic or Latino: 6.6%
+  estimated median household income: $57,492
+  poverty rate: 12.9%
+  homeownership: 62.1%
+  estimated median home value: $159,834
+  estimated median gross rent: $954
+  unemployment: 7.3%
+  bachelor's degree or higher: 24.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

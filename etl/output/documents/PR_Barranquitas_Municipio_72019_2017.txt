@@ -1,0 +1,18 @@
+GEOGRAPHY: Barranquitas Municipio, PR
+GEOGRAPHIC CODE: 72019 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,237
+  under 18: 24.1%
+  age 65+: 13.7%
+  White alone: 87.8%
+  Black alone: 4.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 100.0%
+  estimated median household income: $15,767
+  poverty rate: 60.7%
+  homeownership: 77.3%
+  estimated median home value: $90,611
+  estimated median gross rent: $417
+  unemployment: 11.7%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

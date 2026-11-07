@@ -1,0 +1,18 @@
+GEOGRAPHY: Randolph County, AL
+GEOGRAPHIC CODE: 01111 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,647
+  under 18: 21.6%
+  age 65+: 20.4%
+  White alone: 77.1%
+  Black alone: 20.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $43,316
+  poverty rate: 16.9%
+  homeownership: 76.6%
+  estimated median home value: $96,113
+  estimated median gross rent: $620
+  unemployment: 4.2%
+  bachelor's degree or higher: 16.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Jefferson County, AR
+GEOGRAPHIC CODE: 05069 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 69,282
+  under 18: 22.1%
+  age 65+: 16.8%
+  White alone: 39.7%
+  Black alone: 56.5%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $40,641
+  poverty rate: 22.2%
+  homeownership: 62.1%
+  estimated median home value: $83,509
+  estimated median gross rent: $740
+  unemployment: 9.1%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Randolph County, NC
+GEOGRAPHIC CODE: 37151 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 142,588
+  under 18: 23.6%
+  age 65+: 16.1%
+  White alone: 86.6%
+  Black alone: 6.1%
+  Asian alone: 1.1%
+  Hispanic or Latino: 10.8%
+  estimated median household income: $43,248
+  homeownership: 72.4%
+  estimated median home value: $118,864
+  estimated median gross rent: $630
+  unemployment: 7.0%
+  bachelor's degree or higher: 15.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

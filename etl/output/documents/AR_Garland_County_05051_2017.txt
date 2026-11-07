@@ -1,0 +1,18 @@
+GEOGRAPHY: Garland County, AR
+GEOGRAPHIC CODE: 05051 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 97,994
+  under 18: 20.5%
+  age 65+: 22.6%
+  White alone: 85.7%
+  Black alone: 8.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $41,921
+  poverty rate: 19.1%
+  homeownership: 67.0%
+  estimated median home value: $131,467
+  estimated median gross rent: $721
+  unemployment: 9.0%
+  bachelor's degree or higher: 20.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

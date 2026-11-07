@@ -1,0 +1,18 @@
+GEOGRAPHY: King County, TX
+GEOGRAPHIC CODE: 48269 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 228
+  under 18: 26.8%
+  age 65+: 14.5%
+  White alone: 99.1%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 16.7%
+  estimated median household income: $64,038
+  poverty rate: 8.8%
+  homeownership: 37.4%
+  estimated median home value: $38,333
+  estimated median gross rent: $612
+  unemployment: 7.6%
+  bachelor's degree or higher: 18.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

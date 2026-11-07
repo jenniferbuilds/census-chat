@@ -1,0 +1,18 @@
+GEOGRAPHY: Claiborne Parish, LA
+GEOGRAPHIC CODE: 22027 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,153
+  under 18: 18.2%
+  age 65+: 18.5%
+  White alone: 45.8%
+  Black alone: 52.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $28,177
+  poverty rate: 30.5%
+  homeownership: 65.8%
+  estimated median home value: $76,775
+  estimated median gross rent: $636
+  unemployment: 9.4%
+  bachelor's degree or higher: 14.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

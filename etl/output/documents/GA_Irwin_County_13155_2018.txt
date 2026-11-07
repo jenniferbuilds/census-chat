@@ -1,0 +1,18 @@
+GEOGRAPHY: Irwin County, GA
+GEOGRAPHIC CODE: 13155 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,268
+  under 18: 21.7%
+  age 65+: 18.6%
+  White alone: 68.2%
+  Black alone: 29.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $32,799
+  poverty rate: 26.5%
+  homeownership: 74.2%
+  estimated median home value: $74,259
+  estimated median gross rent: $549
+  unemployment: 9.2%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

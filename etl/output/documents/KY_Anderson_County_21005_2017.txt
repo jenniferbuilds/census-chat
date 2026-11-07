@@ -1,0 +1,18 @@
+GEOGRAPHY: Anderson County, KY
+GEOGRAPHIC CODE: 21005 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,017
+  under 18: 24.2%
+  age 65+: 14.5%
+  White alone: 95.4%
+  Black alone: 2.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $52,239
+  poverty rate: 12.0%
+  homeownership: 76.4%
+  estimated median home value: $138,552
+  estimated median gross rent: $710
+  unemployment: 6.3%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

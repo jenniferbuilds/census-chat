@@ -1,0 +1,17 @@
+GEOGRAPHY: Dodge County, NE
+GEOGRAPHIC CODE: 31053 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,679
+  under 18: 23.4%
+  age 65+: 18.7%
+  White alone: 95.5%
+  Black alone: 0.7%
+  Asian alone: 0.6%
+  Hispanic or Latino: 11.4%
+  estimated median household income: $49,815
+  homeownership: 65.7%
+  estimated median home value: $114,681
+  estimated median gross rent: $711
+  unemployment: 4.3%
+  bachelor's degree or higher: 18.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

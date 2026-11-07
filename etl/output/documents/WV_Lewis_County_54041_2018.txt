@@ -1,0 +1,18 @@
+GEOGRAPHY: Lewis County, WV
+GEOGRAPHIC CODE: 54041 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,276
+  under 18: 21.5%
+  age 65+: 19.6%
+  White alone: 97.5%
+  Black alone: 0.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $39,445
+  poverty rate: 20.9%
+  homeownership: 69.9%
+  estimated median home value: $104,783
+  estimated median gross rent: $646
+  unemployment: 6.1%
+  bachelor's degree or higher: 13.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

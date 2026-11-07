@@ -1,0 +1,18 @@
+GEOGRAPHY: DeKalb County, MO
+GEOGRAPHIC CODE: 29063 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,564
+  under 18: 16.4%
+  age 65+: 16.0%
+  White alone: 86.1%
+  Black alone: 9.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $47,126
+  poverty rate: 12.5%
+  homeownership: 66.5%
+  estimated median home value: $111,560
+  estimated median gross rent: $622
+  unemployment: 3.4%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

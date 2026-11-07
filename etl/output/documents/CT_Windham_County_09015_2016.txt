@@ -1,0 +1,17 @@
+GEOGRAPHY: Windham County, CT
+GEOGRAPHIC CODE: 09015 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 117,078
+  under 18: 20.7%
+  age 65+: 14.6%
+  White alone: 89.8%
+  Black alone: 2.3%
+  Asian alone: 1.3%
+  Hispanic or Latino: 10.9%
+  estimated median household income: $60,899
+  homeownership: 69.9%
+  estimated median home value: $196,851
+  estimated median gross rent: $852
+  unemployment: 8.4%
+  bachelor's degree or higher: 23.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Ozaukee County, WI
+GEOGRAPHIC CODE: 55089 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 88,597
+  under 18: 21.5%
+  age 65+: 19.2%
+  White alone: 93.6%
+  Black alone: 1.2%
+  Asian alone: 2.1%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $85,928
+  poverty rate: 5.3%
+  homeownership: 75.9%
+  estimated median home value: $282,474
+  estimated median gross rent: $927
+  unemployment: 2.6%
+  bachelor's degree or higher: 49.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Winnebago County, IA
+GEOGRAPHIC CODE: 19189 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,580
+  under 18: 21.5%
+  age 65+: 20.3%
+  White alone: 95.3%
+  Black alone: 0.7%
+  Asian alone: 1.1%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $49,300
+  homeownership: 76.2%
+  estimated median home value: $93,292
+  estimated median gross rent: $529
+  unemployment: 6.6%
+  bachelor's degree or higher: 21.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

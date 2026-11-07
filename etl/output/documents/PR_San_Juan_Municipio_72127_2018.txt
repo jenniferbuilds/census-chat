@@ -1,0 +1,18 @@
+GEOGRAPHY: San Juan Municipio, PR
+GEOGRAPHIC CODE: 72127 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 344,606
+  under 18: 18.8%
+  age 65+: 21.1%
+  White alone: 68.8%
+  Black alone: 12.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 98.1%
+  estimated median household income: $22,141
+  poverty rate: 41.8%
+  homeownership: 53.5%
+  estimated median home value: $155,661
+  estimated median gross rent: $470
+  unemployment: 15.4%
+  bachelor's degree or higher: 36.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

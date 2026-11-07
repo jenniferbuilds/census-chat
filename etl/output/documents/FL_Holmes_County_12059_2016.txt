@@ -1,0 +1,17 @@
+GEOGRAPHY: Holmes County, FL
+GEOGRAPHIC CODE: 12059 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,569
+  under 18: 20.1%
+  age 65+: 18.9%
+  White alone: 88.5%
+  Black alone: 8.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $37,636
+  homeownership: 79.8%
+  estimated median home value: $90,737
+  estimated median gross rent: $656
+  unemployment: 13.1%
+  bachelor's degree or higher: 12.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

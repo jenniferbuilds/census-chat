@@ -1,0 +1,18 @@
+GEOGRAPHY: Coamo Municipio, PR
+GEOGRAPHIC CODE: 72043 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,265
+  under 18: 21.2%
+  age 65+: 16.5%
+  White alone: 66.7%
+  Black alone: 25.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.4%
+  estimated median household income: $19,835
+  poverty rate: 47.0%
+  homeownership: 76.9%
+  estimated median home value: $88,806
+  estimated median gross rent: $486
+  unemployment: 7.4%
+  bachelor's degree or higher: 21.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

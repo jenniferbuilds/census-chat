@@ -1,0 +1,18 @@
+GEOGRAPHY: New Haven County, CT
+GEOGRAPHIC CODE: 09009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 859,339
+  under 18: 20.6%
+  age 65+: 16.6%
+  White alone: 73.8%
+  Black alone: 13.2%
+  Asian alone: 4.0%
+  Hispanic or Latino: 17.6%
+  estimated median household income: $67,235
+  poverty rate: 11.9%
+  homeownership: 61.9%
+  estimated median home value: $246,666
+  estimated median gross rent: $1,133
+  unemployment: 7.0%
+  bachelor's degree or higher: 34.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: McCulloch County, TX
+GEOGRAPHIC CODE: 48307 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,098
+  under 18: 23.0%
+  age 65+: 22.1%
+  White alone: 83.6%
+  Black alone: 1.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 31.9%
+  estimated median household income: $45,300
+  poverty rate: 16.1%
+  homeownership: 74.8%
+  estimated median home value: $85,559
+  estimated median gross rent: $707
+  unemployment: 2.5%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

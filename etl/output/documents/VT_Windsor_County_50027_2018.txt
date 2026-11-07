@@ -1,0 +1,18 @@
+GEOGRAPHY: Windsor County, VT
+GEOGRAPHIC CODE: 50027 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 55,427
+  under 18: 18.5%
+  age 65+: 22.0%
+  White alone: 95.8%
+  Black alone: 0.7%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $58,275
+  poverty rate: 10.0%
+  homeownership: 73.2%
+  estimated median home value: $216,765
+  estimated median gross rent: $940
+  unemployment: 4.1%
+  bachelor's degree or higher: 36.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

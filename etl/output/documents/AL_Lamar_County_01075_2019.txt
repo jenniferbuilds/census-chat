@@ -1,0 +1,18 @@
+GEOGRAPHY: Lamar County, AL
+GEOGRAPHIC CODE: 01075 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,885
+  under 18: 22.0%
+  age 65+: 21.5%
+  White alone: 87.5%
+  Black alone: 10.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $38,839
+  poverty rate: 20.6%
+  homeownership: 75.6%
+  estimated median home value: $80,938
+  estimated median gross rent: $425
+  unemployment: 8.8%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Taylor County, WV
+GEOGRAPHIC CODE: 54091 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,951
+  under 18: 20.5%
+  age 65+: 19.2%
+  White alone: 96.6%
+  Black alone: 1.0%
+  Asian alone: 0.9%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $47,047
+  poverty rate: 17.1%
+  homeownership: 77.5%
+  estimated median home value: $103,645
+  estimated median gross rent: $633
+  unemployment: 8.1%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

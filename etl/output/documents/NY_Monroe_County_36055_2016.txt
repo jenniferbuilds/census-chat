@@ -1,0 +1,17 @@
+GEOGRAPHY: Monroe County, NY
+GEOGRAPHIC CODE: 36055 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 749,236
+  under 18: 21.5%
+  age 65+: 15.5%
+  White alone: 76.0%
+  Black alone: 15.3%
+  Asian alone: 3.6%
+  Hispanic or Latino: 8.1%
+  estimated median household income: $53,953
+  homeownership: 63.8%
+  estimated median home value: $140,238
+  estimated median gross rent: $843
+  unemployment: 7.3%
+  bachelor's degree or higher: 36.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Fayette County, PA
+GEOGRAPHIC CODE: 42051 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 131,302
+  under 18: 19.3%
+  age 65+: 20.6%
+  White alone: 92.5%
+  Black alone: 4.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $47,384
+  poverty rate: 17.3%
+  homeownership: 74.4%
+  estimated median home value: $101,462
+  estimated median gross rent: $675
+  unemployment: 7.3%
+  bachelor's degree or higher: 17.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

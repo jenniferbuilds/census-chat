@@ -1,0 +1,18 @@
+GEOGRAPHY: Goodhue County, MN
+GEOGRAPHIC CODE: 27049 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,138
+  under 18: 22.8%
+  age 65+: 18.1%
+  White alone: 94.5%
+  Black alone: 1.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $63,804
+  poverty rate: 10.8%
+  homeownership: 74.6%
+  estimated median home value: $191,409
+  estimated median gross rent: $779
+  unemployment: 4.2%
+  bachelor's degree or higher: 24.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

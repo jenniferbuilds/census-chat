@@ -1,0 +1,18 @@
+GEOGRAPHY: Buchanan County, IA
+GEOGRAPHIC CODE: 19019 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,118
+  under 18: 26.7%
+  age 65+: 17.8%
+  White alone: 97.4%
+  Black alone: 0.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $64,130
+  poverty rate: 8.7%
+  homeownership: 79.3%
+  estimated median home value: $142,459
+  estimated median gross rent: $678
+  unemployment: 2.2%
+  bachelor's degree or higher: 21.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

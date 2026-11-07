@@ -1,0 +1,18 @@
+GEOGRAPHY: Appanoose County, IA
+GEOGRAPHIC CODE: 19007 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,547
+  under 18: 21.9%
+  age 65+: 22.1%
+  White alone: 97.4%
+  Black alone: 0.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $40,407
+  poverty rate: 17.1%
+  homeownership: 76.0%
+  estimated median home value: $77,997
+  estimated median gross rent: $569
+  unemployment: 6.3%
+  bachelor's degree or higher: 18.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

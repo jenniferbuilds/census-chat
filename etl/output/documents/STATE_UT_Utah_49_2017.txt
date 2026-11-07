@@ -1,0 +1,18 @@
+GEOGRAPHY: Utah (UT)
+GEOGRAPHIC CODE: 49 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,993,941
+  under 18: 30.4%
+  age 65+: 10.3%
+  White alone: 86.8%
+  Black alone: 1.1%
+  Asian alone: 2.3%
+  Hispanic or Latino: 13.7%
+  estimated median household income: $65,718
+  poverty rate: 11.0%
+  homeownership: 69.6%
+  estimated median home value: $238,307
+  estimated median gross rent: $948
+  unemployment: 4.4%
+  bachelor's degree or higher: 32.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

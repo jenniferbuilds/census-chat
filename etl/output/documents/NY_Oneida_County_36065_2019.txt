@@ -1,0 +1,18 @@
+GEOGRAPHY: Oneida County, NY
+GEOGRAPHIC CODE: 36065 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 229,959
+  under 18: 21.3%
+  age 65+: 18.4%
+  White alone: 85.3%
+  Black alone: 6.0%
+  Asian alone: 4.0%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $56,034
+  poverty rate: 15.5%
+  homeownership: 67.5%
+  estimated median home value: $127,726
+  estimated median gross rent: $766
+  unemployment: 4.6%
+  bachelor's degree or higher: 25.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

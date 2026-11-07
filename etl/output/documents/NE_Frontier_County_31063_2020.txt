@@ -1,0 +1,18 @@
+GEOGRAPHY: Frontier County, NE
+GEOGRAPHIC CODE: 31063 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,636
+  under 18: 19.8%
+  age 65+: 25.3%
+  White alone: 96.1%
+  Black alone: 1.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $59,221
+  poverty rate: 9.4%
+  homeownership: 69.1%
+  estimated median home value: $111,063
+  estimated median gross rent: $607
+  unemployment: 4.9%
+  bachelor's degree or higher: 23.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

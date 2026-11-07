@@ -1,0 +1,18 @@
+GEOGRAPHY: Morgan County, CO
+GEOGRAPHIC CODE: 08087 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,123
+  under 18: 26.4%
+  age 65+: 15.2%
+  White alone: 87.5%
+  Black alone: 3.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 35.8%
+  estimated median household income: $52,432
+  poverty rate: 9.3%
+  homeownership: 64.2%
+  estimated median home value: $162,928
+  estimated median gross rent: $780
+  unemployment: 4.5%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

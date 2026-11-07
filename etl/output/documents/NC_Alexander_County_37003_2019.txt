@@ -1,0 +1,18 @@
+GEOGRAPHY: Alexander County, NC
+GEOGRAPHIC CODE: 37003 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,213
+  under 18: 20.3%
+  age 65+: 19.5%
+  White alone: 87.7%
+  Black alone: 5.8%
+  Asian alone: 1.0%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $48,640
+  poverty rate: 13.6%
+  homeownership: 75.7%
+  estimated median home value: $136,486
+  estimated median gross rent: $654
+  unemployment: 5.1%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

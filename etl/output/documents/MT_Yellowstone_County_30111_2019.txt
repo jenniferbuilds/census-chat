@@ -1,0 +1,18 @@
+GEOGRAPHY: Yellowstone County, MT
+GEOGRAPHIC CODE: 30111 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 159,008
+  under 18: 23.6%
+  age 65+: 16.5%
+  White alone: 90.2%
+  Black alone: 0.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $61,595
+  poverty rate: 9.8%
+  homeownership: 68.4%
+  estimated median home value: $225,960
+  estimated median gross rent: $892
+  unemployment: 3.3%
+  bachelor's degree or higher: 32.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

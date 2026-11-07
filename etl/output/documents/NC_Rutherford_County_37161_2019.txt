@@ -1,0 +1,18 @@
+GEOGRAPHY: Rutherford County, NC
+GEOGRAPHIC CODE: 37161 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 66,599
+  under 18: 20.7%
+  age 65+: 21.1%
+  White alone: 86.8%
+  Black alone: 9.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $41,980
+  poverty rate: 17.9%
+  homeownership: 71.5%
+  estimated median home value: $118,313
+  estimated median gross rent: $636
+  unemployment: 7.2%
+  bachelor's degree or higher: 17.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

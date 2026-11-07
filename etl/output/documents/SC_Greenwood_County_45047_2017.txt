@@ -1,0 +1,18 @@
+GEOGRAPHY: Greenwood County, SC
+GEOGRAPHIC CODE: 45047 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 69,981
+  under 18: 23.0%
+  age 65+: 17.4%
+  White alone: 64.0%
+  Black alone: 31.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $39,156
+  poverty rate: 24.2%
+  homeownership: 64.3%
+  estimated median home value: $116,287
+  estimated median gross rent: $664
+  unemployment: 9.7%
+  bachelor's degree or higher: 23.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

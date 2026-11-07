@@ -1,0 +1,18 @@
+GEOGRAPHY: Greenlee County, AZ
+GEOGRAPHIC CODE: 04011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,504
+  under 18: 27.8%
+  age 65+: 12.2%
+  White alone: 90.9%
+  Black alone: 2.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 46.4%
+  estimated median household income: $61,248
+  poverty rate: 11.9%
+  homeownership: 49.2%
+  estimated median home value: $82,371
+  estimated median gross rent: $474
+  unemployment: 6.9%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

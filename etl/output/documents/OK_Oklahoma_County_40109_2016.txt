@@ -1,0 +1,17 @@
+GEOGRAPHY: Oklahoma County, OK
+GEOGRAPHIC CODE: 40109 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 764,698
+  under 18: 25.6%
+  age 65+: 12.5%
+  White alone: 68.9%
+  Black alone: 15.0%
+  Asian alone: 3.3%
+  Hispanic or Latino: 16.4%
+  estimated median household income: $49,127
+  homeownership: 58.7%
+  estimated median home value: $137,511
+  estimated median gross rent: $794
+  unemployment: 5.6%
+  bachelor's degree or higher: 30.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

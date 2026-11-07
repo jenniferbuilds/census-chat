@@ -1,0 +1,18 @@
+GEOGRAPHY: Wisconsin (WI)
+GEOGRAPHIC CODE: 55 | LEVEL: State | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,790,716
+  under 18: 22.1%
+  age 65+: 16.5%
+  White alone: 85.4%
+  Black alone: 6.4%
+  Asian alone: 2.8%
+  Hispanic or Latino: 6.8%
+  estimated median household income: $61,903
+  poverty rate: 11.3%
+  homeownership: 67.0%
+  estimated median home value: $180,556
+  estimated median gross rent: $856
+  unemployment: 3.6%
+  bachelor's degree or higher: 30.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Uinta County, WY
+GEOGRAPHIC CODE: 56041 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,374
+  under 18: 28.8%
+  age 65+: 14.1%
+  White alone: 92.9%
+  Black alone: 0.3%
+  Asian alone: 0.2%
+  Hispanic or Latino: 9.5%
+  estimated median household income: $71,201
+  poverty rate: 9.6%
+  homeownership: 77.0%
+  estimated median home value: $181,619
+  estimated median gross rent: $685
+  unemployment: 4.5%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

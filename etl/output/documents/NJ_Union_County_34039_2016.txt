@@ -1,0 +1,17 @@
+GEOGRAPHY: Union County, NJ
+GEOGRAPHIC CODE: 34039 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 550,436
+  under 18: 23.8%
+  age 65+: 13.2%
+  White alone: 57.4%
+  Black alone: 21.2%
+  Asian alone: 4.8%
+  Hispanic or Latino: 30.1%
+  estimated median household income: $70,655
+  homeownership: 58.8%
+  estimated median home value: $347,544
+  estimated median gross rent: $1,187
+  unemployment: 8.5%
+  bachelor's degree or higher: 33.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

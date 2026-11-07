@@ -1,0 +1,18 @@
+GEOGRAPHY: Jo Daviess County, IL
+GEOGRAPHIC CODE: 17085 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,588
+  under 18: 19.1%
+  age 65+: 27.2%
+  White alone: 97.2%
+  Black alone: 0.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $57,440
+  poverty rate: 8.5%
+  homeownership: 78.4%
+  estimated median home value: $149,121
+  estimated median gross rent: $669
+  unemployment: 3.8%
+  bachelor's degree or higher: 25.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

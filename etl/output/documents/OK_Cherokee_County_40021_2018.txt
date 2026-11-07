@@ -1,0 +1,18 @@
+GEOGRAPHY: Cherokee County, OK
+GEOGRAPHIC CODE: 40021 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 48,599
+  under 18: 22.6%
+  age 65+: 16.0%
+  White alone: 51.3%
+  Black alone: 1.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $41,043
+  poverty rate: 20.9%
+  homeownership: 67.5%
+  estimated median home value: $115,858
+  estimated median gross rent: $635
+  unemployment: 7.4%
+  bachelor's degree or higher: 25.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Rutherford County, TN
+GEOGRAPHIC CODE: 47149 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 315,815
+  under 18: 24.8%
+  age 65+: 10.2%
+  White alone: 76.8%
+  Black alone: 14.8%
+  Asian alone: 3.4%
+  Hispanic or Latino: 8.0%
+  estimated median household income: $67,243
+  poverty rate: 11.1%
+  homeownership: 65.2%
+  estimated median home value: $213,160
+  estimated median gross rent: $1,063
+  unemployment: 4.3%
+  bachelor's degree or higher: 32.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

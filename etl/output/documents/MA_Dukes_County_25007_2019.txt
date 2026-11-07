@@ -1,0 +1,18 @@
+GEOGRAPHY: Dukes County, MA
+GEOGRAPHIC CODE: 25007 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,312
+  under 18: 18.5%
+  age 65+: 23.3%
+  White alone: 88.1%
+  Black alone: 4.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $74,215
+  poverty rate: 7.6%
+  homeownership: 72.3%
+  estimated median home value: $699,501
+  estimated median gross rent: $1,459
+  unemployment: 3.4%
+  bachelor's degree or higher: 44.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

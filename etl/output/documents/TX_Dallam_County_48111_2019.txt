@@ -1,0 +1,18 @@
+GEOGRAPHY: Dallam County, TX
+GEOGRAPHIC CODE: 48111 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,304
+  under 18: 31.5%
+  age 65+: 10.7%
+  White alone: 89.7%
+  Black alone: 0.8%
+  Asian alone: 1.9%
+  Hispanic or Latino: 45.8%
+  estimated median household income: $58,523
+  poverty rate: 12.3%
+  homeownership: 64.4%
+  estimated median home value: $89,228
+  estimated median gross rent: $770
+  unemployment: 1.9%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

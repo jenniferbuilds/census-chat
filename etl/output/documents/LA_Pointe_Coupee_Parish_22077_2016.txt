@@ -1,0 +1,17 @@
+GEOGRAPHY: Pointe Coupee Parish, LA
+GEOGRAPHIC CODE: 22077 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,366
+  under 18: 23.1%
+  age 65+: 18.2%
+  White alone: 62.3%
+  Black alone: 35.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $44,276
+  homeownership: 76.0%
+  estimated median home value: $121,380
+  estimated median gross rent: $619
+  unemployment: 8.8%
+  bachelor's degree or higher: 13.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

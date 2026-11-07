@@ -1,0 +1,17 @@
+GEOGRAPHY: Weber County, UT
+GEOGRAPHIC CODE: 49057 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 241,328
+  under 18: 29.2%
+  age 65+: 11.1%
+  White alone: 89.3%
+  Black alone: 1.1%
+  Asian alone: 1.2%
+  Hispanic or Latino: 17.6%
+  estimated median household income: $59,736
+  homeownership: 72.0%
+  estimated median home value: $171,183
+  estimated median gross rent: $795
+  unemployment: 5.3%
+  bachelor's degree or higher: 23.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

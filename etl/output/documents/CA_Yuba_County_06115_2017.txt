@@ -1,0 +1,18 @@
+GEOGRAPHY: Yuba County, CA
+GEOGRAPHIC CODE: 06115 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 74,644
+  under 18: 27.7%
+  age 65+: 11.6%
+  White alone: 73.1%
+  Black alone: 3.3%
+  Asian alone: 6.5%
+  Hispanic or Latino: 27.4%
+  estimated median household income: $51,749
+  poverty rate: 18.5%
+  homeownership: 58.2%
+  estimated median home value: $207,080
+  estimated median gross rent: $923
+  unemployment: 9.9%
+  bachelor's degree or higher: 16.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

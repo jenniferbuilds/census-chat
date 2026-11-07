@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, RI
+GEOGRAPHIC CODE: 44009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 126,242
+  under 18: 17.2%
+  age 65+: 19.4%
+  White alone: 93.0%
+  Black alone: 1.4%
+  Asian alone: 1.9%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $82,025
+  poverty rate: 9.4%
+  homeownership: 74.5%
+  estimated median home value: $328,318
+  estimated median gross rent: $1,100
+  unemployment: 6.1%
+  bachelor's degree or higher: 45.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

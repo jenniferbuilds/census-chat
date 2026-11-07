@@ -1,0 +1,18 @@
+GEOGRAPHY: Norton city, VA
+GEOGRAPHIC CODE: 51720 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,043
+  under 18: 22.0%
+  age 65+: 16.9%
+  White alone: 90.8%
+  Black alone: 3.8%
+  Asian alone: 3.7%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $28,106
+  poverty rate: 25.7%
+  homeownership: 48.6%
+  estimated median home value: $92,471
+  estimated median gross rent: $549
+  unemployment: 13.5%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: California (CA)
+GEOGRAPHIC CODE: 06 | LEVEL: State | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,346,023
+  under 18: 22.8%
+  age 65+: 14.3%
+  White alone: 56.1%
+  Black alone: 5.7%
+  Asian alone: 14.8%
+  Hispanic or Latino: 39.1%
+  estimated median household income: $79,122
+  poverty rate: 12.6%
+  homeownership: 55.3%
+  estimated median home value: $538,487
+  estimated median gross rent: $1,586
+  unemployment: 6.2%
+  bachelor's degree or higher: 34.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

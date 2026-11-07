@@ -1,0 +1,18 @@
+GEOGRAPHY: McKenzie County, ND
+GEOGRAPHIC CODE: 38053 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,679
+  under 18: 29.1%
+  age 65+: 9.1%
+  White alone: 82.8%
+  Black alone: 0.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $80,491
+  poverty rate: 11.7%
+  homeownership: 58.4%
+  estimated median home value: $213,617
+  estimated median gross rent: $1,037
+  unemployment: 3.9%
+  bachelor's degree or higher: 25.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

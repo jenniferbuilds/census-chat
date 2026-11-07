@@ -1,0 +1,18 @@
+GEOGRAPHY: Pike County, PA
+GEOGRAPHIC CODE: 42103 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 55,453
+  under 18: 18.1%
+  age 65+: 21.9%
+  White alone: 88.5%
+  Black alone: 6.4%
+  Asian alone: 1.2%
+  Hispanic or Latino: 10.9%
+  estimated median household income: $66,385
+  poverty rate: 9.5%
+  homeownership: 83.2%
+  estimated median home value: $185,699
+  estimated median gross rent: $1,200
+  unemployment: 7.7%
+  bachelor's degree or higher: 26.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

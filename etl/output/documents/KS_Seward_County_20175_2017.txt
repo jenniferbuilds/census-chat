@@ -1,0 +1,18 @@
+GEOGRAPHY: Seward County, KS
+GEOGRAPHIC CODE: 20175 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,948
+  under 18: 31.4%
+  age 65+: 9.5%
+  White alone: 60.4%
+  Black alone: 4.7%
+  Asian alone: 3.0%
+  Hispanic or Latino: 59.6%
+  estimated median household income: $47,678
+  poverty rate: 18.8%
+  homeownership: 65.8%
+  estimated median home value: $98,504
+  estimated median gross rent: $722
+  unemployment: 7.3%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

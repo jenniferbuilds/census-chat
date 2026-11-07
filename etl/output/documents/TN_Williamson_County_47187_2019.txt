@@ -1,0 +1,18 @@
+GEOGRAPHY: Williamson County, TN
+GEOGRAPHIC CODE: 47187 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 225,389
+  under 18: 27.4%
+  age 65+: 12.7%
+  White alone: 88.8%
+  Black alone: 4.1%
+  Asian alone: 4.2%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $114,959
+  poverty rate: 4.4%
+  homeownership: 80.6%
+  estimated median home value: $448,972
+  estimated median gross rent: $1,500
+  unemployment: 2.8%
+  bachelor's degree or higher: 59.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

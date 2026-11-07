@@ -1,0 +1,17 @@
+GEOGRAPHY: Jones County, TX
+GEOGRAPHIC CODE: 48253 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,944
+  under 18: 15.9%
+  age 65+: 14.3%
+  White alone: 70.0%
+  Black alone: 14.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 26.8%
+  estimated median household income: $46,974
+  homeownership: 74.6%
+  estimated median home value: $73,163
+  estimated median gross rent: $699
+  unemployment: 3.7%
+  bachelor's degree or higher: 11.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

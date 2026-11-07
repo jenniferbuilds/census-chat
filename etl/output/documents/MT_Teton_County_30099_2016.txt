@@ -1,0 +1,17 @@
+GEOGRAPHY: Teton County, MT
+GEOGRAPHIC CODE: 30099 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,067
+  under 18: 23.7%
+  age 65+: 22.0%
+  White alone: 94.9%
+  Black alone: 0.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $49,047
+  homeownership: 70.0%
+  estimated median home value: $147,917
+  estimated median gross rent: $595
+  unemployment: 5.5%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

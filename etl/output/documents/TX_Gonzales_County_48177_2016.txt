@@ -1,0 +1,17 @@
+GEOGRAPHY: Gonzales County, TX
+GEOGRAPHIC CODE: 48177 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,370
+  under 18: 26.9%
+  age 65+: 16.1%
+  White alone: 56.7%
+  Black alone: 6.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 49.6%
+  estimated median household income: $46,916
+  homeownership: 67.9%
+  estimated median home value: $98,832
+  estimated median gross rent: $618
+  unemployment: 6.5%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

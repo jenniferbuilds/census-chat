@@ -1,0 +1,18 @@
+GEOGRAPHY: De Witt County, IL
+GEOGRAPHIC CODE: 17039 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,176
+  under 18: 21.9%
+  age 65+: 18.1%
+  White alone: 90.3%
+  Black alone: 0.5%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $55,047
+  poverty rate: 13.3%
+  homeownership: 77.9%
+  estimated median home value: $98,041
+  estimated median gross rent: $562
+  unemployment: 6.6%
+  bachelor's degree or higher: 20.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

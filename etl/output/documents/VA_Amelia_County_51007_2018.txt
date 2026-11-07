@@ -1,0 +1,18 @@
+GEOGRAPHY: Amelia County, VA
+GEOGRAPHIC CODE: 51007 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,854
+  under 18: 21.6%
+  age 65+: 18.9%
+  White alone: 75.8%
+  Black alone: 21.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $58,890
+  poverty rate: 13.4%
+  homeownership: 84.3%
+  estimated median home value: $204,378
+  estimated median gross rent: $808
+  unemployment: 2.8%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

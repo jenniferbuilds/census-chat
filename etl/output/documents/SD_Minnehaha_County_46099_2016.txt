@@ -1,0 +1,17 @@
+GEOGRAPHY: Minnehaha County, SD
+GEOGRAPHIC CODE: 46099 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 182,014
+  under 18: 25.1%
+  age 65+: 12.2%
+  White alone: 86.2%
+  Black alone: 4.5%
+  Asian alone: 2.0%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $55,562
+  homeownership: 63.5%
+  estimated median home value: $160,144
+  estimated median gross rent: $732
+  unemployment: 3.7%
+  bachelor's degree or higher: 30.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

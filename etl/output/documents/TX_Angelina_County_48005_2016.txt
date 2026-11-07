@@ -1,0 +1,17 @@
+GEOGRAPHY: Angelina County, TX
+GEOGRAPHIC CODE: 48005 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 87,657
+  under 18: 26.1%
+  age 65+: 15.1%
+  White alone: 77.6%
+  Black alone: 14.7%
+  Asian alone: 1.0%
+  Hispanic or Latino: 21.1%
+  estimated median household income: $44,305
+  homeownership: 65.0%
+  estimated median home value: $89,280
+  estimated median gross rent: $765
+  unemployment: 8.3%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

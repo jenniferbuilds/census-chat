@@ -1,0 +1,18 @@
+GEOGRAPHY: Gloucester County, NJ
+GEOGRAPHIC CODE: 34015 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 291,372
+  under 18: 22.7%
+  age 65+: 14.5%
+  White alone: 81.7%
+  Black alone: 10.3%
+  Asian alone: 3.1%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $82,135
+  poverty rate: 7.9%
+  homeownership: 79.6%
+  estimated median home value: $213,765
+  estimated median gross rent: $1,134
+  unemployment: 7.4%
+  bachelor's degree or higher: 31.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

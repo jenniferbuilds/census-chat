@@ -1,0 +1,18 @@
+GEOGRAPHY: Hillsborough County, FL
+GEOGRAPHIC CODE: 12057 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,422,278
+  under 18: 22.5%
+  age 65+: 13.9%
+  White alone: 70.5%
+  Black alone: 16.8%
+  Asian alone: 4.1%
+  Hispanic or Latino: 28.7%
+  estimated median household income: $59,077
+  poverty rate: 14.6%
+  homeownership: 58.6%
+  estimated median home value: $216,319
+  estimated median gross rent: $1,142
+  unemployment: 5.5%
+  bachelor's degree or higher: 33.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

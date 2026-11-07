@@ -1,0 +1,18 @@
+GEOGRAPHY: Mercer County, KY
+GEOGRAPHIC CODE: 21167 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,592
+  under 18: 22.1%
+  age 65+: 18.5%
+  White alone: 93.0%
+  Black alone: 4.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $54,820
+  poverty rate: 14.2%
+  homeownership: 72.3%
+  estimated median home value: $147,345
+  estimated median gross rent: $624
+  unemployment: 7.7%
+  bachelor's degree or higher: 18.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

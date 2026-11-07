@@ -1,0 +1,17 @@
+GEOGRAPHY: Fort Bend County, TX
+GEOGRAPHIC CODE: 48157 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 683,756
+  under 18: 28.1%
+  age 65+: 9.5%
+  White alone: 52.1%
+  Black alone: 20.8%
+  Asian alone: 18.8%
+  Hispanic or Latino: 24.0%
+  estimated median household income: $91,449
+  homeownership: 78.0%
+  estimated median home value: $217,596
+  estimated median gross rent: $1,252
+  unemployment: 5.4%
+  bachelor's degree or higher: 44.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

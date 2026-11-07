@@ -1,0 +1,18 @@
+GEOGRAPHY: Rockwall County, TX
+GEOGRAPHIC CODE: 48397 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 97,175
+  under 18: 27.2%
+  age 65+: 12.1%
+  White alone: 85.0%
+  Black alone: 6.3%
+  Asian alone: 2.7%
+  Hispanic or Latino: 17.6%
+  estimated median household income: $100,850
+  poverty rate: 4.7%
+  homeownership: 81.8%
+  estimated median home value: $266,207
+  estimated median gross rent: $1,429
+  unemployment: 3.9%
+  bachelor's degree or higher: 40.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

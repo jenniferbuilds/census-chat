@@ -1,0 +1,18 @@
+GEOGRAPHY: Paulding County, GA
+GEOGRAPHIC CODE: 13223 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 159,825
+  under 18: 26.6%
+  age 65+: 10.4%
+  White alone: 75.0%
+  Black alone: 19.1%
+  Asian alone: 1.0%
+  Hispanic or Latino: 6.3%
+  estimated median household income: $68,605
+  poverty rate: 8.2%
+  homeownership: 75.8%
+  estimated median home value: $173,555
+  estimated median gross rent: $1,163
+  unemployment: 4.1%
+  bachelor's degree or higher: 22.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

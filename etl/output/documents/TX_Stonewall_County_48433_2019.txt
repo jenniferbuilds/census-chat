@@ -1,0 +1,18 @@
+GEOGRAPHY: Stonewall County, TX
+GEOGRAPHIC CODE: 48433 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,476
+  under 18: 27.0%
+  age 65+: 20.3%
+  White alone: 92.3%
+  Black alone: 2.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 21.3%
+  estimated median household income: $51,061
+  poverty rate: 11.9%
+  homeownership: 75.5%
+  estimated median home value: $55,604
+  estimated median gross rent: $550
+  unemployment: 2.6%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

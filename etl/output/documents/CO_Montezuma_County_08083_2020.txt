@@ -1,0 +1,18 @@
+GEOGRAPHY: Montezuma County, CO
+GEOGRAPHIC CODE: 08083 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,266
+  under 18: 21.7%
+  age 65+: 22.4%
+  White alone: 80.8%
+  Black alone: 1.1%
+  Asian alone: 0.8%
+  Hispanic or Latino: 12.8%
+  estimated median household income: $50,644
+  poverty rate: 12.4%
+  homeownership: 70.6%
+  estimated median home value: $238,196
+  estimated median gross rent: $802
+  unemployment: 4.4%
+  bachelor's degree or higher: 29.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

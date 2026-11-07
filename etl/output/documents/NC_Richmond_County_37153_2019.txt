@@ -1,0 +1,18 @@
+GEOGRAPHY: Richmond County, NC
+GEOGRAPHIC CODE: 37153 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,997
+  under 18: 22.8%
+  age 65+: 17.4%
+  White alone: 61.7%
+  Black alone: 31.9%
+  Asian alone: 1.0%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $36,032
+  poverty rate: 25.2%
+  homeownership: 66.2%
+  estimated median home value: $83,209
+  estimated median gross rent: $664
+  unemployment: 8.7%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

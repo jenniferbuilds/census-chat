@@ -1,0 +1,18 @@
+GEOGRAPHY: Hendricks County, IN
+GEOGRAPHIC CODE: 18063 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 160,940
+  under 18: 25.6%
+  age 65+: 13.0%
+  White alone: 87.7%
+  Black alone: 6.6%
+  Asian alone: 2.8%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $79,295
+  poverty rate: 5.3%
+  homeownership: 78.5%
+  estimated median home value: $179,585
+  estimated median gross rent: $1,051
+  unemployment: 3.9%
+  bachelor's degree or higher: 36.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

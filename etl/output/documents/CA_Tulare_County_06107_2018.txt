@@ -1,0 +1,18 @@
+GEOGRAPHY: Tulare County, CA
+GEOGRAPHIC CODE: 06107 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 460,477
+  under 18: 31.2%
+  age 65+: 10.9%
+  White alone: 76.5%
+  Black alone: 1.6%
+  Asian alone: 3.6%
+  Hispanic or Latino: 64.1%
+  estimated median household income: $47,503
+  poverty rate: 25.5%
+  homeownership: 56.8%
+  estimated median home value: $191,242
+  estimated median gross rent: $904
+  unemployment: 9.4%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

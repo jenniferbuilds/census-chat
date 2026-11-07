@@ -1,0 +1,18 @@
+GEOGRAPHY: Steuben County, IN
+GEOGRAPHIC CODE: 18151 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,591
+  under 18: 20.4%
+  age 65+: 20.1%
+  White alone: 95.7%
+  Black alone: 0.4%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $59,127
+  poverty rate: 9.9%
+  homeownership: 78.7%
+  estimated median home value: $154,257
+  estimated median gross rent: $793
+  unemployment: 5.8%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

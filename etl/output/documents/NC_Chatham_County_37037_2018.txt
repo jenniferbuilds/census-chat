@@ -1,0 +1,18 @@
+GEOGRAPHY: Chatham County, NC
+GEOGRAPHIC CODE: 37037 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 69,791
+  under 18: 20.6%
+  age 65+: 23.4%
+  White alone: 80.5%
+  Black alone: 11.6%
+  Asian alone: 1.6%
+  Hispanic or Latino: 12.4%
+  estimated median household income: $63,815
+  poverty rate: 11.9%
+  homeownership: 76.5%
+  estimated median home value: $265,850
+  estimated median gross rent: $833
+  unemployment: 5.1%
+  bachelor's degree or higher: 41.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

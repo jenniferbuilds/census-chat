@@ -1,0 +1,18 @@
+GEOGRAPHY: Ohio (OH)
+GEOGRAPHIC CODE: 39 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,609,756
+  under 18: 22.6%
+  age 65+: 15.9%
+  White alone: 81.9%
+  Black alone: 12.3%
+  Asian alone: 2.0%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $52,790
+  poverty rate: 14.9%
+  homeownership: 66.1%
+  estimated median home value: $135,124
+  estimated median gross rent: $764
+  unemployment: 6.5%
+  bachelor's degree or higher: 27.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

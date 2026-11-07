@@ -1,0 +1,18 @@
+GEOGRAPHY: Glasscock County, TX
+GEOGRAPHIC CODE: 48173 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,430
+  under 18: 23.6%
+  age 65+: 12.1%
+  White alone: 70.6%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 43.8%
+  estimated median household income: $78,247
+  poverty rate: 9.5%
+  homeownership: 68.1%
+  estimated median home value: $221,667
+  estimated median gross rent: $881
+  unemployment: 0.0%
+  bachelor's degree or higher: 23.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

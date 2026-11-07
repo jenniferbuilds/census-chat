@@ -1,0 +1,17 @@
+GEOGRAPHY: Clark County, IN
+GEOGRAPHIC CODE: 18019 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 113,993
+  under 18: 23.1%
+  age 65+: 14.2%
+  White alone: 88.2%
+  Black alone: 6.9%
+  Asian alone: 0.8%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $52,107
+  homeownership: 71.4%
+  estimated median home value: $129,453
+  estimated median gross rent: $768
+  unemployment: 6.2%
+  bachelor's degree or higher: 20.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

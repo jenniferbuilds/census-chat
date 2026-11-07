@@ -1,0 +1,18 @@
+GEOGRAPHY: Refugio County, TX
+GEOGRAPHIC CODE: 48391 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,145
+  under 18: 23.2%
+  age 65+: 21.6%
+  White alone: 80.7%
+  Black alone: 6.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 50.4%
+  estimated median household income: $50,091
+  poverty rate: 16.5%
+  homeownership: 72.8%
+  estimated median home value: $85,638
+  estimated median gross rent: $644
+  unemployment: 6.9%
+  bachelor's degree or higher: 11.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

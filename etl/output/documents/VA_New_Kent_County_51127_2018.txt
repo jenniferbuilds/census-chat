@@ -1,0 +1,18 @@
+GEOGRAPHY: New Kent County, VA
+GEOGRAPHIC CODE: 51127 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,103
+  under 18: 20.7%
+  age 65+: 16.3%
+  White alone: 81.5%
+  Black alone: 11.4%
+  Asian alone: 1.1%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $81,539
+  poverty rate: 4.8%
+  homeownership: 85.2%
+  estimated median home value: $264,820
+  estimated median gross rent: $987
+  unemployment: 4.5%
+  bachelor's degree or higher: 28.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

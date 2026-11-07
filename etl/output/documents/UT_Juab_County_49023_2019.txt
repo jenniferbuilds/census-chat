@@ -1,0 +1,18 @@
+GEOGRAPHY: Juab County, UT
+GEOGRAPHIC CODE: 49023 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,301
+  under 18: 34.6%
+  age 65+: 11.7%
+  White alone: 93.8%
+  Black alone: 0.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $62,132
+  poverty rate: 12.6%
+  homeownership: 78.6%
+  estimated median home value: $223,035
+  estimated median gross rent: $800
+  unemployment: 3.0%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

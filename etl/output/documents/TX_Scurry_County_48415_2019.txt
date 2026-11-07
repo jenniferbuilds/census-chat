@@ -1,0 +1,18 @@
+GEOGRAPHY: Scurry County, TX
+GEOGRAPHIC CODE: 48415 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,096
+  under 18: 25.1%
+  age 65+: 15.1%
+  White alone: 86.1%
+  Black alone: 4.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 40.4%
+  estimated median household income: $55,000
+  poverty rate: 14.4%
+  homeownership: 75.2%
+  estimated median home value: $85,498
+  estimated median gross rent: $761
+  unemployment: 4.0%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

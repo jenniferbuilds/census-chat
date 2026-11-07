@@ -1,0 +1,18 @@
+GEOGRAPHY: Guánica Municipio, PR
+GEOGRAPHIC CODE: 72055 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,783
+  under 18: 20.8%
+  age 65+: 22.2%
+  White alone: 62.5%
+  Black alone: 4.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.0%
+  estimated median household income: $13,147
+  poverty rate: 63.8%
+  homeownership: 71.8%
+  estimated median home value: $90,855
+  estimated median gross rent: $411
+  unemployment: 30.1%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

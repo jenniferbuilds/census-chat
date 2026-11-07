@@ -1,0 +1,17 @@
+GEOGRAPHY: Sheboygan County, WI
+GEOGRAPHIC CODE: 55117 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 115,269
+  under 18: 22.8%
+  age 65+: 16.3%
+  White alone: 90.0%
+  Black alone: 1.5%
+  Asian alone: 5.3%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $54,745
+  homeownership: 70.1%
+  estimated median home value: $148,210
+  estimated median gross rent: $663
+  unemployment: 5.1%
+  bachelor's degree or higher: 23.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

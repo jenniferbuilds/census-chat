@@ -1,0 +1,18 @@
+GEOGRAPHY: Finney County, KS
+GEOGRAPHIC CODE: 20055 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,750
+  under 18: 30.7%
+  age 65+: 10.6%
+  White alone: 81.0%
+  Black alone: 2.9%
+  Asian alone: 4.1%
+  Hispanic or Latino: 49.9%
+  estimated median household income: $60,688
+  poverty rate: 12.3%
+  homeownership: 64.4%
+  estimated median home value: $152,470
+  estimated median gross rent: $806
+  unemployment: 4.0%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

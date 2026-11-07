@@ -1,0 +1,17 @@
+GEOGRAPHY: Sussex County, DE
+GEOGRAPHIC CODE: 10005 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 211,224
+  under 18: 19.6%
+  age 65+: 24.2%
+  White alone: 81.8%
+  Black alone: 12.5%
+  Asian alone: 1.1%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $54,801
+  homeownership: 77.7%
+  estimated median home value: $231,610
+  estimated median gross rent: $968
+  unemployment: 7.1%
+  bachelor's degree or higher: 23.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

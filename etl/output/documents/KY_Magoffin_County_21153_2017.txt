@@ -1,0 +1,18 @@
+GEOGRAPHY: Magoffin County, KY
+GEOGRAPHIC CODE: 21153 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,783
+  under 18: 23.2%
+  age 65+: 15.4%
+  White alone: 99.9%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $29,543
+  poverty rate: 28.6%
+  homeownership: 68.7%
+  estimated median home value: $63,272
+  estimated median gross rent: $556
+  unemployment: 10.3%
+  bachelor's degree or higher: 10.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

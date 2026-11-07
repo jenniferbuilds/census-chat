@@ -1,0 +1,17 @@
+GEOGRAPHY: Maine (ME)
+GEOGRAPHIC CODE: 23 | LEVEL: State | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,329,923
+  under 18: 19.5%
+  age 65+: 18.2%
+  White alone: 94.8%
+  Black alone: 1.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $50,971
+  homeownership: 71.5%
+  estimated median home value: $175,950
+  estimated median gross rent: $790
+  unemployment: 6.0%
+  bachelor's degree or higher: 29.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

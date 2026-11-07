@@ -1,0 +1,18 @@
+GEOGRAPHY: Florida (FL)
+GEOGRAPHIC CODE: 12 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,598,139
+  under 18: 20.1%
+  age 65+: 19.7%
+  White alone: 75.4%
+  Black alone: 16.1%
+  Asian alone: 2.7%
+  Hispanic or Latino: 25.2%
+  estimated median household income: $53,552
+  poverty rate: 14.8%
+  homeownership: 65.0%
+  estimated median home value: $196,753
+  estimated median gross rent: $1,128
+  unemployment: 6.3%
+  bachelor's degree or higher: 29.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

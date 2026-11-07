@@ -1,0 +1,18 @@
+GEOGRAPHY: Chippewa County, MN
+GEOGRAPHIC CODE: 27023 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,010
+  under 18: 23.2%
+  age 65+: 20.5%
+  White alone: 90.9%
+  Black alone: 0.7%
+  Asian alone: 0.9%
+  Hispanic or Latino: 6.9%
+  estimated median household income: $55,685
+  poverty rate: 9.9%
+  homeownership: 67.3%
+  estimated median home value: $114,639
+  estimated median gross rent: $589
+  unemployment: 2.7%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

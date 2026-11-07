@@ -1,0 +1,18 @@
+GEOGRAPHY: Greensville County, VA
+GEOGRAPHIC CODE: 51081 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,659
+  under 18: 16.3%
+  age 65+: 14.8%
+  White alone: 37.9%
+  Black alone: 59.7%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $44,476
+  poverty rate: 16.7%
+  homeownership: 73.2%
+  estimated median home value: $96,350
+  estimated median gross rent: $810
+  unemployment: 6.6%
+  bachelor's degree or higher: 9.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

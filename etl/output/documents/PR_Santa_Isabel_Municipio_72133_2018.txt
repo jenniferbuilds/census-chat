@@ -1,0 +1,18 @@
+GEOGRAPHY: Santa Isabel Municipio, PR
+GEOGRAPHIC CODE: 72133 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,066
+  under 18: 23.3%
+  age 65+: 15.3%
+  White alone: 56.5%
+  Black alone: 35.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.6%
+  estimated median household income: $17,864
+  poverty rate: 47.1%
+  homeownership: 75.6%
+  estimated median home value: $92,425
+  estimated median gross rent: $458
+  unemployment: 8.4%
+  bachelor's degree or higher: 24.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

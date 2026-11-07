@@ -1,0 +1,18 @@
+GEOGRAPHY: Stokes County, NC
+GEOGRAPHIC CODE: 37169 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,905
+  under 18: 19.4%
+  age 65+: 19.8%
+  White alone: 93.0%
+  Black alone: 4.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $46,391
+  poverty rate: 13.6%
+  homeownership: 77.7%
+  estimated median home value: $128,555
+  estimated median gross rent: $650
+  unemployment: 6.3%
+  bachelor's degree or higher: 13.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

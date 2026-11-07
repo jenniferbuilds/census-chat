@@ -1,0 +1,17 @@
+GEOGRAPHY: Lyman County, SD
+GEOGRAPHIC CODE: 46085 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,855
+  under 18: 28.8%
+  age 65+: 15.0%
+  White alone: 56.7%
+  Black alone: 0.1%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $46,111
+  homeownership: 70.4%
+  estimated median home value: $73,525
+  estimated median gross rent: $517
+  unemployment: 7.0%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

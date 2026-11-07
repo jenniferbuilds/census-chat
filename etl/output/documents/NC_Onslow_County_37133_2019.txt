@@ -1,0 +1,18 @@
+GEOGRAPHY: Onslow County, NC
+GEOGRAPHIC CODE: 37133 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 195,069
+  under 18: 24.4%
+  age 65+: 8.9%
+  White alone: 74.7%
+  Black alone: 14.0%
+  Asian alone: 2.2%
+  Hispanic or Latino: 12.6%
+  estimated median household income: $50,345
+  poverty rate: 13.2%
+  homeownership: 53.1%
+  estimated median home value: $156,937
+  estimated median gross rent: $997
+  unemployment: 8.7%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

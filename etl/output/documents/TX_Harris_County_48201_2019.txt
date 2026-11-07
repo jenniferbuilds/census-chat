@@ -1,0 +1,18 @@
+GEOGRAPHY: Harris County, TX
+GEOGRAPHIC CODE: 48201 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,646,630
+  under 18: 26.8%
+  age 65+: 10.2%
+  White alone: 62.5%
+  Black alone: 19.0%
+  Asian alone: 7.0%
+  Hispanic or Latino: 42.9%
+  estimated median household income: $61,852
+  poverty rate: 15.7%
+  homeownership: 54.6%
+  estimated median home value: $175,715
+  estimated median gross rent: $1,078
+  unemployment: 5.8%
+  bachelor's degree or higher: 31.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Davis County, IA
+GEOGRAPHIC CODE: 19051 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,768
+  under 18: 29.3%
+  age 65+: 17.3%
+  White alone: 98.1%
+  Black alone: 0.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $49,678
+  homeownership: 79.3%
+  estimated median home value: $104,479
+  estimated median gross rent: $630
+  unemployment: 4.1%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

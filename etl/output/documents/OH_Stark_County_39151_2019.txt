@@ -1,0 +1,18 @@
+GEOGRAPHY: Stark County, OH
+GEOGRAPHIC CODE: 39151 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 372,404
+  under 18: 21.6%
+  age 65+: 19.0%
+  White alone: 87.7%
+  Black alone: 7.5%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $54,135
+  poverty rate: 13.6%
+  homeownership: 68.2%
+  estimated median home value: $134,306
+  estimated median gross rent: $741
+  unemployment: 5.4%
+  bachelor's degree or higher: 22.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

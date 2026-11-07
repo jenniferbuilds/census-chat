@@ -1,0 +1,18 @@
+GEOGRAPHY: Toole County, MT
+GEOGRAPHIC CODE: 30101 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,031
+  under 18: 19.7%
+  age 65+: 15.8%
+  White alone: 90.9%
+  Black alone: 0.1%
+  Asian alone: 0.8%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $47,500
+  poverty rate: 16.6%
+  homeownership: 58.0%
+  estimated median home value: $125,223
+  estimated median gross rent: $562
+  unemployment: 1.0%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

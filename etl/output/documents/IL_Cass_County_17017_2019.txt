@@ -1,0 +1,18 @@
+GEOGRAPHY: Cass County, IL
+GEOGRAPHIC CODE: 17017 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,493
+  under 18: 24.4%
+  age 65+: 17.3%
+  White alone: 88.5%
+  Black alone: 5.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 18.9%
+  estimated median household income: $53,237
+  poverty rate: 14.8%
+  homeownership: 74.6%
+  estimated median home value: $80,791
+  estimated median gross rent: $598
+  unemployment: 6.5%
+  bachelor's degree or higher: 15.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

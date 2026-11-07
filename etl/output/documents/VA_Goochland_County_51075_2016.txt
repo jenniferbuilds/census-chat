@@ -1,0 +1,17 @@
+GEOGRAPHY: Goochland County, VA
+GEOGRAPHIC CODE: 51075 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,979
+  under 18: 19.4%
+  age 65+: 19.3%
+  White alone: 79.3%
+  Black alone: 17.0%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $83,646
+  homeownership: 86.0%
+  estimated median home value: $302,566
+  estimated median gross rent: $1,069
+  unemployment: 5.1%
+  bachelor's degree or higher: 36.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

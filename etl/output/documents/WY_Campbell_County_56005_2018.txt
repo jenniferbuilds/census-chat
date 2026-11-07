@@ -1,0 +1,18 @@
+GEOGRAPHY: Campbell County, WY
+GEOGRAPHIC CODE: 56005 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,708
+  under 18: 27.6%
+  age 65+: 8.3%
+  White alone: 95.1%
+  Black alone: 0.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 8.5%
+  estimated median household income: $81,104
+  poverty rate: 11.1%
+  homeownership: 72.2%
+  estimated median home value: $220,215
+  estimated median gross rent: $940
+  unemployment: 4.6%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Kingfisher County, OK
+GEOGRAPHIC CODE: 40073 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,392
+  under 18: 26.9%
+  age 65+: 15.2%
+  White alone: 82.9%
+  Black alone: 0.9%
+  Asian alone: 0.0%
+  Hispanic or Latino: 14.9%
+  estimated median household income: $61,906
+  homeownership: 79.0%
+  estimated median home value: $126,117
+  estimated median gross rent: $728
+  unemployment: 3.6%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

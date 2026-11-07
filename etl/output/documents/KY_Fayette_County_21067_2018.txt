@@ -1,0 +1,18 @@
+GEOGRAPHY: Fayette County, KY
+GEOGRAPHIC CODE: 21067 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 318,734
+  under 18: 21.0%
+  age 65+: 12.6%
+  White alone: 75.4%
+  Black alone: 14.4%
+  Asian alone: 3.6%
+  Hispanic or Latino: 7.2%
+  estimated median household income: $55,407
+  poverty rate: 17.8%
+  homeownership: 54.5%
+  estimated median home value: $180,699
+  estimated median gross rent: $864
+  unemployment: 5.4%
+  bachelor's degree or higher: 42.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

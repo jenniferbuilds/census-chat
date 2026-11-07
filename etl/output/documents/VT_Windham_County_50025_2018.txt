@@ -1,0 +1,18 @@
+GEOGRAPHY: Windham County, VT
+GEOGRAPHIC CODE: 50025 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,150
+  under 18: 18.4%
+  age 65+: 21.0%
+  White alone: 94.7%
+  Black alone: 1.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $52,674
+  poverty rate: 13.4%
+  homeownership: 67.8%
+  estimated median home value: $212,524
+  estimated median gross rent: $881
+  unemployment: 5.4%
+  bachelor's degree or higher: 38.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

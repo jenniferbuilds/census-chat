@@ -1,0 +1,18 @@
+GEOGRAPHY: Union County, TN
+GEOGRAPHIC CODE: 47173 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,488
+  under 18: 21.8%
+  age 65+: 18.1%
+  White alone: 97.6%
+  Black alone: 0.5%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $44,782
+  poverty rate: 22.0%
+  homeownership: 75.4%
+  estimated median home value: $124,711
+  estimated median gross rent: $685
+  unemployment: 8.4%
+  bachelor's degree or higher: 9.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

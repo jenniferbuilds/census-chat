@@ -1,0 +1,18 @@
+GEOGRAPHY: Williamsburg County, SC
+GEOGRAPHIC CODE: 45089 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,256
+  under 18: 21.5%
+  age 65+: 18.4%
+  White alone: 32.0%
+  Black alone: 65.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $31,292
+  poverty rate: 28.2%
+  homeownership: 73.7%
+  estimated median home value: $68,357
+  estimated median gross rent: $615
+  unemployment: 9.8%
+  bachelor's degree or higher: 12.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

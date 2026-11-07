@@ -1,0 +1,18 @@
+GEOGRAPHY: Kossuth County, IA
+GEOGRAPHIC CODE: 19109 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,978
+  under 18: 22.0%
+  age 65+: 23.1%
+  White alone: 96.7%
+  Black alone: 0.8%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $56,248
+  poverty rate: 10.9%
+  homeownership: 75.7%
+  estimated median home value: $102,075
+  estimated median gross rent: $679
+  unemployment: 3.0%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

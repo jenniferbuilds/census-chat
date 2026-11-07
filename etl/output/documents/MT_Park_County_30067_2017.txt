@@ -1,0 +1,18 @@
+GEOGRAPHY: Park County, MT
+GEOGRAPHIC CODE: 30067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,001
+  under 18: 18.9%
+  age 65+: 20.2%
+  White alone: 96.2%
+  Black alone: 0.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $44,908
+  poverty rate: 13.4%
+  homeownership: 70.9%
+  estimated median home value: $235,630
+  estimated median gross rent: $723
+  unemployment: 2.8%
+  bachelor's degree or higher: 34.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

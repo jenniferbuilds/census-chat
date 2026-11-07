@@ -1,0 +1,17 @@
+GEOGRAPHY: Juneau County, WI
+GEOGRAPHIC CODE: 55057 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,399
+  under 18: 20.3%
+  age 65+: 19.0%
+  White alone: 94.4%
+  Black alone: 2.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $46,701
+  homeownership: 75.7%
+  estimated median home value: $118,750
+  estimated median gross rent: $673
+  unemployment: 5.8%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

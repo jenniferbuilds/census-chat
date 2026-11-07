@@ -1,0 +1,18 @@
+GEOGRAPHY: Blaine County, MT
+GEOGRAPHIC CODE: 30005 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,727
+  under 18: 29.9%
+  age 65+: 14.6%
+  White alone: 45.3%
+  Black alone: 0.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $37,965
+  poverty rate: 29.6%
+  homeownership: 58.9%
+  estimated median home value: $89,773
+  estimated median gross rent: $466
+  unemployment: 15.2%
+  bachelor's degree or higher: 21.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

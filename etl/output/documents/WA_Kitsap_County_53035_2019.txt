@@ -1,0 +1,18 @@
+GEOGRAPHY: Kitsap County, WA
+GEOGRAPHIC CODE: 53035 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 265,882
+  under 18: 20.6%
+  age 65+: 17.4%
+  White alone: 80.9%
+  Black alone: 2.7%
+  Asian alone: 4.8%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $75,394
+  poverty rate: 8.7%
+  homeownership: 67.8%
+  estimated median home value: $329,890
+  estimated median gross rent: $1,249
+  unemployment: 4.6%
+  bachelor's degree or higher: 33.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

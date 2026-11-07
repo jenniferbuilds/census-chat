@@ -1,0 +1,18 @@
+GEOGRAPHY: Concordia Parish, LA
+GEOGRAPHIC CODE: 22029 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,021
+  under 18: 24.1%
+  age 65+: 16.4%
+  White alone: 57.8%
+  Black alone: 41.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $31,656
+  poverty rate: 27.5%
+  homeownership: 65.6%
+  estimated median home value: $84,040
+  estimated median gross rent: $573
+  unemployment: 6.3%
+  bachelor's degree or higher: 12.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

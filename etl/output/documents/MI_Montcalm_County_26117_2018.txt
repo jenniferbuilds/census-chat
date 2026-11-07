@@ -1,0 +1,18 @@
+GEOGRAPHY: Montcalm County, MI
+GEOGRAPHIC CODE: 26117 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,209
+  under 18: 22.6%
+  age 65+: 16.6%
+  White alone: 94.5%
+  Black alone: 2.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $46,896
+  poverty rate: 16.5%
+  homeownership: 78.2%
+  estimated median home value: $107,402
+  estimated median gross rent: $697
+  unemployment: 5.1%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

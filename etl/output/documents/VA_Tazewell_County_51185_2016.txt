@@ -1,0 +1,17 @@
+GEOGRAPHY: Tazewell County, VA
+GEOGRAPHIC CODE: 51185 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,367
+  under 18: 19.4%
+  age 65+: 19.2%
+  White alone: 94.7%
+  Black alone: 3.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $37,917
+  homeownership: 75.1%
+  estimated median home value: $94,389
+  estimated median gross rent: $610
+  unemployment: 8.3%
+  bachelor's degree or higher: 14.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

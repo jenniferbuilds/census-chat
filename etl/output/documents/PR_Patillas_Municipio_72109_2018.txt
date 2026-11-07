@@ -1,0 +1,18 @@
+GEOGRAPHY: Patillas Municipio, PR
+GEOGRAPHIC CODE: 72109 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,334
+  under 18: 19.5%
+  age 65+: 20.0%
+  White alone: 25.3%
+  Black alone: 72.4%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.7%
+  estimated median household income: $15,648
+  poverty rate: 53.3%
+  homeownership: 68.8%
+  estimated median home value: $92,188
+  estimated median gross rent: $314
+  unemployment: 19.2%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Grays Harbor County, WA
+GEOGRAPHIC CODE: 53027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 71,233
+  under 18: 21.0%
+  age 65+: 18.9%
+  White alone: 88.0%
+  Black alone: 1.1%
+  Asian alone: 1.7%
+  Hispanic or Latino: 9.6%
+  estimated median household income: $44,556
+  homeownership: 67.1%
+  estimated median home value: $159,412
+  estimated median gross rent: $750
+  unemployment: 12.1%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

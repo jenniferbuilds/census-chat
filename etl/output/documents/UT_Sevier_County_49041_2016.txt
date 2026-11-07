@@ -1,0 +1,17 @@
+GEOGRAPHY: Sevier County, UT
+GEOGRAPHIC CODE: 49041 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,913
+  under 18: 30.4%
+  age 65+: 15.6%
+  White alone: 95.1%
+  Black alone: 0.3%
+  Asian alone: 0.2%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $49,144
+  homeownership: 76.9%
+  estimated median home value: $149,225
+  estimated median gross rent: $718
+  unemployment: 5.3%
+  bachelor's degree or higher: 16.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

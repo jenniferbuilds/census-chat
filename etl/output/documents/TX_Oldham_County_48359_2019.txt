@@ -1,0 +1,18 @@
+GEOGRAPHY: Oldham County, TX
+GEOGRAPHIC CODE: 48359 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,094
+  under 18: 33.6%
+  age 65+: 14.8%
+  White alone: 92.1%
+  Black alone: 3.2%
+  Asian alone: 1.9%
+  Hispanic or Latino: 15.2%
+  estimated median household income: $66,325
+  poverty rate: 9.1%
+  homeownership: 78.5%
+  estimated median home value: $91,429
+  estimated median gross rent: $780
+  unemployment: 1.4%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

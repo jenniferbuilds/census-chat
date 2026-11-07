@@ -1,0 +1,18 @@
+GEOGRAPHY: Humphreys County, MS
+GEOGRAPHIC CODE: 28053 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,389
+  under 18: 26.8%
+  age 65+: 16.3%
+  White alone: 20.8%
+  Black alone: 76.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $28,636
+  poverty rate: 36.4%
+  homeownership: 61.9%
+  estimated median home value: $69,138
+  estimated median gross rent: $598
+  unemployment: 14.6%
+  bachelor's degree or higher: 12.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

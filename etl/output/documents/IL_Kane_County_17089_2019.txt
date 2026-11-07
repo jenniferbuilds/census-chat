@@ -1,0 +1,18 @@
+GEOGRAPHY: Kane County, IL
+GEOGRAPHIC CODE: 17089 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 531,376
+  under 18: 25.9%
+  age 65+: 13.2%
+  White alone: 73.0%
+  Black alone: 5.5%
+  Asian alone: 4.1%
+  Hispanic or Latino: 31.9%
+  estimated median household income: $80,284
+  poverty rate: 9.4%
+  homeownership: 73.9%
+  estimated median home value: $238,279
+  estimated median gross rent: $1,148
+  unemployment: 4.8%
+  bachelor's degree or higher: 33.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

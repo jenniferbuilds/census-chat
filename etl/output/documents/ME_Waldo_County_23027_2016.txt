@@ -1,0 +1,17 @@
+GEOGRAPHY: Waldo County, ME
+GEOGRAPHIC CODE: 23027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,071
+  under 18: 19.6%
+  age 65+: 19.4%
+  White alone: 96.7%
+  Black alone: 0.6%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $45,473
+  homeownership: 77.5%
+  estimated median home value: $158,426
+  estimated median gross rent: $754
+  unemployment: 7.2%
+  bachelor's degree or higher: 29.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

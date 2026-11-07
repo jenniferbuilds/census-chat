@@ -1,0 +1,18 @@
+GEOGRAPHY: Webster County, WV
+GEOGRAPHIC CODE: 54101 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,637
+  under 18: 20.3%
+  age 65+: 21.3%
+  White alone: 99.6%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $33,895
+  poverty rate: 26.7%
+  homeownership: 71.4%
+  estimated median home value: $68,402
+  estimated median gross rent: $508
+  unemployment: 10.6%
+  bachelor's degree or higher: 10.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

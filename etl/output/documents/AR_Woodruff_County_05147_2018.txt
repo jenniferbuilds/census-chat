@@ -1,0 +1,18 @@
+GEOGRAPHY: Woodruff County, AR
+GEOGRAPHIC CODE: 05147 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,660
+  under 18: 21.7%
+  age 65+: 22.3%
+  White alone: 69.6%
+  Black alone: 27.7%
+  Asian alone: 1.4%
+  Hispanic or Latino: 0.2%
+  estimated median household income: $30,839
+  poverty rate: 25.0%
+  homeownership: 66.5%
+  estimated median home value: $66,157
+  estimated median gross rent: $484
+  unemployment: 8.9%
+  bachelor's degree or higher: 12.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

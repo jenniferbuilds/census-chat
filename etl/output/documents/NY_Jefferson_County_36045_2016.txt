@@ -1,0 +1,17 @@
+GEOGRAPHY: Jefferson County, NY
+GEOGRAPHIC CODE: 36045 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 117,966
+  under 18: 24.8%
+  age 65+: 12.2%
+  White alone: 86.4%
+  Black alone: 5.8%
+  Asian alone: 1.4%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $49,918
+  homeownership: 56.0%
+  estimated median home value: $144,422
+  estimated median gross rent: $943
+  unemployment: 9.4%
+  bachelor's degree or higher: 20.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

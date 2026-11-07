@@ -1,0 +1,18 @@
+GEOGRAPHY: Sanders County, MT
+GEOGRAPHIC CODE: 30089 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,521
+  under 18: 17.9%
+  age 65+: 28.9%
+  White alone: 92.3%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $36,984
+  poverty rate: 19.5%
+  homeownership: 76.5%
+  estimated median home value: $224,171
+  estimated median gross rent: $635
+  unemployment: 8.4%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

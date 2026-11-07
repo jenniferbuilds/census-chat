@@ -1,0 +1,18 @@
+GEOGRAPHY: Kinney County, TX
+GEOGRAPHIC CODE: 48271 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,659
+  under 18: 12.8%
+  age 65+: 24.7%
+  White alone: 96.2%
+  Black alone: 0.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 59.3%
+  estimated median household income: $27,545
+  poverty rate: 19.6%
+  homeownership: 76.6%
+  estimated median home value: $68,750
+  estimated median gross rent: $515
+  unemployment: 2.8%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

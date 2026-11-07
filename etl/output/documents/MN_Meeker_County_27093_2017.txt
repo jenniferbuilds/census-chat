@@ -1,0 +1,18 @@
+GEOGRAPHY: Meeker County, MN
+GEOGRAPHIC CODE: 27093 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,105
+  under 18: 24.5%
+  age 65+: 18.4%
+  White alone: 97.3%
+  Black alone: 0.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $59,674
+  poverty rate: 8.3%
+  homeownership: 78.7%
+  estimated median home value: $161,613
+  estimated median gross rent: $714
+  unemployment: 2.9%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

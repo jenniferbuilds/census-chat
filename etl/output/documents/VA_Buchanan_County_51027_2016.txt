@@ -1,0 +1,17 @@
+GEOGRAPHY: Buchanan County, VA
+GEOGRAPHIC CODE: 51027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,158
+  under 18: 18.0%
+  age 65+: 19.3%
+  White alone: 95.5%
+  Black alone: 2.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 0.3%
+  estimated median household income: $30,477
+  homeownership: 78.5%
+  estimated median home value: $70,497
+  estimated median gross rent: $594
+  unemployment: 9.7%
+  bachelor's degree or higher: 9.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

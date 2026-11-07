@@ -1,0 +1,18 @@
+GEOGRAPHY: Peach County, GA
+GEOGRAPHIC CODE: 13225 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,145
+  under 18: 21.2%
+  age 65+: 15.5%
+  White alone: 48.9%
+  Black alone: 44.8%
+  Asian alone: 1.0%
+  Hispanic or Latino: 7.7%
+  estimated median household income: $46,753
+  poverty rate: 22.2%
+  homeownership: 65.4%
+  estimated median home value: $135,140
+  estimated median gross rent: $698
+  unemployment: 9.7%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

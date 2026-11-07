@@ -1,0 +1,18 @@
+GEOGRAPHY: Jefferson County, KY
+GEOGRAPHIC CODE: 21111 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 764,378
+  under 18: 22.6%
+  age 65+: 14.9%
+  White alone: 72.3%
+  Black alone: 21.2%
+  Asian alone: 2.7%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $52,526
+  poverty rate: 15.0%
+  homeownership: 61.5%
+  estimated median home value: $159,000
+  estimated median gross rent: $800
+  unemployment: 6.4%
+  bachelor's degree or higher: 32.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

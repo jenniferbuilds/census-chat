@@ -1,0 +1,17 @@
+GEOGRAPHY: Clayton County, GA
+GEOGRAPHIC CODE: 13063 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 270,269
+  under 18: 28.3%
+  age 65+: 8.2%
+  White alone: 19.6%
+  Black alone: 68.1%
+  Asian alone: 5.2%
+  Hispanic or Latino: 13.1%
+  estimated median household income: $42,664
+  homeownership: 51.0%
+  estimated median home value: $86,726
+  estimated median gross rent: $896
+  unemployment: 12.2%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

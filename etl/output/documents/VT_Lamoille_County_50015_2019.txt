@@ -1,0 +1,18 @@
+GEOGRAPHY: Lamoille County, VT
+GEOGRAPHIC CODE: 50015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,318
+  under 18: 20.4%
+  age 65+: 16.7%
+  White alone: 95.4%
+  Black alone: 1.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $63,672
+  poverty rate: 13.6%
+  homeownership: 73.2%
+  estimated median home value: $225,560
+  estimated median gross rent: $956
+  unemployment: 3.7%
+  bachelor's degree or higher: 38.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

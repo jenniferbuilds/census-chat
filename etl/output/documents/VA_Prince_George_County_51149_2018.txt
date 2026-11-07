@@ -1,0 +1,18 @@
+GEOGRAPHY: Prince George County, VA
+GEOGRAPHIC CODE: 51149 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,894
+  under 18: 21.6%
+  age 65+: 13.0%
+  White alone: 58.5%
+  Black alone: 32.2%
+  Asian alone: 1.8%
+  Hispanic or Latino: 7.9%
+  estimated median household income: $67,500
+  poverty rate: 9.3%
+  homeownership: 67.0%
+  estimated median home value: $218,221
+  estimated median gross rent: $1,318
+  unemployment: 7.4%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

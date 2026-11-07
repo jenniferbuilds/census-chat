@@ -1,0 +1,17 @@
+GEOGRAPHY: Jones County, MS
+GEOGRAPHIC CODE: 28067 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 68,313
+  under 18: 25.5%
+  age 65+: 15.3%
+  White alone: 69.0%
+  Black alone: 29.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $37,997
+  homeownership: 72.9%
+  estimated median home value: $85,444
+  estimated median gross rent: $606
+  unemployment: 7.5%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

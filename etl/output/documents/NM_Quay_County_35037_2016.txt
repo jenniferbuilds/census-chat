@@ -1,0 +1,17 @@
+GEOGRAPHY: Quay County, NM
+GEOGRAPHIC CODE: 35037 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,555
+  under 18: 21.4%
+  age 65+: 24.0%
+  White alone: 89.4%
+  Black alone: 2.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 44.3%
+  estimated median household income: $29,040
+  homeownership: 69.5%
+  estimated median home value: $72,623
+  estimated median gross rent: $484
+  unemployment: 2.7%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

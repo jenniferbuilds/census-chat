@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, ME
+GEOGRAPHIC CODE: 23015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,201
+  under 18: 16.7%
+  age 65+: 27.1%
+  White alone: 96.9%
+  Black alone: 0.4%
+  Asian alone: 1.0%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $58,250
+  poverty rate: 12.3%
+  homeownership: 79.2%
+  estimated median home value: $215,403
+  estimated median gross rent: $819
+  unemployment: 3.8%
+  bachelor's degree or higher: 33.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

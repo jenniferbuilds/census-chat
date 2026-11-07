@@ -1,0 +1,18 @@
+GEOGRAPHY: Lake County, CA
+GEOGRAPHIC CODE: 06033 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 64,095
+  under 18: 20.5%
+  age 65+: 21.2%
+  White alone: 77.8%
+  Black alone: 2.3%
+  Asian alone: 1.5%
+  Hispanic or Latino: 19.4%
+  estimated median household income: $40,518
+  poverty rate: 22.8%
+  homeownership: 65.9%
+  estimated median home value: $182,042
+  estimated median gross rent: $914
+  unemployment: 11.2%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

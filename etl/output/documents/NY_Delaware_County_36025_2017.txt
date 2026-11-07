@@ -1,0 +1,18 @@
+GEOGRAPHY: Delaware County, NY
+GEOGRAPHIC CODE: 36025 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,950
+  under 18: 17.6%
+  age 65+: 22.8%
+  White alone: 95.0%
+  Black alone: 2.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $47,951
+  poverty rate: 16.5%
+  homeownership: 73.3%
+  estimated median home value: $137,950
+  estimated median gross rent: $696
+  unemployment: 7.1%
+  bachelor's degree or higher: 21.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

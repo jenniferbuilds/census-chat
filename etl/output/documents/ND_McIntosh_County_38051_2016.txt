@@ -1,0 +1,17 @@
+GEOGRAPHY: McIntosh County, ND
+GEOGRAPHIC CODE: 38051 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,737
+  under 18: 18.0%
+  age 65+: 32.1%
+  White alone: 96.6%
+  Black alone: 0.1%
+  Asian alone: 1.1%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $43,977
+  homeownership: 79.1%
+  estimated median home value: $67,868
+  estimated median gross rent: $518
+  unemployment: 1.1%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Ouray County, CO
+GEOGRAPHIC CODE: 08091 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,890
+  under 18: 14.7%
+  age 65+: 28.1%
+  White alone: 94.9%
+  Black alone: 1.6%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $67,123
+  poverty rate: 6.7%
+  homeownership: 71.7%
+  estimated median home value: $486,167
+  estimated median gross rent: $1,305
+  unemployment: 4.2%
+  bachelor's degree or higher: 49.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

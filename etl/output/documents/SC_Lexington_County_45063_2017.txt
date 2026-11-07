@@ -1,0 +1,18 @@
+GEOGRAPHY: Lexington County, SC
+GEOGRAPHIC CODE: 45063 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 281,870
+  under 18: 23.6%
+  age 65+: 14.6%
+  White alone: 79.7%
+  Black alone: 14.5%
+  Asian alone: 1.7%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $57,863
+  poverty rate: 12.8%
+  homeownership: 73.7%
+  estimated median home value: $148,379
+  estimated median gross rent: $881
+  unemployment: 6.0%
+  bachelor's degree or higher: 30.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

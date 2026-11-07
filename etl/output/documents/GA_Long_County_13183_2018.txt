@@ -1,0 +1,18 @@
+GEOGRAPHY: Long County, GA
+GEOGRAPHIC CODE: 13183 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,156
+  under 18: 28.1%
+  age 65+: 8.8%
+  White alone: 64.7%
+  Black alone: 23.7%
+  Asian alone: 1.1%
+  Hispanic or Latino: 11.3%
+  estimated median household income: $54,772
+  poverty rate: 20.0%
+  homeownership: 69.6%
+  estimated median home value: $116,742
+  estimated median gross rent: $789
+  unemployment: 15.1%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

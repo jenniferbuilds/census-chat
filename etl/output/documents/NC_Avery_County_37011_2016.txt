@@ -1,0 +1,17 @@
+GEOGRAPHY: Avery County, NC
+GEOGRAPHIC CODE: 37011 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,633
+  under 18: 15.7%
+  age 65+: 20.4%
+  White alone: 91.9%
+  Black alone: 3.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $35,856
+  homeownership: 75.7%
+  estimated median home value: $130,850
+  estimated median gross rent: $696
+  unemployment: 8.0%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

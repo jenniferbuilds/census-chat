@@ -1,0 +1,18 @@
+GEOGRAPHY: Merrick County, NE
+GEOGRAPHIC CODE: 31121 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,798
+  under 18: 22.3%
+  age 65+: 20.7%
+  White alone: 95.0%
+  Black alone: 0.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $56,617
+  poverty rate: 12.0%
+  homeownership: 74.5%
+  estimated median home value: $115,364
+  estimated median gross rent: $689
+  unemployment: 2.1%
+  bachelor's degree or higher: 17.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

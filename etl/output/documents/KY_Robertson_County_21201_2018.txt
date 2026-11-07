@@ -1,0 +1,18 @@
+GEOGRAPHY: Robertson County, KY
+GEOGRAPHIC CODE: 21201 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,143
+  under 18: 18.5%
+  age 65+: 21.9%
+  White alone: 99.1%
+  Black alone: 0.7%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $38,864
+  poverty rate: 27.1%
+  homeownership: 78.8%
+  estimated median home value: $100,136
+  estimated median gross rent: $488
+  unemployment: 4.5%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

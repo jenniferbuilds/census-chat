@@ -1,0 +1,18 @@
+GEOGRAPHY: Upson County, GA
+GEOGRAPHIC CODE: 13293 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,241
+  under 18: 22.4%
+  age 65+: 17.7%
+  White alone: 69.7%
+  Black alone: 28.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $35,446
+  poverty rate: 22.7%
+  homeownership: 64.3%
+  estimated median home value: $84,946
+  estimated median gross rent: $615
+  unemployment: 11.2%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

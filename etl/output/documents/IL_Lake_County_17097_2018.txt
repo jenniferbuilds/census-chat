@@ -1,0 +1,18 @@
+GEOGRAPHY: Lake County, IL
+GEOGRAPHIC CODE: 17097 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 703,619
+  under 18: 24.8%
+  age 65+: 13.2%
+  White alone: 77.3%
+  Black alone: 6.7%
+  Asian alone: 7.5%
+  Hispanic or Latino: 21.4%
+  estimated median household income: $86,618
+  poverty rate: 8.3%
+  homeownership: 73.4%
+  estimated median home value: $259,898
+  estimated median gross rent: $1,168
+  unemployment: 5.6%
+  bachelor's degree or higher: 45.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

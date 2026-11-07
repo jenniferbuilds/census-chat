@@ -1,0 +1,18 @@
+GEOGRAPHY: Marquette County, MI
+GEOGRAPHIC CODE: 26103 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 67,145
+  under 18: 18.1%
+  age 65+: 17.2%
+  White alone: 93.3%
+  Black alone: 1.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $48,645
+  poverty rate: 16.4%
+  homeownership: 70.0%
+  estimated median home value: $142,943
+  estimated median gross rent: $669
+  unemployment: 6.3%
+  bachelor's degree or higher: 30.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

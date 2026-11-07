@@ -1,0 +1,18 @@
+GEOGRAPHY: San Juan County, CO
+GEOGRAPHIC CODE: 08111 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 589
+  under 18: 12.9%
+  age 65+: 24.8%
+  White alone: 97.3%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 8.5%
+  estimated median household income: $53,462
+  poverty rate: 5.3%
+  homeownership: 62.6%
+  estimated median home value: $322,368
+  estimated median gross rent: $1,019
+  unemployment: 2.0%
+  bachelor's degree or higher: 35.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

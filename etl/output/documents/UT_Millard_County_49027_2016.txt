@@ -1,0 +1,17 @@
+GEOGRAPHY: Millard County, UT
+GEOGRAPHIC CODE: 49027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,604
+  under 18: 31.5%
+  age 65+: 15.9%
+  White alone: 89.3%
+  Black alone: 0.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 12.8%
+  estimated median household income: $53,744
+  homeownership: 78.1%
+  estimated median home value: $142,728
+  estimated median gross rent: $622
+  unemployment: 4.0%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

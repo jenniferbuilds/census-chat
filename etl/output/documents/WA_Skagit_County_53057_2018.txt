@@ -1,0 +1,18 @@
+GEOGRAPHY: Skagit County, WA
+GEOGRAPHIC CODE: 53057 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 123,907
+  under 18: 22.2%
+  age 65+: 19.7%
+  White alone: 82.1%
+  Black alone: 0.8%
+  Asian alone: 2.0%
+  Hispanic or Latino: 18.3%
+  estimated median household income: $63,135
+  poverty rate: 12.8%
+  homeownership: 67.5%
+  estimated median home value: $286,165
+  estimated median gross rent: $1,058
+  unemployment: 5.8%
+  bachelor's degree or higher: 26.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

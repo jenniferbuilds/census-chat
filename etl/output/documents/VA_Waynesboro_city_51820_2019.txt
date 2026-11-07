@@ -1,0 +1,18 @@
+GEOGRAPHY: Waynesboro city, VA
+GEOGRAPHIC CODE: 51820 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,140
+  under 18: 23.3%
+  age 65+: 17.6%
+  White alone: 81.4%
+  Black alone: 14.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 8.1%
+  estimated median household income: $45,005
+  poverty rate: 16.8%
+  homeownership: 57.7%
+  estimated median home value: $174,064
+  estimated median gross rent: $821
+  unemployment: 4.7%
+  bachelor's degree or higher: 27.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

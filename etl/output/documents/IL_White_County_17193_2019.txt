@@ -1,0 +1,18 @@
+GEOGRAPHY: White County, IL
+GEOGRAPHIC CODE: 17193 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,868
+  under 18: 21.6%
+  age 65+: 21.6%
+  White alone: 97.5%
+  Black alone: 0.7%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $49,349
+  poverty rate: 14.0%
+  homeownership: 80.6%
+  estimated median home value: $71,524
+  estimated median gross rent: $552
+  unemployment: 6.6%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

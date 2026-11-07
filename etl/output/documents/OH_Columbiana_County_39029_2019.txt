@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbiana County, OH
+GEOGRAPHIC CODE: 39029 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 103,190
+  under 18: 20.5%
+  age 65+: 19.8%
+  White alone: 94.7%
+  Black alone: 2.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $48,412
+  poverty rate: 14.3%
+  homeownership: 73.5%
+  estimated median home value: $109,423
+  estimated median gross rent: $663
+  unemployment: 6.6%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

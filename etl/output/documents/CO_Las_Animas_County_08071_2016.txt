@@ -1,0 +1,17 @@
+GEOGRAPHY: Las Animas County, CO
+GEOGRAPHIC CODE: 08071 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,322
+  under 18: 18.3%
+  age 65+: 21.7%
+  White alone: 84.3%
+  Black alone: 0.9%
+  Asian alone: 0.8%
+  Hispanic or Latino: 42.3%
+  estimated median household income: $42,862
+  homeownership: 68.8%
+  estimated median home value: $145,833
+  estimated median gross rent: $691
+  unemployment: 7.8%
+  bachelor's degree or higher: 18.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

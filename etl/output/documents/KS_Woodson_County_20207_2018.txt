@@ -1,0 +1,18 @@
+GEOGRAPHY: Woodson County, KS
+GEOGRAPHIC CODE: 20207 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,170
+  under 18: 21.2%
+  age 65+: 23.3%
+  White alone: 93.7%
+  Black alone: 1.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $34,684
+  poverty rate: 22.0%
+  homeownership: 77.6%
+  estimated median home value: $59,766
+  estimated median gross rent: $588
+  unemployment: 8.6%
+  bachelor's degree or higher: 13.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Adams County, IA
+GEOGRAPHIC CODE: 19003 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,822
+  under 18: 20.9%
+  age 65+: 22.2%
+  White alone: 97.3%
+  Black alone: 0.5%
+  Asian alone: 0.9%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $48,961
+  homeownership: 73.9%
+  estimated median home value: $88,881
+  estimated median gross rent: $471
+  unemployment: 3.1%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

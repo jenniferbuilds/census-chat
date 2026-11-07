@@ -1,0 +1,17 @@
+GEOGRAPHY: Linn County, OR
+GEOGRAPHIC CODE: 41043 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 119,862
+  under 18: 23.2%
+  age 65+: 17.2%
+  White alone: 91.9%
+  Black alone: 0.5%
+  Asian alone: 1.1%
+  Hispanic or Latino: 8.4%
+  estimated median household income: $46,885
+  homeownership: 64.5%
+  estimated median home value: $173,050
+  estimated median gross rent: $850
+  unemployment: 9.8%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

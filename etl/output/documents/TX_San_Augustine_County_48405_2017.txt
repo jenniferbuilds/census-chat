@@ -1,0 +1,18 @@
+GEOGRAPHY: San Augustine County, TX
+GEOGRAPHIC CODE: 48405 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,403
+  under 18: 20.2%
+  age 65+: 24.5%
+  White alone: 74.3%
+  Black alone: 20.8%
+  Asian alone: 0.0%
+  Hispanic or Latino: 6.9%
+  estimated median household income: $33,156
+  poverty rate: 24.4%
+  homeownership: 79.2%
+  estimated median home value: $81,883
+  estimated median gross rent: $538
+  unemployment: 13.4%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Miller County, AR
+GEOGRAPHIC CODE: 05091 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,759
+  under 18: 23.8%
+  age 65+: 16.0%
+  White alone: 70.5%
+  Black alone: 24.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $41,840
+  poverty rate: 21.2%
+  homeownership: 63.7%
+  estimated median home value: $106,481
+  estimated median gross rent: $714
+  unemployment: 8.1%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

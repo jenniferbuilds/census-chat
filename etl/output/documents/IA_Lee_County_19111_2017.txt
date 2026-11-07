@@ -1,0 +1,18 @@
+GEOGRAPHY: Lee County, IA
+GEOGRAPHIC CODE: 19111 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,785
+  under 18: 21.6%
+  age 65+: 19.1%
+  White alone: 93.6%
+  Black alone: 2.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $48,304
+  poverty rate: 16.3%
+  homeownership: 75.0%
+  estimated median home value: $90,194
+  estimated median gross rent: $623
+  unemployment: 7.6%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

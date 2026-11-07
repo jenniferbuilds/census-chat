@@ -1,0 +1,18 @@
+GEOGRAPHY: Merrimack County, NH
+GEOGRAPHIC CODE: 33013 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 149,917
+  under 18: 19.4%
+  age 65+: 17.6%
+  White alone: 94.1%
+  Black alone: 1.4%
+  Asian alone: 2.1%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $75,758
+  poverty rate: 6.5%
+  homeownership: 71.8%
+  estimated median home value: $237,589
+  estimated median gross rent: $1,042
+  unemployment: 3.6%
+  bachelor's degree or higher: 35.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

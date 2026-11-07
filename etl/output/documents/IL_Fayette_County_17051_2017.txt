@@ -1,0 +1,18 @@
+GEOGRAPHY: Fayette County, IL
+GEOGRAPHIC CODE: 17051 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,980
+  under 18: 20.7%
+  age 65+: 17.7%
+  White alone: 93.2%
+  Black alone: 5.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $44,625
+  poverty rate: 17.8%
+  homeownership: 80.7%
+  estimated median home value: $83,969
+  estimated median gross rent: $612
+  unemployment: 7.4%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

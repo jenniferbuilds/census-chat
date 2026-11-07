@@ -1,0 +1,18 @@
+GEOGRAPHY: Thurston County, NE
+GEOGRAPHIC CODE: 31173 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,055
+  under 18: 35.6%
+  age 65+: 12.0%
+  White alone: 39.7%
+  Black alone: 0.2%
+  Asian alone: 0.7%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $44,658
+  poverty rate: 30.5%
+  homeownership: 59.9%
+  estimated median home value: $79,091
+  estimated median gross rent: $578
+  unemployment: 15.4%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

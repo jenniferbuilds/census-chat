@@ -1,0 +1,18 @@
+GEOGRAPHY: Tuscaloosa County, AL
+GEOGRAPHIC CODE: 01125 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 206,213
+  under 18: 20.9%
+  age 65+: 12.5%
+  White alone: 64.4%
+  Black alone: 31.6%
+  Asian alone: 1.6%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $52,903
+  poverty rate: 17.4%
+  homeownership: 63.2%
+  estimated median home value: $165,958
+  estimated median gross rent: $843
+  unemployment: 6.3%
+  bachelor's degree or higher: 30.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

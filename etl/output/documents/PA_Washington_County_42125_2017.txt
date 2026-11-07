@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, PA
+GEOGRAPHIC CODE: 42125 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 207,661
+  under 18: 19.8%
+  age 65+: 19.2%
+  White alone: 93.7%
+  Black alone: 3.0%
+  Asian alone: 1.0%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $59,320
+  poverty rate: 9.7%
+  homeownership: 75.6%
+  estimated median home value: $158,623
+  estimated median gross rent: $708
+  unemployment: 5.8%
+  bachelor's degree or higher: 29.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

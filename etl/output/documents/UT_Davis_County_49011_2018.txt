@@ -1,0 +1,18 @@
+GEOGRAPHY: Davis County, UT
+GEOGRAPHIC CODE: 49011 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 340,621
+  under 18: 32.8%
+  age 65+: 9.6%
+  White alone: 90.0%
+  Black alone: 1.3%
+  Asian alone: 1.8%
+  Hispanic or Latino: 9.4%
+  estimated median household income: $80,345
+  poverty rate: 5.5%
+  homeownership: 77.6%
+  estimated median home value: $265,943
+  estimated median gross rent: $1,055
+  unemployment: 3.2%
+  bachelor's degree or higher: 37.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

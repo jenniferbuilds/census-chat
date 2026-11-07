@@ -1,0 +1,17 @@
+GEOGRAPHY: Alpine County, CA
+GEOGRAPHIC CODE: 06003 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,184
+  under 18: 23.1%
+  age 65+: 20.8%
+  White alone: 72.4%
+  Black alone: 0.8%
+  Asian alone: 0.8%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $62,336
+  homeownership: 81.6%
+  estimated median home value: $329,508
+  estimated median gross rent: $1,109
+  unemployment: 11.8%
+  bachelor's degree or higher: 29.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

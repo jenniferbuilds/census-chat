@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, MN
+GEOGRAPHIC CODE: 27163 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 253,317
+  under 18: 24.9%
+  age 65+: 13.8%
+  White alone: 86.0%
+  Black alone: 4.4%
+  Asian alone: 5.5%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $92,727
+  poverty rate: 4.7%
+  homeownership: 81.6%
+  estimated median home value: $277,393
+  estimated median gross rent: $1,267
+  unemployment: 3.1%
+  bachelor's degree or higher: 43.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

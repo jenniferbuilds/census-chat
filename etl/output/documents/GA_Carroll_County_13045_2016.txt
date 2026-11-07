@@ -1,0 +1,17 @@
+GEOGRAPHY: Carroll County, GA
+GEOGRAPHIC CODE: 13045 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 113,756
+  under 18: 24.4%
+  age 65+: 12.4%
+  White alone: 75.4%
+  Black alone: 18.4%
+  Asian alone: 0.9%
+  Hispanic or Latino: 6.6%
+  estimated median household income: $45,550
+  homeownership: 63.8%
+  estimated median home value: $113,673
+  estimated median gross rent: $796
+  unemployment: 10.8%
+  bachelor's degree or higher: 18.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

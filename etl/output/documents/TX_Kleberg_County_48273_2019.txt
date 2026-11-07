@@ -1,0 +1,18 @@
+GEOGRAPHY: Kleberg County, TX
+GEOGRAPHIC CODE: 48273 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,974
+  under 18: 24.3%
+  age 65+: 13.0%
+  White alone: 88.5%
+  Black alone: 3.3%
+  Asian alone: 2.2%
+  Hispanic or Latino: 72.9%
+  estimated median household income: $43,834
+  poverty rate: 27.2%
+  homeownership: 52.8%
+  estimated median home value: $91,868
+  estimated median gross rent: $859
+  unemployment: 8.5%
+  bachelor's degree or higher: 24.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Brunswick County, VA
+GEOGRAPHIC CODE: 51025 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,435
+  under 18: 18.1%
+  age 65+: 19.7%
+  White alone: 42.2%
+  Black alone: 54.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $41,124
+  poverty rate: 20.9%
+  homeownership: 73.9%
+  estimated median home value: $110,929
+  estimated median gross rent: $693
+  unemployment: 7.8%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

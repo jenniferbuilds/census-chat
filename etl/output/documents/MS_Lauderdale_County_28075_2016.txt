@@ -1,0 +1,17 @@
+GEOGRAPHY: Lauderdale County, MS
+GEOGRAPHIC CODE: 28075 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 79,233
+  under 18: 24.1%
+  age 65+: 15.1%
+  White alone: 54.4%
+  Black alone: 42.5%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $38,704
+  homeownership: 64.5%
+  estimated median home value: $87,837
+  estimated median gross rent: $694
+  unemployment: 9.0%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

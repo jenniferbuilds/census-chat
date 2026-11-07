@@ -1,0 +1,18 @@
+GEOGRAPHY: Saguache County, CO
+GEOGRAPHIC CODE: 08109 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,468
+  under 18: 21.8%
+  age 65+: 21.4%
+  White alone: 91.9%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 36.6%
+  estimated median household income: $34,728
+  poverty rate: 17.7%
+  homeownership: 74.9%
+  estimated median home value: $149,460
+  estimated median gross rent: $635
+  unemployment: 6.9%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

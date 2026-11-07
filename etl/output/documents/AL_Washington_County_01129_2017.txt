@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, AL
+GEOGRAPHIC CODE: 01129 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,746
+  under 18: 22.8%
+  age 65+: 17.3%
+  White alone: 65.5%
+  Black alone: 24.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 0.5%
+  estimated median household income: $41,523
+  poverty rate: 22.0%
+  homeownership: 82.4%
+  estimated median home value: $83,904
+  estimated median gross rent: $657
+  unemployment: 11.0%
+  bachelor's degree or higher: 10.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

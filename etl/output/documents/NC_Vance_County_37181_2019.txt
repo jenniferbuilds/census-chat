@@ -1,0 +1,18 @@
+GEOGRAPHY: Vance County, NC
+GEOGRAPHIC CODE: 37181 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,479
+  under 18: 23.9%
+  age 65+: 17.9%
+  White alone: 42.6%
+  Black alone: 49.8%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $40,694
+  poverty rate: 20.8%
+  homeownership: 56.5%
+  estimated median home value: $101,402
+  estimated median gross rent: $699
+  unemployment: 8.4%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

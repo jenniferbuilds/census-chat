@@ -1,0 +1,18 @@
+GEOGRAPHY: Warren County, PA
+GEOGRAPHIC CODE: 42123 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,756
+  under 18: 19.5%
+  age 65+: 22.3%
+  White alone: 97.7%
+  Black alone: 0.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $50,228
+  poverty rate: 12.6%
+  homeownership: 76.9%
+  estimated median home value: $98,004
+  estimated median gross rent: $614
+  unemployment: 4.5%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

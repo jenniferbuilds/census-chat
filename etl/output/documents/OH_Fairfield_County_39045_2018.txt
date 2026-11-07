@@ -1,0 +1,18 @@
+GEOGRAPHY: Fairfield County, OH
+GEOGRAPHIC CODE: 39045 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 152,910
+  under 18: 24.2%
+  age 65+: 15.1%
+  White alone: 87.9%
+  Black alone: 7.1%
+  Asian alone: 1.5%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $66,937
+  poverty rate: 9.4%
+  homeownership: 72.7%
+  estimated median home value: $173,632
+  estimated median gross rent: $866
+  unemployment: 4.4%
+  bachelor's degree or higher: 27.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

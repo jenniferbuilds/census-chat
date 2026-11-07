@@ -1,0 +1,17 @@
+GEOGRAPHY: Albany County, NY
+GEOGRAPHIC CODE: 36001 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 307,891
+  under 18: 19.0%
+  age 65+: 15.2%
+  White alone: 76.6%
+  Black alone: 12.5%
+  Asian alone: 6.1%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $61,115
+  homeownership: 57.4%
+  estimated median home value: $211,134
+  estimated median gross rent: $931
+  unemployment: 5.8%
+  bachelor's degree or higher: 39.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

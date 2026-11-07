@@ -1,0 +1,18 @@
+GEOGRAPHY: Deaf Smith County, TX
+GEOGRAPHIC CODE: 48117 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,617
+  under 18: 31.1%
+  age 65+: 12.9%
+  White alone: 81.1%
+  Black alone: 1.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 73.5%
+  estimated median household income: $49,843
+  poverty rate: 13.8%
+  homeownership: 65.5%
+  estimated median home value: $91,808
+  estimated median gross rent: $766
+  unemployment: 3.3%
+  bachelor's degree or higher: 12.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

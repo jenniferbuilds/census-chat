@@ -1,0 +1,18 @@
+GEOGRAPHY: Morgan County, MO
+GEOGRAPHIC CODE: 29141 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,271
+  under 18: 22.9%
+  age 65+: 23.4%
+  White alone: 95.9%
+  Black alone: 0.9%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $38,978
+  poverty rate: 23.3%
+  homeownership: 80.7%
+  estimated median home value: $124,963
+  estimated median gross rent: $563
+  unemployment: 4.1%
+  bachelor's degree or higher: 13.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

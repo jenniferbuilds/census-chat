@@ -1,0 +1,18 @@
+GEOGRAPHY: Metcalfe County, KY
+GEOGRAPHIC CODE: 21169 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,062
+  under 18: 23.6%
+  age 65+: 18.6%
+  White alone: 95.2%
+  Black alone: 2.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $40,410
+  poverty rate: 22.2%
+  homeownership: 78.3%
+  estimated median home value: $76,852
+  estimated median gross rent: $557
+  unemployment: 3.1%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Taylor County, TX
+GEOGRAPHIC CODE: 48441 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 135,371
+  under 18: 24.7%
+  age 65+: 13.9%
+  White alone: 77.8%
+  Black alone: 7.7%
+  Asian alone: 2.0%
+  Hispanic or Latino: 23.8%
+  estimated median household income: $49,350
+  poverty rate: 16.1%
+  homeownership: 59.0%
+  estimated median home value: $112,353
+  estimated median gross rent: $846
+  unemployment: 4.4%
+  bachelor's degree or higher: 24.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

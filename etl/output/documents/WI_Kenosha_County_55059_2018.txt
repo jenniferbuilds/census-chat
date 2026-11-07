@@ -1,0 +1,18 @@
+GEOGRAPHY: Kenosha County, WI
+GEOGRAPHIC CODE: 55059 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 168,330
+  under 18: 23.6%
+  age 65+: 13.2%
+  White alone: 85.6%
+  Black alone: 7.5%
+  Asian alone: 1.5%
+  Hispanic or Latino: 12.9%
+  estimated median household income: $61,109
+  poverty rate: 13.6%
+  homeownership: 65.9%
+  estimated median home value: $168,970
+  estimated median gross rent: $896
+  unemployment: 6.8%
+  bachelor's degree or higher: 25.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

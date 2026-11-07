@@ -1,0 +1,18 @@
+GEOGRAPHY: Van Buren County, IA
+GEOGRAPHIC CODE: 19177 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,150
+  under 18: 23.3%
+  age 65+: 22.1%
+  White alone: 97.3%
+  Black alone: 0.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $48,049
+  poverty rate: 12.8%
+  homeownership: 81.3%
+  estimated median home value: $92,849
+  estimated median gross rent: $571
+  unemployment: 5.2%
+  bachelor's degree or higher: 14.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

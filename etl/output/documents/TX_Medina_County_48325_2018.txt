@@ -1,0 +1,18 @@
+GEOGRAPHY: Medina County, TX
+GEOGRAPHIC CODE: 48325 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,334
+  under 18: 23.3%
+  age 65+: 16.1%
+  White alone: 90.7%
+  Black alone: 2.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 51.6%
+  estimated median household income: $61,477
+  poverty rate: 10.4%
+  homeownership: 79.8%
+  estimated median home value: $139,783
+  estimated median gross rent: $843
+  unemployment: 3.6%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

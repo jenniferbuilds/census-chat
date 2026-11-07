@@ -1,0 +1,17 @@
+GEOGRAPHY: Livingston County, KY
+GEOGRAPHIC CODE: 21139 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,353
+  under 18: 20.4%
+  age 65+: 20.0%
+  White alone: 97.5%
+  Black alone: 0.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $44,185
+  homeownership: 74.5%
+  estimated median home value: $88,689
+  estimated median gross rent: $607
+  unemployment: 5.1%
+  bachelor's degree or higher: 10.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

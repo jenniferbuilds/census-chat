@@ -1,0 +1,18 @@
+GEOGRAPHY: Lamb County, TX
+GEOGRAPHIC CODE: 48279 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,262
+  under 18: 28.1%
+  age 65+: 16.2%
+  White alone: 87.9%
+  Black alone: 5.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 55.2%
+  estimated median household income: $43,083
+  poverty rate: 23.6%
+  homeownership: 70.4%
+  estimated median home value: $64,694
+  estimated median gross rent: $703
+  unemployment: 2.9%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

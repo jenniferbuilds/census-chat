@@ -1,0 +1,18 @@
+GEOGRAPHY: Macon County, NC
+GEOGRAPHIC CODE: 37113 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,172
+  under 18: 17.9%
+  age 65+: 28.7%
+  White alone: 93.1%
+  Black alone: 1.5%
+  Asian alone: 0.9%
+  Hispanic or Latino: 7.2%
+  estimated median household income: $45,808
+  poverty rate: 16.0%
+  homeownership: 72.9%
+  estimated median home value: $171,701
+  estimated median gross rent: $758
+  unemployment: 4.8%
+  bachelor's degree or higher: 23.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

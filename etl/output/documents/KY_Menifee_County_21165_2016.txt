@@ -1,0 +1,17 @@
+GEOGRAPHY: Menifee County, KY
+GEOGRAPHIC CODE: 21165 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,345
+  under 18: 21.4%
+  age 65+: 18.0%
+  White alone: 98.7%
+  Black alone: 0.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $35,469
+  homeownership: 79.8%
+  estimated median home value: $78,529
+  estimated median gross rent: $536
+  unemployment: 10.7%
+  bachelor's degree or higher: 12.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

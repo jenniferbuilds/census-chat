@@ -1,0 +1,17 @@
+GEOGRAPHY: Hanover County, VA
+GEOGRAPHIC CODE: 51085 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 102,199
+  under 18: 22.9%
+  age 65+: 15.5%
+  White alone: 86.9%
+  Black alone: 9.1%
+  Asian alone: 1.4%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $81,525
+  homeownership: 81.2%
+  estimated median home value: $258,923
+  estimated median gross rent: $1,088
+  unemployment: 3.8%
+  bachelor's degree or higher: 36.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

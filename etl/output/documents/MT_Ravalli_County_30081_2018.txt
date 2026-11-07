@@ -1,0 +1,18 @@
+GEOGRAPHY: Ravalli County, MT
+GEOGRAPHIC CODE: 30081 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,902
+  under 18: 19.7%
+  age 65+: 24.3%
+  White alone: 96.0%
+  Black alone: 0.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $49,099
+  poverty rate: 14.3%
+  homeownership: 76.1%
+  estimated median home value: $262,586
+  estimated median gross rent: $756
+  unemployment: 5.9%
+  bachelor's degree or higher: 27.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Lewis County, TN
+GEOGRAPHIC CODE: 47101 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,956
+  under 18: 22.4%
+  age 65+: 20.6%
+  White alone: 95.4%
+  Black alone: 1.6%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $38,634
+  poverty rate: 20.3%
+  homeownership: 78.2%
+  estimated median home value: $89,688
+  estimated median gross rent: $563
+  unemployment: 3.7%
+  bachelor's degree or higher: 11.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

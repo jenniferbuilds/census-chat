@@ -1,0 +1,17 @@
+GEOGRAPHY: Rice County, KS
+GEOGRAPHIC CODE: 20159 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,949
+  under 18: 22.9%
+  age 65+: 17.6%
+  White alone: 91.0%
+  Black alone: 2.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 11.1%
+  estimated median household income: $46,937
+  homeownership: 73.7%
+  estimated median home value: $74,152
+  estimated median gross rent: $528
+  unemployment: 5.4%
+  bachelor's degree or higher: 22.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

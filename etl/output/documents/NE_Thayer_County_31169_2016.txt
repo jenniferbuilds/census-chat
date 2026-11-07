@@ -1,0 +1,17 @@
+GEOGRAPHY: Thayer County, NE
+GEOGRAPHIC CODE: 31169 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,163
+  under 18: 21.1%
+  age 65+: 25.4%
+  White alone: 97.6%
+  Black alone: 0.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $45,970
+  homeownership: 77.1%
+  estimated median home value: $68,936
+  estimated median gross rent: $529
+  unemployment: 1.4%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

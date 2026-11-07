@@ -1,0 +1,18 @@
+GEOGRAPHY: Cataño Municipio, PR
+GEOGRAPHIC CODE: 72033 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,595
+  under 18: 22.2%
+  age 65+: 17.0%
+  White alone: 63.7%
+  Black alone: 10.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 99.3%
+  estimated median household income: $18,800
+  poverty rate: 49.4%
+  homeownership: 60.3%
+  estimated median home value: $125,036
+  estimated median gross rent: $397
+  unemployment: 27.9%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

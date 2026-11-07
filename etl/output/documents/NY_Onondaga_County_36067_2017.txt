@@ -1,0 +1,18 @@
+GEOGRAPHY: Onondaga County, NY
+GEOGRAPHIC CODE: 36067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 467,669
+  under 18: 21.7%
+  age 65+: 15.7%
+  White alone: 79.9%
+  Black alone: 11.2%
+  Asian alone: 3.9%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $57,599
+  poverty rate: 14.9%
+  homeownership: 64.9%
+  estimated median home value: $139,369
+  estimated median gross rent: $823
+  unemployment: 6.4%
+  bachelor's degree or higher: 35.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

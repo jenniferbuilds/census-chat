@@ -1,0 +1,18 @@
+GEOGRAPHY: New Hampshire (NH)
+GEOGRAPHIC CODE: 33 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,343,622
+  under 18: 19.5%
+  age 65+: 17.0%
+  White alone: 93.0%
+  Black alone: 1.5%
+  Asian alone: 2.7%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $74,118
+  poverty rate: 7.9%
+  homeownership: 71.0%
+  estimated median home value: $252,832
+  estimated median gross rent: $1,077
+  unemployment: 4.0%
+  bachelor's degree or higher: 36.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

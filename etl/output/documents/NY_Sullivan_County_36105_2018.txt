@@ -1,0 +1,18 @@
+GEOGRAPHY: Sullivan County, NY
+GEOGRAPHIC CODE: 36105 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 75,211
+  under 18: 21.3%
+  age 65+: 18.0%
+  White alone: 80.7%
+  Black alone: 8.4%
+  Asian alone: 1.6%
+  Hispanic or Latino: 15.7%
+  estimated median household income: $56,231
+  poverty rate: 14.7%
+  homeownership: 67.7%
+  estimated median home value: $169,527
+  estimated median gross rent: $876
+  unemployment: 7.7%
+  bachelor's degree or higher: 23.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

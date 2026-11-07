@@ -1,0 +1,18 @@
+GEOGRAPHY: San Jacinto County, TX
+GEOGRAPHIC CODE: 48407 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,180
+  under 18: 22.1%
+  age 65+: 22.1%
+  White alone: 85.6%
+  Black alone: 9.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 13.1%
+  estimated median household income: $41,714
+  poverty rate: 15.2%
+  homeownership: 80.6%
+  estimated median home value: $114,128
+  estimated median gross rent: $788
+  unemployment: 6.4%
+  bachelor's degree or higher: 11.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Richmond County, VA
+GEOGRAPHIC CODE: 51159 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,884
+  under 18: 16.7%
+  age 65+: 21.2%
+  White alone: 64.4%
+  Black alone: 26.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $49,782
+  poverty rate: 17.3%
+  homeownership: 69.9%
+  estimated median home value: $180,277
+  estimated median gross rent: $797
+  unemployment: 2.1%
+  bachelor's degree or higher: 17.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

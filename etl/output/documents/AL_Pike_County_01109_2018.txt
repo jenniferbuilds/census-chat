@@ -1,0 +1,18 @@
+GEOGRAPHY: Pike County, AL
+GEOGRAPHIC CODE: 01109 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,403
+  under 18: 19.6%
+  age 65+: 14.6%
+  White alone: 56.8%
+  Black alone: 38.0%
+  Asian alone: 2.1%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $34,773
+  poverty rate: 26.6%
+  homeownership: 59.3%
+  estimated median home value: $117,361
+  estimated median gross rent: $621
+  unemployment: 8.0%
+  bachelor's degree or higher: 23.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

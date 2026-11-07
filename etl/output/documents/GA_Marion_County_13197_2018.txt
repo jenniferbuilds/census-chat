@@ -1,0 +1,18 @@
+GEOGRAPHY: Marion County, GA
+GEOGRAPHIC CODE: 13197 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,484
+  under 18: 19.4%
+  age 65+: 20.3%
+  White alone: 62.3%
+  Black alone: 30.4%
+  Asian alone: 1.0%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $44,421
+  poverty rate: 21.0%
+  homeownership: 73.8%
+  estimated median home value: $89,537
+  estimated median gross rent: $572
+  unemployment: 10.3%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Bernalillo County, NM
+GEOGRAPHIC CODE: 35001 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 674,777
+  under 18: 22.9%
+  age 65+: 14.2%
+  White alone: 72.3%
+  Black alone: 2.9%
+  Asian alone: 2.4%
+  Hispanic or Latino: 49.1%
+  estimated median household income: $49,120
+  homeownership: 62.4%
+  estimated median home value: $186,534
+  estimated median gross rent: $816
+  unemployment: 7.3%
+  bachelor's degree or higher: 32.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

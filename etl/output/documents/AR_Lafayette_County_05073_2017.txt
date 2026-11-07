@@ -1,0 +1,18 @@
+GEOGRAPHY: Lafayette County, AR
+GEOGRAPHIC CODE: 05073 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,051
+  under 18: 19.8%
+  age 65+: 22.3%
+  White alone: 60.0%
+  Black alone: 37.9%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $32,682
+  poverty rate: 23.8%
+  homeownership: 72.6%
+  estimated median home value: $65,865
+  estimated median gross rent: $406
+  unemployment: 8.3%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

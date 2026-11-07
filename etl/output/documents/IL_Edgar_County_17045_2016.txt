@@ -1,0 +1,17 @@
+GEOGRAPHY: Edgar County, IL
+GEOGRAPHIC CODE: 17045 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,828
+  under 18: 21.5%
+  age 65+: 20.2%
+  White alone: 98.0%
+  Black alone: 0.4%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $46,611
+  homeownership: 74.1%
+  estimated median home value: $79,254
+  estimated median gross rent: $593
+  unemployment: 9.4%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

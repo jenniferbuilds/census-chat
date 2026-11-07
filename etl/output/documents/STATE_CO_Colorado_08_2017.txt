@@ -1,0 +1,18 @@
+GEOGRAPHY: Colorado (CO)
+GEOGRAPHIC CODE: 08 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,436,519
+  under 18: 23.0%
+  age 65+: 13.0%
+  White alone: 84.2%
+  Black alone: 4.1%
+  Asian alone: 3.0%
+  Hispanic or Latino: 21.3%
+  estimated median household income: $65,900
+  poverty rate: 11.5%
+  homeownership: 64.7%
+  estimated median home value: $286,063
+  estimated median gross rent: $1,125
+  unemployment: 5.2%
+  bachelor's degree or higher: 39.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

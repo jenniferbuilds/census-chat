@@ -1,0 +1,18 @@
+GEOGRAPHY: Huron County, OH
+GEOGRAPHIC CODE: 39077 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 58,497
+  under 18: 24.6%
+  age 65+: 15.7%
+  White alone: 94.4%
+  Black alone: 1.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 6.2%
+  estimated median household income: $49,699
+  poverty rate: 14.2%
+  homeownership: 69.9%
+  estimated median home value: $118,836
+  estimated median gross rent: $650
+  unemployment: 5.8%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

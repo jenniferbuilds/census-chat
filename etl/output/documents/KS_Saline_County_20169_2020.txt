@@ -1,0 +1,18 @@
+GEOGRAPHY: Saline County, KS
+GEOGRAPHIC CODE: 20169 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 54,384
+  under 18: 23.3%
+  age 65+: 17.3%
+  White alone: 87.3%
+  Black alone: 2.9%
+  Asian alone: 2.0%
+  Hispanic or Latino: 11.6%
+  estimated median household income: $52,232
+  poverty rate: 11.0%
+  homeownership: 65.3%
+  estimated median home value: $141,267
+  estimated median gross rent: $774
+  unemployment: 4.0%
+  bachelor's degree or higher: 27.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

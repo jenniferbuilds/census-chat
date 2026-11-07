@@ -1,0 +1,18 @@
+GEOGRAPHY: Boundary County, ID
+GEOGRAPHIC CODE: 16021 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,156
+  under 18: 23.3%
+  age 65+: 22.4%
+  White alone: 93.5%
+  Black alone: 0.3%
+  Asian alone: 1.3%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $45,325
+  poverty rate: 20.4%
+  homeownership: 76.3%
+  estimated median home value: $234,990
+  estimated median gross rent: $689
+  unemployment: 2.7%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

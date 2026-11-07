@@ -1,0 +1,17 @@
+GEOGRAPHY: Copiah County, MS
+GEOGRAPHIC CODE: 28029 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,780
+  under 18: 23.9%
+  age 65+: 15.3%
+  White alone: 45.7%
+  Black alone: 51.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $34,732
+  homeownership: 77.3%
+  estimated median home value: $88,845
+  estimated median gross rent: $642
+  unemployment: 14.7%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

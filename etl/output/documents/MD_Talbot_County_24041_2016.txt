@@ -1,0 +1,17 @@
+GEOGRAPHY: Talbot County, MD
+GEOGRAPHIC CODE: 24041 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,668
+  under 18: 18.7%
+  age 65+: 26.4%
+  White alone: 83.0%
+  Black alone: 11.1%
+  Asian alone: 1.4%
+  Hispanic or Latino: 6.1%
+  estimated median household income: $61,078
+  homeownership: 69.5%
+  estimated median home value: $320,490
+  estimated median gross rent: $1,031
+  unemployment: 6.0%
+  bachelor's degree or higher: 35.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

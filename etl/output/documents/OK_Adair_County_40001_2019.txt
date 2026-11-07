@@ -1,0 +1,18 @@
+GEOGRAPHY: Adair County, OK
+GEOGRAPHIC CODE: 40001 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,220
+  under 18: 27.0%
+  age 65+: 15.2%
+  White alone: 42.1%
+  Black alone: 0.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 6.8%
+  estimated median household income: $34,726
+  poverty rate: 27.8%
+  homeownership: 69.3%
+  estimated median home value: $87,572
+  estimated median gross rent: $561
+  unemployment: 4.8%
+  bachelor's degree or higher: 11.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

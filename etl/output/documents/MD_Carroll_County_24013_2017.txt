@@ -1,0 +1,18 @@
+GEOGRAPHY: Carroll County, MD
+GEOGRAPHIC CODE: 24013 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 167,319
+  under 18: 22.3%
+  age 65+: 15.6%
+  White alone: 92.2%
+  Black alone: 3.3%
+  Asian alone: 1.7%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $90,797
+  poverty rate: 5.5%
+  homeownership: 81.8%
+  estimated median home value: $328,095
+  estimated median gross rent: $1,131
+  unemployment: 4.0%
+  bachelor's degree or higher: 34.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Marion County, TX
+GEOGRAPHIC CODE: 48315 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,017
+  under 18: 17.9%
+  age 65+: 25.9%
+  White alone: 72.8%
+  Black alone: 22.9%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $36,553
+  poverty rate: 19.2%
+  homeownership: 77.3%
+  estimated median home value: $96,495
+  estimated median gross rent: $738
+  unemployment: 9.8%
+  bachelor's degree or higher: 14.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

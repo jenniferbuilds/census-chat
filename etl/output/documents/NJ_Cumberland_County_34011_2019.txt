@@ -1,0 +1,18 @@
+GEOGRAPHY: Cumberland County, NJ
+GEOGRAPHIC CODE: 34011 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 151,906
+  under 18: 23.8%
+  age 65+: 14.9%
+  White alone: 68.1%
+  Black alone: 19.5%
+  Asian alone: 1.4%
+  Hispanic or Latino: 30.7%
+  estimated median household income: $55,195
+  poverty rate: 16.5%
+  homeownership: 65.2%
+  estimated median home value: $162,532
+  estimated median gross rent: $1,069
+  unemployment: 7.3%
+  bachelor's degree or higher: 15.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

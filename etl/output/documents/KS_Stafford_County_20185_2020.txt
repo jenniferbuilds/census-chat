@@ -1,0 +1,18 @@
+GEOGRAPHY: Stafford County, KS
+GEOGRAPHIC CODE: 20185 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,125
+  under 18: 24.2%
+  age 65+: 21.0%
+  White alone: 94.5%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 13.3%
+  estimated median household income: $51,688
+  poverty rate: 11.4%
+  homeownership: 79.1%
+  estimated median home value: $73,867
+  estimated median gross rent: $616
+  unemployment: 4.4%
+  bachelor's degree or higher: 27.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

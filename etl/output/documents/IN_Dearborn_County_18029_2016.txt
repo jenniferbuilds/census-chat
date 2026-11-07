@@ -1,0 +1,17 @@
+GEOGRAPHY: Dearborn County, IN
+GEOGRAPHIC CODE: 18029 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,552
+  under 18: 23.2%
+  age 65+: 15.1%
+  White alone: 97.1%
+  Black alone: 0.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $60,801
+  homeownership: 79.0%
+  estimated median home value: $159,803
+  estimated median gross rent: $737
+  unemployment: 7.1%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Loudon County, TN
+GEOGRAPHIC CODE: 47105 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 50,637
+  under 18: 19.9%
+  age 65+: 24.6%
+  White alone: 95.0%
+  Black alone: 1.2%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.9%
+  estimated median household income: $53,131
+  homeownership: 77.0%
+  estimated median home value: $185,946
+  estimated median gross rent: $721
+  unemployment: 7.5%
+  bachelor's degree or higher: 25.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

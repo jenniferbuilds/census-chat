@@ -1,0 +1,18 @@
+GEOGRAPHY: Iron County, MO
+GEOGRAPHIC CODE: 29093 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,286
+  under 18: 20.7%
+  age 65+: 20.7%
+  White alone: 96.0%
+  Black alone: 1.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $37,273
+  poverty rate: 21.2%
+  homeownership: 72.2%
+  estimated median home value: $83,141
+  estimated median gross rent: $542
+  unemployment: 8.6%
+  bachelor's degree or higher: 11.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

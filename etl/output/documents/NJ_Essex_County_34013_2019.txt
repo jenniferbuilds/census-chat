@@ -1,0 +1,18 @@
+GEOGRAPHY: Essex County, NJ
+GEOGRAPHIC CODE: 34013 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 795,404
+  under 18: 23.8%
+  age 65+: 13.4%
+  White alone: 42.9%
+  Black alone: 39.7%
+  Asian alone: 5.3%
+  Hispanic or Latino: 23.0%
+  estimated median household income: $61,738
+  poverty rate: 15.8%
+  homeownership: 44.0%
+  estimated median home value: $386,044
+  estimated median gross rent: $1,178
+  unemployment: 8.1%
+  bachelor's degree or higher: 35.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

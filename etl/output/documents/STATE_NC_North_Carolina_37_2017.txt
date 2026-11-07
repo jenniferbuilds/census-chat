@@ -1,0 +1,18 @@
+GEOGRAPHY: North Carolina (NC)
+GEOGRAPHIC CODE: 37 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,052,564
+  under 18: 22.8%
+  age 65+: 15.1%
+  White alone: 69.0%
+  Black alone: 21.5%
+  Asian alone: 2.7%
+  Hispanic or Latino: 9.1%
+  estimated median household income: $50,384
+  poverty rate: 16.1%
+  homeownership: 65.0%
+  estimated median home value: $160,963
+  estimated median gross rent: $844
+  unemployment: 7.2%
+  bachelor's degree or higher: 29.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

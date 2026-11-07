@@ -1,0 +1,17 @@
+GEOGRAPHY: Jefferson County, OH
+GEOGRAPHIC CODE: 39081 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 67,607
+  under 18: 19.6%
+  age 65+: 19.5%
+  White alone: 91.4%
+  Black alone: 5.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $42,667
+  homeownership: 69.6%
+  estimated median home value: $87,072
+  estimated median gross rent: $612
+  unemployment: 8.3%
+  bachelor's degree or higher: 15.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

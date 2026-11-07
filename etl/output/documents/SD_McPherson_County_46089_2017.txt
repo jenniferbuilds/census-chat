@@ -1,0 +1,18 @@
+GEOGRAPHY: McPherson County, SD
+GEOGRAPHIC CODE: 46089 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,366
+  under 18: 19.5%
+  age 65+: 30.5%
+  White alone: 91.9%
+  Black alone: 0.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $42,717
+  poverty rate: 17.0%
+  homeownership: 79.4%
+  estimated median home value: $54,529
+  estimated median gross rent: $548
+  unemployment: 6.7%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

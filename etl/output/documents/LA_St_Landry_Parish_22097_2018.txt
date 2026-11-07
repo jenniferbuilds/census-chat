@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Landry Parish, LA
+GEOGRAPHIC CODE: 22097 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 83,449
+  under 18: 27.2%
+  age 65+: 15.4%
+  White alone: 56.2%
+  Black alone: 41.1%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $33,634
+  poverty rate: 28.7%
+  homeownership: 69.7%
+  estimated median home value: $104,164
+  estimated median gross rent: $620
+  unemployment: 6.2%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

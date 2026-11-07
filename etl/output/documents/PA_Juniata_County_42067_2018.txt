@@ -1,0 +1,18 @@
+GEOGRAPHY: Juniata County, PA
+GEOGRAPHIC CODE: 42067 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,562
+  under 18: 22.7%
+  age 65+: 19.4%
+  White alone: 96.7%
+  Black alone: 1.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $53,176
+  poverty rate: 11.9%
+  homeownership: 76.1%
+  estimated median home value: $145,282
+  estimated median gross rent: $663
+  unemployment: 3.9%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

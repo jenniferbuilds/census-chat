@@ -1,0 +1,18 @@
+GEOGRAPHY: Rusk County, TX
+GEOGRAPHIC CODE: 48401 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 53,026
+  under 18: 23.2%
+  age 65+: 15.9%
+  White alone: 79.1%
+  Black alone: 17.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 16.1%
+  estimated median household income: $49,270
+  poverty rate: 15.8%
+  homeownership: 76.1%
+  estimated median home value: $111,227
+  estimated median gross rent: $730
+  unemployment: 5.7%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

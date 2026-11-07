@@ -1,0 +1,18 @@
+GEOGRAPHY: Buena Vista city, VA
+GEOGRAPHIC CODE: 51530 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,399
+  under 18: 18.8%
+  age 65+: 18.4%
+  White alone: 88.7%
+  Black alone: 6.0%
+  Asian alone: 4.3%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $34,468
+  poverty rate: 20.1%
+  homeownership: 66.7%
+  estimated median home value: $122,059
+  estimated median gross rent: $739
+  unemployment: 2.4%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

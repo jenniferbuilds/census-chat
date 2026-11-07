@@ -1,0 +1,18 @@
+GEOGRAPHY: Douglas County, GA
+GEOGRAPHIC CODE: 13097 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 143,316
+  under 18: 26.1%
+  age 65+: 11.4%
+  White alone: 46.2%
+  Black alone: 46.9%
+  Asian alone: 1.6%
+  Hispanic or Latino: 9.7%
+  estimated median household income: $64,311
+  poverty rate: 12.8%
+  homeownership: 64.3%
+  estimated median home value: $161,559
+  estimated median gross rent: $1,087
+  unemployment: 6.6%
+  bachelor's degree or higher: 28.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

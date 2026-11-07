@@ -1,0 +1,17 @@
+GEOGRAPHY: Volusia County, FL
+GEOGRAPHIC CODE: 12127 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 510,806
+  under 18: 18.0%
+  age 65+: 23.2%
+  White alone: 83.4%
+  Black alone: 10.6%
+  Asian alone: 1.7%
+  Hispanic or Latino: 12.3%
+  estimated median household income: $42,439
+  homeownership: 69.6%
+  estimated median home value: $139,013
+  estimated median gross rent: $931
+  unemployment: 7.8%
+  bachelor's degree or higher: 22.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

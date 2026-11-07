@@ -1,0 +1,18 @@
+GEOGRAPHY: Northampton County, PA
+GEOGRAPHIC CODE: 42095 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 301,778
+  under 18: 20.2%
+  age 65+: 18.2%
+  White alone: 86.1%
+  Black alone: 5.5%
+  Asian alone: 2.7%
+  Hispanic or Latino: 12.8%
+  estimated median household income: $67,720
+  poverty rate: 9.1%
+  homeownership: 71.7%
+  estimated median home value: $214,199
+  estimated median gross rent: $1,046
+  unemployment: 5.3%
+  bachelor's degree or higher: 29.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Barbour County, WV
+GEOGRAPHIC CODE: 54001 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,790
+  under 18: 20.1%
+  age 65+: 18.6%
+  White alone: 96.6%
+  Black alone: 0.9%
+  Asian alone: 0.7%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $37,339
+  poverty rate: 22.5%
+  homeownership: 71.6%
+  estimated median home value: $101,190
+  estimated median gross rent: $553
+  unemployment: 8.9%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

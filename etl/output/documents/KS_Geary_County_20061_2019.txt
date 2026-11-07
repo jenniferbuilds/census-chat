@@ -1,0 +1,18 @@
+GEOGRAPHY: Geary County, KS
+GEOGRAPHIC CODE: 20061 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,025
+  under 18: 30.9%
+  age 65+: 8.1%
+  White alone: 67.8%
+  Black alone: 18.7%
+  Asian alone: 3.0%
+  Hispanic or Latino: 16.2%
+  estimated median household income: $52,590
+  poverty rate: 13.0%
+  homeownership: 37.9%
+  estimated median home value: $148,759
+  estimated median gross rent: $1,057
+  unemployment: 4.5%
+  bachelor's degree or higher: 23.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

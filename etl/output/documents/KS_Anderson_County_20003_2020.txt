@@ -1,0 +1,18 @@
+GEOGRAPHY: Anderson County, KS
+GEOGRAPHIC CODE: 20003 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,877
+  under 18: 25.7%
+  age 65+: 21.1%
+  White alone: 96.3%
+  Black alone: 0.6%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $54,622
+  poverty rate: 14.4%
+  homeownership: 72.4%
+  estimated median home value: $100,276
+  estimated median gross rent: $686
+  unemployment: 4.8%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

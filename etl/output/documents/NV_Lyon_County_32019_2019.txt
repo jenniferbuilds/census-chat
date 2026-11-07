@@ -1,0 +1,18 @@
+GEOGRAPHY: Lyon County, NV
+GEOGRAPHIC CODE: 32019 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 54,380
+  under 18: 21.6%
+  age 65+: 20.9%
+  White alone: 85.1%
+  Black alone: 0.8%
+  Asian alone: 1.3%
+  Hispanic or Latino: 17.1%
+  estimated median household income: $57,126
+  poverty rate: 11.6%
+  homeownership: 70.7%
+  estimated median home value: $214,916
+  estimated median gross rent: $1,033
+  unemployment: 7.4%
+  bachelor's degree or higher: 14.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

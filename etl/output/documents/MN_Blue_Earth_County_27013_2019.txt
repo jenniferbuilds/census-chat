@@ -1,0 +1,18 @@
+GEOGRAPHY: Blue Earth County, MN
+GEOGRAPHIC CODE: 27013 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 66,795
+  under 18: 19.8%
+  age 65+: 13.4%
+  White alone: 90.7%
+  Black alone: 3.9%
+  Asian alone: 2.2%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $57,748
+  poverty rate: 17.6%
+  homeownership: 62.0%
+  estimated median home value: $184,819
+  estimated median gross rent: $883
+  unemployment: 3.8%
+  bachelor's degree or higher: 34.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

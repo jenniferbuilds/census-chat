@@ -1,0 +1,18 @@
+GEOGRAPHY: Newberry County, SC
+GEOGRAPHIC CODE: 45071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,194
+  under 18: 21.8%
+  age 65+: 19.2%
+  White alone: 63.2%
+  Black alone: 31.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $44,328
+  poverty rate: 17.6%
+  homeownership: 73.3%
+  estimated median home value: $116,346
+  estimated median gross rent: $765
+  unemployment: 6.3%
+  bachelor's degree or higher: 17.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

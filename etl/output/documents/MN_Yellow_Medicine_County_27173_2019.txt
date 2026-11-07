@@ -1,0 +1,18 @@
+GEOGRAPHY: Yellow Medicine County, MN
+GEOGRAPHIC CODE: 27173 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,814
+  under 18: 23.0%
+  age 65+: 20.2%
+  White alone: 92.6%
+  Black alone: 0.7%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $59,316
+  poverty rate: 11.8%
+  homeownership: 79.4%
+  estimated median home value: $110,046
+  estimated median gross rent: $584
+  unemployment: 2.4%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Leon County, FL
+GEOGRAPHIC CODE: 12073 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 289,770
+  under 18: 18.7%
+  age 65+: 12.9%
+  White alone: 61.4%
+  Black alone: 30.9%
+  Asian alone: 3.5%
+  Hispanic or Latino: 6.4%
+  estimated median household income: $53,549
+  poverty rate: 20.5%
+  homeownership: 53.0%
+  estimated median home value: $203,120
+  estimated median gross rent: $1,024
+  unemployment: 7.2%
+  bachelor's degree or higher: 46.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

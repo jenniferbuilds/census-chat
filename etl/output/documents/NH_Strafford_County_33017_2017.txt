@@ -1,0 +1,18 @@
+GEOGRAPHY: Strafford County, NH
+GEOGRAPHIC CODE: 33017 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 126,552
+  under 18: 19.3%
+  age 65+: 13.9%
+  White alone: 93.1%
+  Black alone: 0.9%
+  Asian alone: 3.3%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $67,630
+  poverty rate: 9.5%
+  homeownership: 65.6%
+  estimated median home value: $220,884
+  estimated median gross rent: $1,018
+  unemployment: 4.4%
+  bachelor's degree or higher: 35.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Lafourche Parish, LA
+GEOGRAPHIC CODE: 22057 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 97,688
+  under 18: 23.6%
+  age 65+: 13.7%
+  White alone: 79.5%
+  Black alone: 13.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.3%
+  estimated median household income: $52,297
+  homeownership: 75.2%
+  estimated median home value: $138,211
+  estimated median gross rent: $737
+  unemployment: 7.3%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

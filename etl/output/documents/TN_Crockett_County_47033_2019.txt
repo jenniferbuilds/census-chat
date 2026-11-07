@@ -1,0 +1,18 @@
+GEOGRAPHY: Crockett County, TN
+GEOGRAPHIC CODE: 47033 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,399
+  under 18: 23.9%
+  age 65+: 18.6%
+  White alone: 79.5%
+  Black alone: 13.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 10.6%
+  estimated median household income: $44,705
+  poverty rate: 17.8%
+  homeownership: 71.6%
+  estimated median home value: $99,558
+  estimated median gross rent: $728
+  unemployment: 4.9%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

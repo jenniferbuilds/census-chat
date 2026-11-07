@@ -1,0 +1,18 @@
+GEOGRAPHY: Caldwell County, TX
+GEOGRAPHIC CODE: 48055 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 40,544
+  under 18: 24.1%
+  age 65+: 13.2%
+  White alone: 77.8%
+  Black alone: 6.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 50.7%
+  estimated median household income: $51,624
+  poverty rate: 17.7%
+  homeownership: 67.3%
+  estimated median home value: $124,311
+  estimated median gross rent: $813
+  unemployment: 3.4%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

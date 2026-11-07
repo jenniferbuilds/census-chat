@@ -1,0 +1,18 @@
+GEOGRAPHY: Morgan County, IN
+GEOGRAPHIC CODE: 18109 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 69,533
+  under 18: 23.4%
+  age 65+: 15.4%
+  White alone: 97.4%
+  Black alone: 0.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $60,489
+  poverty rate: 11.8%
+  homeownership: 76.6%
+  estimated median home value: $147,210
+  estimated median gross rent: $784
+  unemployment: 5.7%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

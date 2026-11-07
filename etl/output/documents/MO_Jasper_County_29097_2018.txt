@@ -1,0 +1,18 @@
+GEOGRAPHY: Jasper County, MO
+GEOGRAPHIC CODE: 29097 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 119,238
+  under 18: 25.2%
+  age 65+: 14.8%
+  White alone: 90.4%
+  Black alone: 2.0%
+  Asian alone: 1.1%
+  Hispanic or Latino: 7.9%
+  estimated median household income: $46,885
+  poverty rate: 17.4%
+  homeownership: 64.8%
+  estimated median home value: $115,931
+  estimated median gross rent: $773
+  unemployment: 5.3%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

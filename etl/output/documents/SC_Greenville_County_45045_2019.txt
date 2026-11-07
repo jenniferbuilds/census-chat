@@ -1,0 +1,18 @@
+GEOGRAPHY: Greenville County, SC
+GEOGRAPHIC CODE: 45045 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 507,003
+  under 18: 23.2%
+  age 65+: 15.4%
+  White alone: 73.5%
+  Black alone: 17.7%
+  Asian alone: 2.5%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $60,377
+  poverty rate: 11.5%
+  homeownership: 67.5%
+  estimated median home value: $183,848
+  estimated median gross rent: $918
+  unemployment: 4.3%
+  bachelor's degree or higher: 35.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

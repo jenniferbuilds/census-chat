@@ -1,0 +1,18 @@
+GEOGRAPHY: Waller County, TX
+GEOGRAPHIC CODE: 48473 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,987
+  under 18: 24.4%
+  age 65+: 11.5%
+  White alone: 60.8%
+  Black alone: 24.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 29.8%
+  estimated median household income: $58,468
+  poverty rate: 16.9%
+  homeownership: 67.6%
+  estimated median home value: $174,863
+  estimated median gross rent: $913
+  unemployment: 6.1%
+  bachelor's degree or higher: 19.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Fall River County, SD
+GEOGRAPHIC CODE: 46047 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,783
+  under 18: 18.0%
+  age 65+: 25.6%
+  White alone: 86.8%
+  Black alone: 0.7%
+  Asian alone: 1.6%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $48,650
+  poverty rate: 15.0%
+  homeownership: 72.7%
+  estimated median home value: $116,698
+  estimated median gross rent: $615
+  unemployment: 2.6%
+  bachelor's degree or higher: 23.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

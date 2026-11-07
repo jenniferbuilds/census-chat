@@ -1,0 +1,18 @@
+GEOGRAPHY: Clark County, NV
+GEOGRAPHIC CODE: 32003 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,141,574
+  under 18: 23.6%
+  age 65+: 14.1%
+  White alone: 60.7%
+  Black alone: 11.5%
+  Asian alone: 9.6%
+  Hispanic or Latino: 30.9%
+  estimated median household income: $57,036
+  poverty rate: 14.1%
+  homeownership: 53.1%
+  estimated median home value: $238,335
+  estimated median gross rent: $1,088
+  unemployment: 7.2%
+  bachelor's degree or higher: 23.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

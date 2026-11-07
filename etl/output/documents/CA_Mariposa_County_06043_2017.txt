@@ -1,0 +1,18 @@
+GEOGRAPHY: Mariposa County, CA
+GEOGRAPHIC CODE: 06043 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,658
+  under 18: 16.4%
+  age 65+: 26.0%
+  White alone: 89.0%
+  Black alone: 1.2%
+  Asian alone: 1.0%
+  Hispanic or Latino: 10.6%
+  estimated median household income: $51,073
+  poverty rate: 15.1%
+  homeownership: 70.7%
+  estimated median home value: $259,487
+  estimated median gross rent: $869
+  unemployment: 10.0%
+  bachelor's degree or higher: 24.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Kent County, DE
+GEOGRAPHIC CODE: 10001 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 176,699
+  under 18: 23.1%
+  age 65+: 16.6%
+  White alone: 66.2%
+  Black alone: 25.7%
+  Asian alone: 2.0%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $60,979
+  poverty rate: 13.5%
+  homeownership: 69.1%
+  estimated median home value: $220,645
+  estimated median gross rent: $1,084
+  unemployment: 5.4%
+  bachelor's degree or higher: 23.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

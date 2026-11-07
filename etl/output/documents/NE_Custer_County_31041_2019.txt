@@ -1,0 +1,18 @@
+GEOGRAPHY: Custer County, NE
+GEOGRAPHIC CODE: 31041 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,826
+  under 18: 23.6%
+  age 65+: 21.9%
+  White alone: 96.7%
+  Black alone: 0.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $51,633
+  poverty rate: 11.5%
+  homeownership: 69.6%
+  estimated median home value: $108,067
+  estimated median gross rent: $666
+  unemployment: 2.6%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

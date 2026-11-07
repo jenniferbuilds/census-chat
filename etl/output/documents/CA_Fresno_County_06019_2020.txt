@@ -1,0 +1,18 @@
+GEOGRAPHY: Fresno County, CA
+GEOGRAPHIC CODE: 06019 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 990,204
+  under 18: 28.4%
+  age 65+: 12.2%
+  White alone: 60.3%
+  Black alone: 4.7%
+  Asian alone: 10.6%
+  Hispanic or Latino: 53.4%
+  estimated median household income: $57,599
+  poverty rate: 20.8%
+  homeownership: 53.7%
+  estimated median home value: $270,996
+  estimated median gross rent: $1,029
+  unemployment: 8.9%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

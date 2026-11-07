@@ -1,0 +1,17 @@
+GEOGRAPHY: Wayne County, GA
+GEOGRAPHIC CODE: 13305 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,006
+  under 18: 24.8%
+  age 65+: 14.5%
+  White alone: 74.7%
+  Black alone: 20.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 6.1%
+  estimated median household income: $39,923
+  homeownership: 65.4%
+  estimated median home value: $98,592
+  estimated median gross rent: $599
+  unemployment: 12.8%
+  bachelor's degree or higher: 13.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

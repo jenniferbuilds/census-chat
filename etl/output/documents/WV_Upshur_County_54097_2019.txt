@@ -1,0 +1,18 @@
+GEOGRAPHY: Upshur County, WV
+GEOGRAPHIC CODE: 54097 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,502
+  under 18: 20.6%
+  age 65+: 19.8%
+  White alone: 96.9%
+  Black alone: 2.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $40,348
+  poverty rate: 20.6%
+  homeownership: 73.7%
+  estimated median home value: $119,035
+  estimated median gross rent: $699
+  unemployment: 7.1%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

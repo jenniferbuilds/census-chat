@@ -1,0 +1,18 @@
+GEOGRAPHY: Culberson County, TX
+GEOGRAPHIC CODE: 48109 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,241
+  under 18: 23.9%
+  age 65+: 19.1%
+  White alone: 81.8%
+  Black alone: 0.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 73.4%
+  estimated median household income: $33,021
+  poverty rate: 31.4%
+  homeownership: 67.5%
+  estimated median home value: $56,875
+  estimated median gross rent: $566
+  unemployment: 6.5%
+  bachelor's degree or higher: 9.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Maverick County, TX
+GEOGRAPHIC CODE: 48323 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 57,970
+  under 18: 31.8%
+  age 65+: 11.4%
+  White alone: 92.7%
+  Black alone: 0.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 95.2%
+  estimated median household income: $37,627
+  poverty rate: 26.8%
+  homeownership: 66.0%
+  estimated median home value: $94,820
+  estimated median gross rent: $665
+  unemployment: 11.6%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

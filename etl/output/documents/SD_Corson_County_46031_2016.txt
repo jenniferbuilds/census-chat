@@ -1,0 +1,17 @@
+GEOGRAPHY: Corson County, SD
+GEOGRAPHIC CODE: 46031 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,170
+  under 18: 34.6%
+  age 65+: 10.8%
+  White alone: 29.9%
+  Black alone: 0.4%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.7%
+  estimated median household income: $32,115
+  homeownership: 49.8%
+  estimated median home value: $56,029
+  estimated median gross rent: $414
+  unemployment: 29.9%
+  bachelor's degree or higher: 16.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

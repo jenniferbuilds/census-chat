@@ -1,0 +1,18 @@
+GEOGRAPHY: Montgomery County, NY
+GEOGRAPHIC CODE: 36057 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,294
+  under 18: 22.9%
+  age 65+: 18.6%
+  White alone: 86.5%
+  Black alone: 2.8%
+  Asian alone: 0.7%
+  Hispanic or Latino: 14.7%
+  estimated median household income: $50,182
+  poverty rate: 17.8%
+  homeownership: 67.5%
+  estimated median home value: $110,703
+  estimated median gross rent: $759
+  unemployment: 6.0%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

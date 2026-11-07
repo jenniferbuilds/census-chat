@@ -1,0 +1,17 @@
+GEOGRAPHY: Sarasota County, FL
+GEOGRAPHIC CODE: 12115 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 398,011
+  under 18: 14.9%
+  age 65+: 34.0%
+  White alone: 91.2%
+  Black alone: 4.5%
+  Asian alone: 1.5%
+  Hispanic or Latino: 8.6%
+  estimated median household income: $53,402
+  homeownership: 73.2%
+  estimated median home value: $196,808
+  estimated median gross rent: $1,064
+  unemployment: 7.1%
+  bachelor's degree or higher: 33.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

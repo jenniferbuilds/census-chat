@@ -1,0 +1,18 @@
+GEOGRAPHY: Kent County, MI
+GEOGRAPHIC CODE: 26081 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 643,140
+  under 18: 24.7%
+  age 65+: 12.9%
+  White alone: 79.8%
+  Black alone: 9.7%
+  Asian alone: 3.0%
+  Hispanic or Latino: 10.4%
+  estimated median household income: $60,373
+  poverty rate: 12.6%
+  homeownership: 69.1%
+  estimated median home value: $163,503
+  estimated median gross rent: $871
+  unemployment: 4.8%
+  bachelor's degree or higher: 35.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

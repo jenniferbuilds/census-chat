@@ -1,0 +1,17 @@
+GEOGRAPHY: Alaska (AK)
+GEOGRAPHIC CODE: 02 | LEVEL: State | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 736,855
+  under 18: 25.5%
+  age 65+: 9.4%
+  White alone: 65.6%
+  Black alone: 3.3%
+  Asian alone: 6.0%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $74,426
+  homeownership: 63.7%
+  estimated median home value: $257,100
+  estimated median gross rent: $1,173
+  unemployment: 7.8%
+  bachelor's degree or higher: 28.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

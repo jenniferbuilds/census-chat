@@ -1,0 +1,18 @@
+GEOGRAPHY: Adair County, IA
+GEOGRAPHIC CODE: 19001 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,192
+  under 18: 21.5%
+  age 65+: 21.9%
+  White alone: 98.0%
+  Black alone: 0.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $49,492
+  poverty rate: 9.5%
+  homeownership: 76.6%
+  estimated median home value: $93,152
+  estimated median gross rent: $549
+  unemployment: 3.0%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

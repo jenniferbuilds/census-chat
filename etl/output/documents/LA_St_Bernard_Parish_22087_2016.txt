@@ -1,0 +1,17 @@
+GEOGRAPHY: St. Bernard Parish, LA
+GEOGRAPHIC CODE: 22087 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,091
+  under 18: 26.9%
+  age 65+: 9.9%
+  White alone: 71.2%
+  Black alone: 22.0%
+  Asian alone: 2.3%
+  Hispanic or Latino: 9.7%
+  estimated median household income: $43,775
+  homeownership: 67.1%
+  estimated median home value: $133,409
+  estimated median gross rent: $855
+  unemployment: 11.1%
+  bachelor's degree or higher: 13.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

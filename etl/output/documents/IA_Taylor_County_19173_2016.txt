@@ -1,0 +1,17 @@
+GEOGRAPHY: Taylor County, IA
+GEOGRAPHIC CODE: 19173 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,209
+  under 18: 23.4%
+  age 65+: 20.8%
+  White alone: 96.0%
+  Black alone: 0.2%
+  Asian alone: 0.7%
+  Hispanic or Latino: 7.4%
+  estimated median household income: $46,588
+  homeownership: 73.4%
+  estimated median home value: $74,816
+  estimated median gross rent: $594
+  unemployment: 3.3%
+  bachelor's degree or higher: 13.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

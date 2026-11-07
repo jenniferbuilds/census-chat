@@ -1,0 +1,18 @@
+GEOGRAPHY: Morgan County, IL
+GEOGRAPHIC CODE: 17137 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,442
+  under 18: 19.7%
+  age 65+: 18.9%
+  White alone: 90.8%
+  Black alone: 6.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $49,316
+  poverty rate: 14.9%
+  homeownership: 68.9%
+  estimated median home value: $103,383
+  estimated median gross rent: $680
+  unemployment: 6.1%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

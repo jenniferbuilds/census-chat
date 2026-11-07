@@ -1,0 +1,17 @@
+GEOGRAPHY: Oktibbeha County, MS
+GEOGRAPHIC CODE: 28105 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,424
+  under 18: 17.6%
+  age 65+: 10.1%
+  White alone: 58.0%
+  Black alone: 37.0%
+  Asian alone: 3.0%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $34,151
+  homeownership: 52.1%
+  estimated median home value: $148,935
+  estimated median gross rent: $732
+  unemployment: 11.0%
+  bachelor's degree or higher: 42.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

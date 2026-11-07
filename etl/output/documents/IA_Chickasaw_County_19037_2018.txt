@@ -1,0 +1,18 @@
+GEOGRAPHY: Chickasaw County, IA
+GEOGRAPHIC CODE: 19037 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,099
+  under 18: 23.1%
+  age 65+: 19.8%
+  White alone: 98.0%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $56,283
+  poverty rate: 7.4%
+  homeownership: 80.2%
+  estimated median home value: $111,989
+  estimated median gross rent: $565
+  unemployment: 1.9%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

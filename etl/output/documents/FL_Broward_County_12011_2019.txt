@@ -1,0 +1,18 @@
+GEOGRAPHY: Broward County, FL
+GEOGRAPHIC CODE: 12011 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,926,205
+  under 18: 21.3%
+  age 65+: 16.3%
+  White alone: 60.7%
+  Black alone: 28.6%
+  Asian alone: 3.6%
+  Hispanic or Latino: 29.8%
+  estimated median household income: $59,614
+  poverty rate: 13.1%
+  homeownership: 62.1%
+  estimated median home value: $264,988
+  estimated median gross rent: $1,392
+  unemployment: 6.1%
+  bachelor's degree or higher: 32.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Allegany County, MD
+GEOGRAPHIC CODE: 24001 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 71,977
+  under 18: 17.5%
+  age 65+: 19.6%
+  White alone: 88.2%
+  Black alone: 8.4%
+  Asian alone: 0.9%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $44,136
+  poverty rate: 16.4%
+  homeownership: 68.6%
+  estimated median home value: $119,186
+  estimated median gross rent: $694
+  unemployment: 8.5%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

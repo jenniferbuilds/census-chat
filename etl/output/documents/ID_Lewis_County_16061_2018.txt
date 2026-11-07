@@ -1,0 +1,18 @@
+GEOGRAPHY: Lewis County, ID
+GEOGRAPHIC CODE: 16061 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,845
+  under 18: 23.1%
+  age 65+: 24.3%
+  White alone: 87.2%
+  Black alone: 0.2%
+  Asian alone: 1.4%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $41,535
+  poverty rate: 14.2%
+  homeownership: 71.5%
+  estimated median home value: $122,990
+  estimated median gross rent: $602
+  unemployment: 5.8%
+  bachelor's degree or higher: 17.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

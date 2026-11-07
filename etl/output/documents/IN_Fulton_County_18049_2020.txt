@@ -1,0 +1,18 @@
+GEOGRAPHY: Fulton County, IN
+GEOGRAPHIC CODE: 18049 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,069
+  under 18: 23.7%
+  age 65+: 19.7%
+  White alone: 93.6%
+  Black alone: 0.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 5.3%
+  estimated median household income: $50,824
+  poverty rate: 14.5%
+  homeownership: 76.2%
+  estimated median home value: $109,180
+  estimated median gross rent: $691
+  unemployment: 6.9%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

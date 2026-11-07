@@ -1,0 +1,18 @@
+GEOGRAPHY: Cumberland County, IL
+GEOGRAPHIC CODE: 17035 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,836
+  under 18: 22.9%
+  age 65+: 19.3%
+  White alone: 97.3%
+  Black alone: 0.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $57,492
+  poverty rate: 13.9%
+  homeownership: 78.7%
+  estimated median home value: $105,765
+  estimated median gross rent: $582
+  unemployment: 3.0%
+  bachelor's degree or higher: 15.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

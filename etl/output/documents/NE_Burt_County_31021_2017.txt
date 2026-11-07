@@ -1,0 +1,18 @@
+GEOGRAPHY: Burt County, NE
+GEOGRAPHIC CODE: 31021 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,546
+  under 18: 22.4%
+  age 65+: 23.8%
+  White alone: 95.4%
+  Black alone: 0.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $50,185
+  poverty rate: 12.3%
+  homeownership: 75.8%
+  estimated median home value: $91,622
+  estimated median gross rent: $613
+  unemployment: 3.5%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

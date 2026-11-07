@@ -1,0 +1,18 @@
+GEOGRAPHY: Salinas Municipio, PR
+GEOGRAPHIC CODE: 72123 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,633
+  under 18: 22.7%
+  age 65+: 18.0%
+  White alone: 57.1%
+  Black alone: 33.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 99.5%
+  estimated median household income: $16,899
+  poverty rate: 53.8%
+  homeownership: 80.2%
+  estimated median home value: $85,657
+  estimated median gross rent: $429
+  unemployment: 8.5%
+  bachelor's degree or higher: 17.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Pope County, AR
+GEOGRAPHIC CODE: 05115 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,644
+  under 18: 22.9%
+  age 65+: 15.1%
+  White alone: 91.2%
+  Black alone: 3.0%
+  Asian alone: 1.0%
+  Hispanic or Latino: 8.7%
+  estimated median household income: $41,973
+  poverty rate: 18.5%
+  homeownership: 68.4%
+  estimated median home value: $124,993
+  estimated median gross rent: $664
+  unemployment: 6.2%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

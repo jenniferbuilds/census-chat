@@ -1,0 +1,18 @@
+GEOGRAPHY: Osage County, KS
+GEOGRAPHIC CODE: 20139 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,882
+  under 18: 23.5%
+  age 65+: 19.1%
+  White alone: 96.0%
+  Black alone: 0.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $53,911
+  poverty rate: 12.7%
+  homeownership: 74.4%
+  estimated median home value: $110,664
+  estimated median gross rent: $674
+  unemployment: 5.3%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

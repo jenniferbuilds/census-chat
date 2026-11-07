@@ -1,0 +1,18 @@
+GEOGRAPHY: Westchester County, NY
+GEOGRAPHIC CODE: 36119 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 975,321
+  under 18: 22.6%
+  age 65+: 16.0%
+  White alone: 65.4%
+  Black alone: 14.6%
+  Asian alone: 5.9%
+  Hispanic or Latino: 24.0%
+  estimated median household income: $90,983
+  poverty rate: 9.4%
+  homeownership: 61.5%
+  estimated median home value: $513,342
+  estimated median gross rent: $1,444
+  unemployment: 6.5%
+  bachelor's degree or higher: 47.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

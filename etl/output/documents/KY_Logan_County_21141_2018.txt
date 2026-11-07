@@ -1,0 +1,18 @@
+GEOGRAPHY: Logan County, KY
+GEOGRAPHIC CODE: 21141 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,849
+  under 18: 23.9%
+  age 65+: 17.8%
+  White alone: 90.7%
+  Black alone: 6.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $44,153
+  poverty rate: 17.3%
+  homeownership: 67.8%
+  estimated median home value: $108,858
+  estimated median gross rent: $656
+  unemployment: 5.6%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Potter County, TX
+GEOGRAPHIC CODE: 48375 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 121,883
+  under 18: 27.6%
+  age 65+: 11.6%
+  White alone: 78.3%
+  Black alone: 9.5%
+  Asian alone: 5.0%
+  Hispanic or Latino: 37.2%
+  estimated median household income: $40,385
+  homeownership: 57.2%
+  estimated median home value: $88,674
+  estimated median gross rent: $720
+  unemployment: 4.6%
+  bachelor's degree or higher: 14.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Putnam County, OH
+GEOGRAPHIC CODE: 39137 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,037
+  under 18: 25.4%
+  age 65+: 16.0%
+  White alone: 94.7%
+  Black alone: 0.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $61,496
+  poverty rate: 7.2%
+  homeownership: 80.3%
+  estimated median home value: $147,237
+  estimated median gross rent: $677
+  unemployment: 2.9%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

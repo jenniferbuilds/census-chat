@@ -1,0 +1,17 @@
+GEOGRAPHY: Forest County, PA
+GEOGRAPHIC CODE: 42053 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,493
+  under 18: 3.9%
+  age 65+: 21.5%
+  White alone: 62.1%
+  Black alone: 31.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $36,594
+  homeownership: 84.7%
+  estimated median home value: $85,556
+  estimated median gross rent: $538
+  unemployment: 4.5%
+  bachelor's degree or higher: 8.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

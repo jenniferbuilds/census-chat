@@ -1,0 +1,18 @@
+GEOGRAPHY: Ripley County, MO
+GEOGRAPHIC CODE: 29181 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,567
+  under 18: 23.0%
+  age 65+: 20.6%
+  White alone: 96.5%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $34,979
+  poverty rate: 25.4%
+  homeownership: 79.0%
+  estimated median home value: $83,824
+  estimated median gross rent: $574
+  unemployment: 5.8%
+  bachelor's degree or higher: 10.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

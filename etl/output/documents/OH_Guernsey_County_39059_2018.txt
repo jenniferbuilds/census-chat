@@ -1,0 +1,18 @@
+GEOGRAPHY: Guernsey County, OH
+GEOGRAPHIC CODE: 39059 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,274
+  under 18: 22.3%
+  age 65+: 18.7%
+  White alone: 95.2%
+  Black alone: 1.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $44,073
+  poverty rate: 20.2%
+  homeownership: 71.2%
+  estimated median home value: $106,561
+  estimated median gross rent: $670
+  unemployment: 7.0%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

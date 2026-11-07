@@ -1,0 +1,18 @@
+GEOGRAPHY: Missoula County, MT
+GEOGRAPHIC CODE: 30063 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 117,309
+  under 18: 19.0%
+  age 65+: 15.0%
+  White alone: 91.6%
+  Black alone: 0.6%
+  Asian alone: 1.9%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $53,710
+  poverty rate: 14.3%
+  homeownership: 58.9%
+  estimated median home value: $284,030
+  estimated median gross rent: $863
+  unemployment: 4.4%
+  bachelor's degree or higher: 43.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

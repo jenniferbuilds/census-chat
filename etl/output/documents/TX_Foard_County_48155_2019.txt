@@ -1,0 +1,18 @@
+GEOGRAPHY: Foard County, TX
+GEOGRAPHIC CODE: 48155 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,275
+  under 18: 18.1%
+  age 65+: 27.1%
+  White alone: 82.2%
+  Black alone: 2.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 22.3%
+  estimated median household income: $43,443
+  poverty rate: 10.4%
+  homeownership: 83.1%
+  estimated median home value: $46,370
+  estimated median gross rent: $491
+  unemployment: 9.2%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

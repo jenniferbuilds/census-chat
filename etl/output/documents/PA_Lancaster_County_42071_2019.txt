@@ -1,0 +1,18 @@
+GEOGRAPHY: Lancaster County, PA
+GEOGRAPHIC CODE: 42071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 540,999
+  under 18: 23.7%
+  age 65+: 17.5%
+  White alone: 88.5%
+  Black alone: 4.2%
+  Asian alone: 2.2%
+  Hispanic or Latino: 10.5%
+  estimated median household income: $66,531
+  poverty rate: 10.1%
+  homeownership: 68.1%
+  estimated median home value: $209,381
+  estimated median gross rent: $1,009
+  unemployment: 3.7%
+  bachelor's degree or higher: 27.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

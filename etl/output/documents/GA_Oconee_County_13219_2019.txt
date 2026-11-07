@@ -1,0 +1,18 @@
+GEOGRAPHY: Oconee County, GA
+GEOGRAPHIC CODE: 13219 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,132
+  under 18: 26.6%
+  age 65+: 15.0%
+  White alone: 88.4%
+  Black alone: 5.2%
+  Asian alone: 3.7%
+  Hispanic or Latino: 5.3%
+  estimated median household income: $91,971
+  poverty rate: 6.2%
+  homeownership: 82.9%
+  estimated median home value: $286,585
+  estimated median gross rent: $1,001
+  unemployment: 3.0%
+  bachelor's degree or higher: 52.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

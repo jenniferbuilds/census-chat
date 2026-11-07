@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbia County, PA
+GEOGRAPHIC CODE: 42037 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 65,715
+  under 18: 17.7%
+  age 65+: 18.9%
+  White alone: 95.1%
+  Black alone: 1.8%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $50,631
+  poverty rate: 15.0%
+  homeownership: 69.2%
+  estimated median home value: $151,748
+  estimated median gross rent: $758
+  unemployment: 4.6%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

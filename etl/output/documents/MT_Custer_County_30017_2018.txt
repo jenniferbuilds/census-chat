@@ -1,0 +1,18 @@
+GEOGRAPHY: Custer County, MT
+GEOGRAPHIC CODE: 30017 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,845
+  under 18: 21.9%
+  age 65+: 18.7%
+  White alone: 93.9%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $55,650
+  poverty rate: 9.8%
+  homeownership: 68.7%
+  estimated median home value: $160,685
+  estimated median gross rent: $740
+  unemployment: 2.0%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

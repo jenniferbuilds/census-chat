@@ -1,0 +1,18 @@
+GEOGRAPHY: Johnson County, AR
+GEOGRAPHIC CODE: 05071 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,372
+  under 18: 24.2%
+  age 65+: 16.2%
+  White alone: 91.2%
+  Black alone: 1.6%
+  Asian alone: 2.1%
+  Hispanic or Latino: 13.9%
+  estimated median household income: $38,615
+  poverty rate: 22.7%
+  homeownership: 70.4%
+  estimated median home value: $103,453
+  estimated median gross rent: $620
+  unemployment: 3.8%
+  bachelor's degree or higher: 15.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

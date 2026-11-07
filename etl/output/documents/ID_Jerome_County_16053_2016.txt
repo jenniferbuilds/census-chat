@@ -1,0 +1,17 @@
+GEOGRAPHY: Jerome County, ID
+GEOGRAPHIC CODE: 16053 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,694
+  under 18: 31.0%
+  age 65+: 12.5%
+  White alone: 91.7%
+  Black alone: 0.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 33.6%
+  estimated median household income: $44,319
+  homeownership: 66.5%
+  estimated median home value: $139,708
+  estimated median gross rent: $719
+  unemployment: 5.1%
+  bachelor's degree or higher: 14.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Kiowa County, OK
+GEOGRAPHIC CODE: 40075 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,886
+  under 18: 23.7%
+  age 65+: 19.5%
+  White alone: 79.7%
+  Black alone: 3.4%
+  Asian alone: 0.6%
+  Hispanic or Latino: 11.8%
+  estimated median household income: $37,836
+  poverty rate: 24.0%
+  homeownership: 72.1%
+  estimated median home value: $62,941
+  estimated median gross rent: $545
+  unemployment: 5.1%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

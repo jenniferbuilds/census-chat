@@ -1,0 +1,18 @@
+GEOGRAPHY: Riverside County, CA
+GEOGRAPHIC CODE: 06065 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,411,439
+  under 18: 25.5%
+  age 65+: 14.1%
+  White alone: 59.9%
+  Black alone: 6.5%
+  Asian alone: 6.5%
+  Hispanic or Latino: 48.9%
+  estimated median household income: $67,382
+  poverty rate: 13.7%
+  homeownership: 66.3%
+  estimated median home value: $350,102
+  estimated median gross rent: $1,375
+  unemployment: 7.5%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

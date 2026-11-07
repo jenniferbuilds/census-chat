@@ -1,0 +1,18 @@
+GEOGRAPHY: Emery County, UT
+GEOGRAPHIC CODE: 49015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,117
+  under 18: 29.8%
+  age 65+: 16.4%
+  White alone: 97.3%
+  Black alone: 0.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 6.3%
+  estimated median household income: $56,353
+  poverty rate: 11.6%
+  homeownership: 76.9%
+  estimated median home value: $140,210
+  estimated median gross rent: $605
+  unemployment: 3.8%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

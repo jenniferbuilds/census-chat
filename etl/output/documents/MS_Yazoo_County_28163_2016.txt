@@ -1,0 +1,17 @@
+GEOGRAPHY: Yazoo County, MS
+GEOGRAPHIC CODE: 28163 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,719
+  under 18: 24.3%
+  age 65+: 12.5%
+  White alone: 37.9%
+  Black alone: 59.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $27,748
+  homeownership: 60.3%
+  estimated median home value: $72,123
+  estimated median gross rent: $583
+  unemployment: 17.9%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

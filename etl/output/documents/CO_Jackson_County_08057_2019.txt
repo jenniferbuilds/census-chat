@@ -1,0 +1,18 @@
+GEOGRAPHY: Jackson County, CO
+GEOGRAPHIC CODE: 08057 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,261
+  under 18: 14.7%
+  age 65+: 28.3%
+  White alone: 97.9%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 17.4%
+  estimated median household income: $51,509
+  poverty rate: 9.6%
+  homeownership: 79.9%
+  estimated median home value: $196,739
+  estimated median gross rent: $625
+  unemployment: 1.7%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

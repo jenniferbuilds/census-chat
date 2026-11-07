@@ -1,0 +1,17 @@
+GEOGRAPHY: Lake County, OR
+GEOGRAPHIC CODE: 41037 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,799
+  under 18: 18.5%
+  age 65+: 23.0%
+  White alone: 90.1%
+  Black alone: 0.6%
+  Asian alone: 1.2%
+  Hispanic or Latino: 7.6%
+  estimated median household income: $34,059
+  homeownership: 61.7%
+  estimated median home value: $116,583
+  estimated median gross rent: $610
+  unemployment: 8.9%
+  bachelor's degree or higher: 17.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

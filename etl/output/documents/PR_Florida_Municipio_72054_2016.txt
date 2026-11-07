@@ -1,0 +1,17 @@
+GEOGRAPHY: Florida Municipio, PR
+GEOGRAPHIC CODE: 72054 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,287
+  under 18: 23.3%
+  age 65+: 15.4%
+  White alone: 96.4%
+  Black alone: 0.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 99.6%
+  estimated median household income: $16,453
+  homeownership: 74.3%
+  estimated median home value: $94,251
+  estimated median gross rent: $450
+  unemployment: 16.9%
+  bachelor's degree or higher: 11.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

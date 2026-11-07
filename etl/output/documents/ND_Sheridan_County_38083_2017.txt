@@ -1,0 +1,18 @@
+GEOGRAPHY: Sheridan County, ND
+GEOGRAPHIC CODE: 38083 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,403
+  under 18: 15.9%
+  age 65+: 26.9%
+  White alone: 97.9%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $49,694
+  poverty rate: 15.4%
+  homeownership: 78.5%
+  estimated median home value: $84,868
+  estimated median gross rent: $330
+  unemployment: 3.6%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

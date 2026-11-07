@@ -1,0 +1,18 @@
+GEOGRAPHY: Buena Vista County, IA
+GEOGRAPHIC CODE: 19021 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,260
+  under 18: 25.4%
+  age 65+: 14.4%
+  White alone: 77.4%
+  Black alone: 2.7%
+  Asian alone: 10.6%
+  Hispanic or Latino: 25.2%
+  estimated median household income: $55,501
+  poverty rate: 13.0%
+  homeownership: 66.6%
+  estimated median home value: $112,678
+  estimated median gross rent: $685
+  unemployment: 5.3%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: San Luis Obispo County, CA
+GEOGRAPHIC CODE: 06079 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 282,165
+  under 18: 17.8%
+  age 65+: 19.4%
+  White alone: 85.5%
+  Black alone: 1.9%
+  Asian alone: 3.6%
+  Hispanic or Latino: 22.5%
+  estimated median household income: $73,671
+  poverty rate: 12.5%
+  homeownership: 61.6%
+  estimated median home value: $573,959
+  estimated median gross rent: $1,476
+  unemployment: 4.0%
+  bachelor's degree or higher: 35.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Charlotte County, FL
+GEOGRAPHIC CODE: 12015 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 176,954
+  under 18: 12.5%
+  age 65+: 39.0%
+  White alone: 90.2%
+  Black alone: 5.5%
+  Asian alone: 1.2%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $49,168
+  poverty rate: 11.1%
+  homeownership: 79.5%
+  estimated median home value: $176,474
+  estimated median gross rent: $976
+  unemployment: 7.3%
+  bachelor's degree or higher: 23.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

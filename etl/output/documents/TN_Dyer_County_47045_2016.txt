@@ -1,0 +1,17 @@
+GEOGRAPHY: Dyer County, TN
+GEOGRAPHIC CODE: 47045 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,970
+  under 18: 24.2%
+  age 65+: 16.0%
+  White alone: 82.4%
+  Black alone: 13.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $43,138
+  homeownership: 63.5%
+  estimated median home value: $103,413
+  estimated median gross rent: $620
+  unemployment: 8.1%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

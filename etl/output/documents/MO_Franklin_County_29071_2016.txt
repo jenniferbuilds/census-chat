@@ -1,0 +1,17 @@
+GEOGRAPHY: Franklin County, MO
+GEOGRAPHIC CODE: 29071 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 102,063
+  under 18: 23.5%
+  age 65+: 15.6%
+  White alone: 96.4%
+  Black alone: 0.9%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $50,944
+  homeownership: 72.9%
+  estimated median home value: $152,696
+  estimated median gross rent: $706
+  unemployment: 5.9%
+  bachelor's degree or higher: 19.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

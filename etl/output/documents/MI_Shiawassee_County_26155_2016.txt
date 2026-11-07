@@ -1,0 +1,17 @@
+GEOGRAPHY: Shiawassee County, MI
+GEOGRAPHIC CODE: 26155 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 68,800
+  under 18: 22.3%
+  age 65+: 16.4%
+  White alone: 96.9%
+  Black alone: 0.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $48,255
+  homeownership: 75.9%
+  estimated median home value: $105,471
+  estimated median gross rent: $683
+  unemployment: 8.8%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

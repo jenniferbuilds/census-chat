@@ -1,0 +1,18 @@
+GEOGRAPHY: Acadia Parish, LA
+GEOGRAPHIC CODE: 22001 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 62,457
+  under 18: 26.2%
+  age 65+: 14.9%
+  White alone: 79.3%
+  Black alone: 17.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $42,734
+  poverty rate: 24.2%
+  homeownership: 71.1%
+  estimated median home value: $117,975
+  estimated median gross rent: $662
+  unemployment: 8.1%
+  bachelor's degree or higher: 13.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

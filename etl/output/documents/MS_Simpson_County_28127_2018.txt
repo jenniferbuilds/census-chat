@@ -1,0 +1,18 @@
+GEOGRAPHY: Simpson County, MS
+GEOGRAPHIC CODE: 28127 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,073
+  under 18: 24.4%
+  age 65+: 16.6%
+  White alone: 61.8%
+  Black alone: 36.5%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.3%
+  estimated median household income: $37,720
+  poverty rate: 24.9%
+  homeownership: 80.5%
+  estimated median home value: $84,234
+  estimated median gross rent: $682
+  unemployment: 8.2%
+  bachelor's degree or higher: 12.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

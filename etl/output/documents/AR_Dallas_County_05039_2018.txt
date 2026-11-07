@@ -1,0 +1,18 @@
+GEOGRAPHY: Dallas County, AR
+GEOGRAPHIC CODE: 05039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,432
+  under 18: 22.8%
+  age 65+: 21.3%
+  White alone: 55.5%
+  Black alone: 41.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $36,611
+  poverty rate: 14.3%
+  homeownership: 67.9%
+  estimated median home value: $66,610
+  estimated median gross rent: $631
+  unemployment: 4.9%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Elmore County, AL
+GEOGRAPHIC CODE: 01051 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 81,212
+  under 18: 22.5%
+  age 65+: 14.5%
+  White alone: 74.9%
+  Black alone: 21.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $59,393
+  poverty rate: 12.3%
+  homeownership: 73.7%
+  estimated median home value: $161,121
+  estimated median gross rent: $869
+  unemployment: 6.2%
+  bachelor's degree or higher: 24.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

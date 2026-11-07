@@ -1,0 +1,17 @@
+GEOGRAPHY: Crawford County, PA
+GEOGRAPHIC CODE: 42039 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 87,027
+  under 18: 21.5%
+  age 65+: 18.3%
+  White alone: 95.8%
+  Black alone: 1.9%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $45,651
+  homeownership: 73.5%
+  estimated median home value: $106,713
+  estimated median gross rent: $633
+  unemployment: 6.8%
+  bachelor's degree or higher: 20.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

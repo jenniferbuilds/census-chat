@@ -1,0 +1,18 @@
+GEOGRAPHY: Natchitoches Parish, LA
+GEOGRAPHIC CODE: 22069 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,051
+  under 18: 23.9%
+  age 65+: 15.4%
+  White alone: 54.0%
+  Black alone: 40.9%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $29,029
+  poverty rate: 31.9%
+  homeownership: 50.0%
+  estimated median home value: $114,052
+  estimated median gross rent: $681
+  unemployment: 13.6%
+  bachelor's degree or higher: 19.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

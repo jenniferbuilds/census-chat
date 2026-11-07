@@ -1,0 +1,18 @@
+GEOGRAPHY: Ionia County, MI
+GEOGRAPHIC CODE: 26067 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 64,147
+  under 18: 23.4%
+  age 65+: 13.5%
+  White alone: 91.4%
+  Black alone: 5.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $52,580
+  poverty rate: 13.1%
+  homeownership: 77.9%
+  estimated median home value: $117,026
+  estimated median gross rent: $731
+  unemployment: 6.2%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Pike County, OH
+GEOGRAPHIC CODE: 39131 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,914
+  under 18: 23.5%
+  age 65+: 17.6%
+  White alone: 95.6%
+  Black alone: 1.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $44,314
+  poverty rate: 18.6%
+  homeownership: 66.8%
+  estimated median home value: $119,913
+  estimated median gross rent: $726
+  unemployment: 5.0%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

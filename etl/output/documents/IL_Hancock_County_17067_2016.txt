@@ -1,0 +1,17 @@
+GEOGRAPHY: Hancock County, IL
+GEOGRAPHIC CODE: 17067 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,633
+  under 18: 20.8%
+  age 65+: 22.6%
+  White alone: 97.6%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $50,116
+  homeownership: 79.1%
+  estimated median home value: $84,711
+  estimated median gross rent: $580
+  unemployment: 6.8%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

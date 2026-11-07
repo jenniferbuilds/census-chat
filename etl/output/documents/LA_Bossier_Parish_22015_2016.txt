@@ -1,0 +1,17 @@
+GEOGRAPHY: Bossier Parish, LA
+GEOGRAPHIC CODE: 22015 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 124,720
+  under 18: 25.3%
+  age 65+: 12.7%
+  White alone: 72.7%
+  Black alone: 21.5%
+  Asian alone: 1.6%
+  Hispanic or Latino: 6.4%
+  estimated median household income: $52,456
+  homeownership: 64.4%
+  estimated median home value: $158,356
+  estimated median gross rent: $917
+  unemployment: 5.7%
+  bachelor's degree or higher: 26.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Marion County, FL
+GEOGRAPHIC CODE: 12083 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 348,371
+  under 18: 18.7%
+  age 65+: 28.4%
+  White alone: 81.9%
+  Black alone: 12.6%
+  Asian alone: 1.5%
+  Hispanic or Latino: 12.7%
+  estimated median household income: $43,460
+  poverty rate: 16.6%
+  homeownership: 75.8%
+  estimated median home value: $127,121
+  estimated median gross rent: $859
+  unemployment: 8.8%
+  bachelor's degree or higher: 19.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

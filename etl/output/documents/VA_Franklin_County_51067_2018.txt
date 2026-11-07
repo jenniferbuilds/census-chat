@@ -1,0 +1,18 @@
+GEOGRAPHY: Franklin County, VA
+GEOGRAPHIC CODE: 51067 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 56,233
+  under 18: 19.3%
+  age 65+: 22.3%
+  White alone: 88.9%
+  Black alone: 7.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $52,146
+  poverty rate: 16.4%
+  homeownership: 79.8%
+  estimated median home value: $177,959
+  estimated median gross rent: $724
+  unemployment: 5.0%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

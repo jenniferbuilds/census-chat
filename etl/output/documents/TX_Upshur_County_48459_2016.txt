@@ -1,0 +1,17 @@
+GEOGRAPHY: Upshur County, TX
+GEOGRAPHIC CODE: 48459 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 40,295
+  under 18: 24.3%
+  age 65+: 16.8%
+  White alone: 84.7%
+  Black alone: 8.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 7.7%
+  estimated median household income: $47,904
+  homeownership: 78.4%
+  estimated median home value: $96,547
+  estimated median gross rent: $741
+  unemployment: 7.7%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

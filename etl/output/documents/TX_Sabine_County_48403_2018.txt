@@ -1,0 +1,18 @@
+GEOGRAPHY: Sabine County, TX
+GEOGRAPHIC CODE: 48403 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,458
+  under 18: 18.8%
+  age 65+: 30.2%
+  White alone: 89.7%
+  Black alone: 6.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $33,089
+  poverty rate: 21.4%
+  homeownership: 88.2%
+  estimated median home value: $101,223
+  estimated median gross rent: $600
+  unemployment: 7.2%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

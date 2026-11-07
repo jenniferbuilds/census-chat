@@ -1,0 +1,18 @@
+GEOGRAPHY: Benewah County, ID
+GEOGRAPHIC CODE: 16009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,086
+  under 18: 23.4%
+  age 65+: 21.9%
+  White alone: 86.9%
+  Black alone: 0.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $46,250
+  poverty rate: 16.7%
+  homeownership: 73.1%
+  estimated median home value: $153,996
+  estimated median gross rent: $663
+  unemployment: 8.8%
+  bachelor's degree or higher: 15.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

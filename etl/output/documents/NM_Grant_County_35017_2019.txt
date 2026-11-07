@@ -1,0 +1,18 @@
+GEOGRAPHY: Grant County, NM
+GEOGRAPHIC CODE: 35017 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,669
+  under 18: 20.2%
+  age 65+: 26.6%
+  White alone: 92.6%
+  Black alone: 1.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 50.5%
+  estimated median household income: $38,025
+  poverty rate: 24.0%
+  homeownership: 68.1%
+  estimated median home value: $125,141
+  estimated median gross rent: $671
+  unemployment: 7.1%
+  bachelor's degree or higher: 28.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

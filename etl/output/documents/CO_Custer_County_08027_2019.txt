@@ -1,0 +1,18 @@
+GEOGRAPHY: Custer County, CO
+GEOGRAPHIC CODE: 08027 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,776
+  under 18: 15.0%
+  age 65+: 36.0%
+  White alone: 93.0%
+  Black alone: 2.9%
+  Asian alone: 0.0%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $53,091
+  poverty rate: 12.7%
+  homeownership: 87.2%
+  estimated median home value: $281,890
+  estimated median gross rent: $620
+  unemployment: 5.7%
+  bachelor's degree or higher: 32.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

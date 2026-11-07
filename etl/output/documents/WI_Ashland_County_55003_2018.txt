@@ -1,0 +1,18 @@
+GEOGRAPHY: Ashland County, WI
+GEOGRAPHIC CODE: 55003 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,712
+  under 18: 22.3%
+  age 65+: 18.2%
+  White alone: 84.0%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $43,926
+  poverty rate: 14.3%
+  homeownership: 68.3%
+  estimated median home value: $110,066
+  estimated median gross rent: $636
+  unemployment: 5.9%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

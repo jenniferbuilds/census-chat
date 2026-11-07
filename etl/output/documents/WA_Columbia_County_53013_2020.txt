@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbia County, WA
+GEOGRAPHIC CODE: 53013 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,024
+  under 18: 17.2%
+  age 65+: 28.8%
+  White alone: 86.5%
+  Black alone: 1.3%
+  Asian alone: 1.3%
+  Hispanic or Latino: 8.1%
+  estimated median household income: $61,914
+  poverty rate: 6.8%
+  homeownership: 71.6%
+  estimated median home value: $199,643
+  estimated median gross rent: $760
+  unemployment: 1.7%
+  bachelor's degree or higher: 25.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

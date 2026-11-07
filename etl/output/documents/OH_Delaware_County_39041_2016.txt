@@ -1,0 +1,17 @@
+GEOGRAPHY: Delaware County, OH
+GEOGRAPHIC CODE: 39041 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 188,996
+  under 18: 27.6%
+  age 65+: 11.5%
+  White alone: 88.8%
+  Black alone: 3.5%
+  Asian alone: 5.1%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $94,101
+  homeownership: 81.2%
+  estimated median home value: $267,565
+  estimated median gross rent: $969
+  unemployment: 2.7%
+  bachelor's degree or higher: 52.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

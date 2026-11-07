@@ -1,0 +1,18 @@
+GEOGRAPHY: Wichita County, KS
+GEOGRAPHIC CODE: 20203 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,143
+  under 18: 25.5%
+  age 65+: 21.3%
+  White alone: 90.1%
+  Black alone: 0.9%
+  Asian alone: 0.9%
+  Hispanic or Latino: 29.2%
+  estimated median household income: $56,373
+  poverty rate: 4.4%
+  homeownership: 73.5%
+  estimated median home value: $88,852
+  estimated median gross rent: $688
+  unemployment: 2.4%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

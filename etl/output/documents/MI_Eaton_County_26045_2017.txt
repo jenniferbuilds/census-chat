@@ -1,0 +1,18 @@
+GEOGRAPHY: Eaton County, MI
+GEOGRAPHIC CODE: 26045 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 108,586
+  under 18: 21.6%
+  age 65+: 16.9%
+  White alone: 86.8%
+  Black alone: 6.7%
+  Asian alone: 2.1%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $59,297
+  poverty rate: 10.9%
+  homeownership: 70.8%
+  estimated median home value: $142,309
+  estimated median gross rent: $823
+  unemployment: 5.8%
+  bachelor's degree or higher: 26.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

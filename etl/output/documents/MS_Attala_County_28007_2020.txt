@@ -1,0 +1,18 @@
+GEOGRAPHY: Attala County, MS
+GEOGRAPHIC CODE: 28007 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,308
+  under 18: 25.2%
+  age 65+: 19.3%
+  White alone: 53.5%
+  Black alone: 43.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $35,805
+  poverty rate: 23.3%
+  homeownership: 73.4%
+  estimated median home value: $88,667
+  estimated median gross rent: $496
+  unemployment: 7.3%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

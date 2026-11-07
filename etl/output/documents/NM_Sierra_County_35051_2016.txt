@@ -1,0 +1,17 @@
+GEOGRAPHY: Sierra County, NM
+GEOGRAPHIC CODE: 35051 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,442
+  under 18: 15.5%
+  age 65+: 34.6%
+  White alone: 91.7%
+  Black alone: 0.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 29.6%
+  estimated median household income: $29,818
+  homeownership: 72.6%
+  estimated median home value: $89,944
+  estimated median gross rent: $582
+  unemployment: 10.0%
+  bachelor's degree or higher: 17.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

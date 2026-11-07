@@ -1,0 +1,18 @@
+GEOGRAPHY: New Jersey (NJ)
+GEOGRAPHIC CODE: 34 | LEVEL: State | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,885,418
+  under 18: 22.0%
+  age 65+: 16.2%
+  White alone: 65.5%
+  Black alone: 13.4%
+  Asian alone: 9.7%
+  Hispanic or Latino: 20.4%
+  estimated median household income: $85,954
+  poverty rate: 9.7%
+  homeownership: 64.0%
+  estimated median home value: $343,497
+  estimated median gross rent: $1,368
+  unemployment: 5.8%
+  bachelor's degree or higher: 40.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

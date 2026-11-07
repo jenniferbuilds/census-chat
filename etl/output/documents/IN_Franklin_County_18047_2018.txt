@@ -1,0 +1,18 @@
+GEOGRAPHY: Franklin County, IN
+GEOGRAPHIC CODE: 18047 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,842
+  under 18: 23.7%
+  age 65+: 17.1%
+  White alone: 99.5%
+  Black alone: 0.1%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.1%
+  estimated median household income: $58,429
+  poverty rate: 8.4%
+  homeownership: 81.1%
+  estimated median home value: $151,855
+  estimated median gross rent: $741
+  unemployment: 3.9%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Bowie County, TX
+GEOGRAPHIC CODE: 48037 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 93,635
+  under 18: 23.8%
+  age 65+: 15.8%
+  White alone: 69.3%
+  Black alone: 24.4%
+  Asian alone: 1.0%
+  Hispanic or Latino: 7.4%
+  estimated median household income: $46,078
+  poverty rate: 17.9%
+  homeownership: 65.1%
+  estimated median home value: $109,380
+  estimated median gross rent: $729
+  unemployment: 7.3%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

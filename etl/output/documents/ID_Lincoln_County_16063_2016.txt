@@ -1,0 +1,17 @@
+GEOGRAPHY: Lincoln County, ID
+GEOGRAPHIC CODE: 16063 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,292
+  under 18: 31.4%
+  age 65+: 12.6%
+  White alone: 90.4%
+  Black alone: 0.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 29.8%
+  estimated median household income: $44,542
+  homeownership: 69.4%
+  estimated median home value: $128,879
+  estimated median gross rent: $738
+  unemployment: 5.0%
+  bachelor's degree or higher: 11.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

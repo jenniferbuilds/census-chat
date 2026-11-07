@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, IL
+GEOGRAPHIC CODE: 17189 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,058
+  under 18: 21.6%
+  age 65+: 19.9%
+  White alone: 96.7%
+  Black alone: 0.9%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $61,924
+  poverty rate: 7.1%
+  homeownership: 77.5%
+  estimated median home value: $113,465
+  estimated median gross rent: $716
+  unemployment: 4.7%
+  bachelor's degree or higher: 20.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

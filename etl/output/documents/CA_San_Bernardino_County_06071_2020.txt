@@ -1,0 +1,18 @@
+GEOGRAPHY: San Bernardino County, CA
+GEOGRAPHIC CODE: 06071 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,162,532
+  under 18: 26.4%
+  age 65+: 11.6%
+  White alone: 56.1%
+  Black alone: 8.2%
+  Asian alone: 7.4%
+  Hispanic or Latino: 53.8%
+  estimated median household income: $66,305
+  poverty rate: 15.0%
+  homeownership: 60.1%
+  estimated median home value: $348,453
+  estimated median gross rent: $1,338
+  unemployment: 7.3%
+  bachelor's degree or higher: 21.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

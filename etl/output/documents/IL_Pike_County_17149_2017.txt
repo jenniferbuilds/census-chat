@@ -1,0 +1,18 @@
+GEOGRAPHY: Pike County, IL
+GEOGRAPHIC CODE: 17149 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,930
+  under 18: 22.3%
+  age 65+: 19.9%
+  White alone: 96.6%
+  Black alone: 1.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $41,581
+  poverty rate: 14.9%
+  homeownership: 77.5%
+  estimated median home value: $74,742
+  estimated median gross rent: $542
+  unemployment: 6.7%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

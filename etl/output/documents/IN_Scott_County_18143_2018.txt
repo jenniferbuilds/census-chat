@@ -1,0 +1,18 @@
+GEOGRAPHY: Scott County, IN
+GEOGRAPHIC CODE: 18143 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,743
+  under 18: 23.0%
+  age 65+: 16.2%
+  White alone: 97.5%
+  Black alone: 0.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $46,935
+  poverty rate: 15.6%
+  homeownership: 72.7%
+  estimated median home value: $99,615
+  estimated median gross rent: $783
+  unemployment: 5.4%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

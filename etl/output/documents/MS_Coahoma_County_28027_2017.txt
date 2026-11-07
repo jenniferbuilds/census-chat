@@ -1,0 +1,18 @@
+GEOGRAPHY: Coahoma County, MS
+GEOGRAPHIC CODE: 28027 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,296
+  under 18: 27.8%
+  age 65+: 13.7%
+  White alone: 21.6%
+  Black alone: 77.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 0.1%
+  estimated median household income: $28,451
+  poverty rate: 36.2%
+  homeownership: 51.2%
+  estimated median home value: $62,362
+  estimated median gross rent: $578
+  unemployment: 19.0%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

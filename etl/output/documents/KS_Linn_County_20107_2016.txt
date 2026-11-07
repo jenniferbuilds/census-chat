@@ -1,0 +1,17 @@
+GEOGRAPHY: Linn County, KS
+GEOGRAPHIC CODE: 20107 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,524
+  under 18: 23.6%
+  age 65+: 20.4%
+  White alone: 96.2%
+  Black alone: 0.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $45,777
+  homeownership: 78.7%
+  estimated median home value: $90,526
+  estimated median gross rent: $625
+  unemployment: 6.6%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

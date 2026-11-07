@@ -1,0 +1,18 @@
+GEOGRAPHY: Fulton County, KY
+GEOGRAPHIC CODE: 21075 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,210
+  under 18: 21.9%
+  age 65+: 19.8%
+  White alone: 72.2%
+  Black alone: 25.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $28,759
+  poverty rate: 29.8%
+  homeownership: 59.6%
+  estimated median home value: $63,091
+  estimated median gross rent: $547
+  unemployment: 6.6%
+  bachelor's degree or higher: 13.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

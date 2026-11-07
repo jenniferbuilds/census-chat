@@ -1,0 +1,18 @@
+GEOGRAPHY: Lewis County, MO
+GEOGRAPHIC CODE: 29111 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,027
+  under 18: 23.0%
+  age 65+: 18.2%
+  White alone: 94.3%
+  Black alone: 3.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $46,646
+  poverty rate: 15.5%
+  homeownership: 73.2%
+  estimated median home value: $87,044
+  estimated median gross rent: $553
+  unemployment: 2.6%
+  bachelor's degree or higher: 14.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Hawaii County, HI
+GEOGRAPHIC CODE: 15001 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 196,325
+  under 18: 22.0%
+  age 65+: 18.5%
+  White alone: 33.9%
+  Black alone: 0.6%
+  Asian alone: 22.2%
+  Hispanic or Latino: 12.5%
+  estimated median household income: $56,526
+  poverty rate: 17.4%
+  homeownership: 67.0%
+  estimated median home value: $315,988
+  estimated median gross rent: $1,131
+  unemployment: 6.8%
+  bachelor's degree or higher: 28.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

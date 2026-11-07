@@ -1,0 +1,17 @@
+GEOGRAPHY: Pope County, IL
+GEOGRAPHIC CODE: 17151 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,255
+  under 18: 17.4%
+  age 65+: 26.2%
+  White alone: 92.0%
+  Black alone: 4.8%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $39,290
+  homeownership: 84.5%
+  estimated median home value: $89,331
+  estimated median gross rent: $371
+  unemployment: 8.5%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

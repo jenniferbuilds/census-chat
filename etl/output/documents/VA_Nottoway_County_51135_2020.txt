@@ -1,0 +1,18 @@
+GEOGRAPHY: Nottoway County, VA
+GEOGRAPHIC CODE: 51135 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,338
+  under 18: 19.2%
+  age 65+: 19.2%
+  White alone: 56.8%
+  Black alone: 40.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.6%
+  estimated median household income: $49,986
+  poverty rate: 16.9%
+  homeownership: 67.3%
+  estimated median home value: $150,983
+  estimated median gross rent: $725
+  unemployment: 4.3%
+  bachelor's degree or higher: 15.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

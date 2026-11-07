@@ -1,0 +1,18 @@
+GEOGRAPHY: Wright County, MN
+GEOGRAPHIC CODE: 27171 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 131,130
+  under 18: 28.6%
+  age 65+: 11.5%
+  White alone: 94.7%
+  Black alone: 1.4%
+  Asian alone: 1.2%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $77,617
+  poverty rate: 5.0%
+  homeownership: 82.4%
+  estimated median home value: $211,492
+  estimated median gross rent: $924
+  unemployment: 3.6%
+  bachelor's degree or higher: 27.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

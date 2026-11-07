@@ -1,0 +1,18 @@
+GEOGRAPHY: Passaic County, NJ
+GEOGRAPHIC CODE: 34031 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 510,563
+  under 18: 24.1%
+  age 65+: 13.6%
+  White alone: 62.5%
+  Black alone: 11.8%
+  Asian alone: 5.3%
+  Hispanic or Latino: 40.5%
+  estimated median household income: $63,779
+  poverty rate: 17.0%
+  homeownership: 53.5%
+  estimated median home value: $333,191
+  estimated median gross rent: $1,238
+  unemployment: 6.0%
+  bachelor's degree or higher: 27.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

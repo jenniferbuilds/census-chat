@@ -1,0 +1,18 @@
+GEOGRAPHY: Wood County, WI
+GEOGRAPHIC CODE: 55141 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 73,427
+  under 18: 21.8%
+  age 65+: 19.2%
+  White alone: 94.5%
+  Black alone: 0.7%
+  Asian alone: 2.0%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $51,935
+  poverty rate: 11.1%
+  homeownership: 72.9%
+  estimated median home value: $127,745
+  estimated median gross rent: $675
+  unemployment: 4.8%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

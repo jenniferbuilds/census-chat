@@ -1,0 +1,18 @@
+GEOGRAPHY: Kershaw County, SC
+GEOGRAPHIC CODE: 45055 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 65,112
+  under 18: 23.5%
+  age 65+: 18.0%
+  White alone: 71.2%
+  Black alone: 23.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $51,857
+  poverty rate: 14.9%
+  homeownership: 82.1%
+  estimated median home value: $131,094
+  estimated median gross rent: $775
+  unemployment: 5.7%
+  bachelor's degree or higher: 20.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

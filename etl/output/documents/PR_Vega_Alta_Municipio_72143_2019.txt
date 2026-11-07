@@ -1,0 +1,18 @@
+GEOGRAPHY: Vega Alta Municipio, PR
+GEOGRAPHIC CODE: 72143 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,106
+  under 18: 21.3%
+  age 65+: 17.7%
+  White alone: 71.4%
+  Black alone: 10.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 98.4%
+  estimated median household income: $20,055
+  poverty rate: 45.9%
+  homeownership: 68.7%
+  estimated median home value: $114,268
+  estimated median gross rent: $521
+  unemployment: 21.6%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

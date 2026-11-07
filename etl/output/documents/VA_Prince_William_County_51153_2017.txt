@@ -1,0 +1,18 @@
+GEOGRAPHY: Prince William County, VA
+GEOGRAPHIC CODE: 51153 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 450,763
+  under 18: 27.7%
+  age 65+: 8.7%
+  White alone: 58.9%
+  Black alone: 20.9%
+  Asian alone: 8.1%
+  Hispanic or Latino: 22.4%
+  estimated median household income: $101,077
+  poverty rate: 7.0%
+  homeownership: 72.5%
+  estimated median home value: $358,324
+  estimated median gross rent: $1,620
+  unemployment: 5.0%
+  bachelor's degree or higher: 39.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

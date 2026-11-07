@@ -1,0 +1,18 @@
+GEOGRAPHY: Josephine County, OR
+GEOGRAPHIC CODE: 41033 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 84,514
+  under 18: 19.6%
+  age 65+: 24.9%
+  White alone: 92.2%
+  Black alone: 0.4%
+  Asian alone: 0.6%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $40,607
+  poverty rate: 18.6%
+  homeownership: 66.4%
+  estimated median home value: $235,574
+  estimated median gross rent: $847
+  unemployment: 9.0%
+  bachelor's degree or higher: 17.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

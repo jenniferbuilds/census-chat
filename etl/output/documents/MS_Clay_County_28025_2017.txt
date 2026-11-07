@@ -1,0 +1,18 @@
+GEOGRAPHY: Clay County, MS
+GEOGRAPHIC CODE: 28025 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,990
+  under 18: 23.7%
+  age 65+: 16.9%
+  White alone: 39.8%
+  Black alone: 59.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $34,500
+  poverty rate: 26.6%
+  homeownership: 71.8%
+  estimated median home value: $81,206
+  estimated median gross rent: $714
+  unemployment: 11.3%
+  bachelor's degree or higher: 19.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Mecklenburg County, VA
+GEOGRAPHIC CODE: 51117 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,209
+  under 18: 19.2%
+  age 65+: 23.8%
+  White alone: 61.4%
+  Black alone: 35.5%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $40,051
+  homeownership: 71.8%
+  estimated median home value: $123,348
+  estimated median gross rent: $702
+  unemployment: 6.1%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

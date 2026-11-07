@@ -1,0 +1,18 @@
+GEOGRAPHY: Atkinson County, GA
+GEOGRAPHIC CODE: 13003 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,239
+  under 18: 27.0%
+  age 65+: 13.6%
+  White alone: 75.2%
+  Black alone: 17.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 24.9%
+  estimated median household income: $37,339
+  poverty rate: 30.3%
+  homeownership: 73.3%
+  estimated median home value: $62,720
+  estimated median gross rent: $454
+  unemployment: 8.0%
+  bachelor's degree or higher: 12.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Arlington County, VA
+GEOGRAPHIC CODE: 51013 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 226,092
+  under 18: 17.0%
+  age 65+: 9.3%
+  White alone: 72.2%
+  Black alone: 8.6%
+  Asian alone: 10.0%
+  Hispanic or Latino: 15.4%
+  estimated median household income: $110,719
+  homeownership: 44.2%
+  estimated median home value: $623,259
+  estimated median gross rent: $1,861
+  unemployment: 3.4%
+  bachelor's degree or higher: 73.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Smith County, TN
+GEOGRAPHIC CODE: 47159 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,176
+  under 18: 23.9%
+  age 65+: 15.4%
+  White alone: 95.0%
+  Black alone: 2.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $44,392
+  homeownership: 73.6%
+  estimated median home value: $118,084
+  estimated median gross rent: $554
+  unemployment: 4.2%
+  bachelor's degree or higher: 10.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

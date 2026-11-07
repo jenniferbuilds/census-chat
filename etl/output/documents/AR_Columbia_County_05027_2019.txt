@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbia County, AR
+GEOGRAPHIC CODE: 05027 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,776
+  under 18: 21.1%
+  age 65+: 17.1%
+  White alone: 60.5%
+  Black alone: 36.1%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $36,218
+  poverty rate: 25.0%
+  homeownership: 70.4%
+  estimated median home value: $81,896
+  estimated median gross rent: $664
+  unemployment: 10.9%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

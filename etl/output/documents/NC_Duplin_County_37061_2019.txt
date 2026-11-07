@@ -1,0 +1,18 @@
+GEOGRAPHY: Duplin County, NC
+GEOGRAPHIC CODE: 37061 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 58,967
+  under 18: 24.3%
+  age 65+: 17.9%
+  White alone: 71.2%
+  Black alone: 23.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 22.2%
+  estimated median household income: $41,423
+  poverty rate: 21.2%
+  homeownership: 70.4%
+  estimated median home value: $90,236
+  estimated median gross rent: $665
+  unemployment: 8.0%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

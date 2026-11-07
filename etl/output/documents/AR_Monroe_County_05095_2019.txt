@@ -1,0 +1,18 @@
+GEOGRAPHY: Monroe County, AR
+GEOGRAPHIC CODE: 05095 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,050
+  under 18: 21.0%
+  age 65+: 22.8%
+  White alone: 54.6%
+  Black alone: 43.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $37,668
+  poverty rate: 27.1%
+  homeownership: 59.9%
+  estimated median home value: $61,429
+  estimated median gross rent: $517
+  unemployment: 7.5%
+  bachelor's degree or higher: 12.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

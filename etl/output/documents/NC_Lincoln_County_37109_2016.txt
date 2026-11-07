@@ -1,0 +1,17 @@
+GEOGRAPHY: Lincoln County, NC
+GEOGRAPHIC CODE: 37109 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 79,783
+  under 18: 22.1%
+  age 65+: 15.6%
+  White alone: 88.4%
+  Black alone: 5.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $49,289
+  homeownership: 76.5%
+  estimated median home value: $153,549
+  estimated median gross rent: $676
+  unemployment: 8.9%
+  bachelor's degree or higher: 19.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

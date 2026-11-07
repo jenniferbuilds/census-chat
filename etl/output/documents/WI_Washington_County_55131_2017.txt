@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, WI
+GEOGRAPHIC CODE: 55131 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 133,967
+  under 18: 22.8%
+  age 65+: 16.3%
+  White alone: 95.5%
+  Black alone: 1.1%
+  Asian alone: 1.2%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $73,095
+  poverty rate: 5.5%
+  homeownership: 77.5%
+  estimated median home value: $219,568
+  estimated median gross rent: $873
+  unemployment: 3.4%
+  bachelor's degree or higher: 29.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

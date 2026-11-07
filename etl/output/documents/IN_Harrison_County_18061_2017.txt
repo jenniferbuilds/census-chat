@@ -1,0 +1,18 @@
+GEOGRAPHY: Harrison County, IN
+GEOGRAPHIC CODE: 18061 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,450
+  under 18: 22.6%
+  age 65+: 16.6%
+  White alone: 96.8%
+  Black alone: 0.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $53,488
+  poverty rate: 12.9%
+  homeownership: 82.6%
+  estimated median home value: $136,398
+  estimated median gross rent: $696
+  unemployment: 6.6%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

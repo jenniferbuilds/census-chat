@@ -1,0 +1,18 @@
+GEOGRAPHY: Tuscola County, MI
+GEOGRAPHIC CODE: 26157 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 53,569
+  under 18: 21.2%
+  age 65+: 18.8%
+  White alone: 96.5%
+  Black alone: 1.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $45,543
+  poverty rate: 15.9%
+  homeownership: 82.0%
+  estimated median home value: $98,847
+  estimated median gross rent: $670
+  unemployment: 7.4%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

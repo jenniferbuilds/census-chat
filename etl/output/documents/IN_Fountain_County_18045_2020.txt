@@ -1,0 +1,18 @@
+GEOGRAPHY: Fountain County, IN
+GEOGRAPHIC CODE: 18045 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,456
+  under 18: 21.9%
+  age 65+: 19.8%
+  White alone: 97.4%
+  Black alone: 0.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $52,466
+  poverty rate: 11.6%
+  homeownership: 74.2%
+  estimated median home value: $107,575
+  estimated median gross rent: $691
+  unemployment: 5.4%
+  bachelor's degree or higher: 14.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Parmer County, TX
+GEOGRAPHIC CODE: 48369 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,871
+  under 18: 29.1%
+  age 65+: 13.1%
+  White alone: 85.6%
+  Black alone: 1.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 62.4%
+  estimated median household income: $50,581
+  poverty rate: 17.3%
+  homeownership: 68.9%
+  estimated median home value: $86,228
+  estimated median gross rent: $667
+  unemployment: 2.8%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

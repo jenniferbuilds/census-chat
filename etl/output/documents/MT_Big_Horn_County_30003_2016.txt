@@ -1,0 +1,17 @@
+GEOGRAPHY: Big Horn County, MT
+GEOGRAPHIC CODE: 30003 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,214
+  under 18: 33.5%
+  age 65+: 11.0%
+  White alone: 31.7%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $44,431
+  homeownership: 61.0%
+  estimated median home value: $96,479
+  estimated median gross rent: $660
+  unemployment: 16.8%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

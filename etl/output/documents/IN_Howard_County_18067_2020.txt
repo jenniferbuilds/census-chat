@@ -1,0 +1,18 @@
+GEOGRAPHY: Howard County, IN
+GEOGRAPHIC CODE: 18067 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 82,486
+  under 18: 22.7%
+  age 65+: 19.2%
+  White alone: 86.6%
+  Black alone: 8.1%
+  Asian alone: 1.3%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $56,099
+  poverty rate: 12.0%
+  homeownership: 72.1%
+  estimated median home value: $113,945
+  estimated median gross rent: $743
+  unemployment: 5.3%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

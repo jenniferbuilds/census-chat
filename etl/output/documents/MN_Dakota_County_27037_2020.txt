@@ -1,0 +1,18 @@
+GEOGRAPHY: Dakota County, MN
+GEOGRAPHIC CODE: 27037 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 425,271
+  under 18: 24.4%
+  age 65+: 14.1%
+  White alone: 80.8%
+  Black alone: 6.4%
+  Asian alone: 5.0%
+  Hispanic or Latino: 7.3%
+  estimated median household income: $88,905
+  poverty rate: 5.8%
+  homeownership: 75.1%
+  estimated median home value: $280,313
+  estimated median gross rent: $1,235
+  unemployment: 3.5%
+  bachelor's degree or higher: 42.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

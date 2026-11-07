@@ -1,0 +1,18 @@
+GEOGRAPHY: Otsego County, NY
+GEOGRAPHIC CODE: 36077 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 60,244
+  under 18: 16.4%
+  age 65+: 20.0%
+  White alone: 93.4%
+  Black alone: 2.1%
+  Asian alone: 1.4%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $53,332
+  poverty rate: 15.4%
+  homeownership: 72.9%
+  estimated median home value: $144,008
+  estimated median gross rent: $833
+  unemployment: 6.4%
+  bachelor's degree or higher: 30.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

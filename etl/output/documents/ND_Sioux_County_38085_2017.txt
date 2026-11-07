@@ -1,0 +1,18 @@
+GEOGRAPHY: Sioux County, ND
+GEOGRAPHIC CODE: 38085 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,420
+  under 18: 37.5%
+  age 65+: 7.2%
+  White alone: 12.6%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $40,778
+  poverty rate: 37.1%
+  homeownership: 44.2%
+  estimated median home value: $76,333
+  estimated median gross rent: $486
+  unemployment: 19.1%
+  bachelor's degree or higher: 17.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

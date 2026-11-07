@@ -1,0 +1,18 @@
+GEOGRAPHY: Clarke County, IA
+GEOGRAPHIC CODE: 19039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,282
+  under 18: 25.1%
+  age 65+: 17.6%
+  White alone: 97.2%
+  Black alone: 0.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 13.2%
+  estimated median household income: $52,603
+  poverty rate: 14.4%
+  homeownership: 70.8%
+  estimated median home value: $104,734
+  estimated median gross rent: $751
+  unemployment: 3.2%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

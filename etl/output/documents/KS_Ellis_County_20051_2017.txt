@@ -1,0 +1,18 @@
+GEOGRAPHY: Ellis County, KS
+GEOGRAPHIC CODE: 20051 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,877
+  under 18: 21.5%
+  age 65+: 14.2%
+  White alone: 94.7%
+  Black alone: 0.9%
+  Asian alone: 1.4%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $49,684
+  poverty rate: 16.7%
+  homeownership: 61.9%
+  estimated median home value: $159,378
+  estimated median gross rent: $677
+  unemployment: 2.8%
+  bachelor's degree or higher: 35.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

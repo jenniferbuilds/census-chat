@@ -1,0 +1,17 @@
+GEOGRAPHY: Las Marias Municipio, PR
+GEOGRAPHIC CODE: 72083 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,093
+  under 18: 22.3%
+  age 65+: 17.3%
+  White alone: 73.5%
+  Black alone: 0.6%
+  Asian alone: 0.0%
+  Hispanic or Latino: 98.9%
+  estimated median household income: $13,044
+  homeownership: 65.6%
+  estimated median home value: $75,528
+  estimated median gross rent: $293
+  unemployment: 2.8%
+  bachelor's degree or higher: 13.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Roberts County, SD
+GEOGRAPHIC CODE: 46109 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,250
+  under 18: 28.2%
+  age 65+: 18.7%
+  White alone: 59.2%
+  Black alone: 0.5%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $51,592
+  poverty rate: 18.8%
+  homeownership: 67.9%
+  estimated median home value: $95,700
+  estimated median gross rent: $572
+  unemployment: 7.0%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

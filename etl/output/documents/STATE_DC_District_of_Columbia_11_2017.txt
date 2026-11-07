@@ -1,0 +1,18 @@
+GEOGRAPHY: District of Columbia (DC)
+GEOGRAPHIC CODE: 11 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 672,391
+  under 18: 17.6%
+  age 65+: 11.9%
+  White alone: 40.7%
+  Black alone: 47.7%
+  Asian alone: 3.8%
+  Hispanic or Latino: 10.7%
+  estimated median household income: $77,824
+  poverty rate: 17.4%
+  homeownership: 41.7%
+  estimated median home value: $537,443
+  estimated median gross rent: $1,424
+  unemployment: 8.0%
+  bachelor's degree or higher: 56.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

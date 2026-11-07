@@ -1,0 +1,18 @@
+GEOGRAPHY: Daniels County, MT
+GEOGRAPHIC CODE: 30019 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,730
+  under 18: 22.8%
+  age 65+: 24.5%
+  White alone: 95.7%
+  Black alone: 0.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $58,274
+  poverty rate: 4.8%
+  homeownership: 78.4%
+  estimated median home value: $126,471
+  estimated median gross rent: $510
+  unemployment: 1.8%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Cowley County, KS
+GEOGRAPHIC CODE: 20035 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,591
+  under 18: 23.9%
+  age 65+: 17.6%
+  White alone: 87.7%
+  Black alone: 3.2%
+  Asian alone: 1.6%
+  Hispanic or Latino: 10.8%
+  estimated median household income: $47,604
+  poverty rate: 15.2%
+  homeownership: 66.5%
+  estimated median home value: $87,270
+  estimated median gross rent: $682
+  unemployment: 4.9%
+  bachelor's degree or higher: 20.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

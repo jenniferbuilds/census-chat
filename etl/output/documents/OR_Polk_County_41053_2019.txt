@@ -1,0 +1,18 @@
+GEOGRAPHY: Polk County, OR
+GEOGRAPHIC CODE: 41053 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 83,037
+  under 18: 22.8%
+  age 65+: 17.5%
+  White alone: 88.1%
+  Black alone: 0.8%
+  Asian alone: 1.9%
+  Hispanic or Latino: 13.9%
+  estimated median household income: $62,510
+  poverty rate: 12.6%
+  homeownership: 66.3%
+  estimated median home value: $265,179
+  estimated median gross rent: $994
+  unemployment: 6.4%
+  bachelor's degree or higher: 31.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

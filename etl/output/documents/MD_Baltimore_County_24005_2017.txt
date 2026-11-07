@@ -1,0 +1,18 @@
+GEOGRAPHY: Baltimore County, MD
+GEOGRAPHIC CODE: 24005 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 828,637
+  under 18: 21.6%
+  age 65+: 16.1%
+  White alone: 62.1%
+  Black alone: 27.9%
+  Asian alone: 5.9%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $71,862
+  poverty rate: 9.1%
+  homeownership: 65.8%
+  estimated median home value: $249,573
+  estimated median gross rent: $1,224
+  unemployment: 5.5%
+  bachelor's degree or higher: 37.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

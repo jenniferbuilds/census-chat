@@ -1,0 +1,18 @@
+GEOGRAPHY: Lake County, CO
+GEOGRAPHIC CODE: 08065 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,481
+  under 18: 17.9%
+  age 65+: 11.2%
+  White alone: 88.1%
+  Black alone: 0.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 33.9%
+  estimated median household income: $47,013
+  poverty rate: 12.8%
+  homeownership: 57.6%
+  estimated median home value: $197,561
+  estimated median gross rent: $889
+  unemployment: 5.7%
+  bachelor's degree or higher: 31.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

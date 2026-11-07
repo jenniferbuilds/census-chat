@@ -1,0 +1,18 @@
+GEOGRAPHY: Newton County, MS
+GEOGRAPHIC CODE: 28101 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,524
+  under 18: 25.4%
+  age 65+: 15.9%
+  White alone: 62.4%
+  Black alone: 30.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $33,933
+  poverty rate: 26.1%
+  homeownership: 77.9%
+  estimated median home value: $83,022
+  estimated median gross rent: $628
+  unemployment: 6.9%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Clark County, KS
+GEOGRAPHIC CODE: 20025 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,089
+  under 18: 24.4%
+  age 65+: 21.5%
+  White alone: 93.7%
+  Black alone: 1.1%
+  Asian alone: 0.9%
+  Hispanic or Latino: 10.7%
+  estimated median household income: $45,833
+  poverty rate: 8.9%
+  homeownership: 69.3%
+  estimated median home value: $76,364
+  estimated median gross rent: $655
+  unemployment: 1.5%
+  bachelor's degree or higher: 33.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Forrest County, MS
+GEOGRAPHIC CODE: 28035 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 75,835
+  under 18: 23.2%
+  age 65+: 12.7%
+  White alone: 59.6%
+  Black alone: 36.8%
+  Asian alone: 0.9%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $39,614
+  poverty rate: 26.3%
+  homeownership: 55.1%
+  estimated median home value: $114,738
+  estimated median gross rent: $747
+  unemployment: 11.9%
+  bachelor's degree or higher: 26.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

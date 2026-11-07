@@ -1,0 +1,18 @@
+GEOGRAPHY: Fauquier County, VA
+GEOGRAPHIC CODE: 51061 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 69,115
+  under 18: 23.6%
+  age 65+: 15.8%
+  White alone: 86.9%
+  Black alone: 7.3%
+  Asian alone: 1.4%
+  Hispanic or Latino: 8.0%
+  estimated median household income: $97,873
+  poverty rate: 6.1%
+  homeownership: 78.2%
+  estimated median home value: $384,084
+  estimated median gross rent: $1,255
+  unemployment: 3.4%
+  bachelor's degree or higher: 35.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

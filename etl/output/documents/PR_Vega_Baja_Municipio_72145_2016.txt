@@ -1,0 +1,17 @@
+GEOGRAPHY: Vega Baja Municipio, PR
+GEOGRAPHIC CODE: 72145 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 55,866
+  under 18: 22.2%
+  age 65+: 17.1%
+  White alone: 89.8%
+  Black alone: 3.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 96.6%
+  estimated median household income: $17,455
+  homeownership: 83.2%
+  estimated median home value: $112,393
+  estimated median gross rent: $539
+  unemployment: 17.3%
+  bachelor's degree or higher: 20.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

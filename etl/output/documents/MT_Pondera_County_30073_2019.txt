@@ -1,0 +1,18 @@
+GEOGRAPHY: Pondera County, MT
+GEOGRAPHIC CODE: 30073 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,994
+  under 18: 24.5%
+  age 65+: 20.0%
+  White alone: 81.4%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $51,042
+  poverty rate: 19.3%
+  homeownership: 74.6%
+  estimated median home value: $131,888
+  estimated median gross rent: $652
+  unemployment: 6.6%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

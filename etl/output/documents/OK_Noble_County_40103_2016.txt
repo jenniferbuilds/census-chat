@@ -1,0 +1,17 @@
+GEOGRAPHY: Noble County, OK
+GEOGRAPHIC CODE: 40103 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,470
+  under 18: 24.2%
+  age 65+: 17.6%
+  White alone: 84.1%
+  Black alone: 1.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $49,125
+  homeownership: 73.7%
+  estimated median home value: $92,755
+  estimated median gross rent: $662
+  unemployment: 4.8%
+  bachelor's degree or higher: 22.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

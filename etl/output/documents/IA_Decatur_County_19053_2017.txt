@@ -1,0 +1,18 @@
+GEOGRAPHY: Decatur County, IA
+GEOGRAPHIC CODE: 19053 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,105
+  under 18: 21.3%
+  age 65+: 18.4%
+  White alone: 95.4%
+  Black alone: 1.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $40,902
+  poverty rate: 19.1%
+  homeownership: 66.4%
+  estimated median home value: $76,250
+  estimated median gross rent: $512
+  unemployment: 5.0%
+  bachelor's degree or higher: 21.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

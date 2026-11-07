@@ -1,0 +1,18 @@
+GEOGRAPHY: Barber County, KS
+GEOGRAPHIC CODE: 20007 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,733
+  under 18: 23.7%
+  age 65+: 21.5%
+  White alone: 95.5%
+  Black alone: 0.6%
+  Asian alone: 0.7%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $50,634
+  poverty rate: 15.6%
+  homeownership: 70.8%
+  estimated median home value: $66,415
+  estimated median gross rent: $524
+  unemployment: 1.7%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

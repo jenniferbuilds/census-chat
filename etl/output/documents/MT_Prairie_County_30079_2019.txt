@@ -1,0 +1,18 @@
+GEOGRAPHY: Prairie County, MT
+GEOGRAPHIC CODE: 30079 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,252
+  under 18: 22.8%
+  age 65+: 28.0%
+  White alone: 97.8%
+  Black alone: 0.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $43,900
+  poverty rate: 13.3%
+  homeownership: 84.0%
+  estimated median home value: $112,891
+  estimated median gross rent: $715
+  unemployment: 4.8%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

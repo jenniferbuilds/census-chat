@@ -1,0 +1,18 @@
+GEOGRAPHY: Alameda County, CA
+GEOGRAPHIC CODE: 06001 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,656,754
+  under 18: 20.8%
+  age 65+: 13.5%
+  White alone: 40.5%
+  Black alone: 10.6%
+  Asian alone: 30.1%
+  Hispanic or Latino: 22.4%
+  estimated median household income: $99,506
+  poverty rate: 9.9%
+  homeownership: 53.5%
+  estimated median home value: $769,307
+  estimated median gross rent: $1,797
+  unemployment: 4.6%
+  bachelor's degree or higher: 47.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

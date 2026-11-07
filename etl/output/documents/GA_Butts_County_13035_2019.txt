@@ -1,0 +1,18 @@
+GEOGRAPHY: Butts County, GA
+GEOGRAPHIC CODE: 13035 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,090
+  under 18: 20.5%
+  age 65+: 15.4%
+  White alone: 68.0%
+  Black alone: 29.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $43,729
+  poverty rate: 21.6%
+  homeownership: 69.8%
+  estimated median home value: $132,617
+  estimated median gross rent: $850
+  unemployment: 4.8%
+  bachelor's degree or higher: 12.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

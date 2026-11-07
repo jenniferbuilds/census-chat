@@ -1,0 +1,18 @@
+GEOGRAPHY: Talbot County, GA
+GEOGRAPHIC CODE: 13263 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,423
+  under 18: 17.7%
+  age 65+: 22.5%
+  White alone: 42.1%
+  Black alone: 56.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $38,339
+  poverty rate: 16.9%
+  homeownership: 80.8%
+  estimated median home value: $81,169
+  estimated median gross rent: $659
+  unemployment: 8.2%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Union County, OH
+GEOGRAPHIC CODE: 39159 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 56,707
+  under 18: 24.7%
+  age 65+: 12.0%
+  White alone: 91.0%
+  Black alone: 2.6%
+  Asian alone: 4.0%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $85,283
+  poverty rate: 5.9%
+  homeownership: 78.5%
+  estimated median home value: $203,814
+  estimated median gross rent: $982
+  unemployment: 1.9%
+  bachelor's degree or higher: 35.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

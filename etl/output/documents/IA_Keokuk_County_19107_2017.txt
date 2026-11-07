@@ -1,0 +1,18 @@
+GEOGRAPHY: Keokuk County, IA
+GEOGRAPHIC CODE: 19107 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,223
+  under 18: 22.5%
+  age 65+: 20.9%
+  White alone: 98.1%
+  Black alone: 0.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $48,500
+  poverty rate: 11.2%
+  homeownership: 77.0%
+  estimated median home value: $83,743
+  estimated median gross rent: $650
+  unemployment: 5.3%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Newton County, IN
+GEOGRAPHIC CODE: 18111 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,056
+  under 18: 21.9%
+  age 65+: 17.6%
+  White alone: 95.6%
+  Black alone: 0.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 6.1%
+  estimated median household income: $52,752
+  poverty rate: 14.0%
+  homeownership: 75.0%
+  estimated median home value: $112,515
+  estimated median gross rent: $715
+  unemployment: 7.1%
+  bachelor's degree or higher: 11.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

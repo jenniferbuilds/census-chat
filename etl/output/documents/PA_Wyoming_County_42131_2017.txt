@@ -1,0 +1,18 @@
+GEOGRAPHY: Wyoming County, PA
+GEOGRAPHIC CODE: 42131 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,760
+  under 18: 20.2%
+  age 65+: 19.1%
+  White alone: 97.2%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $56,262
+  poverty rate: 10.4%
+  homeownership: 77.9%
+  estimated median home value: $163,512
+  estimated median gross rent: $764
+  unemployment: 6.5%
+  bachelor's degree or higher: 18.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Humacao Municipio, PR
+GEOGRAPHIC CODE: 72069 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 51,586
+  under 18: 18.3%
+  age 65+: 22.1%
+  White alone: 44.9%
+  Black alone: 19.5%
+  Asian alone: 0.7%
+  Hispanic or Latino: 98.8%
+  estimated median household income: $21,724
+  poverty rate: 39.8%
+  homeownership: 72.4%
+  estimated median home value: $98,979
+  estimated median gross rent: $433
+  unemployment: 9.5%
+  bachelor's degree or higher: 24.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

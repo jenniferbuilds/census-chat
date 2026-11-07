@@ -1,0 +1,18 @@
+GEOGRAPHY: El Paso County, TX
+GEOGRAPHIC CODE: 48141 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 834,825
+  under 18: 28.1%
+  age 65+: 11.4%
+  White alone: 81.1%
+  Black alone: 3.4%
+  Asian alone: 1.1%
+  Hispanic or Latino: 82.2%
+  estimated median household income: $43,414
+  poverty rate: 21.7%
+  homeownership: 61.6%
+  estimated median home value: $116,555
+  estimated median gross rent: $790
+  unemployment: 7.0%
+  bachelor's degree or higher: 22.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

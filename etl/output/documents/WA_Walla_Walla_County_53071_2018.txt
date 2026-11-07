@@ -1,0 +1,18 @@
+GEOGRAPHY: Walla Walla County, WA
+GEOGRAPHIC CODE: 53071 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 60,236
+  under 18: 21.4%
+  age 65+: 17.1%
+  White alone: 84.4%
+  Black alone: 1.8%
+  Asian alone: 1.7%
+  Hispanic or Latino: 21.2%
+  estimated median household income: $56,729
+  poverty rate: 13.8%
+  homeownership: 64.6%
+  estimated median home value: $209,761
+  estimated median gross rent: $893
+  unemployment: 5.2%
+  bachelor's degree or higher: 28.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

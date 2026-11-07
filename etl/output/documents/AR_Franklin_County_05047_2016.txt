@@ -1,0 +1,17 @@
+GEOGRAPHY: Franklin County, AR
+GEOGRAPHIC CODE: 05047 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,799
+  under 18: 23.8%
+  age 65+: 18.4%
+  White alone: 94.3%
+  Black alone: 0.9%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $39,331
+  homeownership: 73.2%
+  estimated median home value: $93,961
+  estimated median gross rent: $589
+  unemployment: 8.8%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

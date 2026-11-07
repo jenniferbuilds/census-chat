@@ -1,0 +1,18 @@
+GEOGRAPHY: Camp County, TX
+GEOGRAPHIC CODE: 48063 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,670
+  under 18: 26.5%
+  age 65+: 17.8%
+  White alone: 71.7%
+  Black alone: 16.9%
+  Asian alone: 0.3%
+  Hispanic or Latino: 23.9%
+  estimated median household income: $42,563
+  poverty rate: 17.4%
+  homeownership: 70.7%
+  estimated median home value: $83,574
+  estimated median gross rent: $695
+  unemployment: 6.1%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

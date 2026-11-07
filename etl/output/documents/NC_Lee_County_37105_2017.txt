@@ -1,0 +1,18 @@
+GEOGRAPHY: Lee County, NC
+GEOGRAPHIC CODE: 37105 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 59,805
+  under 18: 25.1%
+  age 65+: 15.4%
+  White alone: 72.2%
+  Black alone: 19.1%
+  Asian alone: 1.0%
+  Hispanic or Latino: 19.3%
+  estimated median household income: $49,337
+  poverty rate: 17.5%
+  homeownership: 67.3%
+  estimated median home value: $138,395
+  estimated median gross rent: $723
+  unemployment: 7.4%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

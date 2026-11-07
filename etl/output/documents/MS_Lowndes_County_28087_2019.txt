@@ -1,0 +1,18 @@
+GEOGRAPHY: Lowndes County, MS
+GEOGRAPHIC CODE: 28087 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 59,150
+  under 18: 23.7%
+  age 65+: 15.5%
+  White alone: 53.4%
+  Black alone: 43.8%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $50,431
+  poverty rate: 20.4%
+  homeownership: 63.5%
+  estimated median home value: $134,196
+  estimated median gross rent: $805
+  unemployment: 8.1%
+  bachelor's degree or higher: 23.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

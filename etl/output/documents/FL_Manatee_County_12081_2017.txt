@@ -1,0 +1,18 @@
+GEOGRAPHY: Manatee County, FL
+GEOGRAPHIC CODE: 12081 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 363,542
+  under 18: 19.1%
+  age 65+: 26.0%
+  White alone: 85.5%
+  Black alone: 8.8%
+  Asian alone: 1.9%
+  Hispanic or Latino: 15.9%
+  estimated median household income: $53,910
+  poverty rate: 13.4%
+  homeownership: 71.4%
+  estimated median home value: $197,249
+  estimated median gross rent: $1,057
+  unemployment: 6.6%
+  bachelor's degree or higher: 29.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

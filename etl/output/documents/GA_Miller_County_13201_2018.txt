@@ -1,0 +1,18 @@
+GEOGRAPHY: Miller County, GA
+GEOGRAPHIC CODE: 13201 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,836
+  under 18: 22.9%
+  age 65+: 21.3%
+  White alone: 68.4%
+  Black alone: 30.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $43,786
+  poverty rate: 23.0%
+  homeownership: 67.1%
+  estimated median home value: $93,295
+  estimated median gross rent: $649
+  unemployment: 5.0%
+  bachelor's degree or higher: 12.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

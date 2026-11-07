@@ -1,0 +1,18 @@
+GEOGRAPHY: Seward County, NE
+GEOGRAPHIC CODE: 31159 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,171
+  under 18: 23.3%
+  age 65+: 17.0%
+  White alone: 96.4%
+  Black alone: 0.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $70,144
+  poverty rate: 6.5%
+  homeownership: 71.7%
+  estimated median home value: $168,225
+  estimated median gross rent: $724
+  unemployment: 1.9%
+  bachelor's degree or higher: 28.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

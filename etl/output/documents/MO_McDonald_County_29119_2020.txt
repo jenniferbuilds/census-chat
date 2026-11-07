@@ -1,0 +1,18 @@
+GEOGRAPHY: McDonald County, MO
+GEOGRAPHIC CODE: 29119 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,882
+  under 18: 25.8%
+  age 65+: 15.6%
+  White alone: 80.8%
+  Black alone: 1.9%
+  Asian alone: 1.5%
+  Hispanic or Latino: 11.5%
+  estimated median household income: $43,634
+  poverty rate: 19.3%
+  homeownership: 68.1%
+  estimated median home value: $102,242
+  estimated median gross rent: $674
+  unemployment: 4.3%
+  bachelor's degree or higher: 11.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

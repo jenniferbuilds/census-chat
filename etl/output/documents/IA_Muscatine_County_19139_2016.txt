@@ -1,0 +1,17 @@
+GEOGRAPHY: Muscatine County, IA
+GEOGRAPHIC CODE: 19139 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 42,949
+  under 18: 25.4%
+  age 65+: 15.2%
+  White alone: 91.4%
+  Black alone: 1.7%
+  Asian alone: 1.1%
+  Hispanic or Latino: 17.1%
+  estimated median household income: $56,175
+  homeownership: 73.9%
+  estimated median home value: $126,626
+  estimated median gross rent: $745
+  unemployment: 4.5%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

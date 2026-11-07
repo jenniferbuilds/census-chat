@@ -1,0 +1,18 @@
+GEOGRAPHY: Ouachita Parish, LA
+GEOGRAPHIC CODE: 22073 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 156,433
+  under 18: 25.5%
+  age 65+: 13.6%
+  White alone: 59.9%
+  Black alone: 37.5%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $40,105
+  poverty rate: 24.5%
+  homeownership: 59.3%
+  estimated median home value: $133,405
+  estimated median gross rent: $730
+  unemployment: 7.0%
+  bachelor's degree or higher: 24.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

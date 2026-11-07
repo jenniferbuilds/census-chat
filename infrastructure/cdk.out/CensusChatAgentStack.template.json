@@ -1,0 +1,726 @@
+{
+ "Resources": {
+  "CensusChatUserPool5BDDFED7": {
+   "Type": "AWS::Cognito::UserPool",
+   "Properties": {
+    "AccountRecoverySetting": {
+     "RecoveryMechanisms": [
+      {
+       "Name": "verified_email",
+       "Priority": 1
+      }
+     ]
+    },
+    "AdminCreateUserConfig": {
+     "AllowAdminCreateUserOnly": true
+    },
+    "AliasAttributes": [
+     "email"
+    ],
+    "AutoVerifiedAttributes": [
+     "email"
+    ],
+    "EmailVerificationMessage": "The verification code to your new account is {####}",
+    "EmailVerificationSubject": "Verify your new account",
+    "Policies": {
+     "PasswordPolicy": {
+      "MinimumLength": 8,
+      "RequireNumbers": true,
+      "RequireSymbols": false,
+      "RequireUppercase": true
+     }
+    },
+    "SmsVerificationMessage": "The verification code to your new account is {####}",
+    "UserPoolName": "census-chat-users",
+    "VerificationMessageTemplate": {
+     "DefaultEmailOption": "CONFIRM_WITH_CODE",
+     "EmailMessage": "The verification code to your new account is {####}",
+     "EmailSubject": "Verify your new account",
+     "SmsMessage": "The verification code to your new account is {####}"
+    }
+   },
+   "UpdateReplacePolicy": "Delete",
+   "DeletionPolicy": "Delete",
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/CensusChatUserPool/Resource"
+   }
+  },
+  "CensusChatUserPoolCensusChatWebClientB131526E": {
+   "Type": "AWS::Cognito::UserPoolClient",
+   "Properties": {
+    "AccessTokenValidity": 480,
+    "AllowedOAuthFlows": [
+     "implicit",
+     "code"
+    ],
+    "AllowedOAuthFlowsUserPoolClient": true,
+    "AllowedOAuthScopes": [
+     "profile",
+     "phone",
+     "email",
+     "openid",
+     "aws.cognito.signin.user.admin"
+    ],
+    "CallbackURLs": [
+     "https://example.com"
+    ],
+    "ClientName": "census-chat-web",
+    "ExplicitAuthFlows": [
+     "ALLOW_USER_PASSWORD_AUTH",
+     "ALLOW_USER_SRP_AUTH",
+     "ALLOW_REFRESH_TOKEN_AUTH"
+    ],
+    "GenerateSecret": false,
+    "IdTokenValidity": 480,
+    "PreventUserExistenceErrors": "ENABLED",
+    "RefreshTokenValidity": 43200,
+    "SupportedIdentityProviders": [
+     "COGNITO"
+    ],
+    "TokenValidityUnits": {
+     "AccessToken": "minutes",
+     "IdToken": "minutes",
+     "RefreshToken": "minutes"
+    },
+    "UserPoolId": {
+     "Ref": "CensusChatUserPool5BDDFED7"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/CensusChatUserPool/CensusChatWebClient/Resource"
+   }
+  },
+  "CensusChatMemoryServiceRole7C2BBEAF": {
+   "Type": "AWS::IAM::Role",
+   "Properties": {
+    "AssumeRolePolicyDocument": {
+     "Statement": [
+      {
+       "Action": "sts:AssumeRole",
+       "Condition": {
+        "StringEquals": {
+         "aws:SourceAccount": "887083795887"
+        },
+        "ArnLike": {
+         "aws:SourceArn": {
+          "Fn::Join": [
+           "",
+           [
+            "arn:",
+            {
+             "Ref": "AWS::Partition"
+            },
+            ":bedrock-agentcore:us-east-2:887083795887:memory/censusChatMemoryManaged*"
+           ]
+          ]
+         }
+        }
+       },
+       "Effect": "Allow",
+       "Principal": {
+        "Service": "bedrock-agentcore.amazonaws.com"
+       }
+      }
+     ],
+     "Version": "2012-10-17"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/CensusChatMemory/ServiceRole/Resource"
+   }
+  },
+  "CensusChatMemory9D34C85C": {
+   "Type": "AWS::BedrockAgentCore::Memory",
+   "Properties": {
+    "Description": "Conversation continuity and user preferences for Census Chat",
+    "EventExpiryDuration": 30,
+    "MemoryExecutionRoleArn": {
+     "Fn::GetAtt": [
+      "CensusChatMemoryServiceRole7C2BBEAF",
+      "Arn"
+     ]
+    },
+    "MemoryStrategies": [
+     {
+      "SummaryMemoryStrategy": {
+       "Description": "Summarize interactions to preserve critical context and key insights",
+       "Name": "summary_builtin_cdkGen0001",
+       "Namespaces": [
+        "/strategies/{memoryStrategyId}/actors/{actorId}/sessions/{sessionId}"
+       ]
+      }
+     },
+     {
+      "UserPreferenceMemoryStrategy": {
+       "Description": "Capture individual preferences, interaction patterns, and personalized settings to enhance future experiences.",
+       "Name": "preference_builtin_cdkGen0001",
+       "Namespaces": [
+        "/strategies/{memoryStrategyId}/actors/{actorId}"
+       ]
+      }
+     },
+     {
+      "SemanticMemoryStrategy": {
+       "Description": "Extract general factual knowledge, concepts and meanings from raw conversations in a context-independent format.",
+       "Name": "semantic_builtin_cdkGen0001",
+       "Namespaces": [
+        "/strategies/{memoryStrategyId}/actors/{actorId}"
+       ]
+      }
+     },
+     {
+      "EpisodicMemoryStrategy": {
+       "Description": "Captures meaningful slices of user and system interactions.",
+       "Name": "episodic_builtin_cdkGen0001",
+       "Namespaces": [
+        "/strategy/{memoryStrategyId}/actor/{actorId}/session/{sessionId}"
+       ],
+       "ReflectionConfiguration": {
+        "Namespaces": [
+         "/strategy/{memoryStrategyId}/actor/{actorId}"
+        ]
+       }
+      }
+     }
+    ],
+    "Name": "censusChatMemoryManaged"
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/CensusChatMemory/Memory"
+   }
+  },
+  "AgentCoreExecutionRole416A5DC1": {
+   "Type": "AWS::IAM::Role",
+   "Properties": {
+    "AssumeRolePolicyDocument": {
+     "Statement": [
+      {
+       "Action": "sts:AssumeRole",
+       "Effect": "Allow",
+       "Principal": {
+        "Service": "bedrock-agentcore.amazonaws.com"
+       }
+      }
+     ],
+     "Version": "2012-10-17"
+    },
+    "Description": "Execution role for the Census Chat AgentCore Runtime",
+    "RoleName": "CensusChatAgentCoreRole"
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/AgentCoreExecutionRole/Resource"
+   }
+  },
+  "AgentCoreExecutionRoleDefaultPolicyEC87D1B7": {
+   "Type": "AWS::IAM::Policy",
+   "Properties": {
+    "PolicyDocument": {
+     "Statement": [
+      {
+       "Action": [
+        "bedrock:InvokeModel",
+        "bedrock:InvokeModelWithResponseStream"
+       ],
+       "Effect": "Allow",
+       "Resource": [
+        "arn:aws:bedrock:us-east-2:887083795887:inference-profile/us.moonshotai.kimi-k3.1",
+        "arn:aws:bedrock:*::foundation-model/moonshotai.kimi-k3.1"
+       ]
+      },
+      {
+       "Action": "bedrock:Retrieve",
+       "Effect": "Allow",
+       "Resource": "arn:aws:bedrock:us-east-2:887083795887:knowledge-base/PLACEHOLDER"
+      },
+      {
+       "Action": "bedrock:ApplyGuardrail",
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::Join": [
+         "",
+         [
+          "arn:aws:bedrock:us-east-2:887083795887:guardrail/",
+          {
+           "Fn::ImportValue": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailGuardrailId05D6AE97"
+          }
+         ]
+        ]
+       }
+      },
+      {
+       "Action": [
+        "bedrock-agentcore:GetEvent",
+        "bedrock-agentcore:ListEvents",
+        "bedrock-agentcore:ListActors",
+        "bedrock-agentcore:ListSessions",
+        "bedrock-agentcore:GetMemoryRecord",
+        "bedrock-agentcore:RetrieveMemoryRecords",
+        "bedrock-agentcore:ListMemoryRecords"
+       ],
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::GetAtt": [
+         "CensusChatMemory9D34C85C",
+         "MemoryArn"
+        ]
+       }
+      },
+      {
+       "Action": "bedrock-agentcore:CreateEvent",
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::GetAtt": [
+         "CensusChatMemory9D34C85C",
+         "MemoryArn"
+        ]
+       }
+      },
+      {
+       "Action": "bedrock-agentcore:GetMemory",
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::GetAtt": [
+         "CensusChatMemory9D34C85C",
+         "MemoryArn"
+        ]
+       }
+      },
+      {
+       "Action": [
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents",
+        "xray:PutTraceSegments",
+        "xray:PutTelemetryRecords"
+       ],
+       "Effect": "Allow",
+       "Resource": "*"
+      },
+      {
+       "Action": [
+        "logs:DescribeLogStreams",
+        "logs:CreateLogGroup"
+       ],
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::Join": [
+         "",
+         [
+          "arn:",
+          {
+           "Ref": "AWS::Partition"
+          },
+          ":logs:us-east-2:887083795887:log-group:/aws/bedrock-agentcore/runtimes/*"
+         ]
+        ]
+       },
+       "Sid": "LogGroupAccess"
+      },
+      {
+       "Action": "logs:DescribeLogGroups",
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::Join": [
+         "",
+         [
+          "arn:",
+          {
+           "Ref": "AWS::Partition"
+          },
+          ":logs:us-east-2:887083795887:log-group:*"
+         ]
+        ]
+       },
+       "Sid": "DescribeLogGroups"
+      },
+      {
+       "Action": [
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+       ],
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::Join": [
+         "",
+         [
+          "arn:",
+          {
+           "Ref": "AWS::Partition"
+          },
+          ":logs:us-east-2:887083795887:log-group:/aws/bedrock-agentcore/runtimes/*:log-stream:*"
+         ]
+        ]
+       },
+       "Sid": "LogStreamAccess"
+      },
+      {
+       "Action": [
+        "xray:PutTraceSegments",
+        "xray:PutTelemetryRecords",
+        "xray:GetSamplingRules",
+        "xray:GetSamplingTargets"
+       ],
+       "Effect": "Allow",
+       "Resource": "*",
+       "Sid": "XRayAccess"
+      },
+      {
+       "Action": "cloudwatch:PutMetricData",
+       "Condition": {
+        "StringEquals": {
+         "cloudwatch:namespace": "bedrock-agentcore"
+        }
+       },
+       "Effect": "Allow",
+       "Resource": "*",
+       "Sid": "CloudWatchMetrics"
+      },
+      {
+       "Action": [
+        "bedrock-agentcore:GetWorkloadAccessToken",
+        "bedrock-agentcore:GetWorkloadAccessTokenForJWT",
+        "bedrock-agentcore:GetWorkloadAccessTokenForUserId"
+       ],
+       "Effect": "Allow",
+       "Resource": [
+        {
+         "Fn::Join": [
+          "",
+          [
+           "arn:",
+           {
+            "Ref": "AWS::Partition"
+           },
+           ":bedrock-agentcore:us-east-2:887083795887:workload-identity-directory/default"
+          ]
+         ]
+        },
+        {
+         "Fn::Join": [
+          "",
+          [
+           "arn:",
+           {
+            "Ref": "AWS::Partition"
+           },
+           ":bedrock-agentcore:us-east-2:887083795887:workload-identity-directory/default/workload-identity/*"
+          ]
+         ]
+        }
+       ],
+       "Sid": "GetAgentAccessToken"
+      },
+      {
+       "Action": [
+        "ecr:BatchCheckLayerAvailability",
+        "ecr:GetDownloadUrlForLayer",
+        "ecr:BatchGetImage"
+       ],
+       "Effect": "Allow",
+       "Resource": {
+        "Fn::Join": [
+         "",
+         [
+          "arn:",
+          {
+           "Ref": "AWS::Partition"
+          },
+          ":ecr:us-east-2:887083795887:repository/census-chat-agent"
+         ]
+        ]
+       }
+      },
+      {
+       "Action": "ecr:GetAuthorizationToken",
+       "Effect": "Allow",
+       "Resource": "*"
+      }
+     ],
+     "Version": "2012-10-17"
+    },
+    "PolicyName": "AgentCoreExecutionRoleDefaultPolicyEC87D1B7",
+    "Roles": [
+     {
+      "Ref": "AgentCoreExecutionRole416A5DC1"
+     }
+    ]
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/AgentCoreExecutionRole/DefaultPolicy/Resource"
+   }
+  },
+  "CensusChatRuntime7F3864F4": {
+   "Type": "AWS::BedrockAgentCore::Runtime",
+   "Properties": {
+    "AgentRuntimeArtifact": {
+     "ContainerConfiguration": {
+      "ContainerUri": {
+       "Fn::Join": [
+        "",
+        [
+         "887083795887.dkr.ecr.us-east-2.",
+         {
+          "Ref": "AWS::URLSuffix"
+         },
+         "/census-chat-agent:v4"
+        ]
+       ]
+      }
+     }
+    },
+    "AgentRuntimeName": "censusChatAgentManaged",
+    "AuthorizerConfiguration": {
+     "CustomJWTAuthorizer": {
+      "AllowedClients": [
+       {
+        "Ref": "CensusChatUserPoolCensusChatWebClientB131526E"
+       }
+      ],
+      "DiscoveryUrl": {
+       "Fn::Join": [
+        "",
+        [
+         "https://cognito-idp.us-east-2.amazonaws.com/",
+         {
+          "Ref": "CensusChatUserPool5BDDFED7"
+         },
+         "/.well-known/openid-configuration"
+        ]
+       ]
+      }
+     }
+    },
+    "Description": "Authenticated RAG agent for US Census data",
+    "EnvironmentVariables": {
+     "AWS_REGION": "us-east-2",
+     "MODEL_ID": "us.moonshotai.kimi-k3.1",
+     "KNOWLEDGE_BASE_ID": "PLACEHOLDER",
+     "GUARDRAIL_ID": {
+      "Fn::ImportValue": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailGuardrailId05D6AE97"
+     },
+     "GUARDRAIL_VERSION": {
+      "Fn::ImportValue": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailV2Version872C7CF7"
+     },
+     "AGENTCORE_MEMORY_ID": {
+      "Fn::GetAtt": [
+       "CensusChatMemory9D34C85C",
+       "MemoryId"
+      ]
+     },
+     "KB_TOP_K": "8",
+     "KB_MIN_SCORE": "0.25",
+     "MAX_INPUT_CHARS": "2000"
+    },
+    "LifecycleConfiguration": {
+     "IdleRuntimeSessionTimeout": 900,
+     "MaxLifetime": 28800
+    },
+    "NetworkConfiguration": {
+     "NetworkMode": "PUBLIC"
+    },
+    "PlatformVersion": "V2",
+    "ProtocolConfiguration": "HTTP",
+    "RoleArn": {
+     "Fn::GetAtt": [
+      "AgentCoreExecutionRole416A5DC1",
+      "Arn"
+     ]
+    }
+   },
+   "DependsOn": [
+    "AgentCoreExecutionRoleDefaultPolicyEC87D1B7",
+    "AgentCoreExecutionRole416A5DC1"
+   ],
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/CensusChatRuntime/Resource"
+   }
+  },
+  "UserPoolIdParam81D6760E": {
+   "Type": "AWS::SSM::Parameter",
+   "Properties": {
+    "Name": "/census-chat/cognito/user-pool-id",
+    "Type": "String",
+    "Value": {
+     "Ref": "CensusChatUserPool5BDDFED7"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/UserPoolIdParam/Resource"
+   }
+  },
+  "UserPoolClientIdParam5DF0EADC": {
+   "Type": "AWS::SSM::Parameter",
+   "Properties": {
+    "Name": "/census-chat/cognito/client-id",
+    "Type": "String",
+    "Value": {
+     "Ref": "CensusChatUserPoolCensusChatWebClientB131526E"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/UserPoolClientIdParam/Resource"
+   }
+  },
+  "AgentRoleArnParamACC962D2": {
+   "Type": "AWS::SSM::Parameter",
+   "Properties": {
+    "Name": "/census-chat/agent/execution-role-arn",
+    "Type": "String",
+    "Value": {
+     "Fn::GetAtt": [
+      "AgentCoreExecutionRole416A5DC1",
+      "Arn"
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/AgentRoleArnParam/Resource"
+   }
+  },
+  "KBIdParam32EF2909": {
+   "Type": "AWS::SSM::Parameter",
+   "Properties": {
+    "Name": "/census-chat/kb/id",
+    "Type": "String",
+    "Value": "PLACEHOLDER"
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/KBIdParam/Resource"
+   }
+  },
+  "GuardrailIdParam7A661D1E": {
+   "Type": "AWS::SSM::Parameter",
+   "Properties": {
+    "Name": "/census-chat/guardrail/id",
+    "Type": "String",
+    "Value": {
+     "Fn::ImportValue": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailGuardrailId05D6AE97"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/GuardrailIdParam/Resource"
+   }
+  },
+  "GuardrailVersionParam0FC74A9D": {
+   "Type": "AWS::SSM::Parameter",
+   "Properties": {
+    "Name": "/census-chat/guardrail/version",
+    "Type": "String",
+    "Value": {
+     "Fn::ImportValue": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailV2Version872C7CF7"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/GuardrailVersionParam/Resource"
+   }
+  },
+  "CDKMetadata": {
+   "Type": "AWS::CDK::Metadata",
+   "Properties": {
+    "Analytics": "v2:deflate64:H4sIAAAAAAAA/02OwW7CMAyGn4V76o1OE/dxRlRFO6MQTGeaxMhJhaoo776GFsTJ3//blr4a6s03fK70PVTm3FeWTpAOUZteTdUxGe48RYb0G1AaZqu2F//iJ2wtoY/vq7nJ6oRnYdPrbkqGBSHt0LGM5XahdvCRHJZmwaxIO0gt27kts2FL5vE2U1ZoBFq8cZj8ZPzRAVUIrtgL+a7Roh1GlMfLM+Rc4n6It2GSa8b4x/7jC9Zr2KyugaiS2QAWk3+jHYAkHwEAAA=="
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatAgentStack/CDKMetadata/Default"
+   }
+  }
+ },
+ "Outputs": {
+  "UserPoolId": {
+   "Value": {
+    "Ref": "CensusChatUserPool5BDDFED7"
+   }
+  },
+  "UserPoolClientId": {
+   "Value": {
+    "Ref": "CensusChatUserPoolCensusChatWebClientB131526E"
+   }
+  },
+  "AgentExecutionRoleArn": {
+   "Value": {
+    "Fn::GetAtt": [
+     "AgentCoreExecutionRole416A5DC1",
+     "Arn"
+    ]
+   }
+  },
+  "AgentRuntimeId": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatRuntime7F3864F4",
+     "AgentRuntimeId"
+    ]
+   }
+  },
+  "AgentRuntimeArn": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatRuntime7F3864F4",
+     "AgentRuntimeArn"
+    ]
+   }
+  },
+  "AgentCoreMemoryId": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatMemory9D34C85C",
+     "MemoryId"
+    ]
+   }
+  },
+  "AgentCoreMemoryArn": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatMemory9D34C85C",
+     "MemoryArn"
+    ]
+   }
+  },
+  "CognitoIssuerUrl": {
+   "Value": {
+    "Fn::Join": [
+     "",
+     [
+      "https://cognito-idp.us-east-2.amazonaws.com/",
+      {
+       "Ref": "CensusChatUserPool5BDDFED7"
+      }
+     ]
+    ]
+   }
+  }
+ },
+ "Parameters": {
+  "BootstrapVersion": {
+   "Type": "AWS::SSM::Parameter::Value<String>",
+   "Default": "/cdk-bootstrap/hnb659fds/version",
+   "Description": "Version of the CDK Bootstrap resources in this environment, automatically retrieved from SSM Parameter Store. [cdk:skip]"
+  }
+ },
+ "Rules": {
+  "CheckBootstrapVersion": {
+   "Assertions": [
+    {
+     "Assert": {
+      "Fn::Not": [
+       {
+        "Fn::Contains": [
+         [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+         ],
+         {
+          "Ref": "BootstrapVersion"
+         }
+        ]
+       }
+      ]
+     },
+     "AssertDescription": "CDK bootstrap stack version 6 required. Please run 'cdk bootstrap' with a recent version of the CDK CLI."
+    }
+   ]
+  }
+ }
+}

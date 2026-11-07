@@ -1,0 +1,17 @@
+GEOGRAPHY: Galax city, VA
+GEOGRAPHIC CODE: 51640 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,858
+  under 18: 21.7%
+  age 65+: 21.8%
+  White alone: 88.9%
+  Black alone: 6.9%
+  Asian alone: 0.1%
+  Hispanic or Latino: 17.5%
+  estimated median household income: $31,814
+  homeownership: 56.5%
+  estimated median home value: $101,610
+  estimated median gross rent: $542
+  unemployment: 6.6%
+  bachelor's degree or higher: 9.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

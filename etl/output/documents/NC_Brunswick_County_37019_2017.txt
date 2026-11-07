@@ -1,0 +1,18 @@
+GEOGRAPHY: Brunswick County, NC
+GEOGRAPHIC CODE: 37019 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 122,586
+  under 18: 16.8%
+  age 65+: 28.1%
+  White alone: 83.5%
+  Black alone: 10.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $51,357
+  poverty rate: 14.1%
+  homeownership: 77.2%
+  estimated median home value: $194,681
+  estimated median gross rent: $883
+  unemployment: 7.8%
+  bachelor's degree or higher: 28.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

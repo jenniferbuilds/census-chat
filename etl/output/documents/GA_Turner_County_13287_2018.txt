@@ -1,0 +1,18 @@
+GEOGRAPHY: Turner County, GA
+GEOGRAPHIC CODE: 13287 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,962
+  under 18: 24.3%
+  age 65+: 18.0%
+  White alone: 54.9%
+  Black alone: 43.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $38,750
+  poverty rate: 35.3%
+  homeownership: 67.5%
+  estimated median home value: $74,022
+  estimated median gross rent: $537
+  unemployment: 6.1%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

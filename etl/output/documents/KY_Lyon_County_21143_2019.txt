@@ -1,0 +1,18 @@
+GEOGRAPHY: Lyon County, KY
+GEOGRAPHIC CODE: 21143 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,271
+  under 18: 13.9%
+  age 65+: 26.7%
+  White alone: 91.6%
+  Black alone: 5.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $50,866
+  poverty rate: 15.8%
+  homeownership: 79.4%
+  estimated median home value: $141,494
+  estimated median gross rent: $603
+  unemployment: 1.8%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

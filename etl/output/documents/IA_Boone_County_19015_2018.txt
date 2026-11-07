@@ -1,0 +1,18 @@
+GEOGRAPHY: Boone County, IA
+GEOGRAPHIC CODE: 19015 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,399
+  under 18: 22.0%
+  age 65+: 17.3%
+  White alone: 96.4%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $61,328
+  poverty rate: 8.0%
+  homeownership: 76.8%
+  estimated median home value: $131,873
+  estimated median gross rent: $732
+  unemployment: 3.8%
+  bachelor's degree or higher: 24.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

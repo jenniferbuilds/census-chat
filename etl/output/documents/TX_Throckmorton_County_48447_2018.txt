@@ -1,0 +1,18 @@
+GEOGRAPHY: Throckmorton County, TX
+GEOGRAPHIC CODE: 48447 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,567
+  under 18: 19.7%
+  age 65+: 24.9%
+  White alone: 97.4%
+  Black alone: 1.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 15.0%
+  estimated median household income: $44,062
+  poverty rate: 14.7%
+  homeownership: 70.8%
+  estimated median home value: $68,000
+  estimated median gross rent: $475
+  unemployment: 5.4%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

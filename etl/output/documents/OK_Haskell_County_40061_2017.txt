@@ -1,0 +1,18 @@
+GEOGRAPHY: Haskell County, OK
+GEOGRAPHIC CODE: 40061 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,746
+  under 18: 24.3%
+  age 65+: 19.6%
+  White alone: 73.4%
+  Black alone: 0.8%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $38,252
+  poverty rate: 19.2%
+  homeownership: 74.6%
+  estimated median home value: $87,470
+  estimated median gross rent: $591
+  unemployment: 8.9%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

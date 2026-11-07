@@ -1,0 +1,17 @@
+GEOGRAPHY: Edgefield County, SC
+GEOGRAPHIC CODE: 45037 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,388
+  under 18: 19.3%
+  age 65+: 15.8%
+  White alone: 59.0%
+  Black alone: 36.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.7%
+  estimated median household income: $48,059
+  homeownership: 75.9%
+  estimated median home value: $119,324
+  estimated median gross rent: $601
+  unemployment: 7.0%
+  bachelor's degree or higher: 18.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

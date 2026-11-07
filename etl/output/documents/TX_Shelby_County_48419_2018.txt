@@ -1,0 +1,18 @@
+GEOGRAPHY: Shelby County, TX
+GEOGRAPHIC CODE: 48419 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,478
+  under 18: 26.9%
+  age 65+: 16.8%
+  White alone: 77.9%
+  Black alone: 18.3%
+  Asian alone: 1.6%
+  Hispanic or Latino: 18.1%
+  estimated median household income: $40,639
+  poverty rate: 23.3%
+  homeownership: 74.0%
+  estimated median home value: $72,629
+  estimated median gross rent: $571
+  unemployment: 7.2%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

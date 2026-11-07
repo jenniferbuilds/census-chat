@@ -1,0 +1,18 @@
+GEOGRAPHY: Cochran County, TX
+GEOGRAPHIC CODE: 48079 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,887
+  under 18: 27.1%
+  age 65+: 15.8%
+  White alone: 88.8%
+  Black alone: 5.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 58.7%
+  estimated median household income: $40,556
+  poverty rate: 25.6%
+  homeownership: 78.4%
+  estimated median home value: $38,810
+  estimated median gross rent: $536
+  unemployment: 8.1%
+  bachelor's degree or higher: 8.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

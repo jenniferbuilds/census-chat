@@ -1,0 +1,18 @@
+GEOGRAPHY: Knox County, KY
+GEOGRAPHIC CODE: 21121 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,365
+  under 18: 23.4%
+  age 65+: 17.1%
+  White alone: 96.4%
+  Black alone: 0.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $30,214
+  poverty rate: 33.2%
+  homeownership: 65.5%
+  estimated median home value: $86,788
+  estimated median gross rent: $562
+  unemployment: 7.2%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Craig County, VA
+GEOGRAPHIC CODE: 51045 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,195
+  under 18: 20.8%
+  age 65+: 19.6%
+  White alone: 98.1%
+  Black alone: 0.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 0.0%
+  estimated median household income: $40,217
+  homeownership: 72.5%
+  estimated median home value: $153,740
+  estimated median gross rent: $533
+  unemployment: 5.6%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

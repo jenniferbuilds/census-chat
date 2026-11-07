@@ -1,0 +1,17 @@
+GEOGRAPHY: Kansas (KS)
+GEOGRAPHIC CODE: 20 | LEVEL: State | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,898,292
+  under 18: 24.9%
+  age 65+: 14.3%
+  White alone: 85.2%
+  Black alone: 5.8%
+  Asian alone: 2.7%
+  Hispanic or Latino: 11.3%
+  estimated median household income: $54,004
+  homeownership: 66.3%
+  estimated median home value: $135,277
+  estimated median gross rent: $775
+  unemployment: 5.3%
+  bachelor's degree or higher: 31.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Sumter County, SC
+GEOGRAPHIC CODE: 45085 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 106,995
+  under 18: 24.3%
+  age 65+: 15.5%
+  White alone: 48.0%
+  Black alone: 47.0%
+  Asian alone: 1.2%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $43,845
+  poverty rate: 20.3%
+  homeownership: 64.7%
+  estimated median home value: $113,902
+  estimated median gross rent: $776
+  unemployment: 10.6%
+  bachelor's degree or higher: 18.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Ransom County, ND
+GEOGRAPHIC CODE: 38073 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,314
+  under 18: 20.7%
+  age 65+: 21.4%
+  White alone: 95.4%
+  Black alone: 0.8%
+  Asian alone: 1.1%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $64,771
+  poverty rate: 6.4%
+  homeownership: 70.9%
+  estimated median home value: $121,659
+  estimated median gross rent: $669
+  unemployment: 1.3%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

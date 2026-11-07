@@ -1,0 +1,18 @@
+GEOGRAPHY: Sully County, SD
+GEOGRAPHIC CODE: 46119 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,390
+  under 18: 23.8%
+  age 65+: 19.8%
+  White alone: 95.5%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $61,585
+  poverty rate: 3.3%
+  homeownership: 76.9%
+  estimated median home value: $122,340
+  estimated median gross rent: $545
+  unemployment: 0.5%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

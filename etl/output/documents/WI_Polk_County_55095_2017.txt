@@ -1,0 +1,18 @@
+GEOGRAPHY: Polk County, WI
+GEOGRAPHIC CODE: 55095 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,328
+  under 18: 21.7%
+  age 65+: 18.8%
+  White alone: 96.4%
+  Black alone: 0.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $53,837
+  poverty rate: 9.9%
+  homeownership: 78.4%
+  estimated median home value: $158,264
+  estimated median gross rent: $740
+  unemployment: 4.8%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

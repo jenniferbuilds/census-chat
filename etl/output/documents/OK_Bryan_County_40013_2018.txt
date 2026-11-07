@@ -1,0 +1,18 @@
+GEOGRAPHY: Bryan County, OK
+GEOGRAPHIC CODE: 40013 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,759
+  under 18: 23.5%
+  age 65+: 17.5%
+  White alone: 74.3%
+  Black alone: 1.9%
+  Asian alone: 0.5%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $43,624
+  poverty rate: 16.7%
+  homeownership: 61.9%
+  estimated median home value: $107,680
+  estimated median gross rent: $732
+  unemployment: 5.6%
+  bachelor's degree or higher: 22.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Hardin County, TX
+GEOGRAPHIC CODE: 48199 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 56,379
+  under 18: 24.8%
+  age 65+: 16.3%
+  White alone: 91.6%
+  Black alone: 5.7%
+  Asian alone: 0.6%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $59,353
+  poverty rate: 12.6%
+  homeownership: 80.1%
+  estimated median home value: $119,996
+  estimated median gross rent: $784
+  unemployment: 4.0%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

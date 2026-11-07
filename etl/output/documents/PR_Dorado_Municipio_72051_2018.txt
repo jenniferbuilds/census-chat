@@ -1,0 +1,18 @@
+GEOGRAPHY: Dorado Municipio, PR
+GEOGRAPHIC CODE: 72051 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,208
+  under 18: 22.7%
+  age 65+: 16.2%
+  White alone: 79.1%
+  Black alone: 12.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 98.4%
+  estimated median household income: $29,795
+  poverty rate: 34.2%
+  homeownership: 77.6%
+  estimated median home value: $139,011
+  estimated median gross rent: $655
+  unemployment: 22.0%
+  bachelor's degree or higher: 30.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

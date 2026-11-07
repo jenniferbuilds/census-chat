@@ -1,0 +1,18 @@
+GEOGRAPHY: Hale County, AL
+GEOGRAPHIC CODE: 01065 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,887
+  under 18: 23.4%
+  age 65+: 18.3%
+  White alone: 39.6%
+  Black alone: 58.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $30,600
+  poverty rate: 26.0%
+  homeownership: 71.5%
+  estimated median home value: $92,667
+  estimated median gross rent: $510
+  unemployment: 11.9%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

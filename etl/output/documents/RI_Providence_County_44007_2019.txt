@@ -1,0 +1,18 @@
+GEOGRAPHY: Providence County, RI
+GEOGRAPHIC CODE: 44007 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 635,737
+  under 18: 20.7%
+  age 65+: 15.0%
+  White alone: 72.9%
+  Black alone: 9.9%
+  Asian alone: 4.2%
+  Hispanic or Latino: 22.8%
+  estimated median household income: $59,123
+  poverty rate: 15.2%
+  homeownership: 54.2%
+  estimated median home value: $233,540
+  estimated median gross rent: $967
+  unemployment: 5.9%
+  bachelor's degree or higher: 29.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

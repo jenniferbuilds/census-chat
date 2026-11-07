@@ -1,0 +1,18 @@
+GEOGRAPHY: Tama County, IA
+GEOGRAPHIC CODE: 19171 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,962
+  under 18: 24.5%
+  age 65+: 19.8%
+  White alone: 86.8%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 10.6%
+  estimated median household income: $55,344
+  poverty rate: 12.6%
+  homeownership: 76.1%
+  estimated median home value: $114,424
+  estimated median gross rent: $729
+  unemployment: 4.0%
+  bachelor's degree or higher: 15.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Hartford County, CT
+GEOGRAPHIC CODE: 09003 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 895,699
+  under 18: 21.7%
+  age 65+: 15.6%
+  White alone: 72.4%
+  Black alone: 13.4%
+  Asian alone: 4.9%
+  Hispanic or Latino: 16.9%
+  estimated median household income: $68,580
+  homeownership: 64.1%
+  estimated median home value: $234,859
+  estimated median gross rent: $1,016
+  unemployment: 8.2%
+  bachelor's degree or higher: 36.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

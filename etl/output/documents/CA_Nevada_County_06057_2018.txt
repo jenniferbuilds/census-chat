@@ -1,0 +1,18 @@
+GEOGRAPHY: Nevada County, CA
+GEOGRAPHIC CODE: 06057 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 99,092
+  under 18: 17.3%
+  age 65+: 25.4%
+  White alone: 92.4%
+  Black alone: 0.7%
+  Asian alone: 1.0%
+  Hispanic or Latino: 9.4%
+  estimated median household income: $63,596
+  poverty rate: 11.4%
+  homeownership: 74.3%
+  estimated median home value: $399,955
+  estimated median gross rent: $1,222
+  unemployment: 6.4%
+  bachelor's degree or higher: 36.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

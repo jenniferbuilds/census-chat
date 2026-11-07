@@ -1,0 +1,18 @@
+GEOGRAPHY: Kusilvak Census Area, AK
+GEOGRAPHIC CODE: 02158 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,129
+  under 18: 39.7%
+  age 65+: 5.4%
+  White alone: 4.0%
+  Black alone: 0.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $36,637
+  poverty rate: 39.1%
+  homeownership: 74.0%
+  estimated median home value: $88,553
+  estimated median gross rent: $625
+  unemployment: 28.8%
+  bachelor's degree or higher: 4.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Tyler County, TX
+GEOGRAPHIC CODE: 48457 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,371
+  under 18: 19.4%
+  age 65+: 20.8%
+  White alone: 84.0%
+  Black alone: 10.9%
+  Asian alone: 0.4%
+  Hispanic or Latino: 7.2%
+  estimated median household income: $45,402
+  homeownership: 85.8%
+  estimated median home value: $81,808
+  estimated median gross rent: $696
+  unemployment: 10.3%
+  bachelor's degree or higher: 11.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

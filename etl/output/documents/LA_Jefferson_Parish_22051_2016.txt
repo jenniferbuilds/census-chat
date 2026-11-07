@@ -1,0 +1,17 @@
+GEOGRAPHY: Jefferson Parish, LA
+GEOGRAPHIC CODE: 22051 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 435,204
+  under 18: 22.0%
+  age 65+: 15.1%
+  White alone: 63.8%
+  Black alone: 26.5%
+  Asian alone: 4.2%
+  Hispanic or Latino: 13.9%
+  estimated median household income: $49,460
+  homeownership: 61.4%
+  estimated median home value: $173,464
+  estimated median gross rent: $916
+  unemployment: 6.4%
+  bachelor's degree or higher: 24.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

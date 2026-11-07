@@ -1,0 +1,18 @@
+GEOGRAPHY: Idaho (ID)
+GEOGRAPHIC CODE: 16 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,687,809
+  under 18: 26.0%
+  age 65+: 15.0%
+  White alone: 90.5%
+  Black alone: 0.7%
+  Asian alone: 1.4%
+  Hispanic or Latino: 12.4%
+  estimated median household income: $53,529
+  poverty rate: 13.8%
+  homeownership: 69.3%
+  estimated median home value: $192,256
+  estimated median gross rent: $825
+  unemployment: 4.7%
+  bachelor's degree or higher: 26.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

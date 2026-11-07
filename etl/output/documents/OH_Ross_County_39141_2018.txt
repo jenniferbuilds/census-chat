@@ -1,0 +1,18 @@
+GEOGRAPHY: Ross County, OH
+GEOGRAPHIC CODE: 39141 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 77,051
+  under 18: 21.6%
+  age 65+: 15.7%
+  White alone: 90.3%
+  Black alone: 5.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $48,216
+  poverty rate: 17.9%
+  homeownership: 69.8%
+  estimated median home value: $120,874
+  estimated median gross rent: $727
+  unemployment: 7.6%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

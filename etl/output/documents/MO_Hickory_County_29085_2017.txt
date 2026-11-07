@@ -1,0 +1,18 @@
+GEOGRAPHY: Hickory County, MO
+GEOGRAPHIC CODE: 29085 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,352
+  under 18: 17.0%
+  age 65+: 33.1%
+  White alone: 96.5%
+  Black alone: 0.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $34,785
+  poverty rate: 23.3%
+  homeownership: 82.0%
+  estimated median home value: $90,152
+  estimated median gross rent: $580
+  unemployment: 9.6%
+  bachelor's degree or higher: 9.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

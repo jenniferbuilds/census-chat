@@ -1,0 +1,18 @@
+GEOGRAPHY: Rowan County, NC
+GEOGRAPHIC CODE: 37159 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 139,605
+  under 18: 22.5%
+  age 65+: 16.8%
+  White alone: 77.4%
+  Black alone: 16.0%
+  Asian alone: 0.9%
+  Hispanic or Latino: 8.6%
+  estimated median household income: $48,613
+  poverty rate: 16.5%
+  homeownership: 69.1%
+  estimated median home value: $130,655
+  estimated median gross rent: $758
+  unemployment: 7.7%
+  bachelor's degree or higher: 18.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

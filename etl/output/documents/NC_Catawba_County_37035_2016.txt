@@ -1,0 +1,17 @@
+GEOGRAPHY: Catawba County, NC
+GEOGRAPHIC CODE: 37035 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 155,461
+  under 18: 22.9%
+  age 65+: 16.1%
+  White alone: 79.7%
+  Black alone: 8.6%
+  Asian alone: 3.9%
+  Hispanic or Latino: 9.0%
+  estimated median household income: $45,414
+  homeownership: 68.6%
+  estimated median home value: $137,588
+  estimated median gross rent: $680
+  unemployment: 7.9%
+  bachelor's degree or higher: 21.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

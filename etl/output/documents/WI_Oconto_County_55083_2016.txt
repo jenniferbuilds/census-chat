@@ -1,0 +1,17 @@
+GEOGRAPHY: Oconto County, WI
+GEOGRAPHIC CODE: 55083 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,475
+  under 18: 20.7%
+  age 65+: 18.5%
+  White alone: 96.3%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $54,207
+  homeownership: 83.2%
+  estimated median home value: $153,361
+  estimated median gross rent: $617
+  unemployment: 5.0%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Panola County, MS
+GEOGRAPHIC CODE: 28107 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,229
+  under 18: 25.6%
+  age 65+: 14.6%
+  White alone: 48.5%
+  Black alone: 50.4%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $35,926
+  poverty rate: 20.5%
+  homeownership: 72.8%
+  estimated median home value: $73,786
+  estimated median gross rent: $673
+  unemployment: 7.6%
+  bachelor's degree or higher: 14.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

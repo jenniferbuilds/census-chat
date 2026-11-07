@@ -1,0 +1,18 @@
+GEOGRAPHY: Monroe County, AL
+GEOGRAPHIC CODE: 01099 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,745
+  under 18: 23.3%
+  age 65+: 18.6%
+  White alone: 55.1%
+  Black alone: 41.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $26,531
+  poverty rate: 33.7%
+  homeownership: 61.0%
+  estimated median home value: $88,008
+  estimated median gross rent: $499
+  unemployment: 21.6%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

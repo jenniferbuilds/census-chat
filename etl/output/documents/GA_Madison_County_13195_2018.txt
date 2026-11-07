@@ -1,0 +1,18 @@
+GEOGRAPHY: Madison County, GA
+GEOGRAPHIC CODE: 13195 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,900
+  under 18: 23.1%
+  age 65+: 15.8%
+  White alone: 84.7%
+  Black alone: 8.8%
+  Asian alone: 1.2%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $51,812
+  poverty rate: 17.4%
+  homeownership: 75.9%
+  estimated median home value: $126,834
+  estimated median gross rent: $718
+  unemployment: 8.5%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

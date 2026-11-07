@@ -1,0 +1,18 @@
+GEOGRAPHY: Hopkins County, KY
+GEOGRAPHIC CODE: 21107 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,985
+  under 18: 23.2%
+  age 65+: 17.1%
+  White alone: 90.0%
+  Black alone: 6.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $44,098
+  poverty rate: 17.2%
+  homeownership: 70.5%
+  estimated median home value: $96,630
+  estimated median gross rent: $657
+  unemployment: 5.9%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Gove County, KS
+GEOGRAPHIC CODE: 20063 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,632
+  under 18: 21.7%
+  age 65+: 26.4%
+  White alone: 97.0%
+  Black alone: 0.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $50,625
+  poverty rate: 9.0%
+  homeownership: 77.3%
+  estimated median home value: $78,938
+  estimated median gross rent: $593
+  unemployment: 1.2%
+  bachelor's degree or higher: 23.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

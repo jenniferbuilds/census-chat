@@ -1,0 +1,18 @@
+GEOGRAPHY: Montgomery County, MD
+GEOGRAPHIC CODE: 24031 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,039,198
+  under 18: 23.4%
+  age 65+: 14.1%
+  White alone: 54.3%
+  Black alone: 18.1%
+  Asian alone: 14.8%
+  Hispanic or Latino: 19.0%
+  estimated median household income: $103,703
+  poverty rate: 7.0%
+  homeownership: 65.6%
+  estimated median home value: $467,499
+  estimated median gross rent: $1,693
+  unemployment: 5.4%
+  bachelor's degree or higher: 58.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

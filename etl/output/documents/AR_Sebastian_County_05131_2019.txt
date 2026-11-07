@@ -1,0 +1,18 @@
+GEOGRAPHY: Sebastian County, AR
+GEOGRAPHIC CODE: 05131 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 127,591
+  under 18: 24.1%
+  age 65+: 15.6%
+  White alone: 73.5%
+  Black alone: 6.8%
+  Asian alone: 4.5%
+  Hispanic or Latino: 14.2%
+  estimated median household income: $46,096
+  poverty rate: 18.5%
+  homeownership: 58.8%
+  estimated median home value: $123,072
+  estimated median gross rent: $696
+  unemployment: 4.8%
+  bachelor's degree or higher: 21.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Marshall County, WV
+GEOGRAPHIC CODE: 54051 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,296
+  under 18: 20.3%
+  age 65+: 19.3%
+  White alone: 97.6%
+  Black alone: 1.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $44,570
+  homeownership: 76.4%
+  estimated median home value: $98,071
+  estimated median gross rent: $600
+  unemployment: 6.0%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

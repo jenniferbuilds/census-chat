@@ -1,0 +1,18 @@
+GEOGRAPHY: Orange County, CA
+GEOGRAPHIC CODE: 06059 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,155,816
+  under 18: 22.7%
+  age 65+: 13.5%
+  White alone: 62.1%
+  Black alone: 1.7%
+  Asian alone: 19.7%
+  Hispanic or Latino: 34.2%
+  estimated median household income: $82,179
+  poverty rate: 12.1%
+  homeownership: 57.4%
+  estimated median home value: $620,521
+  estimated median gross rent: $1,693
+  unemployment: 5.8%
+  bachelor's degree or higher: 39.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

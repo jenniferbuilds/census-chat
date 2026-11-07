@@ -1,0 +1,18 @@
+GEOGRAPHY: Carbon County, UT
+GEOGRAPHIC CODE: 49007 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,512
+  under 18: 26.6%
+  age 65+: 15.7%
+  White alone: 92.7%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 13.2%
+  estimated median household income: $47,188
+  poverty rate: 16.2%
+  homeownership: 72.8%
+  estimated median home value: $129,944
+  estimated median gross rent: $651
+  unemployment: 5.4%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

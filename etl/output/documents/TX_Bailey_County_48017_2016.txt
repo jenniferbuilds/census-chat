@@ -1,0 +1,17 @@
+GEOGRAPHY: Bailey County, TX
+GEOGRAPHIC CODE: 48017 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,131
+  under 18: 30.1%
+  age 65+: 14.3%
+  White alone: 84.4%
+  Black alone: 2.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 61.7%
+  estimated median household income: $40,756
+  homeownership: 74.8%
+  estimated median home value: $62,710
+  estimated median gross rent: $695
+  unemployment: 2.1%
+  bachelor's degree or higher: 10.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

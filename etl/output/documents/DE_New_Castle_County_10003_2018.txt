@@ -1,0 +1,18 @@
+GEOGRAPHY: New Castle County, DE
+GEOGRAPHIC CODE: 10003 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 555,133
+  under 18: 21.8%
+  age 65+: 14.7%
+  White alone: 64.5%
+  Black alone: 25.0%
+  Asian alone: 5.5%
+  Hispanic or Latino: 9.7%
+  estimated median household income: $71,024
+  poverty rate: 11.4%
+  homeownership: 68.0%
+  estimated median home value: $254,490
+  estimated median gross rent: $1,141
+  unemployment: 6.3%
+  bachelor's degree or higher: 35.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

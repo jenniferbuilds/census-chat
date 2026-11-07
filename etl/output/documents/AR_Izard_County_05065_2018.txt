@@ -1,0 +1,18 @@
+GEOGRAPHY: Izard County, AR
+GEOGRAPHIC CODE: 05065 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,559
+  under 18: 18.2%
+  age 65+: 24.9%
+  White alone: 94.7%
+  Black alone: 1.9%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $40,296
+  poverty rate: 17.1%
+  homeownership: 79.1%
+  estimated median home value: $81,549
+  estimated median gross rent: $610
+  unemployment: 9.3%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

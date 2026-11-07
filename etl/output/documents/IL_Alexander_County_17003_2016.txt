@@ -1,0 +1,17 @@
+GEOGRAPHY: Alexander County, IL
+GEOGRAPHIC CODE: 17003 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,051
+  under 18: 23.9%
+  age 65+: 18.8%
+  White alone: 61.9%
+  Black alone: 33.9%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $29,099
+  homeownership: 68.5%
+  estimated median home value: $50,066
+  estimated median gross rent: $464
+  unemployment: 11.8%
+  bachelor's degree or higher: 9.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Banks County, GA
+GEOGRAPHIC CODE: 13011 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,900
+  under 18: 22.9%
+  age 65+: 16.7%
+  White alone: 91.1%
+  Black alone: 2.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 7.0%
+  estimated median household income: $50,754
+  poverty rate: 13.6%
+  homeownership: 74.1%
+  estimated median home value: $164,505
+  estimated median gross rent: $713
+  unemployment: 3.7%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

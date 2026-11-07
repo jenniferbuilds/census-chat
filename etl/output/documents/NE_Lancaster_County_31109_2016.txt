@@ -1,0 +1,17 @@
+GEOGRAPHY: Lancaster County, NE
+GEOGRAPHIC CODE: 31109 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 301,707
+  under 18: 23.1%
+  age 65+: 12.2%
+  White alone: 86.9%
+  Black alone: 3.9%
+  Asian alone: 4.1%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $54,461
+  homeownership: 59.2%
+  estimated median home value: $157,022
+  estimated median gross rent: $750
+  unemployment: 4.4%
+  bachelor's degree or higher: 37.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

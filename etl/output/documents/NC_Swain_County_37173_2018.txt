@@ -1,0 +1,18 @@
+GEOGRAPHY: Swain County, NC
+GEOGRAPHIC CODE: 37173 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,254
+  under 18: 22.4%
+  age 65+: 19.2%
+  White alone: 64.7%
+  Black alone: 0.4%
+  Asian alone: 0.3%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $37,589
+  poverty rate: 17.3%
+  homeownership: 71.4%
+  estimated median home value: $123,194
+  estimated median gross rent: $634
+  unemployment: 6.9%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

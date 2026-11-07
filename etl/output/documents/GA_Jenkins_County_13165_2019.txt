@@ -1,0 +1,18 @@
+GEOGRAPHY: Jenkins County, GA
+GEOGRAPHIC CODE: 13165 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,793
+  under 18: 22.4%
+  age 65+: 17.8%
+  White alone: 59.2%
+  Black alone: 34.9%
+  Asian alone: 1.1%
+  Hispanic or Latino: 8.2%
+  estimated median household income: $27,830
+  poverty rate: 30.5%
+  homeownership: 71.4%
+  estimated median home value: $74,535
+  estimated median gross rent: $548
+  unemployment: 4.5%
+  bachelor's degree or higher: 7.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

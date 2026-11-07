@@ -1,0 +1,18 @@
+GEOGRAPHY: Gilpin County, CO
+GEOGRAPHIC CODE: 08047 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,793
+  under 18: 18.4%
+  age 65+: 15.0%
+  White alone: 92.8%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $70,029
+  poverty rate: 5.6%
+  homeownership: 79.6%
+  estimated median home value: $301,670
+  estimated median gross rent: $1,044
+  unemployment: 3.3%
+  bachelor's degree or higher: 36.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

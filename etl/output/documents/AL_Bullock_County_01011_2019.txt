@@ -1,0 +1,18 @@
+GEOGRAPHY: Bullock County, AL
+GEOGRAPHIC CODE: 01011 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,248
+  under 18: 20.8%
+  age 65+: 16.0%
+  White alone: 21.9%
+  Black alone: 74.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $37,064
+  poverty rate: 28.9%
+  homeownership: 71.1%
+  estimated median home value: $70,338
+  estimated median gross rent: $654
+  unemployment: 3.9%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

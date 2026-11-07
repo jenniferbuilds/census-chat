@@ -1,0 +1,18 @@
+GEOGRAPHY: Stanley County, SD
+GEOGRAPHIC CODE: 46117 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,994
+  under 18: 23.0%
+  age 65+: 18.7%
+  White alone: 87.8%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $61,312
+  poverty rate: 5.8%
+  homeownership: 78.8%
+  estimated median home value: $158,263
+  estimated median gross rent: $664
+  unemployment: 1.0%
+  bachelor's degree or higher: 27.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

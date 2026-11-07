@@ -1,0 +1,18 @@
+GEOGRAPHY: Weld County, CO
+GEOGRAPHIC CODE: 08123 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 305,345
+  under 18: 26.3%
+  age 65+: 11.9%
+  White alone: 90.3%
+  Black alone: 1.2%
+  Asian alone: 1.6%
+  Hispanic or Latino: 29.4%
+  estimated median household income: $74,180
+  poverty rate: 10.0%
+  homeownership: 72.9%
+  estimated median home value: $299,031
+  estimated median gross rent: $1,085
+  unemployment: 4.1%
+  bachelor's degree or higher: 27.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

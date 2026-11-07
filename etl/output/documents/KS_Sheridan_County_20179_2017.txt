@@ -1,0 +1,18 @@
+GEOGRAPHY: Sheridan County, KS
+GEOGRAPHIC CODE: 20179 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,497
+  under 18: 23.8%
+  age 65+: 22.5%
+  White alone: 97.5%
+  Black alone: 0.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $57,971
+  poverty rate: 4.8%
+  homeownership: 77.7%
+  estimated median home value: $100,973
+  estimated median gross rent: $545
+  unemployment: 2.1%
+  bachelor's degree or higher: 24.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

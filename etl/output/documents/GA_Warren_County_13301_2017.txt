@@ -1,0 +1,18 @@
+GEOGRAPHY: Warren County, GA
+GEOGRAPHIC CODE: 13301 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,410
+  under 18: 21.2%
+  age 65+: 20.5%
+  White alone: 37.2%
+  Black alone: 60.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $31,526
+  poverty rate: 26.8%
+  homeownership: 67.1%
+  estimated median home value: $62,282
+  estimated median gross rent: $548
+  unemployment: 8.2%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

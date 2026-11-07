@@ -1,0 +1,18 @@
+GEOGRAPHY: Wyandotte County, KS
+GEOGRAPHIC CODE: 20209 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 163,227
+  under 18: 28.1%
+  age 65+: 11.5%
+  White alone: 60.4%
+  Black alone: 23.1%
+  Asian alone: 3.9%
+  Hispanic or Latino: 28.1%
+  estimated median household income: $42,831
+  poverty rate: 21.4%
+  homeownership: 57.5%
+  estimated median home value: $92,826
+  estimated median gross rent: $817
+  unemployment: 8.3%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

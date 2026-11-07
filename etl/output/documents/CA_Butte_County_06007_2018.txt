@@ -1,0 +1,18 @@
+GEOGRAPHY: Butte County, CA
+GEOGRAPHIC CODE: 06007 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 227,075
+  under 18: 20.1%
+  age 65+: 17.7%
+  White alone: 82.0%
+  Black alone: 1.5%
+  Asian alone: 4.5%
+  Hispanic or Latino: 16.0%
+  estimated median household income: $48,509
+  poverty rate: 20.1%
+  homeownership: 59.2%
+  estimated median home value: $248,087
+  estimated median gross rent: $1,016
+  unemployment: 8.7%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

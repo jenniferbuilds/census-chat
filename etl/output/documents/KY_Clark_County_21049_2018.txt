@@ -1,0 +1,18 @@
+GEOGRAPHY: Clark County, KY
+GEOGRAPHIC CODE: 21049 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,872
+  under 18: 22.5%
+  age 65+: 17.2%
+  White alone: 92.7%
+  Black alone: 4.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $53,273
+  poverty rate: 15.6%
+  homeownership: 66.9%
+  estimated median home value: $141,567
+  estimated median gross rent: $726
+  unemployment: 6.0%
+  bachelor's degree or higher: 20.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

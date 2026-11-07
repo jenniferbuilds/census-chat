@@ -1,0 +1,18 @@
+GEOGRAPHY: Richmond city, VA
+GEOGRAPHIC CODE: 51760 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 223,787
+  under 18: 17.9%
+  age 65+: 12.4%
+  White alone: 45.4%
+  Black alone: 47.8%
+  Asian alone: 2.1%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $45,106
+  poverty rate: 24.5%
+  homeownership: 42.2%
+  estimated median home value: $220,701
+  estimated median gross rent: $979
+  unemployment: 7.6%
+  bachelor's degree or higher: 38.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

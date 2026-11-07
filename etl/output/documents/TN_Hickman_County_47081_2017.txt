@@ -1,0 +1,18 @@
+GEOGRAPHY: Hickman County, TN
+GEOGRAPHIC CODE: 47081 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,502
+  under 18: 21.8%
+  age 65+: 16.1%
+  White alone: 92.2%
+  Black alone: 5.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $39,422
+  poverty rate: 19.7%
+  homeownership: 78.4%
+  estimated median home value: $104,815
+  estimated median gross rent: $666
+  unemployment: 6.2%
+  bachelor's degree or higher: 11.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

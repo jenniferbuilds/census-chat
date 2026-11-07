@@ -1,0 +1,17 @@
+GEOGRAPHY: Racine County, WI
+GEOGRAPHIC CODE: 55101 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 194,873
+  under 18: 23.9%
+  age 65+: 14.7%
+  White alone: 80.1%
+  Black alone: 11.0%
+  Asian alone: 1.2%
+  Hispanic or Latino: 12.5%
+  estimated median household income: $56,786
+  homeownership: 69.2%
+  estimated median home value: $163,892
+  estimated median gross rent: $808
+  unemployment: 7.5%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

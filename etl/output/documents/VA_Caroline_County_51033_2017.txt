@@ -1,0 +1,18 @@
+GEOGRAPHY: Caroline County, VA
+GEOGRAPHIC CODE: 51033 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,889
+  under 18: 23.1%
+  age 65+: 15.4%
+  White alone: 66.2%
+  Black alone: 28.8%
+  Asian alone: 1.0%
+  Hispanic or Latino: 4.3%
+  estimated median household income: $61,550
+  poverty rate: 11.9%
+  homeownership: 80.1%
+  estimated median home value: $193,219
+  estimated median gross rent: $996
+  unemployment: 6.3%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

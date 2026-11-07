@@ -1,0 +1,18 @@
+GEOGRAPHY: Perry County, TN
+GEOGRAPHIC CODE: 47135 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,882
+  under 18: 21.9%
+  age 65+: 20.2%
+  White alone: 94.3%
+  Black alone: 3.3%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $31,308
+  poverty rate: 29.4%
+  homeownership: 81.9%
+  estimated median home value: $84,159
+  estimated median gross rent: $554
+  unemployment: 6.2%
+  bachelor's degree or higher: 10.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

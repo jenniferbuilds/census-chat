@@ -1,0 +1,17 @@
+GEOGRAPHY: Perkins County, SD
+GEOGRAPHIC CODE: 46105 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,019
+  under 18: 21.3%
+  age 65+: 22.5%
+  White alone: 95.8%
+  Black alone: 0.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $45,833
+  homeownership: 70.3%
+  estimated median home value: $68,571
+  estimated median gross rent: $521
+  unemployment: 4.0%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

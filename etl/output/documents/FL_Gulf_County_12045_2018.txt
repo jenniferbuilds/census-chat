@@ -1,0 +1,18 @@
+GEOGRAPHY: Gulf County, FL
+GEOGRAPHIC CODE: 12045 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,055
+  under 18: 16.4%
+  age 65+: 19.9%
+  White alone: 78.0%
+  Black alone: 18.8%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $44,432
+  poverty rate: 13.9%
+  homeownership: 75.3%
+  estimated median home value: $150,321
+  estimated median gross rent: $1,057
+  unemployment: 7.4%
+  bachelor's degree or higher: 17.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

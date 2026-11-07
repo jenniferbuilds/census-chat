@@ -1,0 +1,18 @@
+GEOGRAPHY: Hardeman County, TX
+GEOGRAPHIC CODE: 48197 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,945
+  under 18: 20.8%
+  age 65+: 21.4%
+  White alone: 87.9%
+  Black alone: 5.9%
+  Asian alone: 0.0%
+  Hispanic or Latino: 19.0%
+  estimated median household income: $42,266
+  poverty rate: 13.9%
+  homeownership: 67.9%
+  estimated median home value: $43,088
+  estimated median gross rent: $539
+  unemployment: 7.7%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

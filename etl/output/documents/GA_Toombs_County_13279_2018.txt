@@ -1,0 +1,18 @@
+GEOGRAPHY: Toombs County, GA
+GEOGRAPHIC CODE: 13279 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,048
+  under 18: 26.7%
+  age 65+: 16.2%
+  White alone: 62.6%
+  Black alone: 25.8%
+  Asian alone: 0.9%
+  Hispanic or Latino: 11.6%
+  estimated median household income: $36,876
+  poverty rate: 23.7%
+  homeownership: 58.8%
+  estimated median home value: $95,526
+  estimated median gross rent: $595
+  unemployment: 10.3%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

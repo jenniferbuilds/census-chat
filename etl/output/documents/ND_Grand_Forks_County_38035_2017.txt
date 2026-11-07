@@ -1,0 +1,18 @@
+GEOGRAPHY: Grand Forks County, ND
+GEOGRAPHIC CODE: 38035 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 70,130
+  under 18: 20.5%
+  age 65+: 11.5%
+  White alone: 87.8%
+  Black alone: 3.4%
+  Asian alone: 2.6%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $51,996
+  poverty rate: 17.0%
+  homeownership: 49.1%
+  estimated median home value: $181,625
+  estimated median gross rent: $796
+  unemployment: 3.8%
+  bachelor's degree or higher: 34.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

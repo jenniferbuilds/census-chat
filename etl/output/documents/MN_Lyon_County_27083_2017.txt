@@ -1,0 +1,18 @@
+GEOGRAPHY: Lyon County, MN
+GEOGRAPHIC CODE: 27083 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 25,789
+  under 18: 24.8%
+  age 65+: 14.7%
+  White alone: 88.1%
+  Black alone: 3.3%
+  Asian alone: 3.8%
+  Hispanic or Latino: 6.2%
+  estimated median household income: $54,896
+  poverty rate: 13.7%
+  homeownership: 68.2%
+  estimated median home value: $135,854
+  estimated median gross rent: $621
+  unemployment: 3.6%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

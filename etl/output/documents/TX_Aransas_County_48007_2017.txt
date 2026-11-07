@@ -1,0 +1,18 @@
+GEOGRAPHY: Aransas County, TX
+GEOGRAPHIC CODE: 48007 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,832
+  under 18: 19.0%
+  age 65+: 25.9%
+  White alone: 87.8%
+  Black alone: 1.6%
+  Asian alone: 2.0%
+  Hispanic or Latino: 27.0%
+  estimated median household income: $44,555
+  poverty rate: 17.8%
+  homeownership: 73.9%
+  estimated median home value: $158,889
+  estimated median gross rent: $822
+  unemployment: 6.7%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

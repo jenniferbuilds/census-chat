@@ -1,0 +1,17 @@
+GEOGRAPHY: Wicomico County, MD
+GEOGRAPHIC CODE: 24045 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 101,527
+  under 18: 22.0%
+  age 65+: 14.3%
+  White alone: 68.1%
+  Black alone: 24.6%
+  Asian alone: 3.2%
+  Hispanic or Latino: 4.9%
+  estimated median household income: $53,445
+  homeownership: 61.6%
+  estimated median home value: $173,131
+  estimated median gross rent: $1,015
+  unemployment: 7.7%
+  bachelor's degree or higher: 27.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

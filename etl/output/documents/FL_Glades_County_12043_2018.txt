@@ -1,0 +1,18 @@
+GEOGRAPHY: Glades County, FL
+GEOGRAPHIC CODE: 12043 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,363
+  under 18: 15.9%
+  age 65+: 25.9%
+  White alone: 79.5%
+  Black alone: 13.9%
+  Asian alone: 0.4%
+  Hispanic or Latino: 20.9%
+  estimated median household income: $39,884
+  poverty rate: 17.0%
+  homeownership: 79.4%
+  estimated median home value: $76,414
+  estimated median gross rent: $746
+  unemployment: 10.8%
+  bachelor's degree or higher: 9.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Menominee County, MI
+GEOGRAPHIC CODE: 26109 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,234
+  under 18: 18.8%
+  age 65+: 22.9%
+  White alone: 94.4%
+  Black alone: 0.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $45,507
+  poverty rate: 12.8%
+  homeownership: 78.4%
+  estimated median home value: $95,833
+  estimated median gross rent: $561
+  unemployment: 4.4%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Pontotoc County, OK
+GEOGRAPHIC CODE: 40123 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,289
+  under 18: 23.8%
+  age 65+: 16.0%
+  White alone: 70.0%
+  Black alone: 2.2%
+  Asian alone: 0.8%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $46,681
+  poverty rate: 17.3%
+  homeownership: 64.0%
+  estimated median home value: $120,314
+  estimated median gross rent: $659
+  unemployment: 5.1%
+  bachelor's degree or higher: 28.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Leflore County, MS
+GEOGRAPHIC CODE: 28083 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 30,500
+  under 18: 27.7%
+  age 65+: 12.8%
+  White alone: 24.6%
+  Black alone: 72.8%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $25,433
+  homeownership: 50.6%
+  estimated median home value: $73,626
+  estimated median gross rent: $547
+  unemployment: 13.1%
+  bachelor's degree or higher: 18.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

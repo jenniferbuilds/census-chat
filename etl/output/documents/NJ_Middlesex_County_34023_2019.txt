@@ -1,0 +1,18 @@
+GEOGRAPHY: Middlesex County, NJ
+GEOGRAPHIC CODE: 34023 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 825,920
+  under 18: 21.9%
+  age 65+: 14.7%
+  White alone: 57.9%
+  Black alone: 10.3%
+  Asian alone: 24.0%
+  Hispanic or Latino: 21.2%
+  estimated median household income: $89,872
+  poverty rate: 8.5%
+  homeownership: 63.5%
+  estimated median home value: $344,062
+  estimated median gross rent: $1,469
+  unemployment: 5.2%
+  bachelor's degree or higher: 43.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

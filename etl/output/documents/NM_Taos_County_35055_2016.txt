@@ -1,0 +1,17 @@
+GEOGRAPHY: Taos County, NM
+GEOGRAPHIC CODE: 35055 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,961
+  under 18: 19.1%
+  age 65+: 22.3%
+  White alone: 75.7%
+  Black alone: 0.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 56.6%
+  estimated median household income: $35,463
+  homeownership: 73.1%
+  estimated median home value: $213,787
+  estimated median gross rent: $707
+  unemployment: 9.7%
+  bachelor's degree or higher: 28.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

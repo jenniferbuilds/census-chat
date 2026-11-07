@@ -1,0 +1,18 @@
+GEOGRAPHY: Nance County, NE
+GEOGRAPHIC CODE: 31125 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,569
+  under 18: 22.8%
+  age 65+: 20.2%
+  White alone: 99.2%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $45,439
+  poverty rate: 11.7%
+  homeownership: 78.5%
+  estimated median home value: $80,410
+  estimated median gross rent: $500
+  unemployment: 2.0%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

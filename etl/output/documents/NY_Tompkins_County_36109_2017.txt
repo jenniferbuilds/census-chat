@@ -1,0 +1,18 @@
+GEOGRAPHY: Tompkins County, NY
+GEOGRAPHIC CODE: 36109 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 104,415
+  under 18: 15.2%
+  age 65+: 12.7%
+  White alone: 80.4%
+  Black alone: 4.0%
+  Asian alone: 10.3%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $56,005
+  poverty rate: 20.4%
+  homeownership: 55.5%
+  estimated median home value: $190,107
+  estimated median gross rent: $1,055
+  unemployment: 4.8%
+  bachelor's degree or higher: 52.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

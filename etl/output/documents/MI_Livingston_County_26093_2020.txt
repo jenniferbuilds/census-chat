@@ -1,0 +1,18 @@
+GEOGRAPHY: Livingston County, MI
+GEOGRAPHIC CODE: 26093 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 190,832
+  under 18: 21.3%
+  age 65+: 17.2%
+  White alone: 96.0%
+  Black alone: 0.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $84,929
+  poverty rate: 5.3%
+  homeownership: 85.1%
+  estimated median home value: $256,103
+  estimated median gross rent: $1,067
+  unemployment: 3.8%
+  bachelor's degree or higher: 36.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

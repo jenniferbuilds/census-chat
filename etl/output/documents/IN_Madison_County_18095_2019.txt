@@ -1,0 +1,18 @@
+GEOGRAPHY: Madison County, IN
+GEOGRAPHIC CODE: 18095 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 129,455
+  under 18: 21.8%
+  age 65+: 17.9%
+  White alone: 87.7%
+  Black alone: 7.9%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $49,515
+  poverty rate: 16.5%
+  homeownership: 69.6%
+  estimated median home value: $97,319
+  estimated median gross rent: $774
+  unemployment: 5.6%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

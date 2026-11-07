@@ -1,0 +1,18 @@
+GEOGRAPHY: Pike County, IN
+GEOGRAPHIC CODE: 18125 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,378
+  under 18: 22.9%
+  age 65+: 19.7%
+  White alone: 96.8%
+  Black alone: 0.9%
+  Asian alone: 0.9%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $50,125
+  poverty rate: 11.7%
+  homeownership: 82.4%
+  estimated median home value: $93,385
+  estimated median gross rent: $576
+  unemployment: 3.7%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

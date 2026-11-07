@@ -1,0 +1,18 @@
+GEOGRAPHY: Eddy County, ND
+GEOGRAPHIC CODE: 38027 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,262
+  under 18: 22.2%
+  age 65+: 24.3%
+  White alone: 88.5%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $51,839
+  poverty rate: 10.7%
+  homeownership: 67.1%
+  estimated median home value: $92,273
+  estimated median gross rent: $639
+  unemployment: 1.4%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

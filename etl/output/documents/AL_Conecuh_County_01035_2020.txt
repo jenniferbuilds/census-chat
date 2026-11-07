@@ -1,0 +1,18 @@
+GEOGRAPHY: Conecuh County, AL
+GEOGRAPHIC CODE: 01035 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,219
+  under 18: 20.8%
+  age 65+: 22.7%
+  White alone: 50.5%
+  Black alone: 48.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 0.5%
+  estimated median household income: $35,529
+  poverty rate: 16.6%
+  homeownership: 74.7%
+  estimated median home value: $83,861
+  estimated median gross rent: $545
+  unemployment: 7.9%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

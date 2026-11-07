@@ -1,0 +1,18 @@
+GEOGRAPHY: Phillips County, AR
+GEOGRAPHIC CODE: 05107 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,034
+  under 18: 26.0%
+  age 65+: 17.6%
+  White alone: 36.2%
+  Black alone: 62.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $29,370
+  poverty rate: 33.2%
+  homeownership: 48.2%
+  estimated median home value: $68,201
+  estimated median gross rent: $577
+  unemployment: 10.5%
+  bachelor's degree or higher: 14.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

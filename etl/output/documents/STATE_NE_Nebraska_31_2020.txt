@@ -1,0 +1,18 @@
+GEOGRAPHY: Nebraska (NE)
+GEOGRAPHIC CODE: 31 | LEVEL: State | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,923,826
+  under 18: 24.7%
+  age 65+: 15.7%
+  White alone: 85.3%
+  Black alone: 4.8%
+  Asian alone: 2.5%
+  Hispanic or Latino: 11.2%
+  estimated median household income: $63,170
+  poverty rate: 10.4%
+  homeownership: 66.2%
+  estimated median home value: $164,037
+  estimated median gross rent: $857
+  unemployment: 3.4%
+  bachelor's degree or higher: 32.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,36 @@
+{
+  "version": "55.0.0",
+  "files": {
+    "faa95a81ae7d7373f3e1f242268f904eb748d8d0fdd306e8a6fe515a1905a7d6": {
+      "displayName": "CensusChatFrontendStack/Custom::S3AutoDeleteObjectsCustomResourceProvider Code",
+      "source": {
+        "path": "asset.faa95a81ae7d7373f3e1f242268f904eb748d8d0fdd306e8a6fe515a1905a7d6",
+        "packaging": "zip"
+      },
+      "destinations": {
+        "887083795887-us-east-2-093ed763": {
+          "bucketName": "cdk-hnb659fds-assets-887083795887-us-east-2",
+          "objectKey": "faa95a81ae7d7373f3e1f242268f904eb748d8d0fdd306e8a6fe515a1905a7d6.zip",
+          "region": "us-east-2",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::887083795887:role/cdk-hnb659fds-file-publishing-role-887083795887-us-east-2"
+        }
+      }
+    },
+    "842eef5b7c26784d68c4a8814d5dc42fdca7689c876c5a0fd244b44de992bed3": {
+      "displayName": "CensusChatFrontendStack Template",
+      "source": {
+        "path": "CensusChatFrontendStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "887083795887-us-east-2-28816193": {
+          "bucketName": "cdk-hnb659fds-assets-887083795887-us-east-2",
+          "objectKey": "842eef5b7c26784d68c4a8814d5dc42fdca7689c876c5a0fd244b44de992bed3.json",
+          "region": "us-east-2",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::887083795887:role/cdk-hnb659fds-file-publishing-role-887083795887-us-east-2"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}

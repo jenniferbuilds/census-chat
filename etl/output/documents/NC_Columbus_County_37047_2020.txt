@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbus County, NC
+GEOGRAPHIC CODE: 37047 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 55,659
+  under 18: 21.0%
+  age 65+: 20.0%
+  White alone: 62.5%
+  Black alone: 29.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.5%
+  estimated median household income: $38,522
+  poverty rate: 22.1%
+  homeownership: 72.1%
+  estimated median home value: $94,839
+  estimated median gross rent: $642
+  unemployment: 5.7%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

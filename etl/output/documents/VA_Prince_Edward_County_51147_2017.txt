@@ -1,0 +1,18 @@
+GEOGRAPHY: Prince Edward County, VA
+GEOGRAPHIC CODE: 51147 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,903
+  under 18: 16.4%
+  age 65+: 15.5%
+  White alone: 64.5%
+  Black alone: 31.3%
+  Asian alone: 1.1%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $44,194
+  poverty rate: 21.4%
+  homeownership: 64.9%
+  estimated median home value: $154,792
+  estimated median gross rent: $764
+  unemployment: 5.2%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

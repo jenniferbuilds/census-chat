@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, AR
+GEOGRAPHIC CODE: 05079 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,885
+  under 18: 17.8%
+  age 65+: 14.3%
+  White alone: 66.7%
+  Black alone: 31.4%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $38,945
+  poverty rate: 17.9%
+  homeownership: 75.0%
+  estimated median home value: $66,126
+  estimated median gross rent: $539
+  unemployment: 8.1%
+  bachelor's degree or higher: 7.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

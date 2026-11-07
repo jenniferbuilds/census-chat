@@ -1,0 +1,18 @@
+GEOGRAPHY: Lake of the Woods County, MN
+GEOGRAPHIC CODE: 27077 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,809
+  under 18: 18.5%
+  age 65+: 22.6%
+  White alone: 93.1%
+  Black alone: 0.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $48,773
+  poverty rate: 9.2%
+  homeownership: 81.3%
+  estimated median home value: $152,394
+  estimated median gross rent: $619
+  unemployment: 3.1%
+  bachelor's degree or higher: 19.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

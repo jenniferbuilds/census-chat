@@ -1,0 +1,18 @@
+GEOGRAPHY: Cambria County, PA
+GEOGRAPHIC CODE: 42021 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 131,611
+  under 18: 19.2%
+  age 65+: 22.5%
+  White alone: 93.1%
+  Black alone: 3.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $47,596
+  poverty rate: 14.5%
+  homeownership: 74.7%
+  estimated median home value: $94,882
+  estimated median gross rent: $635
+  unemployment: 5.2%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

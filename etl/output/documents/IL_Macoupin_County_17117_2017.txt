@@ -1,0 +1,18 @@
+GEOGRAPHY: Macoupin County, IL
+GEOGRAPHIC CODE: 17117 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,960
+  under 18: 21.5%
+  age 65+: 18.8%
+  White alone: 97.0%
+  Black alone: 0.8%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $53,703
+  poverty rate: 13.3%
+  homeownership: 76.7%
+  estimated median home value: $98,383
+  estimated median gross rent: $658
+  unemployment: 8.2%
+  bachelor's degree or higher: 18.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

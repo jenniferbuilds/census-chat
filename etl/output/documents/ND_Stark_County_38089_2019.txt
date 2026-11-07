@@ -1,0 +1,18 @@
+GEOGRAPHY: Stark County, ND
+GEOGRAPHIC CODE: 38089 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,081
+  under 18: 25.9%
+  age 65+: 13.0%
+  White alone: 91.2%
+  Black alone: 2.0%
+  Asian alone: 1.2%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $72,453
+  poverty rate: 8.8%
+  homeownership: 61.1%
+  estimated median home value: $239,006
+  estimated median gross rent: $917
+  unemployment: 2.5%
+  bachelor's degree or higher: 22.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Marion County, AR
+GEOGRAPHIC CODE: 05089 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,374
+  under 18: 17.9%
+  age 65+: 27.0%
+  White alone: 96.3%
+  Black alone: 0.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $36,355
+  poverty rate: 19.5%
+  homeownership: 78.4%
+  estimated median home value: $117,334
+  estimated median gross rent: $586
+  unemployment: 7.7%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

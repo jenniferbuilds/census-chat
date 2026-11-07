@@ -1,0 +1,18 @@
+GEOGRAPHY: Sargent County, ND
+GEOGRAPHIC CODE: 38081 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,883
+  under 18: 19.5%
+  age 65+: 21.5%
+  White alone: 95.3%
+  Black alone: 2.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $66,054
+  poverty rate: 3.8%
+  homeownership: 72.2%
+  estimated median home value: $105,381
+  estimated median gross rent: $699
+  unemployment: 1.3%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

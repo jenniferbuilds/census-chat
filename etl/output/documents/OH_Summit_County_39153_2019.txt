@@ -1,0 +1,18 @@
+GEOGRAPHY: Summit County, OH
+GEOGRAPHIC CODE: 39153 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 541,334
+  under 18: 21.1%
+  age 65+: 17.5%
+  White alone: 78.6%
+  Black alone: 14.5%
+  Asian alone: 3.4%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $57,170
+  poverty rate: 13.2%
+  homeownership: 65.8%
+  estimated median home value: $146,781
+  estimated median gross rent: $823
+  unemployment: 5.4%
+  bachelor's degree or higher: 32.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

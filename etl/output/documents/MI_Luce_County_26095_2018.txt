@@ -1,0 +1,18 @@
+GEOGRAPHY: Luce County, MI
+GEOGRAPHIC CODE: 26095 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,364
+  under 18: 16.6%
+  age 65+: 20.8%
+  White alone: 79.6%
+  Black alone: 7.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $42,902
+  poverty rate: 16.6%
+  homeownership: 81.1%
+  estimated median home value: $83,770
+  estimated median gross rent: $710
+  unemployment: 5.7%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

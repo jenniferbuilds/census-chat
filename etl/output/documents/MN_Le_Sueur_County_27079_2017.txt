@@ -1,0 +1,18 @@
+GEOGRAPHY: Le Sueur County, MN
+GEOGRAPHIC CODE: 27079 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,810
+  under 18: 24.1%
+  age 65+: 16.5%
+  White alone: 96.1%
+  Black alone: 0.9%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.7%
+  estimated median household income: $66,187
+  poverty rate: 8.8%
+  homeownership: 81.9%
+  estimated median home value: $190,695
+  estimated median gross rent: $779
+  unemployment: 3.9%
+  bachelor's degree or higher: 21.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

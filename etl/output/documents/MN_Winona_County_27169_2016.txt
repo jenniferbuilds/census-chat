@@ -1,0 +1,17 @@
+GEOGRAPHY: Winona County, MN
+GEOGRAPHIC CODE: 27169 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 51,145
+  under 18: 18.4%
+  age 65+: 15.0%
+  White alone: 93.9%
+  Black alone: 1.5%
+  Asian alone: 2.6%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $52,712
+  homeownership: 70.4%
+  estimated median home value: $156,494
+  estimated median gross rent: $629
+  unemployment: 5.7%
+  bachelor's degree or higher: 29.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

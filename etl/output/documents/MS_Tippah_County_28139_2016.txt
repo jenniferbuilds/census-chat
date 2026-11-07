@@ -1,0 +1,17 @@
+GEOGRAPHY: Tippah County, MS
+GEOGRAPHIC CODE: 28139 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,061
+  under 18: 24.8%
+  age 65+: 16.0%
+  White alone: 80.8%
+  Black alone: 17.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $36,811
+  homeownership: 75.5%
+  estimated median home value: $82,673
+  estimated median gross rent: $537
+  unemployment: 10.6%
+  bachelor's degree or higher: 13.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

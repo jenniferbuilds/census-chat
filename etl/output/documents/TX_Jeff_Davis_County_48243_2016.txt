@@ -1,0 +1,17 @@
+GEOGRAPHY: Jeff Davis County, TX
+GEOGRAPHIC CODE: 48243 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,221
+  under 18: 18.7%
+  age 65+: 31.5%
+  White alone: 96.5%
+  Black alone: 0.5%
+  Asian alone: 0.8%
+  Hispanic or Latino: 35.9%
+  estimated median household income: $50,208
+  homeownership: 75.8%
+  estimated median home value: $112,121
+  estimated median gross rent: $646
+  unemployment: 4.8%
+  bachelor's degree or higher: 38.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

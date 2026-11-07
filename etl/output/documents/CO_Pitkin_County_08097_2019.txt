@@ -1,0 +1,18 @@
+GEOGRAPHY: Pitkin County, CO
+GEOGRAPHIC CODE: 08097 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,926
+  under 18: 16.1%
+  age 65+: 17.8%
+  White alone: 91.1%
+  Black alone: 1.0%
+  Asian alone: 2.2%
+  Hispanic or Latino: 10.1%
+  estimated median household income: $78,570
+  poverty rate: 6.7%
+  homeownership: 65.0%
+  estimated median home value: $615,870
+  estimated median gross rent: $1,473
+  unemployment: 3.0%
+  bachelor's degree or higher: 60.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

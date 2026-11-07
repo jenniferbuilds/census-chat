@@ -1,0 +1,18 @@
+GEOGRAPHY: Morris County, NJ
+GEOGRAPHIC CODE: 34027 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 498,847
+  under 18: 22.0%
+  age 65+: 15.8%
+  White alone: 81.5%
+  Black alone: 3.2%
+  Asian alone: 10.1%
+  Hispanic or Latino: 13.0%
+  estimated median household income: $108,315
+  poverty rate: 4.6%
+  homeownership: 75.1%
+  estimated median home value: $438,114
+  estimated median gross rent: $1,420
+  unemployment: 5.2%
+  bachelor's degree or higher: 52.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

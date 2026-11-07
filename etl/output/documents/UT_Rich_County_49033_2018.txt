@@ -1,0 +1,18 @@
+GEOGRAPHY: Rich County, UT
+GEOGRAPHIC CODE: 49033 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,350
+  under 18: 36.3%
+  age 65+: 18.7%
+  White alone: 97.1%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 10.9%
+  estimated median household income: $49,911
+  poverty rate: 15.9%
+  homeownership: 76.9%
+  estimated median home value: $192,230
+  estimated median gross rent: $695
+  unemployment: 0.0%
+  bachelor's degree or higher: 24.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

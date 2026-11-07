@@ -1,0 +1,18 @@
+GEOGRAPHY: Iberville Parish, LA
+GEOGRAPHIC CODE: 22047 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 32,956
+  under 18: 21.4%
+  age 65+: 14.7%
+  White alone: 49.3%
+  Black alone: 48.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $47,359
+  poverty rate: 18.0%
+  homeownership: 74.1%
+  estimated median home value: $143,841
+  estimated median gross rent: $745
+  unemployment: 6.5%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

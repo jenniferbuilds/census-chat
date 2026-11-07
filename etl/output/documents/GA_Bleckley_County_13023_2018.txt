@@ -1,0 +1,18 @@
+GEOGRAPHY: Bleckley County, GA
+GEOGRAPHIC CODE: 13023 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,775
+  under 18: 21.9%
+  age 65+: 16.8%
+  White alone: 69.7%
+  Black alone: 28.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $45,026
+  poverty rate: 20.8%
+  homeownership: 71.6%
+  estimated median home value: $97,941
+  estimated median gross rent: $613
+  unemployment: 7.4%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

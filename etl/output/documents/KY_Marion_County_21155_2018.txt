@@ -1,0 +1,18 @@
+GEOGRAPHY: Marion County, KY
+GEOGRAPHIC CODE: 21155 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,232
+  under 18: 24.4%
+  age 65+: 16.2%
+  White alone: 89.5%
+  Black alone: 7.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.7%
+  estimated median household income: $38,505
+  poverty rate: 22.8%
+  homeownership: 72.7%
+  estimated median home value: $103,140
+  estimated median gross rent: $623
+  unemployment: 9.1%
+  bachelor's degree or higher: 13.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

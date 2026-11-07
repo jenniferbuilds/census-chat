@@ -1,0 +1,17 @@
+GEOGRAPHY: Greene County, VA
+GEOGRAPHIC CODE: 51079 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,085
+  under 18: 24.3%
+  age 65+: 15.4%
+  White alone: 88.5%
+  Black alone: 6.3%
+  Asian alone: 1.4%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $62,902
+  homeownership: 78.0%
+  estimated median home value: $240,972
+  estimated median gross rent: $901
+  unemployment: 7.8%
+  bachelor's degree or higher: 24.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

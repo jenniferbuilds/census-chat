@@ -1,0 +1,18 @@
+GEOGRAPHY: Wolfe County, KY
+GEOGRAPHIC CODE: 21237 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,223
+  under 18: 23.3%
+  age 65+: 18.7%
+  White alone: 98.8%
+  Black alone: 0.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.3%
+  estimated median household income: $23,448
+  poverty rate: 32.3%
+  homeownership: 62.9%
+  estimated median home value: $63,642
+  estimated median gross rent: $519
+  unemployment: 17.6%
+  bachelor's degree or higher: 7.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

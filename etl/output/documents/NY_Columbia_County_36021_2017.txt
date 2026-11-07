@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbia County, NY
+GEOGRAPHIC CODE: 36021 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 61,481
+  under 18: 18.3%
+  age 65+: 21.6%
+  White alone: 89.6%
+  Black alone: 4.5%
+  Asian alone: 1.7%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $61,239
+  poverty rate: 11.4%
+  homeownership: 72.4%
+  estimated median home value: $224,592
+  estimated median gross rent: $886
+  unemployment: 5.0%
+  bachelor's degree or higher: 30.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

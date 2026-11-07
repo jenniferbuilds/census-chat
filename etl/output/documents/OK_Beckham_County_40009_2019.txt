@@ -1,0 +1,18 @@
+GEOGRAPHY: Beckham County, OK
+GEOGRAPHIC CODE: 40009 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,268
+  under 18: 25.0%
+  age 65+: 13.5%
+  White alone: 84.5%
+  Black alone: 4.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 14.6%
+  estimated median household income: $50,620
+  poverty rate: 16.7%
+  homeownership: 66.2%
+  estimated median home value: $128,431
+  estimated median gross rent: $718
+  unemployment: 3.3%
+  bachelor's degree or higher: 16.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

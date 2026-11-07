@@ -1,0 +1,18 @@
+GEOGRAPHY: Custer County, OK
+GEOGRAPHIC CODE: 40039 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,209
+  under 18: 25.1%
+  age 65+: 13.5%
+  White alone: 80.2%
+  Black alone: 3.2%
+  Asian alone: 1.2%
+  Hispanic or Latino: 18.0%
+  estimated median household income: $48,702
+  poverty rate: 17.6%
+  homeownership: 60.1%
+  estimated median home value: $135,521
+  estimated median gross rent: $710
+  unemployment: 3.3%
+  bachelor's degree or higher: 25.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Overton County, TN
+GEOGRAPHIC CODE: 47133 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,004
+  under 18: 22.3%
+  age 65+: 19.8%
+  White alone: 97.6%
+  Black alone: 0.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $37,076
+  poverty rate: 17.0%
+  homeownership: 79.5%
+  estimated median home value: $115,333
+  estimated median gross rent: $512
+  unemployment: 4.0%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

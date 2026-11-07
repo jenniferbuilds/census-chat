@@ -1,0 +1,18 @@
+GEOGRAPHY: Green County, KY
+GEOGRAPHIC CODE: 21087 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,979
+  under 18: 21.1%
+  age 65+: 20.1%
+  White alone: 95.2%
+  Black alone: 2.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $35,954
+  poverty rate: 18.0%
+  homeownership: 73.8%
+  estimated median home value: $79,504
+  estimated median gross rent: $547
+  unemployment: 4.2%
+  bachelor's degree or higher: 13.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

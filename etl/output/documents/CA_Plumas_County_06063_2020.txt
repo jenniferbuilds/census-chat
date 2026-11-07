@@ -1,0 +1,18 @@
+GEOGRAPHY: Plumas County, CA
+GEOGRAPHIC CODE: 06063 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 18,844
+  under 18: 16.8%
+  age 65+: 27.7%
+  White alone: 88.5%
+  Black alone: 1.5%
+  Asian alone: 1.2%
+  Hispanic or Latino: 9.3%
+  estimated median household income: $58,149
+  poverty rate: 12.5%
+  homeownership: 72.9%
+  estimated median home value: $259,299
+  estimated median gross rent: $944
+  unemployment: 6.3%
+  bachelor's degree or higher: 24.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

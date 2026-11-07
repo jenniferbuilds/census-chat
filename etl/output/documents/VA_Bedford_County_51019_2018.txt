@@ -1,0 +1,18 @@
+GEOGRAPHY: Bedford County, VA
+GEOGRAPHIC CODE: 51019 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 77,908
+  under 18: 20.2%
+  age 65+: 20.4%
+  White alone: 89.6%
+  Black alone: 6.8%
+  Asian alone: 1.4%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $61,250
+  poverty rate: 9.1%
+  homeownership: 81.6%
+  estimated median home value: $200,508
+  estimated median gross rent: $852
+  unemployment: 4.0%
+  bachelor's degree or higher: 28.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

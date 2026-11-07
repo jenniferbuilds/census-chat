@@ -1,0 +1,18 @@
+GEOGRAPHY: Staunton city, VA
+GEOGRAPHIC CODE: 51790 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,452
+  under 18: 19.1%
+  age 65+: 20.7%
+  White alone: 83.4%
+  Black alone: 11.7%
+  Asian alone: 1.4%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $47,992
+  poverty rate: 13.7%
+  homeownership: 56.8%
+  estimated median home value: $164,752
+  estimated median gross rent: $863
+  unemployment: 3.2%
+  bachelor's degree or higher: 34.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

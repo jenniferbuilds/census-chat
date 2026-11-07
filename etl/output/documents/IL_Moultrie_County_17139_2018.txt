@@ -1,0 +1,18 @@
+GEOGRAPHY: Moultrie County, IL
+GEOGRAPHIC CODE: 17139 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,703
+  under 18: 25.3%
+  age 65+: 18.4%
+  White alone: 98.0%
+  Black alone: 0.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.3%
+  estimated median household income: $59,770
+  poverty rate: 9.2%
+  homeownership: 77.6%
+  estimated median home value: $109,002
+  estimated median gross rent: $699
+  unemployment: 3.2%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

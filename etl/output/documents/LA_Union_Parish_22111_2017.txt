@@ -1,0 +1,18 @@
+GEOGRAPHY: Union Parish, LA
+GEOGRAPHIC CODE: 22111 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,537
+  under 18: 22.5%
+  age 65+: 19.0%
+  White alone: 71.8%
+  Black alone: 25.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $38,936
+  poverty rate: 22.0%
+  homeownership: 81.6%
+  estimated median home value: $88,722
+  estimated median gross rent: $466
+  unemployment: 6.6%
+  bachelor's degree or higher: 12.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

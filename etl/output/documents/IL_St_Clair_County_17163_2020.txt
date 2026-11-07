@@ -1,0 +1,18 @@
+GEOGRAPHY: St. Clair County, IL
+GEOGRAPHIC CODE: 17163 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 261,186
+  under 18: 23.5%
+  age 65+: 15.7%
+  White alone: 63.2%
+  Black alone: 29.8%
+  Asian alone: 1.4%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $58,035
+  poverty rate: 14.4%
+  homeownership: 65.9%
+  estimated median home value: $134,849
+  estimated median gross rent: $881
+  unemployment: 5.4%
+  bachelor's degree or higher: 29.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Kenai Peninsula Borough, AK
+GEOGRAPHIC CODE: 02122 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 57,637
+  under 18: 23.0%
+  age 65+: 14.1%
+  White alone: 83.6%
+  Black alone: 0.6%
+  Asian alone: 1.3%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $66,102
+  homeownership: 71.6%
+  estimated median home value: $229,179
+  estimated median gross rent: $970
+  unemployment: 8.7%
+  bachelor's degree or higher: 23.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

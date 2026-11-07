@@ -1,0 +1,18 @@
+GEOGRAPHY: Sedgwick County, KS
+GEOGRAPHIC CODE: 20173 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 510,484
+  under 18: 26.3%
+  age 65+: 13.2%
+  White alone: 79.1%
+  Black alone: 9.0%
+  Asian alone: 4.4%
+  Hispanic or Latino: 14.1%
+  estimated median household income: $53,191
+  poverty rate: 14.7%
+  homeownership: 63.9%
+  estimated median home value: $130,873
+  estimated median gross rent: $780
+  unemployment: 5.6%
+  bachelor's degree or higher: 30.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Graves County, KY
+GEOGRAPHIC CODE: 21083 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,248
+  under 18: 24.1%
+  age 65+: 18.2%
+  White alone: 89.6%
+  Black alone: 4.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $44,192
+  poverty rate: 19.6%
+  homeownership: 75.5%
+  estimated median home value: $104,256
+  estimated median gross rent: $639
+  unemployment: 6.1%
+  bachelor's degree or higher: 17.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

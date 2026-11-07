@@ -1,0 +1,18 @@
+GEOGRAPHY: Southeast Fairbanks Census Area, AK
+GEOGRAPHIC CODE: 02240 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,876
+  under 18: 27.1%
+  age 65+: 12.9%
+  White alone: 76.6%
+  Black alone: 0.7%
+  Asian alone: 2.3%
+  Hispanic or Latino: 5.5%
+  estimated median household income: $71,968
+  poverty rate: 10.8%
+  homeownership: 73.6%
+  estimated median home value: $184,022
+  estimated median gross rent: $1,076
+  unemployment: 10.2%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

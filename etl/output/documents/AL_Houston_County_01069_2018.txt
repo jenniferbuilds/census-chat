@@ -1,0 +1,18 @@
+GEOGRAPHY: Houston County, AL
+GEOGRAPHIC CODE: 01069 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 104,352
+  under 18: 23.4%
+  age 65+: 16.9%
+  White alone: 69.4%
+  Black alone: 26.9%
+  Asian alone: 0.8%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $45,496
+  poverty rate: 18.3%
+  homeownership: 65.6%
+  estimated median home value: $130,457
+  estimated median gross rent: $741
+  unemployment: 7.0%
+  bachelor's degree or higher: 21.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

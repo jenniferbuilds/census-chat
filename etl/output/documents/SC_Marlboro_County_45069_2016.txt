@@ -1,0 +1,17 @@
+GEOGRAPHY: Marlboro County, SC
+GEOGRAPHIC CODE: 45069 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,702
+  under 18: 20.5%
+  age 65+: 15.4%
+  White alone: 41.0%
+  Black alone: 50.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $32,431
+  homeownership: 67.4%
+  estimated median home value: $63,268
+  estimated median gross rent: $559
+  unemployment: 15.5%
+  bachelor's degree or higher: 8.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

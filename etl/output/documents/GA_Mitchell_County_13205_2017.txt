@@ -1,0 +1,18 @@
+GEOGRAPHY: Mitchell County, GA
+GEOGRAPHIC CODE: 13205 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,574
+  under 18: 23.5%
+  age 65+: 15.2%
+  White alone: 49.3%
+  Black alone: 47.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $34,232
+  poverty rate: 27.1%
+  homeownership: 65.9%
+  estimated median home value: $82,493
+  estimated median gross rent: $614
+  unemployment: 15.2%
+  bachelor's degree or higher: 12.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Connecticut (CT)
+GEOGRAPHIC CODE: 09 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,581,504
+  under 18: 21.0%
+  age 65+: 16.4%
+  White alone: 76.4%
+  Black alone: 10.6%
+  Asian alone: 4.4%
+  Hispanic or Latino: 15.7%
+  estimated median household income: $76,201
+  poverty rate: 10.0%
+  homeownership: 66.3%
+  estimated median home value: $272,694
+  estimated median gross rent: $1,156
+  unemployment: 6.5%
+  bachelor's degree or higher: 38.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

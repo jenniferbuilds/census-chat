@@ -1,0 +1,18 @@
+GEOGRAPHY: Merced County, CA
+GEOGRAPHIC CODE: 06047 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 271,382
+  under 18: 29.6%
+  age 65+: 11.0%
+  White alone: 55.1%
+  Black alone: 3.2%
+  Asian alone: 7.5%
+  Hispanic or Latino: 59.6%
+  estimated median household income: $54,011
+  poverty rate: 21.2%
+  homeownership: 52.2%
+  estimated median home value: $252,671
+  estimated median gross rent: $1,021
+  unemployment: 11.9%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

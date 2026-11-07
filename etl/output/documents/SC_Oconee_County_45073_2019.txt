@@ -1,0 +1,18 @@
+GEOGRAPHY: Oconee County, SC
+GEOGRAPHIC CODE: 45073 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 77,528
+  under 18: 20.2%
+  age 65+: 22.8%
+  White alone: 87.8%
+  Black alone: 6.9%
+  Asian alone: 0.7%
+  Hispanic or Latino: 5.5%
+  estimated median household income: $49,282
+  poverty rate: 17.5%
+  homeownership: 72.7%
+  estimated median home value: $159,848
+  estimated median gross rent: $762
+  unemployment: 5.5%
+  bachelor's degree or higher: 25.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

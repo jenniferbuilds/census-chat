@@ -1,0 +1,18 @@
+GEOGRAPHY: Leelanau County, MI
+GEOGRAPHIC CODE: 26089 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,564
+  under 18: 17.1%
+  age 65+: 27.9%
+  White alone: 92.9%
+  Black alone: 0.5%
+  Asian alone: 0.7%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $62,120
+  poverty rate: 7.7%
+  homeownership: 86.9%
+  estimated median home value: $248,926
+  estimated median gross rent: $899
+  unemployment: 6.3%
+  bachelor's degree or higher: 40.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

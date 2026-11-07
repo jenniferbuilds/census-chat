@@ -1,0 +1,18 @@
+GEOGRAPHY: Clinton County, IA
+GEOGRAPHIC CODE: 19045 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,218
+  under 18: 22.8%
+  age 65+: 19.1%
+  White alone: 93.8%
+  Black alone: 2.7%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $50,144
+  poverty rate: 12.3%
+  homeownership: 74.2%
+  estimated median home value: $114,891
+  estimated median gross rent: $664
+  unemployment: 4.4%
+  bachelor's degree or higher: 19.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

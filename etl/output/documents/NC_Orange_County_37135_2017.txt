@@ -1,0 +1,18 @@
+GEOGRAPHY: Orange County, NC
+GEOGRAPHIC CODE: 37135 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 141,812
+  under 18: 20.1%
+  age 65+: 12.3%
+  White alone: 74.7%
+  Black alone: 11.6%
+  Asian alone: 7.7%
+  Hispanic or Latino: 8.3%
+  estimated median household income: $65,666
+  poverty rate: 14.0%
+  homeownership: 61.8%
+  estimated median home value: $283,002
+  estimated median gross rent: $1,026
+  unemployment: 5.2%
+  bachelor's degree or higher: 57.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

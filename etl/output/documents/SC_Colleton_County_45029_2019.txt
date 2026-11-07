@@ -1,0 +1,18 @@
+GEOGRAPHY: Colleton County, SC
+GEOGRAPHIC CODE: 45029 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,585
+  under 18: 22.4%
+  age 65+: 19.8%
+  White alone: 57.3%
+  Black alone: 38.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $36,332
+  poverty rate: 21.8%
+  homeownership: 74.9%
+  estimated median home value: $90,443
+  estimated median gross rent: $749
+  unemployment: 8.2%
+  bachelor's degree or higher: 14.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Worth County, GA
+GEOGRAPHIC CODE: 13321 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,494
+  under 18: 22.5%
+  age 65+: 18.8%
+  White alone: 68.6%
+  Black alone: 28.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $45,430
+  poverty rate: 19.0%
+  homeownership: 65.4%
+  estimated median home value: $98,664
+  estimated median gross rent: $722
+  unemployment: 7.1%
+  bachelor's degree or higher: 11.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

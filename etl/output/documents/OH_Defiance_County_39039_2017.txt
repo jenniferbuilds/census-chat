@@ -1,0 +1,18 @@
+GEOGRAPHY: Defiance County, OH
+GEOGRAPHIC CODE: 39039 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,311
+  under 18: 23.4%
+  age 65+: 17.1%
+  White alone: 91.0%
+  Black alone: 1.9%
+  Asian alone: 0.4%
+  Hispanic or Latino: 9.6%
+  estimated median household income: $55,412
+  poverty rate: 11.0%
+  homeownership: 76.2%
+  estimated median home value: $112,726
+  estimated median gross rent: $703
+  unemployment: 5.0%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Carbon County, MT
+GEOGRAPHIC CODE: 30009 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,466
+  under 18: 18.3%
+  age 65+: 23.7%
+  White alone: 97.0%
+  Black alone: 0.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $56,867
+  poverty rate: 9.9%
+  homeownership: 79.0%
+  estimated median home value: $227,431
+  estimated median gross rent: $754
+  unemployment: 4.0%
+  bachelor's degree or higher: 31.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

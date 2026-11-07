@@ -1,0 +1,17 @@
+GEOGRAPHY: Midland County, TX
+GEOGRAPHIC CODE: 48329 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 155,817
+  under 18: 27.8%
+  age 65+: 10.1%
+  White alone: 82.8%
+  Black alone: 6.2%
+  Asian alone: 1.8%
+  Hispanic or Latino: 42.3%
+  estimated median household income: $71,807
+  homeownership: 66.5%
+  estimated median home value: $175,669
+  estimated median gross rent: $1,148
+  unemployment: 3.6%
+  bachelor's degree or higher: 26.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

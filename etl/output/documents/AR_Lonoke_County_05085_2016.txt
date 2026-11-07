@@ -1,0 +1,17 @@
+GEOGRAPHY: Lonoke County, AR
+GEOGRAPHIC CODE: 05085 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 71,279
+  under 18: 26.5%
+  age 65+: 12.6%
+  White alone: 89.2%
+  Black alone: 5.9%
+  Asian alone: 0.8%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $56,221
+  homeownership: 69.5%
+  estimated median home value: $131,708
+  estimated median gross rent: $738
+  unemployment: 5.6%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

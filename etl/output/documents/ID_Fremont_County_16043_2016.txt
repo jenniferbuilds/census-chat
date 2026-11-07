@@ -1,0 +1,17 @@
+GEOGRAPHY: Fremont County, ID
+GEOGRAPHIC CODE: 16043 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,896
+  under 18: 28.1%
+  age 65+: 16.2%
+  White alone: 93.7%
+  Black alone: 0.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 12.3%
+  estimated median household income: $49,977
+  homeownership: 80.7%
+  estimated median home value: $147,518
+  estimated median gross rent: $680
+  unemployment: 5.2%
+  bachelor's degree or higher: 20.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

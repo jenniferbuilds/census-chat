@@ -1,0 +1,18 @@
+GEOGRAPHY: Alamosa County, CO
+GEOGRAPHIC CODE: 08003 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,444
+  under 18: 23.9%
+  age 65+: 12.8%
+  White alone: 86.9%
+  Black alone: 1.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 45.9%
+  estimated median household income: $39,341
+  poverty rate: 23.7%
+  homeownership: 55.7%
+  estimated median home value: $157,523
+  estimated median gross rent: $657
+  unemployment: 9.3%
+  bachelor's degree or higher: 26.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

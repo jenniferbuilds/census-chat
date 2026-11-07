@@ -1,0 +1,18 @@
+GEOGRAPHY: Colonial Heights city, VA
+GEOGRAPHIC CODE: 51570 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,428
+  under 18: 22.8%
+  age 65+: 20.4%
+  White alone: 75.5%
+  Black alone: 15.3%
+  Asian alone: 4.2%
+  Hispanic or Latino: 5.9%
+  estimated median household income: $55,498
+  poverty rate: 12.1%
+  homeownership: 62.9%
+  estimated median home value: $171,741
+  estimated median gross rent: $1,038
+  unemployment: 8.1%
+  bachelor's degree or higher: 25.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

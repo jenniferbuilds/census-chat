@@ -1,0 +1,18 @@
+GEOGRAPHY: Stewart County, TN
+GEOGRAPHIC CODE: 47161 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,301
+  under 18: 21.1%
+  age 65+: 19.7%
+  White alone: 94.1%
+  Black alone: 1.1%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $43,046
+  poverty rate: 16.5%
+  homeownership: 72.9%
+  estimated median home value: $125,548
+  estimated median gross rent: $650
+  unemployment: 7.2%
+  bachelor's degree or higher: 14.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

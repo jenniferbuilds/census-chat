@@ -1,0 +1,18 @@
+GEOGRAPHY: Weston County, WY
+GEOGRAPHIC CODE: 56045 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,117
+  under 18: 21.1%
+  age 65+: 18.2%
+  White alone: 93.0%
+  Black alone: 0.5%
+  Asian alone: 4.3%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $59,866
+  poverty rate: 14.4%
+  homeownership: 76.6%
+  estimated median home value: $180,053
+  estimated median gross rent: $769
+  unemployment: 2.2%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

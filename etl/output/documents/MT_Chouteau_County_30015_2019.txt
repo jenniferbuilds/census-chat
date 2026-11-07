@@ -1,0 +1,18 @@
+GEOGRAPHY: Chouteau County, MT
+GEOGRAPHIC CODE: 30015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,732
+  under 18: 23.7%
+  age 65+: 20.0%
+  White alone: 77.7%
+  Black alone: 0.2%
+  Asian alone: 0.6%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $42,645
+  poverty rate: 17.1%
+  homeownership: 63.8%
+  estimated median home value: $143,204
+  estimated median gross rent: $384
+  unemployment: 2.7%
+  bachelor's degree or higher: 28.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

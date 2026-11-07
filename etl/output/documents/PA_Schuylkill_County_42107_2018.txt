@@ -1,0 +1,18 @@
+GEOGRAPHY: Schuylkill County, PA
+GEOGRAPHIC CODE: 42107 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 143,555
+  under 18: 19.8%
+  age 65+: 19.7%
+  White alone: 93.6%
+  Black alone: 3.0%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $49,194
+  poverty rate: 12.7%
+  homeownership: 75.4%
+  estimated median home value: $97,394
+  estimated median gross rent: $691
+  unemployment: 6.2%
+  bachelor's degree or higher: 16.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

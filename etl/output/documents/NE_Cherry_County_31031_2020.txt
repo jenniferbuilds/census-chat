@@ -1,0 +1,18 @@
+GEOGRAPHY: Cherry County, NE
+GEOGRAPHIC CODE: 31031 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,801
+  under 18: 23.3%
+  age 65+: 20.9%
+  White alone: 88.1%
+  Black alone: 0.2%
+  Asian alone: 1.3%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $54,266
+  poverty rate: 9.8%
+  homeownership: 59.6%
+  estimated median home value: $124,937
+  estimated median gross rent: $707
+  unemployment: 0.1%
+  bachelor's degree or higher: 23.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Montgomery County, PA
+GEOGRAPHIC CODE: 42091 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 823,823
+  under 18: 21.7%
+  age 65+: 17.4%
+  White alone: 79.1%
+  Black alone: 9.2%
+  Asian alone: 7.6%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $92,160
+  poverty rate: 5.9%
+  homeownership: 71.8%
+  estimated median home value: $316,094
+  estimated median gross rent: $1,295
+  unemployment: 4.2%
+  bachelor's degree or higher: 49.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

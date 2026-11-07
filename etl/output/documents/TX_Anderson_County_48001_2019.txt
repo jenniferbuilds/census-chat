@@ -1,0 +1,18 @@
+GEOGRAPHY: Anderson County, TX
+GEOGRAPHIC CODE: 48001 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 57,810
+  under 18: 19.5%
+  age 65+: 14.3%
+  White alone: 73.0%
+  Black alone: 21.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 17.8%
+  estimated median household income: $43,148
+  poverty rate: 14.9%
+  homeownership: 69.6%
+  estimated median home value: $101,871
+  estimated median gross rent: $770
+  unemployment: 3.2%
+  bachelor's degree or higher: 10.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

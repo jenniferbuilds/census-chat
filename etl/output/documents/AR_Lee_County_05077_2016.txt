@@ -1,0 +1,17 @@
+GEOGRAPHY: Lee County, AR
+GEOGRAPHIC CODE: 05077 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,781
+  under 18: 19.7%
+  age 65+: 16.9%
+  White alone: 41.8%
+  Black alone: 57.4%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $25,525
+  homeownership: 55.1%
+  estimated median home value: $64,605
+  estimated median gross rent: $524
+  unemployment: 16.4%
+  bachelor's degree or higher: 8.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

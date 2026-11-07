@@ -1,0 +1,18 @@
+GEOGRAPHY: Yavapai County, AZ
+GEOGRAPHIC CODE: 04025 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 224,645
+  under 18: 16.8%
+  age 65+: 29.8%
+  White alone: 91.5%
+  Black alone: 0.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 14.4%
+  estimated median household income: $50,197
+  poverty rate: 14.0%
+  homeownership: 71.9%
+  estimated median home value: $231,638
+  estimated median gross rent: $927
+  unemployment: 6.7%
+  bachelor's degree or higher: 25.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

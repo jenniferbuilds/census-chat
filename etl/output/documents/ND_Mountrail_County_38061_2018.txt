@@ -1,0 +1,18 @@
+GEOGRAPHY: Mountrail County, ND
+GEOGRAPHIC CODE: 38061 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,152
+  under 18: 26.4%
+  age 65+: 11.1%
+  White alone: 65.7%
+  Black alone: 1.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $69,679
+  poverty rate: 10.1%
+  homeownership: 67.9%
+  estimated median home value: $167,865
+  estimated median gross rent: $746
+  unemployment: 4.1%
+  bachelor's degree or higher: 20.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

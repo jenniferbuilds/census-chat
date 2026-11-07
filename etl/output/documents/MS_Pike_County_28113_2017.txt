@@ -1,0 +1,18 @@
+GEOGRAPHY: Pike County, MS
+GEOGRAPHIC CODE: 28113 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,763
+  under 18: 27.0%
+  age 65+: 15.9%
+  White alone: 44.7%
+  Black alone: 53.3%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $31,236
+  poverty rate: 32.3%
+  homeownership: 68.4%
+  estimated median home value: $87,450
+  estimated median gross rent: $651
+  unemployment: 7.7%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

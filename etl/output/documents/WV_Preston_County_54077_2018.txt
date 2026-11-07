@@ -1,0 +1,18 @@
+GEOGRAPHY: Preston County, WV
+GEOGRAPHIC CODE: 54077 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,837
+  under 18: 19.4%
+  age 65+: 18.8%
+  White alone: 92.5%
+  Black alone: 4.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.5%
+  estimated median household income: $48,383
+  poverty rate: 15.7%
+  homeownership: 83.2%
+  estimated median home value: $106,789
+  estimated median gross rent: $650
+  unemployment: 8.2%
+  bachelor's degree or higher: 15.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

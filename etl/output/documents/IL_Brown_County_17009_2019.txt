@@ -1,0 +1,18 @@
+GEOGRAPHY: Brown County, IL
+GEOGRAPHIC CODE: 17009 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,628
+  under 18: 17.2%
+  age 65+: 14.5%
+  White alone: 79.4%
+  Black alone: 19.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 6.6%
+  estimated median household income: $63,645
+  poverty rate: 11.6%
+  homeownership: 74.8%
+  estimated median home value: $96,173
+  estimated median gross rent: $615
+  unemployment: 3.7%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

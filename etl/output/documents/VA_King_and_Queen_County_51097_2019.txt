@@ -1,0 +1,18 @@
+GEOGRAPHY: King and Queen County, VA
+GEOGRAPHIC CODE: 51097 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,042
+  under 18: 19.4%
+  age 65+: 23.1%
+  White alone: 67.5%
+  Black alone: 26.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.2%
+  estimated median household income: $63,531
+  poverty rate: 12.4%
+  homeownership: 83.5%
+  estimated median home value: $183,155
+  estimated median gross rent: $968
+  unemployment: 3.0%
+  bachelor's degree or higher: 23.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

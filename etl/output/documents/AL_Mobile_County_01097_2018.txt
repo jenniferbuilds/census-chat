@@ -1,0 +1,18 @@
+GEOGRAPHY: Mobile County, AL
+GEOGRAPHIC CODE: 01097 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 414,659
+  under 18: 23.7%
+  age 65+: 15.3%
+  White alone: 58.8%
+  Black alone: 35.6%
+  Asian alone: 2.0%
+  Hispanic or Latino: 2.9%
+  estimated median household income: $46,063
+  poverty rate: 19.3%
+  homeownership: 64.9%
+  estimated median home value: $126,629
+  estimated median gross rent: $846
+  unemployment: 6.2%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

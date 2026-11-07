@@ -1,0 +1,18 @@
+GEOGRAPHY: Butler County, PA
+GEOGRAPHIC CODE: 42019 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 186,566
+  under 18: 20.5%
+  age 65+: 17.7%
+  White alone: 95.9%
+  Black alone: 0.9%
+  Asian alone: 1.3%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $68,977
+  poverty rate: 8.3%
+  homeownership: 75.6%
+  estimated median home value: $197,609
+  estimated median gross rent: $836
+  unemployment: 4.2%
+  bachelor's degree or higher: 35.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

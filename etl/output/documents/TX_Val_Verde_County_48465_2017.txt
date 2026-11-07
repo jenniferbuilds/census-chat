@@ -1,0 +1,18 @@
+GEOGRAPHY: Val Verde County, TX
+GEOGRAPHIC CODE: 48465 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 48,976
+  under 18: 29.0%
+  age 65+: 13.9%
+  White alone: 92.5%
+  Black alone: 1.4%
+  Asian alone: 0.6%
+  Hispanic or Latino: 81.4%
+  estimated median household income: $44,554
+  poverty rate: 20.9%
+  homeownership: 63.2%
+  estimated median home value: $94,511
+  estimated median gross rent: $688
+  unemployment: 6.6%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

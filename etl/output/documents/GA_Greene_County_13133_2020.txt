@@ -1,0 +1,18 @@
+GEOGRAPHY: Greene County, GA
+GEOGRAPHIC CODE: 13133 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,808
+  under 18: 18.6%
+  age 65+: 29.5%
+  White alone: 58.9%
+  Black alone: 34.5%
+  Asian alone: 1.1%
+  Hispanic or Latino: 6.1%
+  estimated median household income: $57,819
+  poverty rate: 16.2%
+  homeownership: 76.8%
+  estimated median home value: $241,313
+  estimated median gross rent: $743
+  unemployment: 4.4%
+  bachelor's degree or higher: 30.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

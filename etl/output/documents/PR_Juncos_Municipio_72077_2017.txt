@@ -1,0 +1,18 @@
+GEOGRAPHY: Juncos Municipio, PR
+GEOGRAPHIC CODE: 72077 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,704
+  under 18: 23.1%
+  age 65+: 14.4%
+  White alone: 57.5%
+  Black alone: 4.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 99.4%
+  estimated median household income: $18,399
+  poverty rate: 51.0%
+  homeownership: 70.7%
+  estimated median home value: $112,839
+  estimated median gross rent: $407
+  unemployment: 26.9%
+  bachelor's degree or higher: 20.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

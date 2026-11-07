@@ -1,0 +1,18 @@
+GEOGRAPHY: Jewell County, KS
+GEOGRAPHIC CODE: 20089 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,885
+  under 18: 19.2%
+  age 65+: 29.6%
+  White alone: 96.4%
+  Black alone: 0.3%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $40,658
+  poverty rate: 17.7%
+  homeownership: 81.3%
+  estimated median home value: $56,091
+  estimated median gross rent: $508
+  unemployment: 2.2%
+  bachelor's degree or higher: 19.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

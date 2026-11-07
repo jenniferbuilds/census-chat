@@ -1,0 +1,18 @@
+GEOGRAPHY: Franklin County, OH
+GEOGRAPHIC CODE: 39049 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,253,507
+  under 18: 23.5%
+  age 65+: 11.2%
+  White alone: 67.7%
+  Black alone: 22.0%
+  Asian alone: 4.8%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $56,685
+  poverty rate: 16.7%
+  homeownership: 53.6%
+  estimated median home value: $158,416
+  estimated median gross rent: $903
+  unemployment: 5.7%
+  bachelor's degree or higher: 38.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

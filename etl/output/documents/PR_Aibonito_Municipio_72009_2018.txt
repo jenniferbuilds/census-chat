@@ -1,0 +1,18 @@
+GEOGRAPHY: Aibonito Municipio, PR
+GEOGRAPHIC CODE: 72009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,457
+  under 18: 20.0%
+  age 65+: 18.9%
+  White alone: 76.4%
+  Black alone: 11.9%
+  Asian alone: 0.1%
+  Hispanic or Latino: 99.6%
+  estimated median household income: $19,704
+  poverty rate: 45.9%
+  homeownership: 79.3%
+  estimated median home value: $114,064
+  estimated median gross rent: $457
+  unemployment: 5.4%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

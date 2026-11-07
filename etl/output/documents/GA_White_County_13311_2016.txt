@@ -1,0 +1,17 @@
+GEOGRAPHY: White County, GA
+GEOGRAPHIC CODE: 13311 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,140
+  under 18: 21.3%
+  age 65+: 20.0%
+  White alone: 94.3%
+  Black alone: 2.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $42,804
+  homeownership: 72.4%
+  estimated median home value: $155,196
+  estimated median gross rent: $759
+  unemployment: 4.8%
+  bachelor's degree or higher: 20.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

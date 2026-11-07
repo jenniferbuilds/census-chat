@@ -1,0 +1,18 @@
+GEOGRAPHY: Schoharie County, NY
+GEOGRAPHIC CODE: 36095 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,611
+  under 18: 18.1%
+  age 65+: 19.4%
+  White alone: 96.0%
+  Black alone: 1.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $52,165
+  poverty rate: 13.9%
+  homeownership: 75.5%
+  estimated median home value: $143,334
+  estimated median gross rent: $781
+  unemployment: 7.5%
+  bachelor's degree or higher: 21.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

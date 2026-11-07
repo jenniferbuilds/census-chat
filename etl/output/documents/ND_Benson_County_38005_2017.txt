@@ -1,0 +1,18 @@
+GEOGRAPHY: Benson County, ND
+GEOGRAPHIC CODE: 38005 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,875
+  under 18: 34.2%
+  age 65+: 12.8%
+  White alone: 41.5%
+  Black alone: 0.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $44,592
+  poverty rate: 33.3%
+  homeownership: 62.8%
+  estimated median home value: $68,932
+  estimated median gross rent: $444
+  unemployment: 6.5%
+  bachelor's degree or higher: 15.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

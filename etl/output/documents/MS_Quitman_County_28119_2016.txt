@@ -1,0 +1,17 @@
+GEOGRAPHY: Quitman County, MS
+GEOGRAPHIC CODE: 28119 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 7,634
+  under 18: 25.0%
+  age 65+: 15.2%
+  White alone: 28.5%
+  Black alone: 70.5%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $24,820
+  homeownership: 66.5%
+  estimated median home value: $52,704
+  estimated median gross rent: $573
+  unemployment: 26.1%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

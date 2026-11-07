@@ -1,0 +1,18 @@
+GEOGRAPHY: Hardy County, WV
+GEOGRAPHIC CODE: 54031 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,789
+  under 18: 20.6%
+  age 65+: 22.1%
+  White alone: 90.7%
+  Black alone: 5.2%
+  Asian alone: 2.8%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $47,225
+  poverty rate: 16.1%
+  homeownership: 75.1%
+  estimated median home value: $141,452
+  estimated median gross rent: $813
+  unemployment: 3.6%
+  bachelor's degree or higher: 13.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

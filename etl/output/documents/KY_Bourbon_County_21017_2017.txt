@@ -1,0 +1,18 @@
+GEOGRAPHY: Bourbon County, KY
+GEOGRAPHIC CODE: 21017 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,017
+  under 18: 22.8%
+  age 65+: 18.0%
+  White alone: 90.4%
+  Black alone: 7.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $47,433
+  poverty rate: 16.6%
+  homeownership: 62.3%
+  estimated median home value: $144,940
+  estimated median gross rent: $718
+  unemployment: 6.9%
+  bachelor's degree or higher: 19.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

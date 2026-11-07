@@ -1,0 +1,18 @@
+GEOGRAPHY: Monroe County, FL
+GEOGRAPHIC CODE: 12087 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 76,325
+  under 18: 15.1%
+  age 65+: 21.3%
+  White alone: 88.7%
+  Black alone: 7.1%
+  Asian alone: 1.3%
+  Hispanic or Latino: 23.9%
+  estimated median household income: $67,625
+  poverty rate: 11.8%
+  homeownership: 59.6%
+  estimated median home value: $468,167
+  estimated median gross rent: $1,616
+  unemployment: 2.9%
+  bachelor's degree or higher: 33.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

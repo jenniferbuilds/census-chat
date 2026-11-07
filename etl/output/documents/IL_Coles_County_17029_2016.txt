@@ -1,0 +1,17 @@
+GEOGRAPHY: Coles County, IL
+GEOGRAPHIC CODE: 17029 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 52,802
+  under 18: 18.0%
+  age 65+: 15.1%
+  White alone: 93.0%
+  Black alone: 3.7%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $39,043
+  homeownership: 61.3%
+  estimated median home value: $92,844
+  estimated median gross rent: $637
+  unemployment: 7.4%
+  bachelor's degree or higher: 25.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Johnson County, IA
+GEOGRAPHIC CODE: 19103 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 147,001
+  under 18: 20.1%
+  age 65+: 10.8%
+  White alone: 82.1%
+  Black alone: 6.8%
+  Asian alone: 6.3%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $62,293
+  poverty rate: 17.8%
+  homeownership: 59.7%
+  estimated median home value: $216,947
+  estimated median gross rent: $968
+  unemployment: 3.3%
+  bachelor's degree or higher: 53.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

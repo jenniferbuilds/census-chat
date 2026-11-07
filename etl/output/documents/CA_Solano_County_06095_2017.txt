@@ -1,0 +1,18 @@
+GEOGRAPHY: Solano County, CA
+GEOGRAPHIC CODE: 06095 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 434,981
+  under 18: 22.7%
+  age 65+: 14.2%
+  White alone: 52.7%
+  Black alone: 14.2%
+  Asian alone: 15.3%
+  Hispanic or Latino: 25.8%
+  estimated median household income: $73,094
+  poverty rate: 11.5%
+  homeownership: 60.0%
+  estimated median home value: $342,025
+  estimated median gross rent: $1,407
+  unemployment: 8.5%
+  bachelor's degree or higher: 25.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

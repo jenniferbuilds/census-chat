@@ -1,0 +1,18 @@
+GEOGRAPHY: Kenton County, KY
+GEOGRAPHIC CODE: 21117 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 166,552
+  under 18: 23.8%
+  age 65+: 14.4%
+  White alone: 89.7%
+  Black alone: 4.5%
+  Asian alone: 1.2%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $66,662
+  poverty rate: 11.5%
+  homeownership: 67.7%
+  estimated median home value: $167,053
+  estimated median gross rent: $821
+  unemployment: 3.9%
+  bachelor's degree or higher: 33.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

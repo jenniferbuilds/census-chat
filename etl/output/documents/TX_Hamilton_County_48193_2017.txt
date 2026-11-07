@@ -1,0 +1,18 @@
+GEOGRAPHY: Hamilton County, TX
+GEOGRAPHIC CODE: 48193 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,220
+  under 18: 20.4%
+  age 65+: 25.4%
+  White alone: 95.7%
+  Black alone: 0.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 12.0%
+  estimated median household income: $46,971
+  poverty rate: 16.1%
+  homeownership: 75.7%
+  estimated median home value: $108,490
+  estimated median gross rent: $607
+  unemployment: 3.1%
+  bachelor's degree or higher: 22.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

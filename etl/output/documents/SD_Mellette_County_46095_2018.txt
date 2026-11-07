@@ -1,0 +1,18 @@
+GEOGRAPHY: Mellette County, SD
+GEOGRAPHIC CODE: 46095 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,055
+  under 18: 31.8%
+  age 65+: 14.9%
+  White alone: 40.7%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $31,642
+  poverty rate: 48.3%
+  homeownership: 65.0%
+  estimated median home value: $44,516
+  estimated median gross rent: $502
+  unemployment: 8.2%
+  bachelor's degree or higher: 13.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

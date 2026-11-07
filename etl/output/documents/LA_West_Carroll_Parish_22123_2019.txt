@@ -1,0 +1,18 @@
+GEOGRAPHY: West Carroll Parish, LA
+GEOGRAPHIC CODE: 22123 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,041
+  under 18: 22.9%
+  age 65+: 18.7%
+  White alone: 80.1%
+  Black alone: 16.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $39,262
+  poverty rate: 21.9%
+  homeownership: 76.9%
+  estimated median home value: $90,267
+  estimated median gross rent: $547
+  unemployment: 10.2%
+  bachelor's degree or higher: 11.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Colusa County, CA
+GEOGRAPHIC CODE: 06011 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,454
+  under 18: 27.2%
+  age 65+: 14.4%
+  White alone: 88.3%
+  Black alone: 1.5%
+  Asian alone: 1.4%
+  Hispanic or Latino: 59.4%
+  estimated median household income: $59,379
+  poverty rate: 13.0%
+  homeownership: 61.0%
+  estimated median home value: $265,241
+  estimated median gross rent: $889
+  unemployment: 4.3%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

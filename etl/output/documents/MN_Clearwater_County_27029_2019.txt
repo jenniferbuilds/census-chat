@@ -1,0 +1,18 @@
+GEOGRAPHY: Clearwater County, MN
+GEOGRAPHIC CODE: 27029 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,821
+  under 18: 24.8%
+  age 65+: 20.3%
+  White alone: 85.8%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $50,486
+  poverty rate: 14.6%
+  homeownership: 81.3%
+  estimated median home value: $137,164
+  estimated median gross rent: $680
+  unemployment: 6.7%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

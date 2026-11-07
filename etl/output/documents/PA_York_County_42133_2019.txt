@@ -1,0 +1,18 @@
+GEOGRAPHY: York County, PA
+GEOGRAPHIC CODE: 42133 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 445,565
+  under 18: 22.2%
+  age 65+: 17.1%
+  White alone: 88.4%
+  Black alone: 5.9%
+  Asian alone: 1.5%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $66,749
+  poverty rate: 9.6%
+  homeownership: 74.9%
+  estimated median home value: $177,075
+  estimated median gross rent: $957
+  unemployment: 4.4%
+  bachelor's degree or higher: 24.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

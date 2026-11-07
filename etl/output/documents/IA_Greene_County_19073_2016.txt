@@ -1,0 +1,17 @@
+GEOGRAPHY: Greene County, IA
+GEOGRAPHIC CODE: 19073 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,083
+  under 18: 22.9%
+  age 65+: 21.1%
+  White alone: 97.8%
+  Black alone: 0.2%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $48,045
+  homeownership: 75.9%
+  estimated median home value: $86,386
+  estimated median gross rent: $580
+  unemployment: 5.8%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

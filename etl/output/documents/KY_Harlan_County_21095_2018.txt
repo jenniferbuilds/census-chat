@@ -1,0 +1,18 @@
+GEOGRAPHY: Harlan County, KY
+GEOGRAPHIC CODE: 21095 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 27,134
+  under 18: 22.8%
+  age 65+: 17.3%
+  White alone: 95.4%
+  Black alone: 2.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $26,481
+  poverty rate: 36.2%
+  homeownership: 68.2%
+  estimated median home value: $58,472
+  estimated median gross rent: $520
+  unemployment: 9.5%
+  bachelor's degree or higher: 10.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

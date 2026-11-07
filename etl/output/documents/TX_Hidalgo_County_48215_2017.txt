@@ -1,0 +1,18 @@
+GEOGRAPHY: Hidalgo County, TX
+GEOGRAPHIC CODE: 48215 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 839,539
+  under 18: 33.5%
+  age 65+: 10.4%
+  White alone: 88.9%
+  Black alone: 0.6%
+  Asian alone: 1.0%
+  Hispanic or Latino: 91.8%
+  estimated median household income: $37,343
+  poverty rate: 31.8%
+  homeownership: 67.5%
+  estimated median home value: $82,381
+  estimated median gross rent: $699
+  unemployment: 8.1%
+  bachelor's degree or higher: 17.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

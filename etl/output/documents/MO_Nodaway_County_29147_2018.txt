@@ -1,0 +1,18 @@
+GEOGRAPHY: Nodaway County, MO
+GEOGRAPHIC CODE: 29147 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,547
+  under 18: 16.4%
+  age 65+: 14.5%
+  White alone: 93.6%
+  Black alone: 2.8%
+  Asian alone: 1.4%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $43,212
+  poverty rate: 23.3%
+  homeownership: 57.6%
+  estimated median home value: $124,598
+  estimated median gross rent: $639
+  unemployment: 3.9%
+  bachelor's degree or higher: 27.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

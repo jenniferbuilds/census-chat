@@ -1,0 +1,17 @@
+GEOGRAPHY: Warren County, MS
+GEOGRAPHIC CODE: 28149 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,834
+  under 18: 25.1%
+  age 65+: 14.6%
+  White alone: 49.1%
+  Black alone: 48.3%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $40,520
+  homeownership: 63.1%
+  estimated median home value: $109,490
+  estimated median gross rent: $655
+  unemployment: 7.2%
+  bachelor's degree or higher: 23.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

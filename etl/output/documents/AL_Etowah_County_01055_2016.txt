@@ -1,0 +1,17 @@
+GEOGRAPHY: Etowah County, AL
+GEOGRAPHIC CODE: 01055 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 103,363
+  under 18: 22.0%
+  age 65+: 17.4%
+  White alone: 81.3%
+  Black alone: 15.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $40,448
+  homeownership: 71.0%
+  estimated median home value: $101,944
+  estimated median gross rent: $623
+  unemployment: 8.5%
+  bachelor's degree or higher: 16.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

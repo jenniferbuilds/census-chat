@@ -1,0 +1,18 @@
+GEOGRAPHY: Navarro County, TX
+GEOGRAPHIC CODE: 48349 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,475
+  under 18: 26.5%
+  age 65+: 17.0%
+  White alone: 72.8%
+  Black alone: 11.8%
+  Asian alone: 0.6%
+  Hispanic or Latino: 27.9%
+  estimated median household income: $48,063
+  poverty rate: 15.5%
+  homeownership: 69.6%
+  estimated median home value: $109,733
+  estimated median gross rent: $806
+  unemployment: 4.9%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

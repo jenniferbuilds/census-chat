@@ -1,0 +1,17 @@
+GEOGRAPHY: Logan County, OK
+GEOGRAPHIC CODE: 40083 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 45,171
+  under 18: 23.7%
+  age 65+: 15.0%
+  White alone: 82.2%
+  Black alone: 8.9%
+  Asian alone: 0.6%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $56,496
+  homeownership: 78.8%
+  estimated median home value: $151,083
+  estimated median gross rent: $686
+  unemployment: 5.7%
+  bachelor's degree or higher: 26.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Dare County, NC
+GEOGRAPHIC CODE: 37055 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,222
+  under 18: 19.3%
+  age 65+: 20.7%
+  White alone: 92.7%
+  Black alone: 3.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $59,482
+  poverty rate: 9.0%
+  homeownership: 74.4%
+  estimated median home value: $288,980
+  estimated median gross rent: $1,089
+  unemployment: 4.4%
+  bachelor's degree or higher: 34.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Morgan County, UT
+GEOGRAPHIC CODE: 49029 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,391
+  under 18: 35.7%
+  age 65+: 11.3%
+  White alone: 96.6%
+  Black alone: 0.7%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $90,551
+  poverty rate: 3.0%
+  homeownership: 84.1%
+  estimated median home value: $359,278
+  estimated median gross rent: $1,185
+  unemployment: 2.8%
+  bachelor's degree or higher: 39.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

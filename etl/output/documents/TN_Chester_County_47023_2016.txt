@@ -1,0 +1,17 @@
+GEOGRAPHY: Chester County, TN
+GEOGRAPHIC CODE: 47023 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,355
+  under 18: 22.6%
+  age 65+: 16.6%
+  White alone: 86.6%
+  Black alone: 9.1%
+  Asian alone: 1.2%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $43,664
+  homeownership: 72.8%
+  estimated median home value: $107,301
+  estimated median gross rent: $672
+  unemployment: 10.7%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

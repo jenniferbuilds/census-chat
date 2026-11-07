@@ -1,0 +1,18 @@
+GEOGRAPHY: Fulton County, IL
+GEOGRAPHIC CODE: 17057 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,092
+  under 18: 19.8%
+  age 65+: 20.1%
+  White alone: 94.0%
+  Black alone: 3.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $51,574
+  poverty rate: 14.7%
+  homeownership: 78.3%
+  estimated median home value: $88,587
+  estimated median gross rent: $646
+  unemployment: 6.4%
+  bachelor's degree or higher: 17.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

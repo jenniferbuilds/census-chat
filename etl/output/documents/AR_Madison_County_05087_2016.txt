@@ -1,0 +1,17 @@
+GEOGRAPHY: Madison County, AR
+GEOGRAPHIC CODE: 05087 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,761
+  under 18: 23.5%
+  age 65+: 17.6%
+  White alone: 94.9%
+  Black alone: 0.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.2%
+  estimated median household income: $39,833
+  homeownership: 75.5%
+  estimated median home value: $100,082
+  estimated median gross rent: $627
+  unemployment: 5.2%
+  bachelor's degree or higher: 11.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

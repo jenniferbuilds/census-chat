@@ -1,0 +1,18 @@
+GEOGRAPHY: Kings County, CA
+GEOGRAPHIC CODE: 06031 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 151,090
+  under 18: 27.1%
+  age 65+: 10.3%
+  White alone: 63.4%
+  Black alone: 6.5%
+  Asian alone: 3.7%
+  Hispanic or Latino: 54.9%
+  estimated median household income: $62,131
+  poverty rate: 16.0%
+  homeownership: 53.6%
+  estimated median home value: $227,394
+  estimated median gross rent: $1,030
+  unemployment: 8.4%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

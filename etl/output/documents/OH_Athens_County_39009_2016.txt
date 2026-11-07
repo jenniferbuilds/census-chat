@@ -1,0 +1,17 @@
+GEOGRAPHY: Athens County, OH
+GEOGRAPHIC CODE: 39009 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 65,103
+  under 18: 15.2%
+  age 65+: 11.4%
+  White alone: 91.0%
+  Black alone: 2.5%
+  Asian alone: 3.1%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $34,127
+  homeownership: 56.1%
+  estimated median home value: $113,862
+  estimated median gross rent: $726
+  unemployment: 9.4%
+  bachelor's degree or higher: 29.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

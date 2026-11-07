@@ -1,0 +1,17 @@
+GEOGRAPHY: Amador County, CA
+GEOGRAPHIC CODE: 06005 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,963
+  under 18: 15.5%
+  age 65+: 24.7%
+  White alone: 86.7%
+  Black alone: 2.4%
+  Asian alone: 1.5%
+  Hispanic or Latino: 13.0%
+  estimated median household income: $56,353
+  homeownership: 75.6%
+  estimated median home value: $265,866
+  estimated median gross rent: $1,061
+  unemployment: 11.6%
+  bachelor's degree or higher: 21.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

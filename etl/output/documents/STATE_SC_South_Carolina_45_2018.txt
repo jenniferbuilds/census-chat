@@ -1,0 +1,18 @@
+GEOGRAPHY: South Carolina (SC)
+GEOGRAPHIC CODE: 45 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,955,925
+  under 18: 22.1%
+  age 65+: 16.7%
+  White alone: 67.3%
+  Black alone: 27.0%
+  Asian alone: 1.5%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $51,117
+  poverty rate: 16.0%
+  homeownership: 68.9%
+  estimated median home value: $154,826
+  estimated median gross rent: $868
+  unemployment: 6.4%
+  bachelor's degree or higher: 27.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

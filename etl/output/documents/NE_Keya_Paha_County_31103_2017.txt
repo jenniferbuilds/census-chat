@@ -1,0 +1,18 @@
+GEOGRAPHY: Keya Paha County, NE
+GEOGRAPHIC CODE: 31103 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 720
+  under 18: 20.1%
+  age 65+: 24.9%
+  White alone: 97.8%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $48,214
+  poverty rate: 7.7%
+  homeownership: 72.5%
+  estimated median home value: $72,000
+  estimated median gross rent: $575
+  unemployment: 1.2%
+  bachelor's degree or higher: 20.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

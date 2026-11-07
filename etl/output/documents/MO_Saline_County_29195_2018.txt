@@ -1,0 +1,18 @@
+GEOGRAPHY: Saline County, MO
+GEOGRAPHIC CODE: 29195 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,102
+  under 18: 22.9%
+  age 65+: 17.8%
+  White alone: 85.6%
+  Black alone: 4.7%
+  Asian alone: 0.9%
+  Hispanic or Latino: 9.9%
+  estimated median household income: $43,632
+  poverty rate: 16.3%
+  homeownership: 68.9%
+  estimated median home value: $101,970
+  estimated median gross rent: $626
+  unemployment: 3.9%
+  bachelor's degree or higher: 18.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

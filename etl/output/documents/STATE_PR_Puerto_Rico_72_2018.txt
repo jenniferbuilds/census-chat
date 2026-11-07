@@ -1,0 +1,18 @@
+GEOGRAPHY: Puerto Rico (PR)
+GEOGRAPHIC CODE: 72 | LEVEL: State | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,386,941
+  under 18: 20.3%
+  age 65+: 18.9%
+  White alone: 67.4%
+  Black alone: 10.8%
+  Asian alone: 0.2%
+  Hispanic or Latino: 98.9%
+  estimated median household income: $20,172
+  poverty rate: 44.5%
+  homeownership: 68.1%
+  estimated median home value: $113,505
+  estimated median gross rent: $474
+  unemployment: 17.0%
+  bachelor's degree or higher: 25.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Jefferson County, FL
+GEOGRAPHIC CODE: 12065 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,161
+  under 18: 16.3%
+  age 65+: 22.9%
+  White alone: 62.8%
+  Black alone: 34.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $46,972
+  poverty rate: 16.5%
+  homeownership: 77.0%
+  estimated median home value: $133,472
+  estimated median gross rent: $770
+  unemployment: 6.2%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

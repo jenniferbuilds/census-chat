@@ -1,0 +1,18 @@
+GEOGRAPHY: Buckingham County, VA
+GEOGRAPHIC CODE: 51029 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,059
+  under 18: 18.4%
+  age 65+: 19.3%
+  White alone: 61.6%
+  Black alone: 34.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $48,967
+  poverty rate: 15.8%
+  homeownership: 75.2%
+  estimated median home value: $130,323
+  estimated median gross rent: $779
+  unemployment: 7.0%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

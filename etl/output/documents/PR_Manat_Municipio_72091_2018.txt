@@ -1,0 +1,18 @@
+GEOGRAPHY: Manatí Municipio, PR
+GEOGRAPHIC CODE: 72091 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 39,692
+  under 18: 21.0%
+  age 65+: 19.8%
+  White alone: 84.7%
+  Black alone: 4.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 98.5%
+  estimated median household income: $19,557
+  poverty rate: 45.8%
+  homeownership: 73.2%
+  estimated median home value: $108,444
+  estimated median gross rent: $489
+  unemployment: 17.2%
+  bachelor's degree or higher: 22.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

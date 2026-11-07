@@ -1,0 +1,17 @@
+GEOGRAPHY: Roger Mills County, OK
+GEOGRAPHIC CODE: 40129 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,732
+  under 18: 25.9%
+  age 65+: 18.4%
+  White alone: 91.1%
+  Black alone: 0.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $48,095
+  homeownership: 72.7%
+  estimated median home value: $93,273
+  estimated median gross rent: $475
+  unemployment: 1.5%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

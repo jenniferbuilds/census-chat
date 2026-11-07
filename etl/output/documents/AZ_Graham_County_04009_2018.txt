@@ -1,0 +1,18 @@
+GEOGRAPHY: Graham County, AZ
+GEOGRAPHIC CODE: 04009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,879
+  under 18: 27.3%
+  age 65+: 13.2%
+  White alone: 79.0%
+  Black alone: 2.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 32.9%
+  estimated median household income: $51,757
+  poverty rate: 21.3%
+  homeownership: 69.3%
+  estimated median home value: $126,960
+  estimated median gross rent: $765
+  unemployment: 9.4%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

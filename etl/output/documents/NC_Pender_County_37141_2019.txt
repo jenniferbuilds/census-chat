@@ -1,0 +1,18 @@
+GEOGRAPHY: Pender County, NC
+GEOGRAPHIC CODE: 37141 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 60,399
+  under 18: 22.3%
+  age 65+: 17.7%
+  White alone: 77.7%
+  Black alone: 14.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 7.1%
+  estimated median household income: $57,008
+  poverty rate: 14.1%
+  homeownership: 81.2%
+  estimated median home value: $198,716
+  estimated median gross rent: $919
+  unemployment: 7.7%
+  bachelor's degree or higher: 27.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

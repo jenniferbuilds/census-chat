@@ -1,0 +1,18 @@
+GEOGRAPHY: Fayette County, OH
+GEOGRAPHIC CODE: 39047 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,659
+  under 18: 24.0%
+  age 65+: 16.7%
+  White alone: 94.0%
+  Black alone: 2.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $44,322
+  poverty rate: 17.7%
+  homeownership: 62.1%
+  estimated median home value: $108,854
+  estimated median gross rent: $709
+  unemployment: 6.3%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

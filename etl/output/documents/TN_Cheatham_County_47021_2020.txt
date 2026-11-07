@@ -1,0 +1,18 @@
+GEOGRAPHY: Cheatham County, TN
+GEOGRAPHIC CODE: 47021 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 40,539
+  under 18: 22.0%
+  age 65+: 15.0%
+  White alone: 93.4%
+  Black alone: 1.4%
+  Asian alone: 0.5%
+  Hispanic or Latino: 3.3%
+  estimated median household income: $65,494
+  poverty rate: 10.7%
+  homeownership: 77.4%
+  estimated median home value: $198,856
+  estimated median gross rent: $1,008
+  unemployment: 4.3%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

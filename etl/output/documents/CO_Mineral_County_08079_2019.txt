@@ -1,0 +1,18 @@
+GEOGRAPHY: Mineral County, CO
+GEOGRAPHIC CODE: 08079 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 824
+  under 18: 11.7%
+  age 65+: 26.8%
+  White alone: 87.4%
+  Black alone: 1.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 9.6%
+  estimated median household income: $61,117
+  poverty rate: 13.7%
+  homeownership: 86.6%
+  estimated median home value: $308,642
+  estimated median gross rent: $720
+  unemployment: 2.6%
+  bachelor's degree or higher: 46.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Vanderburgh County, IN
+GEOGRAPHIC CODE: 18163 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 181,313
+  under 18: 21.7%
+  age 65+: 16.1%
+  White alone: 85.4%
+  Black alone: 9.4%
+  Asian alone: 1.2%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $47,171
+  poverty rate: 17.3%
+  homeownership: 64.3%
+  estimated median home value: $126,350
+  estimated median gross rent: $770
+  unemployment: 4.9%
+  bachelor's degree or higher: 26.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

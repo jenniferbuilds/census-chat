@@ -1,0 +1,18 @@
+GEOGRAPHY: Cleveland County, OK
+GEOGRAPHIC CODE: 40027 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 274,024
+  under 18: 22.2%
+  age 65+: 12.1%
+  White alone: 78.4%
+  Black alone: 4.7%
+  Asian alone: 4.4%
+  Hispanic or Latino: 8.2%
+  estimated median household income: $60,724
+  poverty rate: 12.6%
+  homeownership: 64.5%
+  estimated median home value: $155,532
+  estimated median gross rent: $876
+  unemployment: 4.8%
+  bachelor's degree or higher: 32.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

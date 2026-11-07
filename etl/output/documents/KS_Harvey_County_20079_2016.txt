@@ -1,0 +1,17 @@
+GEOGRAPHY: Harvey County, KS
+GEOGRAPHIC CODE: 20079 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,814
+  under 18: 25.1%
+  age 65+: 18.1%
+  White alone: 93.5%
+  Black alone: 1.8%
+  Asian alone: 0.7%
+  Hispanic or Latino: 11.4%
+  estimated median household income: $52,504
+  homeownership: 69.5%
+  estimated median home value: $120,562
+  estimated median gross rent: $674
+  unemployment: 3.7%
+  bachelor's degree or higher: 27.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

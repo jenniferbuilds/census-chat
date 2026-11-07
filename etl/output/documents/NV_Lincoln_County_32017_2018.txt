@@ -1,0 +1,18 @@
+GEOGRAPHY: Lincoln County, NV
+GEOGRAPHIC CODE: 32017 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,174
+  under 18: 16.6%
+  age 65+: 23.7%
+  White alone: 89.2%
+  Black alone: 3.7%
+  Asian alone: 1.2%
+  Hispanic or Latino: 8.5%
+  estimated median household income: $55,352
+  poverty rate: 6.8%
+  homeownership: 73.6%
+  estimated median home value: $134,729
+  estimated median gross rent: $612
+  unemployment: 10.6%
+  bachelor's degree or higher: 17.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

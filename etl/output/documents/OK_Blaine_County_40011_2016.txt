@@ -1,0 +1,17 @@
+GEOGRAPHY: Blaine County, OK
+GEOGRAPHIC CODE: 40011 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,777
+  under 18: 22.3%
+  age 65+: 18.1%
+  White alone: 77.9%
+  Black alone: 5.2%
+  Asian alone: 0.3%
+  Hispanic or Latino: 9.6%
+  estimated median household income: $44,566
+  homeownership: 75.2%
+  estimated median home value: $82,862
+  estimated median gross rent: $533
+  unemployment: 2.7%
+  bachelor's degree or higher: 17.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

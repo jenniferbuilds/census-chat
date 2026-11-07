@@ -1,0 +1,18 @@
+GEOGRAPHY: Queen Anne's County, MD
+GEOGRAPHIC CODE: 24035 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 49,632
+  under 18: 21.7%
+  age 65+: 18.4%
+  White alone: 89.3%
+  Black alone: 6.7%
+  Asian alone: 1.0%
+  Hispanic or Latino: 3.9%
+  estimated median household income: $96,862
+  poverty rate: 5.7%
+  homeownership: 81.0%
+  estimated median home value: $353,121
+  estimated median gross rent: $1,503
+  unemployment: 2.6%
+  bachelor's degree or higher: 36.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

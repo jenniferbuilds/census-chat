@@ -1,0 +1,17 @@
+GEOGRAPHY: Wise County, TX
+GEOGRAPHIC CODE: 48497 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 62,089
+  under 18: 25.3%
+  age 65+: 14.2%
+  White alone: 94.7%
+  Black alone: 1.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 18.4%
+  estimated median household income: $57,242
+  homeownership: 76.6%
+  estimated median home value: $132,685
+  estimated median gross rent: $908
+  unemployment: 6.6%
+  bachelor's degree or higher: 16.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Perry County, MO
+GEOGRAPHIC CODE: 29157 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,146
+  under 18: 24.0%
+  age 65+: 17.5%
+  White alone: 97.3%
+  Black alone: 0.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $55,313
+  poverty rate: 8.2%
+  homeownership: 74.6%
+  estimated median home value: $138,521
+  estimated median gross rent: $673
+  unemployment: 3.8%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

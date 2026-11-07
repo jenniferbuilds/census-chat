@@ -1,0 +1,18 @@
+GEOGRAPHY: East Feliciana Parish, LA
+GEOGRAPHIC CODE: 22037 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,553
+  under 18: 19.3%
+  age 65+: 16.0%
+  White alone: 53.7%
+  Black alone: 44.7%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $47,057
+  poverty rate: 17.9%
+  homeownership: 80.7%
+  estimated median home value: $124,055
+  estimated median gross rent: $732
+  unemployment: 6.1%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

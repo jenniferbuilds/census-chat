@@ -1,0 +1,18 @@
+GEOGRAPHY: Pulaski County, MO
+GEOGRAPHIC CODE: 29169 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 52,591
+  under 18: 22.1%
+  age 65+: 8.3%
+  White alone: 74.6%
+  Black alone: 12.3%
+  Asian alone: 2.8%
+  Hispanic or Latino: 11.0%
+  estimated median household income: $51,801
+  poverty rate: 14.4%
+  homeownership: 48.7%
+  estimated median home value: $151,163
+  estimated median gross rent: $976
+  unemployment: 8.8%
+  bachelor's degree or higher: 25.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

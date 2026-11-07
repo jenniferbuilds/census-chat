@@ -1,0 +1,17 @@
+GEOGRAPHY: Fairfax city, VA
+GEOGRAPHIC CODE: 51600 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,620
+  under 18: 20.9%
+  age 65+: 15.2%
+  White alone: 69.4%
+  Black alone: 4.8%
+  Asian alone: 15.4%
+  Hispanic or Latino: 16.7%
+  estimated median household income: $104,259
+  homeownership: 70.7%
+  estimated median home value: $487,711
+  estimated median gross rent: $1,750
+  unemployment: 5.5%
+  bachelor's degree or higher: 54.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

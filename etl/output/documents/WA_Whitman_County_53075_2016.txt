@@ -1,0 +1,17 @@
+GEOGRAPHY: Whitman County, WA
+GEOGRAPHIC CODE: 53075 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,494
+  under 18: 15.1%
+  age 65+: 9.8%
+  White alone: 83.0%
+  Black alone: 2.0%
+  Asian alone: 7.9%
+  Hispanic or Latino: 5.6%
+  estimated median household income: $38,491
+  homeownership: 44.6%
+  estimated median home value: $188,126
+  estimated median gross rent: $719
+  unemployment: 8.9%
+  bachelor's degree or higher: 49.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

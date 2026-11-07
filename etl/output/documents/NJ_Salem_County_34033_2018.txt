@@ -1,0 +1,18 @@
+GEOGRAPHY: Salem County, NJ
+GEOGRAPHIC CODE: 34033 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 63,336
+  under 18: 21.8%
+  age 65+: 17.7%
+  White alone: 80.7%
+  Black alone: 13.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 8.6%
+  estimated median household income: $64,318
+  poverty rate: 13.0%
+  homeownership: 70.5%
+  estimated median home value: $185,289
+  estimated median gross rent: $1,016
+  unemployment: 7.3%
+  bachelor's degree or higher: 20.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

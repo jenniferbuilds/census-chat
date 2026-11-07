@@ -1,0 +1,18 @@
+GEOGRAPHY: Shelby County, KY
+GEOGRAPHIC CODE: 21211 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,786
+  under 18: 23.8%
+  age 65+: 14.9%
+  White alone: 87.6%
+  Black alone: 6.3%
+  Asian alone: 0.9%
+  Hispanic or Latino: 9.5%
+  estimated median household income: $64,419
+  poverty rate: 12.6%
+  homeownership: 69.7%
+  estimated median home value: $187,207
+  estimated median gross rent: $791
+  unemployment: 4.7%
+  bachelor's degree or higher: 24.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

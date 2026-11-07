@@ -1,0 +1,18 @@
+GEOGRAPHY: Frederick County, VA
+GEOGRAPHIC CODE: 51069 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 86,415
+  under 18: 23.1%
+  age 65+: 16.8%
+  White alone: 90.7%
+  Black alone: 3.9%
+  Asian alone: 1.4%
+  Hispanic or Latino: 8.6%
+  estimated median household income: $78,061
+  poverty rate: 6.2%
+  homeownership: 77.6%
+  estimated median home value: $251,197
+  estimated median gross rent: $1,125
+  unemployment: 3.2%
+  bachelor's degree or higher: 28.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

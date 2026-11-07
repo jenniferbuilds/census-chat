@@ -1,0 +1,18 @@
+GEOGRAPHY: Berks County, PA
+GEOGRAPHIC CODE: 42011 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 419,062
+  under 18: 22.4%
+  age 65+: 17.3%
+  White alone: 80.0%
+  Black alone: 5.2%
+  Asian alone: 1.5%
+  Hispanic or Latino: 21.8%
+  estimated median household income: $66,857
+  poverty rate: 11.7%
+  homeownership: 71.0%
+  estimated median home value: $187,600
+  estimated median gross rent: $951
+  unemployment: 5.6%
+  bachelor's degree or higher: 25.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

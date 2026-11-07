@@ -1,0 +1,17 @@
+GEOGRAPHY: Coshocton County, OH
+GEOGRAPHIC CODE: 39031 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,665
+  under 18: 23.7%
+  age 65+: 17.6%
+  White alone: 96.9%
+  Black alone: 1.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $43,788
+  homeownership: 74.7%
+  estimated median home value: $97,065
+  estimated median gross rent: $574
+  unemployment: 6.4%
+  bachelor's degree or higher: 12.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

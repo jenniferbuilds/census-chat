@@ -1,0 +1,17 @@
+GEOGRAPHY: Lincoln County, KY
+GEOGRAPHIC CODE: 21137 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,424
+  under 18: 23.7%
+  age 65+: 16.9%
+  White alone: 95.1%
+  Black alone: 2.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $35,235
+  homeownership: 73.7%
+  estimated median home value: $89,435
+  estimated median gross rent: $605
+  unemployment: 10.7%
+  bachelor's degree or higher: 9.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

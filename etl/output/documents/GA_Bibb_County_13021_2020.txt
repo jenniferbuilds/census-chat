@@ -1,0 +1,18 @@
+GEOGRAPHY: Bibb County, GA
+GEOGRAPHIC CODE: 13021 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 153,026
+  under 18: 24.3%
+  age 65+: 15.6%
+  White alone: 39.3%
+  Black alone: 54.3%
+  Asian alone: 2.0%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $41,465
+  poverty rate: 25.0%
+  homeownership: 51.7%
+  estimated median home value: $125,251
+  estimated median gross rent: $834
+  unemployment: 7.4%
+  bachelor's degree or higher: 25.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

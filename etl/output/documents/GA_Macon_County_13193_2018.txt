@@ -1,0 +1,18 @@
+GEOGRAPHY: Macon County, GA
+GEOGRAPHIC CODE: 13193 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,480
+  under 18: 19.5%
+  age 65+: 16.0%
+  White alone: 34.9%
+  Black alone: 60.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.2%
+  estimated median household income: $33,008
+  poverty rate: 27.2%
+  homeownership: 65.0%
+  estimated median home value: $63,681
+  estimated median gross rent: $564
+  unemployment: 12.0%
+  bachelor's degree or higher: 8.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Cuming County, NE
+GEOGRAPHIC CODE: 31039 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,055
+  under 18: 24.5%
+  age 65+: 21.3%
+  White alone: 95.8%
+  Black alone: 0.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 9.6%
+  estimated median household income: $49,266
+  homeownership: 68.6%
+  estimated median home value: $109,201
+  estimated median gross rent: $623
+  unemployment: 2.5%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

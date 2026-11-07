@@ -1,0 +1,18 @@
+GEOGRAPHY: Knox County, IL
+GEOGRAPHIC CODE: 17095 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 50,052
+  under 18: 19.8%
+  age 65+: 21.4%
+  White alone: 85.7%
+  Black alone: 9.1%
+  Asian alone: 1.1%
+  Hispanic or Latino: 6.0%
+  estimated median household income: $44,509
+  poverty rate: 16.7%
+  homeownership: 66.5%
+  estimated median home value: $83,733
+  estimated median gross rent: $623
+  unemployment: 5.2%
+  bachelor's degree or higher: 19.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

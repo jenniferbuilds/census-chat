@@ -1,0 +1,17 @@
+GEOGRAPHY: Humboldt County, NV
+GEOGRAPHIC CODE: 32013 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,091
+  under 18: 28.1%
+  age 65+: 10.5%
+  White alone: 86.7%
+  Black alone: 0.5%
+  Asian alone: 0.5%
+  Hispanic or Latino: 25.9%
+  estimated median household income: $65,435
+  homeownership: 75.3%
+  estimated median home value: $165,074
+  estimated median gross rent: $788
+  unemployment: 7.7%
+  bachelor's degree or higher: 14.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

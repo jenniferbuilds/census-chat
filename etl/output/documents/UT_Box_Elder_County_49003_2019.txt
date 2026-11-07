@@ -1,0 +1,18 @@
+GEOGRAPHY: Box Elder County, UT
+GEOGRAPHIC CODE: 49003 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 53,946
+  under 18: 31.9%
+  age 65+: 12.7%
+  White alone: 93.1%
+  Black alone: 0.7%
+  Asian alone: 0.8%
+  Hispanic or Latino: 9.4%
+  estimated median household income: $62,337
+  poverty rate: 7.9%
+  homeownership: 77.8%
+  estimated median home value: $203,635
+  estimated median gross rent: $747
+  unemployment: 4.1%
+  bachelor's degree or higher: 23.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

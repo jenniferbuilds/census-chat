@@ -1,0 +1,18 @@
+GEOGRAPHY: Hampton city, VA
+GEOGRAPHIC CODE: 51650 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 136,255
+  under 18: 21.5%
+  age 65+: 14.1%
+  White alone: 41.8%
+  Black alone: 50.1%
+  Asian alone: 2.4%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $52,265
+  poverty rate: 14.9%
+  homeownership: 56.9%
+  estimated median home value: $186,587
+  estimated median gross rent: $1,062
+  unemployment: 7.8%
+  bachelor's degree or higher: 25.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

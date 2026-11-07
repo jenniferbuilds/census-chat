@@ -1,0 +1,18 @@
+GEOGRAPHY: Williams County, OH
+GEOGRAPHIC CODE: 39171 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 36,816
+  under 18: 22.7%
+  age 65+: 18.5%
+  White alone: 94.9%
+  Black alone: 1.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $53,512
+  poverty rate: 11.2%
+  homeownership: 77.0%
+  estimated median home value: $105,401
+  estimated median gross rent: $694
+  unemployment: 3.8%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

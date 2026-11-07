@@ -1,0 +1,17 @@
+GEOGRAPHY: Lyon County, IA
+GEOGRAPHIC CODE: 19119 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,730
+  under 18: 28.2%
+  age 65+: 17.0%
+  White alone: 97.1%
+  Black alone: 0.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $59,891
+  homeownership: 82.7%
+  estimated median home value: $118,913
+  estimated median gross rent: $580
+  unemployment: 1.9%
+  bachelor's degree or higher: 21.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Kendall County, IL
+GEOGRAPHIC CODE: 17093 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 126,054
+  under 18: 28.8%
+  age 65+: 10.1%
+  White alone: 81.4%
+  Black alone: 7.4%
+  Asian alone: 3.2%
+  Hispanic or Latino: 18.7%
+  estimated median household income: $96,208
+  poverty rate: 4.5%
+  homeownership: 83.6%
+  estimated median home value: $235,561
+  estimated median gross rent: $1,414
+  unemployment: 4.4%
+  bachelor's degree or higher: 36.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

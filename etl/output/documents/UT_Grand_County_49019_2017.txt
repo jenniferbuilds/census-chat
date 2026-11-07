@@ -1,0 +1,18 @@
+GEOGRAPHY: Grand County, UT
+GEOGRAPHIC CODE: 49019 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,544
+  under 18: 22.2%
+  age 65+: 16.5%
+  White alone: 97.7%
+  Black alone: 0.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 10.0%
+  estimated median household income: $46,830
+  poverty rate: 12.7%
+  homeownership: 70.0%
+  estimated median home value: $230,869
+  estimated median gross rent: $777
+  unemployment: 6.4%
+  bachelor's degree or higher: 27.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

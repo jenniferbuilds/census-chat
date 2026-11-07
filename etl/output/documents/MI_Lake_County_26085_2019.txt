@@ -1,0 +1,18 @@
+GEOGRAPHY: Lake County, MI
+GEOGRAPHIC CODE: 26085 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,852
+  under 18: 16.4%
+  age 65+: 27.7%
+  White alone: 86.9%
+  Black alone: 7.9%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.6%
+  estimated median household income: $37,139
+  poverty rate: 21.0%
+  homeownership: 84.2%
+  estimated median home value: $88,039
+  estimated median gross rent: $589
+  unemployment: 8.9%
+  bachelor's degree or higher: 11.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

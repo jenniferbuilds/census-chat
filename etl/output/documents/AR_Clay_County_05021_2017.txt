@@ -1,0 +1,18 @@
+GEOGRAPHY: Clay County, AR
+GEOGRAPHIC CODE: 05021 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,190
+  under 18: 22.1%
+  age 65+: 20.9%
+  White alone: 96.3%
+  Black alone: 0.7%
+  Asian alone: 0.0%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $32,792
+  poverty rate: 22.3%
+  homeownership: 70.2%
+  estimated median home value: $69,986
+  estimated median gross rent: $557
+  unemployment: 5.3%
+  bachelor's degree or higher: 10.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

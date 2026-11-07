@@ -1,0 +1,17 @@
+GEOGRAPHY: Bay County, MI
+GEOGRAPHIC CODE: 26017 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 106,107
+  under 18: 21.0%
+  age 65+: 18.3%
+  White alone: 94.6%
+  Black alone: 1.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $45,922
+  homeownership: 77.9%
+  estimated median home value: $94,542
+  estimated median gross rent: $654
+  unemployment: 8.2%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

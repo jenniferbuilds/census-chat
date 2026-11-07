@@ -1,0 +1,18 @@
+GEOGRAPHY: Scott County, MN
+GEOGRAPHIC CODE: 27139 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 145,275
+  under 18: 27.9%
+  age 65+: 10.4%
+  White alone: 84.0%
+  Black alone: 4.3%
+  Asian alone: 6.1%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $102,270
+  poverty rate: 5.5%
+  homeownership: 82.8%
+  estimated median home value: $299,743
+  estimated median gross rent: $1,170
+  unemployment: 3.0%
+  bachelor's degree or higher: 39.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

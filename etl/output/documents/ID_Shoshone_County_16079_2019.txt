@@ -1,0 +1,18 @@
+GEOGRAPHY: Shoshone County, ID
+GEOGRAPHIC CODE: 16079 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,609
+  under 18: 20.2%
+  age 65+: 22.3%
+  White alone: 93.5%
+  Black alone: 0.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $39,413
+  poverty rate: 19.4%
+  homeownership: 70.0%
+  estimated median home value: $127,908
+  estimated median gross rent: $670
+  unemployment: 8.1%
+  bachelor's degree or higher: 11.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

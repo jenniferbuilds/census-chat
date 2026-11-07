@@ -1,0 +1,18 @@
+GEOGRAPHY: Grenada County, MS
+GEOGRAPHIC CODE: 28043 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 21,379
+  under 18: 23.8%
+  age 65+: 16.8%
+  White alone: 55.4%
+  Black alone: 43.3%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.4%
+  estimated median household income: $34,856
+  poverty rate: 24.2%
+  homeownership: 68.3%
+  estimated median home value: $93,224
+  estimated median gross rent: $626
+  unemployment: 10.4%
+  bachelor's degree or higher: 18.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

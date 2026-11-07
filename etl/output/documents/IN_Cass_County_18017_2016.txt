@@ -1,0 +1,17 @@
+GEOGRAPHY: Cass County, IN
+GEOGRAPHIC CODE: 18017 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,324
+  under 18: 24.0%
+  age 65+: 16.2%
+  White alone: 84.9%
+  Black alone: 1.5%
+  Asian alone: 1.5%
+  Hispanic or Latino: 14.1%
+  estimated median household income: $44,094
+  homeownership: 75.6%
+  estimated median home value: $82,484
+  estimated median gross rent: $631
+  unemployment: 7.6%
+  bachelor's degree or higher: 13.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Stone County, MO
+GEOGRAPHIC CODE: 29209 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,527
+  under 18: 16.9%
+  age 65+: 29.7%
+  White alone: 96.4%
+  Black alone: 0.2%
+  Asian alone: 0.1%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $46,553
+  poverty rate: 12.6%
+  homeownership: 82.0%
+  estimated median home value: $165,384
+  estimated median gross rent: $724
+  unemployment: 6.7%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

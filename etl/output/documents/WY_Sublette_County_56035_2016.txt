@@ -1,0 +1,17 @@
+GEOGRAPHY: Sublette County, WY
+GEOGRAPHIC CODE: 56035 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,032
+  under 18: 24.1%
+  age 65+: 13.3%
+  White alone: 99.5%
+  Black alone: 0.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 7.8%
+  estimated median household income: $76,107
+  homeownership: 71.3%
+  estimated median home value: $264,702
+  estimated median gross rent: $1,066
+  unemployment: 2.8%
+  bachelor's degree or higher: 24.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

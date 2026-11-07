@@ -1,0 +1,17 @@
+GEOGRAPHY: Edwards County, IL
+GEOGRAPHIC CODE: 17047 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,612
+  under 18: 22.9%
+  age 65+: 19.4%
+  White alone: 97.4%
+  Black alone: 0.4%
+  Asian alone: 0.9%
+  Hispanic or Latino: 0.9%
+  estimated median household income: $46,902
+  homeownership: 82.8%
+  estimated median home value: $71,488
+  estimated median gross rent: $479
+  unemployment: 7.2%
+  bachelor's degree or higher: 12.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

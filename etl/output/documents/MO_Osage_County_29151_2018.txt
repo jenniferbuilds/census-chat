@@ -1,0 +1,18 @@
+GEOGRAPHY: Osage County, MO
+GEOGRAPHIC CODE: 29151 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,619
+  under 18: 23.2%
+  age 65+: 16.7%
+  White alone: 97.9%
+  Black alone: 0.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 0.8%
+  estimated median household income: $58,499
+  poverty rate: 7.2%
+  homeownership: 83.3%
+  estimated median home value: $146,031
+  estimated median gross rent: $532
+  unemployment: 2.4%
+  bachelor's degree or higher: 18.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

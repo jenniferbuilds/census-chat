@@ -1,0 +1,18 @@
+GEOGRAPHY: Blanco County, TX
+GEOGRAPHIC CODE: 48031 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,478
+  under 18: 18.3%
+  age 65+: 25.0%
+  White alone: 89.4%
+  Black alone: 0.0%
+  Asian alone: 1.4%
+  Hispanic or Latino: 19.4%
+  estimated median household income: $65,988
+  poverty rate: 9.0%
+  homeownership: 78.6%
+  estimated median home value: $246,383
+  estimated median gross rent: $852
+  unemployment: 5.1%
+  bachelor's degree or higher: 26.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

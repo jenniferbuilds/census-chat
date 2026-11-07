@@ -1,0 +1,17 @@
+GEOGRAPHY: Outagamie County, WI
+GEOGRAPHIC CODE: 55087 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 181,799
+  under 18: 24.2%
+  age 65+: 13.1%
+  White alone: 90.3%
+  Black alone: 1.1%
+  Asian alone: 3.2%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $59,855
+  homeownership: 70.9%
+  estimated median home value: $157,215
+  estimated median gross rent: $745
+  unemployment: 3.7%
+  bachelor's degree or higher: 27.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

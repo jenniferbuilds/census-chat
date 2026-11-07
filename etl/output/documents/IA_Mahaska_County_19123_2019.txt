@@ -1,0 +1,18 @@
+GEOGRAPHY: Mahaska County, IA
+GEOGRAPHIC CODE: 19123 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,164
+  under 18: 24.0%
+  age 65+: 18.1%
+  White alone: 95.3%
+  Black alone: 1.4%
+  Asian alone: 1.5%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $55,000
+  poverty rate: 13.7%
+  homeownership: 69.0%
+  estimated median home value: $115,274
+  estimated median gross rent: $652
+  unemployment: 3.9%
+  bachelor's degree or higher: 22.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

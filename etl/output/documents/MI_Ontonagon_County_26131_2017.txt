@@ -1,0 +1,18 @@
+GEOGRAPHY: Ontonagon County, MI
+GEOGRAPHIC CODE: 26131 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,072
+  under 18: 12.6%
+  age 65+: 33.3%
+  White alone: 95.8%
+  Black alone: 0.3%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $36,068
+  poverty rate: 15.5%
+  homeownership: 88.2%
+  estimated median home value: $69,500
+  estimated median gross rent: $447
+  unemployment: 10.0%
+  bachelor's degree or higher: 17.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

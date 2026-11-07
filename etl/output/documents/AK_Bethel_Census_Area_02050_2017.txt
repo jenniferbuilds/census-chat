@@ -1,0 +1,18 @@
+GEOGRAPHY: Bethel Census Area, AK
+GEOGRAPHIC CODE: 02050 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,957
+  under 18: 35.7%
+  age 65+: 7.1%
+  White alone: 11.0%
+  Black alone: 0.7%
+  Asian alone: 0.9%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $54,240
+  poverty rate: 27.0%
+  homeownership: 63.2%
+  estimated median home value: $152,579
+  estimated median gross rent: $1,253
+  unemployment: 19.3%
+  bachelor's degree or higher: 12.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

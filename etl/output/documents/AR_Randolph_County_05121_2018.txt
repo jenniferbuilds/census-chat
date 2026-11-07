@@ -1,0 +1,18 @@
+GEOGRAPHY: Randolph County, AR
+GEOGRAPHIC CODE: 05121 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,603
+  under 18: 22.9%
+  age 65+: 19.8%
+  White alone: 95.7%
+  Black alone: 1.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $36,850
+  poverty rate: 18.3%
+  homeownership: 72.0%
+  estimated median home value: $82,436
+  estimated median gross rent: $619
+  unemployment: 4.2%
+  bachelor's degree or higher: 14.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Bedford County, PA
+GEOGRAPHIC CODE: 42009 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 48,891
+  under 18: 20.3%
+  age 65+: 21.5%
+  White alone: 97.6%
+  Black alone: 0.4%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $48,689
+  poverty rate: 13.6%
+  homeownership: 79.5%
+  estimated median home value: $126,792
+  estimated median gross rent: $658
+  unemployment: 5.9%
+  bachelor's degree or higher: 13.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

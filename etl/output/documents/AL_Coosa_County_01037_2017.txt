@@ -1,0 +1,18 @@
+GEOGRAPHY: Coosa County, AL
+GEOGRAPHIC CODE: 01037 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,955
+  under 18: 17.4%
+  age 65+: 21.0%
+  White alone: 65.4%
+  Black alone: 33.2%
+  Asian alone: 0.0%
+  Hispanic or Latino: 0.1%
+  estimated median household income: $34,817
+  poverty rate: 14.4%
+  homeownership: 80.3%
+  estimated median home value: $87,278
+  estimated median gross rent: $547
+  unemployment: 11.3%
+  bachelor's degree or higher: 11.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

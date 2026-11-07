@@ -1,0 +1,18 @@
+GEOGRAPHY: Howard County, IA
+GEOGRAPHIC CODE: 19089 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,226
+  under 18: 25.4%
+  age 65+: 20.2%
+  White alone: 98.1%
+  Black alone: 0.3%
+  Asian alone: 0.4%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $55,232
+  poverty rate: 9.0%
+  homeownership: 79.7%
+  estimated median home value: $107,052
+  estimated median gross rent: $622
+  unemployment: 2.4%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

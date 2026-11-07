@@ -1,0 +1,17 @@
+GEOGRAPHY: Chambers County, TX
+GEOGRAPHIC CODE: 48071 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,072
+  under 18: 27.8%
+  age 65+: 10.5%
+  White alone: 86.7%
+  Black alone: 8.0%
+  Asian alone: 1.4%
+  Hispanic or Latino: 21.1%
+  estimated median household income: $71,510
+  homeownership: 80.5%
+  estimated median home value: $158,737
+  estimated median gross rent: $867
+  unemployment: 6.4%
+  bachelor's degree or higher: 21.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

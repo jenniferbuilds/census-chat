@@ -1,0 +1,18 @@
+GEOGRAPHY: De Baca County, NM
+GEOGRAPHIC CODE: 35011 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,016
+  under 18: 24.1%
+  age 65+: 18.7%
+  White alone: 74.3%
+  Black alone: 1.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 46.0%
+  estimated median household income: $32,879
+  poverty rate: 22.7%
+  homeownership: 66.5%
+  estimated median home value: $67,667
+  estimated median gross rent: $671
+  unemployment: 6.6%
+  bachelor's degree or higher: 10.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

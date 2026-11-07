@@ -1,0 +1,18 @@
+GEOGRAPHY: Anoka County, MN
+GEOGRAPHIC CODE: 27003 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 347,431
+  under 18: 24.1%
+  age 65+: 13.0%
+  White alone: 84.2%
+  Black alone: 5.9%
+  Asian alone: 4.3%
+  Hispanic or Latino: 4.4%
+  estimated median household income: $80,184
+  poverty rate: 6.1%
+  homeownership: 80.2%
+  estimated median home value: $218,816
+  estimated median gross rent: $1,089
+  unemployment: 3.7%
+  bachelor's degree or higher: 29.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

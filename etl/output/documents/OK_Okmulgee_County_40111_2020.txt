@@ -1,0 +1,18 @@
+GEOGRAPHY: Okmulgee County, OK
+GEOGRAPHIC CODE: 40111 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 38,553
+  under 18: 23.6%
+  age 65+: 18.4%
+  White alone: 64.2%
+  Black alone: 8.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.3%
+  estimated median household income: $45,383
+  poverty rate: 17.1%
+  homeownership: 70.5%
+  estimated median home value: $85,908
+  estimated median gross rent: $668
+  unemployment: 8.0%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

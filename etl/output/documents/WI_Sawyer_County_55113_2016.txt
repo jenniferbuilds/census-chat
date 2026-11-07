@@ -1,0 +1,17 @@
+GEOGRAPHY: Sawyer County, WI
+GEOGRAPHIC CODE: 55113 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,438
+  under 18: 19.9%
+  age 65+: 23.3%
+  White alone: 77.7%
+  Black alone: 0.7%
+  Asian alone: 0.5%
+  Hispanic or Latino: 2.3%
+  estimated median household income: $41,848
+  homeownership: 73.8%
+  estimated median home value: $159,780
+  estimated median gross rent: $657
+  unemployment: 7.7%
+  bachelor's degree or higher: 22.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

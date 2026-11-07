@@ -1,0 +1,18 @@
+GEOGRAPHY: Cochise County, AZ
+GEOGRAPHIC CODE: 04003 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 125,867
+  under 18: 21.8%
+  age 65+: 21.7%
+  White alone: 85.5%
+  Black alone: 4.1%
+  Asian alone: 1.9%
+  Hispanic or Latino: 35.5%
+  estimated median household income: $49,312
+  poverty rate: 16.6%
+  homeownership: 68.9%
+  estimated median home value: $146,782
+  estimated median gross rent: $783
+  unemployment: 6.3%
+  bachelor's degree or higher: 23.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

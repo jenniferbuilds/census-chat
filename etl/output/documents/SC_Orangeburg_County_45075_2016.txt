@@ -1,0 +1,17 @@
+GEOGRAPHY: Orangeburg County, SC
+GEOGRAPHIC CODE: 45075 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 89,731
+  under 18: 22.6%
+  age 65+: 17.1%
+  White alone: 34.3%
+  Black alone: 61.9%
+  Asian alone: 1.0%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $34,773
+  homeownership: 68.6%
+  estimated median home value: $91,242
+  estimated median gross rent: $650
+  unemployment: 11.3%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

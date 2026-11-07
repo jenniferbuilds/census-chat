@@ -1,0 +1,17 @@
+GEOGRAPHY: Stevens County, KS
+GEOGRAPHIC CODE: 20189 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,738
+  under 18: 30.9%
+  age 65+: 12.6%
+  White alone: 86.2%
+  Black alone: 0.1%
+  Asian alone: 0.2%
+  Hispanic or Latino: 34.7%
+  estimated median household income: $54,630
+  homeownership: 74.3%
+  estimated median home value: $98,614
+  estimated median gross rent: $676
+  unemployment: 3.7%
+  bachelor's degree or higher: 16.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

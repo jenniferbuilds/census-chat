@@ -1,0 +1,18 @@
+GEOGRAPHY: Sherman County, OR
+GEOGRAPHIC CODE: 41055 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,605
+  under 18: 16.4%
+  age 65+: 25.7%
+  White alone: 95.5%
+  Black alone: 0.6%
+  Asian alone: 0.1%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $47,162
+  poverty rate: 13.1%
+  homeownership: 64.7%
+  estimated median home value: $148,333
+  estimated median gross rent: $740
+  unemployment: 3.9%
+  bachelor's degree or higher: 19.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

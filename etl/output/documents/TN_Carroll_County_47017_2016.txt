@@ -1,0 +1,17 @@
+GEOGRAPHY: Carroll County, TN
+GEOGRAPHIC CODE: 47017 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,417
+  under 18: 21.3%
+  age 65+: 19.7%
+  White alone: 86.8%
+  Black alone: 10.5%
+  Asian alone: 0.3%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $36,052
+  homeownership: 72.6%
+  estimated median home value: $85,257
+  estimated median gross rent: $584
+  unemployment: 8.5%
+  bachelor's degree or higher: 15.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

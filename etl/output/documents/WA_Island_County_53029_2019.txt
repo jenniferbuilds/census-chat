@@ -1,0 +1,18 @@
+GEOGRAPHY: Island County, WA
+GEOGRAPHIC CODE: 53029 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 82,866
+  under 18: 18.3%
+  age 65+: 24.0%
+  White alone: 84.6%
+  Black alone: 3.1%
+  Asian alone: 4.9%
+  Hispanic or Latino: 7.7%
+  estimated median household income: $68,248
+  poverty rate: 7.8%
+  homeownership: 71.5%
+  estimated median home value: $358,759
+  estimated median gross rent: $1,218
+  unemployment: 5.6%
+  bachelor's degree or higher: 33.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

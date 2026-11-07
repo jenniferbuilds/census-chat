@@ -1,0 +1,18 @@
+GEOGRAPHY: Rhode Island (RI)
+GEOGRAPHIC CODE: 44 | LEVEL: State | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,057,231
+  under 18: 19.6%
+  age 65+: 16.8%
+  White alone: 80.5%
+  Black alone: 6.8%
+  Asian alone: 3.4%
+  Hispanic or Latino: 15.4%
+  estimated median household income: $67,235
+  poverty rate: 12.4%
+  homeownership: 60.8%
+  estimated median home value: $261,871
+  estimated median gross rent: $1,004
+  unemployment: 5.4%
+  bachelor's degree or higher: 34.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Lincoln County, NE
+GEOGRAPHIC CODE: 31111 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 35,777
+  under 18: 24.3%
+  age 65+: 17.2%
+  White alone: 95.5%
+  Black alone: 1.0%
+  Asian alone: 0.6%
+  Hispanic or Latino: 8.1%
+  estimated median household income: $52,296
+  homeownership: 65.6%
+  estimated median home value: $119,599
+  estimated median gross rent: $651
+  unemployment: 3.1%
+  bachelor's degree or higher: 21.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

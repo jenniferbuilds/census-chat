@@ -1,0 +1,18 @@
+GEOGRAPHY: Kingsbury County, SD
+GEOGRAPHIC CODE: 46077 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,944
+  under 18: 22.3%
+  age 65+: 22.7%
+  White alone: 97.9%
+  Black alone: 0.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $61,942
+  poverty rate: 8.2%
+  homeownership: 79.5%
+  estimated median home value: $109,906
+  estimated median gross rent: $500
+  unemployment: 0.7%
+  bachelor's degree or higher: 21.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

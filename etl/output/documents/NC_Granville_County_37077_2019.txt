@@ -1,0 +1,18 @@
+GEOGRAPHY: Granville County, NC
+GEOGRAPHIC CODE: 37077 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 59,328
+  under 18: 20.7%
+  age 65+: 16.6%
+  White alone: 61.0%
+  Black alone: 30.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 7.9%
+  estimated median household income: $56,875
+  poverty rate: 14.3%
+  homeownership: 72.1%
+  estimated median home value: $156,048
+  estimated median gross rent: $831
+  unemployment: 5.6%
+  bachelor's degree or higher: 22.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

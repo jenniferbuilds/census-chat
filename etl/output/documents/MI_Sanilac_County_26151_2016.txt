@@ -1,0 +1,17 @@
+GEOGRAPHY: Sanilac County, MI
+GEOGRAPHIC CODE: 26151 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,761
+  under 18: 22.3%
+  age 65+: 19.5%
+  White alone: 96.7%
+  Black alone: 0.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $42,421
+  homeownership: 79.1%
+  estimated median home value: $98,545
+  estimated median gross rent: $622
+  unemployment: 9.2%
+  bachelor's degree or higher: 13.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

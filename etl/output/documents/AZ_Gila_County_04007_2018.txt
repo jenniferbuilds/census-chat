@@ -1,0 +1,18 @@
+GEOGRAPHY: Gila County, AZ
+GEOGRAPHIC CODE: 04007 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 53,400
+  under 18: 20.3%
+  age 65+: 27.7%
+  White alone: 77.0%
+  Black alone: 0.6%
+  Asian alone: 0.9%
+  Hispanic or Latino: 18.7%
+  estimated median household income: $42,175
+  poverty rate: 22.5%
+  homeownership: 73.9%
+  estimated median home value: $157,585
+  estimated median gross rent: $783
+  unemployment: 10.2%
+  bachelor's degree or higher: 18.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

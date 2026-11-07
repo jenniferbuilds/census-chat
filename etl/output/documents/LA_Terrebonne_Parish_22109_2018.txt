@@ -1,0 +1,18 @@
+GEOGRAPHY: Terrebonne Parish, LA
+GEOGRAPHIC CODE: 22109 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 112,587
+  under 18: 25.6%
+  age 65+: 13.5%
+  White alone: 70.7%
+  Black alone: 19.2%
+  Asian alone: 0.9%
+  Hispanic or Latino: 5.1%
+  estimated median household income: $48,768
+  poverty rate: 21.6%
+  homeownership: 71.0%
+  estimated median home value: $148,824
+  estimated median gross rent: $884
+  unemployment: 6.6%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Mason County, TX
+GEOGRAPHIC CODE: 48319 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,161
+  under 18: 21.3%
+  age 65+: 25.1%
+  White alone: 87.3%
+  Black alone: 0.0%
+  Asian alone: 2.2%
+  Hispanic or Latino: 23.5%
+  estimated median household income: $41,224
+  poverty rate: 14.6%
+  homeownership: 71.0%
+  estimated median home value: $163,559
+  estimated median gross rent: $825
+  unemployment: 5.7%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

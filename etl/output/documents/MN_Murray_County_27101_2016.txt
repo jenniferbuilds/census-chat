@@ -1,0 +1,17 @@
+GEOGRAPHY: Murray County, MN
+GEOGRAPHIC CODE: 27101 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,463
+  under 18: 21.1%
+  age 65+: 24.2%
+  White alone: 96.8%
+  Black alone: 0.4%
+  Asian alone: 0.8%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $52,130
+  homeownership: 80.7%
+  estimated median home value: $105,017
+  estimated median gross rent: $565
+  unemployment: 4.2%
+  bachelor's degree or higher: 17.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

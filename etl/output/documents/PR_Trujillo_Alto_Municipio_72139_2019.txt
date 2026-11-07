@@ -1,0 +1,18 @@
+GEOGRAPHY: Trujillo Alto Municipio, PR
+GEOGRAPHIC CODE: 72139 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 66,338
+  under 18: 19.9%
+  age 65+: 18.3%
+  White alone: 79.4%
+  Black alone: 10.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 99.1%
+  estimated median household income: $32,765
+  poverty rate: 29.5%
+  homeownership: 67.8%
+  estimated median home value: $146,190
+  estimated median gross rent: $501
+  unemployment: 5.4%
+  bachelor's degree or higher: 36.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

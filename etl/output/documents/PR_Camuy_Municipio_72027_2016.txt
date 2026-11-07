@@ -1,0 +1,17 @@
+GEOGRAPHY: Camuy Municipio, PR
+GEOGRAPHIC CODE: 72027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,481
+  under 18: 21.5%
+  age 65+: 16.9%
+  White alone: 79.7%
+  Black alone: 2.1%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.3%
+  estimated median household income: $17,794
+  homeownership: 70.5%
+  estimated median home value: $105,307
+  estimated median gross rent: $399
+  unemployment: 20.0%
+  bachelor's degree or higher: 21.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

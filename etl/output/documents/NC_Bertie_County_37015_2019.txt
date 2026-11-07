@@ -1,0 +1,18 @@
+GEOGRAPHY: Bertie County, NC
+GEOGRAPHIC CODE: 37015 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,380
+  under 18: 17.5%
+  age 65+: 21.9%
+  White alone: 35.2%
+  Black alone: 61.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $35,595
+  poverty rate: 23.2%
+  homeownership: 74.4%
+  estimated median home value: $82,164
+  estimated median gross rent: $638
+  unemployment: 10.9%
+  bachelor's degree or higher: 13.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

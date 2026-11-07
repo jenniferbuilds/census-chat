@@ -1,0 +1,17 @@
+GEOGRAPHY: Hampshire County, WV
+GEOGRAPHIC CODE: 54027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,455
+  under 18: 20.5%
+  age 65+: 19.3%
+  White alone: 97.2%
+  Black alone: 1.2%
+  Asian alone: 0.2%
+  Hispanic or Latino: 1.2%
+  estimated median household income: $32,910
+  homeownership: 59.5%
+  estimated median home value: $125,568
+  estimated median gross rent: $543
+  unemployment: 7.6%
+  bachelor's degree or higher: 11.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Vinton County, OH
+GEOGRAPHIC CODE: 39163 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,111
+  under 18: 22.4%
+  age 65+: 16.4%
+  White alone: 97.2%
+  Black alone: 0.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 0.6%
+  estimated median household income: $41,740
+  poverty rate: 20.9%
+  homeownership: 74.5%
+  estimated median home value: $90,608
+  estimated median gross rent: $623
+  unemployment: 9.8%
+  bachelor's degree or higher: 11.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

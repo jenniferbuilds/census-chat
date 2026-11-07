@@ -1,0 +1,18 @@
+GEOGRAPHY: Habersham County, GA
+GEOGRAPHIC CODE: 13137 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,878
+  under 18: 22.8%
+  age 65+: 18.0%
+  White alone: 86.3%
+  Black alone: 3.1%
+  Asian alone: 2.3%
+  Hispanic or Latino: 14.2%
+  estimated median household income: $44,435
+  poverty rate: 17.2%
+  homeownership: 75.2%
+  estimated median home value: $137,238
+  estimated median gross rent: $733
+  unemployment: 5.5%
+  bachelor's degree or higher: 18.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

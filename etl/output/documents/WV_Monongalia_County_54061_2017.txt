@@ -1,0 +1,18 @@
+GEOGRAPHY: Monongalia County, WV
+GEOGRAPHIC CODE: 54061 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 103,715
+  under 18: 16.3%
+  age 65+: 11.3%
+  White alone: 89.9%
+  Black alone: 3.7%
+  Asian alone: 3.3%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $49,674
+  poverty rate: 21.3%
+  homeownership: 57.7%
+  estimated median home value: $178,187
+  estimated median gross rent: $788
+  unemployment: 6.1%
+  bachelor's degree or higher: 39.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Traverse County, MN
+GEOGRAPHIC CODE: 27155 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 3,311
+  under 18: 19.7%
+  age 65+: 24.8%
+  White alone: 90.7%
+  Black alone: 0.5%
+  Asian alone: 0.2%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $51,957
+  poverty rate: 9.9%
+  homeownership: 79.6%
+  estimated median home value: $81,364
+  estimated median gross rent: $620
+  unemployment: 4.0%
+  bachelor's degree or higher: 17.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Wythe County, VA
+GEOGRAPHIC CODE: 51197 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 29,171
+  under 18: 20.3%
+  age 65+: 19.6%
+  White alone: 95.0%
+  Black alone: 3.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $42,538
+  homeownership: 71.8%
+  estimated median home value: $128,166
+  estimated median gross rent: $617
+  unemployment: 7.5%
+  bachelor's degree or higher: 16.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

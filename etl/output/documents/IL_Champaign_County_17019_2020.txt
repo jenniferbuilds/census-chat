@@ -1,0 +1,18 @@
+GEOGRAPHY: Champaign County, IL
+GEOGRAPHIC CODE: 17019 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 210,006
+  under 18: 18.9%
+  age 65+: 12.8%
+  White alone: 70.8%
+  Black alone: 13.4%
+  Asian alone: 10.9%
+  Hispanic or Latino: 6.1%
+  estimated median household income: $53,923
+  poverty rate: 19.1%
+  homeownership: 53.1%
+  estimated median home value: $166,566
+  estimated median gross rent: $873
+  unemployment: 4.8%
+  bachelor's degree or higher: 45.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

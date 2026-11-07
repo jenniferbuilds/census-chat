@@ -1,0 +1,18 @@
+GEOGRAPHY: Liberty County, FL
+GEOGRAPHIC CODE: 12077 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,365
+  under 18: 16.7%
+  age 65+: 15.6%
+  White alone: 80.7%
+  Black alone: 15.0%
+  Asian alone: 0.2%
+  Hispanic or Latino: 5.8%
+  estimated median household income: $37,827
+  poverty rate: 13.0%
+  homeownership: 75.3%
+  estimated median home value: $66,602
+  estimated median gross rent: $581
+  unemployment: 11.3%
+  bachelor's degree or higher: 12.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

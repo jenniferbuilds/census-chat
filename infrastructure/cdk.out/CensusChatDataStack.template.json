@@ -1,0 +1,347 @@
+{
+ "Resources": {
+  "CensusChatKBBucketF13A8181": {
+   "Type": "AWS::S3::Bucket",
+   "Properties": {
+    "BucketEncryption": {
+     "ServerSideEncryptionConfiguration": [
+      {
+       "ServerSideEncryptionByDefault": {
+        "SSEAlgorithm": "AES256"
+       }
+      }
+     ]
+    },
+    "BucketName": "census-chat-kb-data-887083795887",
+    "LifecycleConfiguration": {
+     "Rules": [
+      {
+       "Id": "expire-old-versions",
+       "NoncurrentVersionExpiration": {
+        "NoncurrentDays": 30
+       },
+       "Status": "Enabled"
+      }
+     ]
+    },
+    "PublicAccessBlockConfiguration": {
+     "BlockPublicAcls": true,
+     "BlockPublicPolicy": true,
+     "IgnorePublicAcls": true,
+     "RestrictPublicBuckets": true
+    },
+    "VersioningConfiguration": {
+     "Status": "Enabled"
+    }
+   },
+   "UpdateReplacePolicy": "Retain",
+   "DeletionPolicy": "Retain",
+   "Metadata": {
+    "aws:cdk:path": "CensusChatDataStack/CensusChatKBBucket/Resource"
+   }
+  },
+  "BedrockKBRole10C55766": {
+   "Type": "AWS::IAM::Role",
+   "Properties": {
+    "AssumeRolePolicyDocument": {
+     "Statement": [
+      {
+       "Action": "sts:AssumeRole",
+       "Effect": "Allow",
+       "Principal": {
+        "Service": "bedrock.amazonaws.com"
+       }
+      }
+     ],
+     "Version": "2012-10-17"
+    },
+    "Description": "Allows Bedrock KB to read from S3 and use Titan Embeddings",
+    "RoleName": "CensusChatBedrockKBRole"
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatDataStack/BedrockKBRole/Resource"
+   }
+  },
+  "BedrockKBRoleDefaultPolicyFE85C08A": {
+   "Type": "AWS::IAM::Policy",
+   "Properties": {
+    "PolicyDocument": {
+     "Statement": [
+      {
+       "Action": [
+        "s3:GetObject*",
+        "s3:GetBucket*",
+        "s3:List*"
+       ],
+       "Effect": "Allow",
+       "Resource": [
+        {
+         "Fn::GetAtt": [
+          "CensusChatKBBucketF13A8181",
+          "Arn"
+         ]
+        },
+        {
+         "Fn::Join": [
+          "",
+          [
+           {
+            "Fn::GetAtt": [
+             "CensusChatKBBucketF13A8181",
+             "Arn"
+            ]
+           },
+           "/*"
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "Action": [
+        "bedrock:InvokeModel",
+        "bedrock-runtime:InvokeModel"
+       ],
+       "Effect": "Allow",
+       "Resource": [
+        "arn:aws:bedrock:us-east-2::foundation-model/amazon.titan-embed-text-v2:0",
+        "arn:aws:bedrock:us-east-2::foundation-model/amazon.titan-embed-text-v2:0:*"
+       ]
+      },
+      {
+       "Action": [
+        "s3vectors:CreateVector",
+        "s3vectors:GetVector",
+        "s3vectors:DeleteVector",
+        "s3vectors:QueryVectors",
+        "s3vectors:PutVectors",
+        "s3vectors:GetVectorBucket",
+        "s3vectors:ListVectorBuckets"
+       ],
+       "Effect": "Allow",
+       "Resource": "*"
+      }
+     ],
+     "Version": "2012-10-17"
+    },
+    "PolicyName": "BedrockKBRoleDefaultPolicyFE85C08A",
+    "Roles": [
+     {
+      "Ref": "BedrockKBRole10C55766"
+     }
+    ]
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatDataStack/BedrockKBRole/DefaultPolicy/Resource"
+   }
+  },
+  "CensusChatGuardrail": {
+   "Type": "AWS::Bedrock::Guardrail",
+   "Properties": {
+    "BlockedInputMessaging": "I'm focused on answering questions about US Census data. Please ask me about population, demographics, income, housing, or employment statistics.",
+    "BlockedOutputsMessaging": "I wasn't able to provide a reliable answer based on the available census data. Please try rephrasing your question.",
+    "ContentPolicyConfig": {
+     "FiltersConfig": [
+      {
+       "InputStrength": "HIGH",
+       "OutputStrength": "HIGH",
+       "Type": "HATE"
+      },
+      {
+       "InputStrength": "MEDIUM",
+       "OutputStrength": "MEDIUM",
+       "Type": "VIOLENCE"
+      },
+      {
+       "InputStrength": "HIGH",
+       "OutputStrength": "NONE",
+       "Type": "PROMPT_ATTACK"
+      }
+     ]
+    },
+    "ContextualGroundingPolicyConfig": {
+     "FiltersConfig": [
+      {
+       "Threshold": 0.7,
+       "Type": "GROUNDING"
+      },
+      {
+       "Threshold": 0.7,
+       "Type": "RELEVANCE"
+      }
+     ]
+    },
+    "Description": "Filters off-topic, harmful, and hallucinated content",
+    "Name": "census-chat-guardrail",
+    "TopicPolicyConfig": {
+     "TopicsConfig": [
+      {
+       "Definition": "Requests for entertainment, creative writing, code, weather, sports, travel, shopping, financial, medical or legal advice, news, personal errands, or private system instructions.",
+       "Examples": [
+        "Tell me a joke",
+        "Write me a poem",
+        "What's the weather like?",
+        "Debug my Python program",
+        "What stocks should I buy?"
+       ],
+       "Name": "general-purpose-and-unrelated-requests",
+       "Type": "DENY"
+      }
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatDataStack/CensusChatGuardrail"
+   }
+  },
+  "CensusChatGuardrailV1": {
+   "Type": "AWS::Bedrock::GuardrailVersion",
+   "Properties": {
+    "Description": "Initial version",
+    "GuardrailIdentifier": {
+     "Fn::GetAtt": [
+      "CensusChatGuardrail",
+      "GuardrailId"
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatDataStack/CensusChatGuardrailV1"
+   }
+  },
+  "CensusChatGuardrailV2": {
+   "Type": "AWS::Bedrock::GuardrailVersion",
+   "Properties": {
+    "Description": "Corrected topic classification and contextual grounding",
+    "GuardrailIdentifier": {
+     "Fn::GetAtt": [
+      "CensusChatGuardrail",
+      "GuardrailId"
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatDataStack/CensusChatGuardrailV2"
+   }
+  },
+  "CDKMetadata": {
+   "Type": "AWS::CDK::Metadata",
+   "Properties": {
+    "Analytics": "v2:deflate64:H4sIAAAAAAAA/02MvQ7CIBRGn6U7XG0b010HR5uauBpKMV6hYPiJaQjvLsjidL5zhq+DbjjAvmEfR/kiqcIZ4tUzLklO9+h6iMfApfDk9NB1JYJshTgZJUr8cTQK+Va0rkRmsVjDJcTczoHZxTJU5F9uwjo0OqVSL8G/Q74eN/80etdD28LQvBwitUF7XAVMlV/NxDZwswAAAA=="
+   },
+   "Metadata": {
+    "aws:cdk:path": "CensusChatDataStack/CDKMetadata/Default"
+   }
+  }
+ },
+ "Outputs": {
+  "ExportsOutputFnGetAttCensusChatGuardrailV1Version1F5D5FAF": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatGuardrailV1",
+     "Version"
+    ]
+   },
+   "Export": {
+    "Name": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailV1Version1F5D5FAF"
+   }
+  },
+  "KBBucketName": {
+   "Value": {
+    "Ref": "CensusChatKBBucketF13A8181"
+   },
+   "Export": {
+    "Name": "CensusChatKBBucketName"
+   }
+  },
+  "KBRoleArn": {
+   "Value": {
+    "Fn::GetAtt": [
+     "BedrockKBRole10C55766",
+     "Arn"
+    ]
+   },
+   "Export": {
+    "Name": "CensusChatKBRoleArn"
+   }
+  },
+  "GuardrailId": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatGuardrail",
+     "GuardrailId"
+    ]
+   },
+   "Export": {
+    "Name": "CensusChatGuardrailId"
+   }
+  },
+  "GuardrailVersion": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatGuardrailV2",
+     "Version"
+    ]
+   },
+   "Export": {
+    "Name": "CensusChatGuardrailVersion"
+   }
+  },
+  "ExportsOutputFnGetAttCensusChatGuardrailGuardrailId05D6AE97": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatGuardrail",
+     "GuardrailId"
+    ]
+   },
+   "Export": {
+    "Name": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailGuardrailId05D6AE97"
+   }
+  },
+  "ExportsOutputFnGetAttCensusChatGuardrailV2Version872C7CF7": {
+   "Value": {
+    "Fn::GetAtt": [
+     "CensusChatGuardrailV2",
+     "Version"
+    ]
+   },
+   "Export": {
+    "Name": "CensusChatDataStack:ExportsOutputFnGetAttCensusChatGuardrailV2Version872C7CF7"
+   }
+  }
+ },
+ "Parameters": {
+  "BootstrapVersion": {
+   "Type": "AWS::SSM::Parameter::Value<String>",
+   "Default": "/cdk-bootstrap/hnb659fds/version",
+   "Description": "Version of the CDK Bootstrap resources in this environment, automatically retrieved from SSM Parameter Store. [cdk:skip]"
+  }
+ },
+ "Rules": {
+  "CheckBootstrapVersion": {
+   "Assertions": [
+    {
+     "Assert": {
+      "Fn::Not": [
+       {
+        "Fn::Contains": [
+         [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+         ],
+         {
+          "Ref": "BootstrapVersion"
+         }
+        ]
+       }
+      ]
+     },
+     "AssertDescription": "CDK bootstrap stack version 6 required. Please run 'cdk bootstrap' with a recent version of the CDK CLI."
+    }
+   ]
+  }
+ }
+}

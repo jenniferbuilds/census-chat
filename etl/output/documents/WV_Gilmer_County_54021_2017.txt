@@ -1,0 +1,18 @@
+GEOGRAPHY: Gilmer County, WV
+GEOGRAPHIC CODE: 54021 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 8,305
+  under 18: 15.4%
+  age 65+: 15.5%
+  White alone: 82.1%
+  Black alone: 11.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $37,242
+  poverty rate: 25.0%
+  homeownership: 74.3%
+  estimated median home value: $91,607
+  estimated median gross rent: $528
+  unemployment: 12.3%
+  bachelor's degree or higher: 16.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Pulaski County, VA
+GEOGRAPHIC CODE: 51155 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,182
+  under 18: 17.8%
+  age 65+: 22.5%
+  White alone: 92.1%
+  Black alone: 4.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $54,348
+  poverty rate: 14.8%
+  homeownership: 71.4%
+  estimated median home value: $149,508
+  estimated median gross rent: $711
+  unemployment: 5.8%
+  bachelor's degree or higher: 20.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

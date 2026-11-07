@@ -1,0 +1,18 @@
+GEOGRAPHY: Burleson County, TX
+GEOGRAPHIC CODE: 48051 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,863
+  under 18: 22.4%
+  age 65+: 20.3%
+  White alone: 80.0%
+  Black alone: 12.6%
+  Asian alone: 0.2%
+  Hispanic or Latino: 20.5%
+  estimated median household income: $56,522
+  poverty rate: 12.6%
+  homeownership: 79.8%
+  estimated median home value: $109,844
+  estimated median gross rent: $732
+  unemployment: 6.1%
+  bachelor's degree or higher: 17.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

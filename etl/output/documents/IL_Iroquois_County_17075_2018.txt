@@ -1,0 +1,18 @@
+GEOGRAPHY: Iroquois County, IL
+GEOGRAPHIC CODE: 17075 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,169
+  under 18: 21.9%
+  age 65+: 20.9%
+  White alone: 92.8%
+  Black alone: 1.0%
+  Asian alone: 0.3%
+  Hispanic or Latino: 6.8%
+  estimated median household income: $51,517
+  poverty rate: 14.0%
+  homeownership: 76.9%
+  estimated median home value: $99,500
+  estimated median gross rent: $665
+  unemployment: 5.6%
+  bachelor's degree or higher: 15.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

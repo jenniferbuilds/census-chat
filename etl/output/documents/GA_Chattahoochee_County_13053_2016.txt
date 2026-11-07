@@ -1,0 +1,17 @@
+GEOGRAPHY: Chattahoochee County, GA
+GEOGRAPHIC CODE: 13053 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,882
+  under 18: 23.1%
+  age 65+: 3.9%
+  White alone: 69.9%
+  Black alone: 18.5%
+  Asian alone: 3.2%
+  Hispanic or Latino: 14.8%
+  estimated median household income: $43,830
+  homeownership: 30.3%
+  estimated median home value: $66,364
+  estimated median gross rent: $1,272
+  unemployment: 16.0%
+  bachelor's degree or higher: 30.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

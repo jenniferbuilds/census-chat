@@ -1,0 +1,18 @@
+GEOGRAPHY: Columbia County, OR
+GEOGRAPHIC CODE: 41009 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 50,851
+  under 18: 21.8%
+  age 65+: 17.9%
+  White alone: 92.8%
+  Black alone: 0.6%
+  Asian alone: 1.1%
+  Hispanic or Latino: 5.0%
+  estimated median household income: $59,756
+  poverty rate: 12.1%
+  homeownership: 74.2%
+  estimated median home value: $240,546
+  estimated median gross rent: $909
+  unemployment: 7.0%
+  bachelor's degree or higher: 17.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

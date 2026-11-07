@@ -1,0 +1,18 @@
+GEOGRAPHY: Martin County, TX
+GEOGRAPHIC CODE: 48317 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,649
+  under 18: 31.1%
+  age 65+: 12.1%
+  White alone: 79.3%
+  Black alone: 0.8%
+  Asian alone: 0.1%
+  Hispanic or Latino: 45.0%
+  estimated median household income: $66,000
+  poverty rate: 8.5%
+  homeownership: 73.8%
+  estimated median home value: $147,984
+  estimated median gross rent: $821
+  unemployment: 4.5%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

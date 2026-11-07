@@ -1,0 +1,18 @@
+GEOGRAPHY: Smith County, TX
+GEOGRAPHIC CODE: 48423 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 227,449
+  under 18: 24.6%
+  age 65+: 16.2%
+  White alone: 76.8%
+  Black alone: 17.5%
+  Asian alone: 1.7%
+  Hispanic or Latino: 19.5%
+  estimated median household income: $57,398
+  poverty rate: 15.4%
+  homeownership: 66.4%
+  estimated median home value: $158,637
+  estimated median gross rent: $941
+  unemployment: 5.4%
+  bachelor's degree or higher: 26.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

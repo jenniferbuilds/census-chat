@@ -1,0 +1,18 @@
+GEOGRAPHY: Divide County, ND
+GEOGRAPHIC CODE: 38023 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,378
+  under 18: 18.6%
+  age 65+: 26.7%
+  White alone: 93.7%
+  Black alone: 1.0%
+  Asian alone: 1.5%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $57,062
+  poverty rate: 13.0%
+  homeownership: 77.7%
+  estimated median home value: $150,789
+  estimated median gross rent: $823
+  unemployment: 2.4%
+  bachelor's degree or higher: 19.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

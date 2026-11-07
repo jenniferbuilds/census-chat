@@ -1,0 +1,18 @@
+GEOGRAPHY: Howard County, MD
+GEOGRAPHIC CODE: 24027 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 312,495
+  under 18: 24.6%
+  age 65+: 12.6%
+  White alone: 58.7%
+  Black alone: 18.5%
+  Asian alone: 17.4%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $116,539
+  poverty rate: 5.2%
+  homeownership: 73.7%
+  estimated median home value: $439,928
+  estimated median gross rent: $1,661
+  unemployment: 4.2%
+  bachelor's degree or higher: 61.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

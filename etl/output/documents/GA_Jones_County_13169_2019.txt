@@ -1,0 +1,18 @@
+GEOGRAPHY: Jones County, GA
+GEOGRAPHIC CODE: 13169 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,579
+  under 18: 23.4%
+  age 65+: 17.4%
+  White alone: 72.9%
+  Black alone: 24.6%
+  Asian alone: 0.7%
+  Hispanic or Latino: 1.7%
+  estimated median household income: $55,116
+  poverty rate: 14.0%
+  homeownership: 80.2%
+  estimated median home value: $124,129
+  estimated median gross rent: $775
+  unemployment: 5.4%
+  bachelor's degree or higher: 19.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

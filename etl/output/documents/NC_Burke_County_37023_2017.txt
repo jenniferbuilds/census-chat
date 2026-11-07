@@ -1,0 +1,18 @@
+GEOGRAPHY: Burke County, NC
+GEOGRAPHIC CODE: 37023 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 88,898
+  under 18: 19.7%
+  age 65+: 18.8%
+  White alone: 84.7%
+  Black alone: 6.0%
+  Asian alone: 3.6%
+  Hispanic or Latino: 5.9%
+  estimated median household income: $40,977
+  poverty rate: 19.3%
+  homeownership: 71.5%
+  estimated median home value: $115,369
+  estimated median gross rent: $635
+  unemployment: 9.3%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

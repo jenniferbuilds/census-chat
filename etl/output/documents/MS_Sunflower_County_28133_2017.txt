@@ -1,0 +1,18 @@
+GEOGRAPHY: Sunflower County, MS
+GEOGRAPHIC CODE: 28133 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,915
+  under 18: 23.3%
+  age 65+: 11.9%
+  White alone: 24.9%
+  Black alone: 74.0%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $28,907
+  poverty rate: 32.5%
+  homeownership: 56.2%
+  estimated median home value: $71,592
+  estimated median gross rent: $608
+  unemployment: 17.6%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

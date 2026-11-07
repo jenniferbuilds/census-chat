@@ -1,0 +1,18 @@
+GEOGRAPHY: Naguabo Municipio, PR
+GEOGRAPHIC CODE: 72103 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,075
+  under 18: 22.3%
+  age 65+: 17.4%
+  White alone: 69.4%
+  Black alone: 3.7%
+  Asian alone: 0.4%
+  Hispanic or Latino: 99.2%
+  estimated median household income: $19,591
+  poverty rate: 47.4%
+  homeownership: 77.5%
+  estimated median home value: $92,491
+  estimated median gross rent: $452
+  unemployment: 15.2%
+  bachelor's degree or higher: 20.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

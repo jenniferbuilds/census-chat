@@ -1,0 +1,17 @@
+GEOGRAPHY: Sequoyah County, OK
+GEOGRAPHIC CODE: 40135 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,344
+  under 18: 23.9%
+  age 65+: 16.9%
+  White alone: 65.0%
+  Black alone: 2.0%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.7%
+  estimated median household income: $36,289
+  homeownership: 71.2%
+  estimated median home value: $90,894
+  estimated median gross rent: $639
+  unemployment: 8.8%
+  bachelor's degree or higher: 14.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

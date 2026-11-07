@@ -1,0 +1,18 @@
+GEOGRAPHY: Alachua County, FL
+GEOGRAPHIC CODE: 12001 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 259,865
+  under 18: 18.0%
+  age 65+: 12.8%
+  White alone: 69.5%
+  Black alone: 20.2%
+  Asian alone: 5.9%
+  Hispanic or Latino: 9.3%
+  estimated median household income: $45,466
+  poverty rate: 23.3%
+  homeownership: 53.6%
+  estimated median home value: $167,021
+  estimated median gross rent: $916
+  unemployment: 6.6%
+  bachelor's degree or higher: 41.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

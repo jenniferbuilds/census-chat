@@ -1,0 +1,18 @@
+GEOGRAPHY: Alcorn County, MS
+GEOGRAPHIC CODE: 28003 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 37,242
+  under 18: 23.7%
+  age 65+: 17.5%
+  White alone: 85.1%
+  Black alone: 11.7%
+  Asian alone: 0.3%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $38,603
+  poverty rate: 19.6%
+  homeownership: 70.2%
+  estimated median home value: $86,127
+  estimated median gross rent: $607
+  unemployment: 8.6%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

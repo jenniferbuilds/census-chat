@@ -1,0 +1,18 @@
+GEOGRAPHY: Carroll County, NH
+GEOGRAPHIC CODE: 33003 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 47,524
+  under 18: 16.6%
+  age 65+: 25.3%
+  White alone: 97.4%
+  Black alone: 0.5%
+  Asian alone: 0.6%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $58,566
+  poverty rate: 9.2%
+  homeownership: 79.6%
+  estimated median home value: $227,579
+  estimated median gross rent: $920
+  unemployment: 4.7%
+  bachelor's degree or higher: 34.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

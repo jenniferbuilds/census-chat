@@ -1,0 +1,18 @@
+GEOGRAPHY: Broome County, NY
+GEOGRAPHIC CODE: 36007 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 194,402
+  under 18: 19.5%
+  age 65+: 18.3%
+  White alone: 85.9%
+  Black alone: 5.7%
+  Asian alone: 4.2%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $50,814
+  poverty rate: 17.0%
+  homeownership: 65.3%
+  estimated median home value: $115,629
+  estimated median gross rent: $766
+  unemployment: 6.6%
+  bachelor's degree or higher: 28.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

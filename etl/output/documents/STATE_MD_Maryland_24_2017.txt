@@ -1,0 +1,18 @@
+GEOGRAPHY: Maryland (MD)
+GEOGRAPHIC CODE: 24 | LEVEL: State | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,996,079
+  under 18: 22.5%
+  age 65+: 14.2%
+  White alone: 56.6%
+  Black alone: 29.7%
+  Asian alone: 6.2%
+  Hispanic or Latino: 9.6%
+  estimated median household income: $79,116
+  poverty rate: 9.7%
+  homeownership: 66.8%
+  estimated median home value: $296,480
+  estimated median gross rent: $1,311
+  unemployment: 6.1%
+  bachelor's degree or higher: 39.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

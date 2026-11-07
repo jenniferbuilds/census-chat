@@ -1,0 +1,18 @@
+GEOGRAPHY: Charlevoix County, MI
+GEOGRAPHIC CODE: 26029 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,197
+  under 18: 18.9%
+  age 65+: 24.2%
+  White alone: 95.0%
+  Black alone: 0.5%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.1%
+  estimated median household income: $60,531
+  poverty rate: 9.7%
+  homeownership: 81.7%
+  estimated median home value: $171,084
+  estimated median gross rent: $782
+  unemployment: 4.8%
+  bachelor's degree or higher: 32.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

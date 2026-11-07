@@ -1,0 +1,18 @@
+GEOGRAPHY: Hodgeman County, KS
+GEOGRAPHIC CODE: 20083 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,876
+  under 18: 21.7%
+  age 65+: 22.0%
+  White alone: 95.6%
+  Black alone: 0.1%
+  Asian alone: 1.9%
+  Hispanic or Latino: 7.9%
+  estimated median household income: $62,981
+  poverty rate: 11.2%
+  homeownership: 81.5%
+  estimated median home value: $84,787
+  estimated median gross rent: $626
+  unemployment: 3.5%
+  bachelor's degree or higher: 30.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

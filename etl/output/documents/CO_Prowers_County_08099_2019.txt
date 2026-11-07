@@ -1,0 +1,18 @@
+GEOGRAPHY: Prowers County, CO
+GEOGRAPHIC CODE: 08099 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,022
+  under 18: 25.5%
+  age 65+: 17.4%
+  White alone: 94.4%
+  Black alone: 0.8%
+  Asian alone: 0.6%
+  Hispanic or Latino: 38.0%
+  estimated median household income: $42,353
+  poverty rate: 16.0%
+  homeownership: 65.4%
+  estimated median home value: $106,088
+  estimated median gross rent: $697
+  unemployment: 4.8%
+  bachelor's degree or higher: 18.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

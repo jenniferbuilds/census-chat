@@ -1,0 +1,18 @@
+GEOGRAPHY: Villalba Municipio, PR
+GEOGRAPHIC CODE: 72149 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,403
+  under 18: 21.7%
+  age 65+: 16.7%
+  White alone: 56.7%
+  Black alone: 3.5%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.7%
+  estimated median household income: $19,878
+  poverty rate: 47.8%
+  homeownership: 69.5%
+  estimated median home value: $92,626
+  estimated median gross rent: $405
+  unemployment: 21.9%
+  bachelor's degree or higher: 19.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

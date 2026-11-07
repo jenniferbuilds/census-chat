@@ -1,0 +1,18 @@
+GEOGRAPHY: Coffee County, GA
+GEOGRAPHIC CODE: 13069 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 43,021
+  under 18: 24.5%
+  age 65+: 13.7%
+  White alone: 67.8%
+  Black alone: 28.5%
+  Asian alone: 0.8%
+  Hispanic or Latino: 11.7%
+  estimated median household income: $41,223
+  poverty rate: 19.9%
+  homeownership: 63.1%
+  estimated median home value: $100,636
+  estimated median gross rent: $623
+  unemployment: 4.0%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Travis County, TX
+GEOGRAPHIC CODE: 48453 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,203,166
+  under 18: 22.4%
+  age 65+: 9.2%
+  White alone: 73.5%
+  Black alone: 8.3%
+  Asian alone: 6.6%
+  Hispanic or Latino: 33.9%
+  estimated median household income: $71,861
+  poverty rate: 13.1%
+  homeownership: 52.2%
+  estimated median home value: $298,806
+  estimated median gross rent: $1,232
+  unemployment: 4.0%
+  bachelor's degree or higher: 48.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,17 @@
+GEOGRAPHY: Daggett County, UT
+GEOGRAPHIC CODE: 49009 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 751
+  under 18: 19.7%
+  age 65+: 20.2%
+  White alone: 97.5%
+  Black alone: 0.0%
+  Asian alone: 0.0%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $75,798
+  homeownership: 93.1%
+  estimated median home value: $206,667
+  estimated median gross rent: $338
+  unemployment: 4.9%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

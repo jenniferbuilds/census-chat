@@ -1,0 +1,18 @@
+GEOGRAPHY: Lackawanna County, PA
+GEOGRAPHIC CODE: 42069 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 211,960
+  under 18: 20.2%
+  age 65+: 18.9%
+  White alone: 92.2%
+  Black alone: 2.9%
+  Asian alone: 2.5%
+  Hispanic or Latino: 6.7%
+  estimated median household income: $48,454
+  poverty rate: 15.4%
+  homeownership: 65.6%
+  estimated median home value: $149,065
+  estimated median gross rent: $748
+  unemployment: 5.4%
+  bachelor's degree or higher: 27.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

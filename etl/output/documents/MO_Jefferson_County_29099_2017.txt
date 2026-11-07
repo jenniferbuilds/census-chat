@@ -1,0 +1,18 @@
+GEOGRAPHY: Jefferson County, MO
+GEOGRAPHIC CODE: 29099 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 222,639
+  under 18: 23.9%
+  age 65+: 13.6%
+  White alone: 96.2%
+  Black alone: 1.0%
+  Asian alone: 0.8%
+  Hispanic or Latino: 1.8%
+  estimated median household income: $60,965
+  poverty rate: 10.9%
+  homeownership: 79.9%
+  estimated median home value: $154,057
+  estimated median gross rent: $824
+  unemployment: 6.5%
+  bachelor's degree or higher: 19.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

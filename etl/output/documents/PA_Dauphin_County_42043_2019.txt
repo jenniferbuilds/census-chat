@@ -1,0 +1,18 @@
+GEOGRAPHY: Dauphin County, PA
+GEOGRAPHIC CODE: 42043 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 275,632
+  under 18: 22.5%
+  age 65+: 16.5%
+  White alone: 70.1%
+  Black alone: 19.5%
+  Asian alone: 4.4%
+  Hispanic or Latino: 9.2%
+  estimated median household income: $60,773
+  poverty rate: 12.3%
+  homeownership: 63.2%
+  estimated median home value: $167,926
+  estimated median gross rent: $949
+  unemployment: 4.7%
+  bachelor's degree or higher: 30.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

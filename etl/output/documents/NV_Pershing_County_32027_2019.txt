@@ -1,0 +1,18 @@
+GEOGRAPHY: Pershing County, NV
+GEOGRAPHIC CODE: 32027 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,615
+  under 18: 16.8%
+  age 65+: 15.7%
+  White alone: 80.2%
+  Black alone: 3.8%
+  Asian alone: 1.1%
+  Hispanic or Latino: 24.4%
+  estimated median household income: $50,547
+  poverty rate: 12.0%
+  homeownership: 66.8%
+  estimated median home value: $112,998
+  estimated median gross rent: $678
+  unemployment: 7.6%
+  bachelor's degree or higher: 11.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

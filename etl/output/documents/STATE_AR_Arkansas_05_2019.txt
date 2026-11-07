@@ -1,0 +1,18 @@
+GEOGRAPHY: Arkansas (AR)
+GEOGRAPHIC CODE: 05 | LEVEL: State | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,999,370
+  under 18: 23.5%
+  age 65+: 16.6%
+  White alone: 76.7%
+  Black alone: 15.3%
+  Asian alone: 1.5%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $47,534
+  poverty rate: 17.0%
+  homeownership: 65.6%
+  estimated median home value: $127,790
+  estimated median gross rent: $745
+  unemployment: 5.1%
+  bachelor's degree or higher: 23.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

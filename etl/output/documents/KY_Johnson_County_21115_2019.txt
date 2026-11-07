@@ -1,0 +1,18 @@
+GEOGRAPHY: Johnson County, KY
+GEOGRAPHIC CODE: 21115 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,634
+  under 18: 22.5%
+  age 65+: 17.7%
+  White alone: 97.3%
+  Black alone: 0.5%
+  Asian alone: 1.5%
+  Hispanic or Latino: 0.3%
+  estimated median household income: $36,879
+  poverty rate: 22.7%
+  homeownership: 71.9%
+  estimated median home value: $101,274
+  estimated median gross rent: $616
+  unemployment: 8.7%
+  bachelor's degree or higher: 16.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

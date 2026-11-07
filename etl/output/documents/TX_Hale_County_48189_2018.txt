@@ -1,0 +1,18 @@
+GEOGRAPHY: Hale County, TX
+GEOGRAPHIC CODE: 48189 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,113
+  under 18: 27.4%
+  age 65+: 13.2%
+  White alone: 85.7%
+  Black alone: 4.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 59.1%
+  estimated median household income: $46,695
+  poverty rate: 18.7%
+  homeownership: 60.5%
+  estimated median home value: $80,290
+  estimated median gross rent: $670
+  unemployment: 6.7%
+  bachelor's degree or higher: 16.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

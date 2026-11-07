@@ -1,0 +1,18 @@
+GEOGRAPHY: Stillwater County, MT
+GEOGRAPHIC CODE: 30095 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,342
+  under 18: 21.8%
+  age 65+: 20.2%
+  White alone: 95.7%
+  Black alone: 0.2%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.5%
+  estimated median household income: $63,144
+  poverty rate: 6.5%
+  homeownership: 77.8%
+  estimated median home value: $225,219
+  estimated median gross rent: $697
+  unemployment: 3.6%
+  bachelor's degree or higher: 25.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Hocking County, OH
+GEOGRAPHIC CODE: 39073 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 28,495
+  under 18: 22.3%
+  age 65+: 18.3%
+  White alone: 97.2%
+  Black alone: 0.8%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.0%
+  estimated median household income: $50,000
+  poverty rate: 13.6%
+  homeownership: 75.5%
+  estimated median home value: $126,735
+  estimated median gross rent: $606
+  unemployment: 5.9%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

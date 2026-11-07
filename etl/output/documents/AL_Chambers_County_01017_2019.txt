@@ -1,0 +1,18 @@
+GEOGRAPHY: Chambers County, AL
+GEOGRAPHIC CODE: 01017 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 33,660
+  under 18: 21.0%
+  age 65+: 19.2%
+  White alone: 57.7%
+  Black alone: 39.6%
+  Asian alone: 1.1%
+  Hispanic or Latino: 2.4%
+  estimated median household income: $42,591
+  poverty rate: 17.3%
+  homeownership: 67.5%
+  estimated median home value: $97,146
+  estimated median gross rent: $749
+  unemployment: 3.9%
+  bachelor's degree or higher: 13.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

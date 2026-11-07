@@ -1,0 +1,18 @@
+GEOGRAPHY: Simpson County, KY
+GEOGRAPHIC CODE: 21213 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 17,881
+  under 18: 24.4%
+  age 65+: 15.6%
+  White alone: 85.7%
+  Black alone: 9.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 2.2%
+  estimated median household income: $44,991
+  poverty rate: 17.4%
+  homeownership: 63.0%
+  estimated median home value: $130,489
+  estimated median gross rent: $735
+  unemployment: 5.1%
+  bachelor's degree or higher: 15.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Dakota County, NE
+GEOGRAPHIC CODE: 31043 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 20,173
+  under 18: 29.1%
+  age 65+: 13.4%
+  White alone: 68.8%
+  Black alone: 5.4%
+  Asian alone: 3.4%
+  Hispanic or Latino: 38.8%
+  estimated median household income: $59,332
+  poverty rate: 16.2%
+  homeownership: 65.2%
+  estimated median home value: $119,616
+  estimated median gross rent: $813
+  unemployment: 3.8%
+  bachelor's degree or higher: 13.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

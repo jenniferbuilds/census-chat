@@ -1,0 +1,18 @@
+GEOGRAPHY: Meade County, KS
+GEOGRAPHIC CODE: 20119 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 4,261
+  under 18: 25.8%
+  age 65+: 17.7%
+  White alone: 85.9%
+  Black alone: 0.6%
+  Asian alone: 1.2%
+  Hispanic or Latino: 18.4%
+  estimated median household income: $56,148
+  poverty rate: 12.2%
+  homeownership: 69.4%
+  estimated median home value: $92,697
+  estimated median gross rent: $632
+  unemployment: 2.8%
+  bachelor's degree or higher: 20.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

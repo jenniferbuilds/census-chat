@@ -1,0 +1,18 @@
+GEOGRAPHY: Piatt County, IL
+GEOGRAPHIC CODE: 17147 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,401
+  under 18: 22.5%
+  age 65+: 19.1%
+  White alone: 97.0%
+  Black alone: 0.6%
+  Asian alone: 0.5%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $69,350
+  poverty rate: 5.2%
+  homeownership: 82.5%
+  estimated median home value: $138,573
+  estimated median gross rent: $851
+  unemployment: 4.7%
+  bachelor's degree or higher: 28.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

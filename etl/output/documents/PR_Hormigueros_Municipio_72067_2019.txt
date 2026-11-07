@@ -1,0 +1,18 @@
+GEOGRAPHY: Hormigueros Municipio, PR
+GEOGRAPHIC CODE: 72067 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 15,943
+  under 18: 17.1%
+  age 65+: 27.0%
+  White alone: 25.7%
+  Black alone: 2.4%
+  Asian alone: 0.0%
+  Hispanic or Latino: 99.8%
+  estimated median household income: $19,006
+  poverty rate: 43.6%
+  homeownership: 73.2%
+  estimated median home value: $98,656
+  estimated median gross rent: $424
+  unemployment: 22.6%
+  bachelor's degree or higher: 22.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

@@ -1,0 +1,18 @@
+GEOGRAPHY: Carroll County, IL
+GEOGRAPHIC CODE: 17015 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 14,704
+  under 18: 19.5%
+  age 65+: 23.8%
+  White alone: 95.8%
+  Black alone: 1.3%
+  Asian alone: 0.7%
+  Hispanic or Latino: 3.6%
+  estimated median household income: $50,599
+  poverty rate: 11.3%
+  homeownership: 76.8%
+  estimated median home value: $99,444
+  estimated median gross rent: $616
+  unemployment: 5.8%
+  bachelor's degree or higher: 17.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

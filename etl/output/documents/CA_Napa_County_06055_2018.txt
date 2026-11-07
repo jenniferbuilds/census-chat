@@ -1,0 +1,18 @@
+GEOGRAPHY: Napa County, CA
+GEOGRAPHIC CODE: 06055 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 140,530
+  under 18: 21.3%
+  age 65+: 18.0%
+  White alone: 73.1%
+  Black alone: 2.0%
+  Asian alone: 8.1%
+  Hispanic or Latino: 33.9%
+  estimated median household income: $84,630
+  poverty rate: 8.1%
+  homeownership: 63.7%
+  estimated median home value: $603,747
+  estimated median gross rent: $1,621
+  unemployment: 5.0%
+  bachelor's degree or higher: 34.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

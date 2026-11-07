@@ -1,0 +1,17 @@
+GEOGRAPHY: Clay County, AL
+GEOGRAPHIC CODE: 01027 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 13,483
+  under 18: 21.6%
+  age 65+: 19.4%
+  White alone: 82.9%
+  Black alone: 14.8%
+  Asian alone: 0.0%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $38,984
+  homeownership: 75.1%
+  estimated median home value: $90,034
+  estimated median gross rent: $441
+  unemployment: 6.6%
+  bachelor's degree or higher: 11.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

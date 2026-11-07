@@ -1,0 +1,18 @@
+GEOGRAPHY: Newaygo County, MI
+GEOGRAPHIC CODE: 26123 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 48,687
+  under 18: 22.5%
+  age 65+: 19.4%
+  White alone: 92.2%
+  Black alone: 1.1%
+  Asian alone: 0.4%
+  Hispanic or Latino: 5.9%
+  estimated median household income: $52,102
+  poverty rate: 15.9%
+  homeownership: 84.4%
+  estimated median home value: $128,853
+  estimated median gross rent: $736
+  unemployment: 5.2%
+  bachelor's degree or higher: 17.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

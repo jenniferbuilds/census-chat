@@ -1,0 +1,18 @@
+GEOGRAPHY: Little River County, AR
+GEOGRAPHIC CODE: 05081 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,347
+  under 18: 22.2%
+  age 65+: 20.6%
+  White alone: 73.9%
+  Black alone: 21.9%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.5%
+  estimated median household income: $45,123
+  poverty rate: 16.1%
+  homeownership: 71.5%
+  estimated median home value: $77,895
+  estimated median gross rent: $601
+  unemployment: 10.0%
+  bachelor's degree or higher: 12.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

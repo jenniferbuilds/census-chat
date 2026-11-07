@@ -1,0 +1,18 @@
+GEOGRAPHY: Los Angeles County, CA
+GEOGRAPHIC CODE: 06037 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,081,570
+  under 18: 22.0%
+  age 65+: 13.3%
+  White alone: 51.3%
+  Black alone: 8.1%
+  Asian alone: 14.6%
+  Hispanic or Latino: 48.5%
+  estimated median household income: $68,564
+  poverty rate: 14.9%
+  homeownership: 45.8%
+  estimated median home value: $583,154
+  estimated median gross rent: $1,460
+  unemployment: 6.1%
+  bachelor's degree or higher: 32.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

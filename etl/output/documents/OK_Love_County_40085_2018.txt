@@ -1,0 +1,18 @@
+GEOGRAPHY: Love County, OK
+GEOGRAPHIC CODE: 40085 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 9,933
+  under 18: 25.2%
+  age 65+: 19.0%
+  White alone: 83.2%
+  Black alone: 2.5%
+  Asian alone: 0.8%
+  Hispanic or Latino: 15.2%
+  estimated median household income: $51,320
+  poverty rate: 13.5%
+  homeownership: 78.3%
+  estimated median home value: $106,359
+  estimated median gross rent: $694
+  unemployment: 4.3%
+  bachelor's degree or higher: 14.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

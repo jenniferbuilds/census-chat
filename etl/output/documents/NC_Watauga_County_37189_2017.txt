@@ -1,0 +1,18 @@
+GEOGRAPHY: Watauga County, NC
+GEOGRAPHIC CODE: 37189 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 53,421
+  under 18: 13.1%
+  age 65+: 14.8%
+  White alone: 93.9%
+  Black alone: 1.6%
+  Asian alone: 0.8%
+  Hispanic or Latino: 3.4%
+  estimated median household income: $41,977
+  poverty rate: 28.3%
+  homeownership: 58.9%
+  estimated median home value: $240,736
+  estimated median gross rent: $822
+  unemployment: 8.1%
+  bachelor's degree or higher: 41.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

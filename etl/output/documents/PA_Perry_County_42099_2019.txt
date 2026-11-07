@@ -1,0 +1,18 @@
+GEOGRAPHY: Perry County, PA
+GEOGRAPHIC CODE: 42099 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 46,053
+  under 18: 21.6%
+  age 65+: 18.0%
+  White alone: 96.9%
+  Black alone: 1.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.0%
+  estimated median household income: $63,815
+  poverty rate: 9.3%
+  homeownership: 79.0%
+  estimated median home value: $169,302
+  estimated median gross rent: $792
+  unemployment: 3.4%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

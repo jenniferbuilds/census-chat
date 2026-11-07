@@ -1,0 +1,17 @@
+GEOGRAPHY: Stewart County, GA
+GEOGRAPHIC CODE: 13259 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 5,791
+  under 18: 14.5%
+  age 65+: 15.2%
+  White alone: 29.2%
+  Black alone: 47.5%
+  Asian alone: 2.3%
+  Hispanic or Latino: 22.4%
+  estimated median household income: $21,308
+  homeownership: 62.5%
+  estimated median home value: $52,206
+  estimated median gross rent: $482
+  unemployment: 13.9%
+  bachelor's degree or higher: 10.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

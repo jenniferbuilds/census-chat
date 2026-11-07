@@ -1,0 +1,17 @@
+GEOGRAPHY: Steuben County, NY
+GEOGRAPHIC CODE: 36101 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 98,151
+  under 18: 22.3%
+  age 65+: 17.5%
+  White alone: 95.0%
+  Black alone: 1.5%
+  Asian alone: 1.5%
+  Hispanic or Latino: 1.6%
+  estimated median household income: $48,903
+  homeownership: 70.6%
+  estimated median home value: $94,319
+  estimated median gross rent: $675
+  unemployment: 7.6%
+  bachelor's degree or higher: 22.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

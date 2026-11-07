@@ -1,0 +1,18 @@
+GEOGRAPHY: Washington County, KY
+GEOGRAPHIC CODE: 21229 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 12,019
+  under 18: 23.5%
+  age 65+: 17.5%
+  White alone: 89.3%
+  Black alone: 5.2%
+  Asian alone: 0.9%
+  Hispanic or Latino: 4.5%
+  estimated median household income: $50,817
+  poverty rate: 16.6%
+  homeownership: 75.6%
+  estimated median home value: $113,692
+  estimated median gross rent: $599
+  unemployment: 4.9%
+  bachelor's degree or higher: 17.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

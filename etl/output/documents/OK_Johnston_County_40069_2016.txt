@@ -1,0 +1,17 @@
+GEOGRAPHY: Johnston County, OK
+GEOGRAPHIC CODE: 40069 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 11,027
+  under 18: 23.7%
+  age 65+: 17.9%
+  White alone: 71.8%
+  Black alone: 1.9%
+  Asian alone: 0.1%
+  Hispanic or Latino: 4.7%
+  estimated median household income: $38,488
+  homeownership: 71.3%
+  estimated median home value: $76,572
+  estimated median gross rent: $589
+  unemployment: 7.2%
+  bachelor's degree or higher: 15.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

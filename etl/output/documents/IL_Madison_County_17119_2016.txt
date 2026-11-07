@@ -1,0 +1,17 @@
+GEOGRAPHY: Madison County, IL
+GEOGRAPHIC CODE: 17119 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 266,759
+  under 18: 22.2%
+  age 65+: 15.6%
+  White alone: 88.1%
+  Black alone: 8.3%
+  Asian alone: 0.9%
+  Hispanic or Latino: 3.0%
+  estimated median household income: $55,425
+  homeownership: 70.8%
+  estimated median home value: $129,171
+  estimated median gross rent: $779
+  unemployment: 8.2%
+  bachelor's degree or higher: 25.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

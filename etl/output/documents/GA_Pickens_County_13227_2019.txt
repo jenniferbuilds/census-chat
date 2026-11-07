@@ -1,0 +1,18 @@
+GEOGRAPHY: Pickens County, GA
+GEOGRAPHIC CODE: 13227 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 31,387
+  under 18: 20.3%
+  age 65+: 21.4%
+  White alone: 89.2%
+  Black alone: 1.0%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $66,998
+  poverty rate: 10.2%
+  homeownership: 75.9%
+  estimated median home value: $200,178
+  estimated median gross rent: $856
+  unemployment: 4.9%
+  bachelor's degree or higher: 23.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

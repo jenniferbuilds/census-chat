@@ -1,0 +1,18 @@
+GEOGRAPHY: Okeechobee County, FL
+GEOGRAPHIC CODE: 12093 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 40,228
+  under 18: 22.1%
+  age 65+: 19.3%
+  White alone: 87.0%
+  Black alone: 8.4%
+  Asian alone: 0.9%
+  Hispanic or Latino: 25.0%
+  estimated median household income: $39,151
+  poverty rate: 22.3%
+  homeownership: 72.2%
+  estimated median home value: $89,912
+  estimated median gross rent: $726
+  unemployment: 9.0%
+  bachelor's degree or higher: 11.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

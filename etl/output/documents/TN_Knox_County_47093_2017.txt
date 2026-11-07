@@ -1,0 +1,18 @@
+GEOGRAPHY: Knox County, TN
+GEOGRAPHIC CODE: 47093 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 452,286
+  under 18: 21.3%
+  age 65+: 14.8%
+  White alone: 85.4%
+  Black alone: 8.9%
+  Asian alone: 2.1%
+  Hispanic or Latino: 4.0%
+  estimated median household income: $52,687
+  poverty rate: 15.8%
+  homeownership: 64.1%
+  estimated median home value: $169,383
+  estimated median gross rent: $839
+  unemployment: 5.5%
+  bachelor's degree or higher: 36.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

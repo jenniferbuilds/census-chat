@@ -1,0 +1,17 @@
+GEOGRAPHY: Wayne County, PA
+GEOGRAPHIC CODE: 42127 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 51,307
+  under 18: 17.6%
+  age 65+: 20.7%
+  White alone: 93.9%
+  Black alone: 3.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $50,775
+  homeownership: 79.1%
+  estimated median home value: $174,456
+  estimated median gross rent: $812
+  unemployment: 7.4%
+  bachelor's degree or higher: 20.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

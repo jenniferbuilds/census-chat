@@ -1,0 +1,18 @@
+GEOGRAPHY: Umatilla County, OR
+GEOGRAPHIC CODE: 41059 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 76,736
+  under 18: 25.7%
+  age 65+: 14.6%
+  White alone: 85.2%
+  Black alone: 0.8%
+  Asian alone: 0.8%
+  Hispanic or Latino: 26.0%
+  estimated median household income: $50,100
+  poverty rate: 17.8%
+  homeownership: 62.9%
+  estimated median home value: $147,905
+  estimated median gross rent: $699
+  unemployment: 8.3%
+  bachelor's degree or higher: 15.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

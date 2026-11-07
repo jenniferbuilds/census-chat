@@ -1,0 +1,18 @@
+GEOGRAPHY: Robertson County, TX
+GEOGRAPHIC CODE: 48395 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 16,890
+  under 18: 24.1%
+  age 65+: 18.9%
+  White alone: 76.6%
+  Black alone: 19.4%
+  Asian alone: 0.3%
+  Hispanic or Latino: 20.6%
+  estimated median household income: $52,919
+  poverty rate: 12.6%
+  homeownership: 75.6%
+  estimated median home value: $103,975
+  estimated median gross rent: $702
+  unemployment: 6.4%
+  bachelor's degree or higher: 16.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

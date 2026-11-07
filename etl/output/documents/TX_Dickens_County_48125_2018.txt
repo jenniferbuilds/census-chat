@@ -1,0 +1,18 @@
+GEOGRAPHY: Dickens County, TX
+GEOGRAPHIC CODE: 48125 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,216
+  under 18: 21.7%
+  age 65+: 23.1%
+  White alone: 91.3%
+  Black alone: 3.1%
+  Asian alone: 0.5%
+  Hispanic or Latino: 30.4%
+  estimated median household income: $42,000
+  poverty rate: 17.2%
+  homeownership: 72.9%
+  estimated median home value: $54,074
+  estimated median gross rent: $482
+  unemployment: 15.5%
+  bachelor's degree or higher: 16.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

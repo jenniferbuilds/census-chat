@@ -1,0 +1,18 @@
+GEOGRAPHY: Erath County, TX
+GEOGRAPHIC CODE: 48143 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 41,841
+  under 18: 20.9%
+  age 65+: 14.0%
+  White alone: 88.9%
+  Black alone: 1.9%
+  Asian alone: 0.9%
+  Hispanic or Latino: 21.1%
+  estimated median household income: $53,026
+  poverty rate: 18.4%
+  homeownership: 63.4%
+  estimated median home value: $159,891
+  estimated median gross rent: $911
+  unemployment: 3.6%
+  bachelor's degree or higher: 31.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

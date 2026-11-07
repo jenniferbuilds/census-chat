@@ -1,0 +1,18 @@
+GEOGRAPHY: Sabine Parish, LA
+GEOGRAPHIC CODE: 22085 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 24,145
+  under 18: 24.1%
+  age 65+: 19.2%
+  White alone: 70.2%
+  Black alone: 16.6%
+  Asian alone: 0.4%
+  Hispanic or Latino: 3.8%
+  estimated median household income: $40,846
+  poverty rate: 19.6%
+  homeownership: 74.2%
+  estimated median home value: $84,173
+  estimated median gross rent: $530
+  unemployment: 9.5%
+  bachelor's degree or higher: 14.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

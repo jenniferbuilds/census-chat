@@ -1,0 +1,18 @@
+GEOGRAPHY: Cape May County, NJ
+GEOGRAPHIC CODE: 34009 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 93,086
+  under 18: 17.6%
+  age 65+: 25.8%
+  White alone: 91.4%
+  Black alone: 4.5%
+  Asian alone: 0.9%
+  Hispanic or Latino: 7.7%
+  estimated median household income: $67,625
+  poverty rate: 9.8%
+  homeownership: 77.6%
+  estimated median home value: $300,530
+  estimated median gross rent: $1,169
+  unemployment: 6.8%
+  bachelor's degree or higher: 32.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

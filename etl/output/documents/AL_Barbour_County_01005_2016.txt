@@ -1,0 +1,17 @@
+GEOGRAPHY: Barbour County, AL
+GEOGRAPHIC CODE: 01005 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 26,614
+  under 18: 21.5%
+  age 65+: 16.5%
+  White alone: 46.7%
+  Black alone: 47.9%
+  Asian alone: 0.5%
+  Hispanic or Latino: 4.3%
+  estimated median household income: $34,028
+  homeownership: 63.9%
+  estimated median home value: $90,325
+  estimated median gross rent: $588
+  unemployment: 12.8%
+  bachelor's degree or higher: 12.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

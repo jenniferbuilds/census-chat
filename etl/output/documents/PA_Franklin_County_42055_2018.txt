@@ -1,0 +1,18 @@
+GEOGRAPHY: Franklin County, PA
+GEOGRAPHIC CODE: 42055 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 153,751
+  under 18: 22.6%
+  age 65+: 18.8%
+  White alone: 92.9%
+  Black alone: 3.8%
+  Asian alone: 0.8%
+  Hispanic or Latino: 5.4%
+  estimated median household income: $59,739
+  poverty rate: 10.3%
+  homeownership: 70.0%
+  estimated median home value: $175,618
+  estimated median gross rent: $868
+  unemployment: 5.3%
+  bachelor's degree or higher: 21.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

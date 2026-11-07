@@ -1,0 +1,18 @@
+GEOGRAPHY: McLean County, IL
+GEOGRAPHIC CODE: 17113 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 173,219
+  under 18: 21.8%
+  age 65+: 12.3%
+  White alone: 83.0%
+  Black alone: 8.4%
+  Asian alone: 5.1%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $66,201
+  poverty rate: 14.6%
+  homeownership: 64.1%
+  estimated median home value: $166,657
+  estimated median gross rent: $830
+  unemployment: 3.5%
+  bachelor's degree or higher: 44.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

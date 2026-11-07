@@ -1,0 +1,18 @@
+GEOGRAPHY: Camden County, NJ
+GEOGRAPHIC CODE: 34007 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 506,738
+  under 18: 22.9%
+  age 65+: 15.4%
+  White alone: 63.6%
+  Black alone: 19.3%
+  Asian alone: 5.7%
+  Hispanic or Latino: 16.8%
+  estimated median household income: $70,273
+  poverty rate: 12.2%
+  homeownership: 66.8%
+  estimated median home value: $197,788
+  estimated median gross rent: $1,079
+  unemployment: 6.6%
+  bachelor's degree or higher: 32.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

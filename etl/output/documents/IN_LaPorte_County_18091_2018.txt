@@ -1,0 +1,18 @@
+GEOGRAPHY: LaPorte County, IN
+GEOGRAPHIC CODE: 18091 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 110,552
+  under 18: 21.7%
+  age 65+: 16.8%
+  White alone: 82.8%
+  Black alone: 11.1%
+  Asian alone: 0.6%
+  Hispanic or Latino: 6.5%
+  estimated median household income: $51,193
+  poverty rate: 16.5%
+  homeownership: 71.8%
+  estimated median home value: $127,748
+  estimated median gross rent: $738
+  unemployment: 7.8%
+  bachelor's degree or higher: 17.9%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

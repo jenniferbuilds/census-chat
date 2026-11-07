@@ -1,0 +1,18 @@
+GEOGRAPHY: Payette County, ID
+GEOGRAPHIC CODE: 16075 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 23,260
+  under 18: 26.5%
+  age 65+: 17.9%
+  White alone: 87.9%
+  Black alone: 0.1%
+  Asian alone: 1.0%
+  Hispanic or Latino: 17.3%
+  estimated median household income: $50,482
+  poverty rate: 13.4%
+  homeownership: 72.7%
+  estimated median home value: $165,593
+  estimated median gross rent: $735
+  unemployment: 5.4%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

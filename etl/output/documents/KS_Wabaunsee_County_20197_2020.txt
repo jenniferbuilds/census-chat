@@ -1,0 +1,18 @@
+GEOGRAPHY: Wabaunsee County, KS
+GEOGRAPHIC CODE: 20197 | LEVEL: County | DATA YEAR: 2020 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 6,877
+  under 18: 23.6%
+  age 65+: 20.0%
+  White alone: 94.4%
+  Black alone: 0.6%
+  Asian alone: 0.6%
+  Hispanic or Latino: 4.1%
+  estimated median household income: $64,987
+  poverty rate: 5.7%
+  homeownership: 83.0%
+  estimated median home value: $153,674
+  estimated median gross rent: $678
+  unemployment: 2.0%
+  bachelor's degree or higher: 24.0%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

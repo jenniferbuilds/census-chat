@@ -1,0 +1,18 @@
+GEOGRAPHY: Sioux County, IA
+GEOGRAPHIC CODE: 19167 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 34,825
+  under 18: 27.1%
+  age 65+: 14.9%
+  White alone: 93.2%
+  Black alone: 0.4%
+  Asian alone: 0.7%
+  Hispanic or Latino: 10.5%
+  estimated median household income: $67,505
+  poverty rate: 6.8%
+  homeownership: 79.8%
+  estimated median home value: $159,438
+  estimated median gross rent: $686
+  unemployment: 2.6%
+  bachelor's degree or higher: 28.1%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

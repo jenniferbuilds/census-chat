@@ -1,0 +1,18 @@
+GEOGRAPHY: Sussex County, NJ
+GEOGRAPHIC CODE: 34037 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 143,570
+  under 18: 21.0%
+  age 65+: 15.4%
+  White alone: 93.0%
+  Black alone: 2.1%
+  Asian alone: 2.0%
+  Hispanic or Latino: 7.5%
+  estimated median household income: $89,312
+  poverty rate: 5.3%
+  homeownership: 82.7%
+  estimated median home value: $264,093
+  estimated median gross rent: $1,244
+  unemployment: 6.4%
+  bachelor's degree or higher: 34.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

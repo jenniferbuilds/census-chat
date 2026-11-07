@@ -1,0 +1,18 @@
+GEOGRAPHY: Bexar County, TX
+GEOGRAPHIC CODE: 48029 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 1,892,004
+  under 18: 26.1%
+  age 65+: 11.4%
+  White alone: 79.4%
+  Black alone: 7.5%
+  Asian alone: 2.7%
+  Hispanic or Latino: 59.8%
+  estimated median household income: $54,449
+  poverty rate: 16.4%
+  homeownership: 58.7%
+  estimated median home value: $142,274
+  estimated median gross rent: $942
+  unemployment: 6.1%
+  bachelor's degree or higher: 27.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

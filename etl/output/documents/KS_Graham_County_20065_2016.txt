@@ -1,0 +1,17 @@
+GEOGRAPHY: Graham County, KS
+GEOGRAPHIC CODE: 20065 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 2,577
+  under 18: 19.3%
+  age 65+: 25.7%
+  White alone: 91.9%
+  Black alone: 3.0%
+  Asian alone: 1.5%
+  Hispanic or Latino: 3.1%
+  estimated median household income: $45,647
+  homeownership: 79.1%
+  estimated median home value: $71,975
+  estimated median gross rent: $465
+  unemployment: 1.6%
+  bachelor's degree or higher: 25.5%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

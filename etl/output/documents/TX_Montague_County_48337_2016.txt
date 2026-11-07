@@ -1,0 +1,17 @@
+GEOGRAPHY: Montague County, TX
+GEOGRAPHIC CODE: 48337 | LEVEL: County | DATA YEAR: 2016 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 19,384
+  under 18: 23.0%
+  age 65+: 21.6%
+  White alone: 95.6%
+  Black alone: 0.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 10.4%
+  estimated median household income: $46,557
+  homeownership: 71.6%
+  estimated median home value: $93,013
+  estimated median gross rent: $731
+  unemployment: 6.0%
+  bachelor's degree or higher: 14.8%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

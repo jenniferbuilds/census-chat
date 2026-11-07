@@ -1,0 +1,18 @@
+GEOGRAPHY: Franklin County, VT
+GEOGRAPHIC CODE: 50011 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 48,816
+  under 18: 22.9%
+  age 65+: 14.5%
+  White alone: 95.2%
+  Black alone: 0.6%
+  Asian alone: 0.3%
+  Hispanic or Latino: 1.4%
+  estimated median household income: $62,490
+  poverty rate: 8.0%
+  homeownership: 74.3%
+  estimated median home value: $209,137
+  estimated median gross rent: $930
+  unemployment: 4.4%
+  bachelor's degree or higher: 24.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

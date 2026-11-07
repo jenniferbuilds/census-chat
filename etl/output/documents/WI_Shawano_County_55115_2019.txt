@@ -1,0 +1,18 @@
+GEOGRAPHY: Shawano County, WI
+GEOGRAPHIC CODE: 55115 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 40,904
+  under 18: 21.6%
+  age 65+: 20.7%
+  White alone: 88.7%
+  Black alone: 0.4%
+  Asian alone: 0.4%
+  Hispanic or Latino: 2.8%
+  estimated median household income: $56,623
+  poverty rate: 10.5%
+  homeownership: 77.3%
+  estimated median home value: $136,723
+  estimated median gross rent: $629
+  unemployment: 3.0%
+  bachelor's degree or higher: 15.7%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

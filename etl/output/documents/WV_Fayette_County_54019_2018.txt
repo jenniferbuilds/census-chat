@@ -1,0 +1,18 @@
+GEOGRAPHY: Fayette County, WV
+GEOGRAPHIC CODE: 54019 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 44,126
+  under 18: 20.7%
+  age 65+: 19.7%
+  White alone: 93.4%
+  Black alone: 5.1%
+  Asian alone: 0.1%
+  Hispanic or Latino: 1.1%
+  estimated median household income: $40,444
+  poverty rate: 20.0%
+  homeownership: 79.2%
+  estimated median home value: $90,460
+  estimated median gross rent: $608
+  unemployment: 7.4%
+  bachelor's degree or higher: 15.2%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

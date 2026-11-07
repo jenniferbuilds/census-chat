@@ -1,0 +1,18 @@
+GEOGRAPHY: Clay County, TX
+GEOGRAPHIC CODE: 48077 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 10,403
+  under 18: 20.4%
+  age 65+: 22.8%
+  White alone: 95.0%
+  Black alone: 0.5%
+  Asian alone: 1.1%
+  Hispanic or Latino: 6.3%
+  estimated median household income: $55,861
+  poverty rate: 12.2%
+  homeownership: 84.4%
+  estimated median home value: $100,996
+  estimated median gross rent: $737
+  unemployment: 5.4%
+  bachelor's degree or higher: 21.4%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

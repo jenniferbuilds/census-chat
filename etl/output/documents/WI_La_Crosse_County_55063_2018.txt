@@ -1,0 +1,18 @@
+GEOGRAPHY: La Crosse County, WI
+GEOGRAPHIC CODE: 55063 | LEVEL: County | DATA YEAR: 2018 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 117,850
+  under 18: 20.1%
+  age 65+: 15.4%
+  White alone: 91.1%
+  Black alone: 1.5%
+  Asian alone: 4.4%
+  Hispanic or Latino: 1.9%
+  estimated median household income: $56,377
+  poverty rate: 13.2%
+  homeownership: 63.1%
+  estimated median home value: $167,074
+  estimated median gross rent: $816
+  unemployment: 4.0%
+  bachelor's degree or higher: 34.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

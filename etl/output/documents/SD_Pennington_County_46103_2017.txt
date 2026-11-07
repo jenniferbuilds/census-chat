@@ -1,0 +1,18 @@
+GEOGRAPHY: Pennington County, SD
+GEOGRAPHIC CODE: 46103 | LEVEL: County | DATA YEAR: 2017 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 108,126
+  under 18: 23.6%
+  age 65+: 16.0%
+  White alone: 83.0%
+  Black alone: 1.2%
+  Asian alone: 1.1%
+  Hispanic or Latino: 4.8%
+  estimated median household income: $53,156
+  poverty rate: 14.0%
+  homeownership: 67.7%
+  estimated median home value: $172,357
+  estimated median gross rent: $790
+  unemployment: 4.2%
+  bachelor's degree or higher: 29.6%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.

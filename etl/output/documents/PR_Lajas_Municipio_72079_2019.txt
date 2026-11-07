@@ -1,0 +1,18 @@
+GEOGRAPHY: Lajas Municipio, PR
+GEOGRAPHIC CODE: 72079 | LEVEL: County | DATA YEAR: 2019 ACS 5-year estimates
+SOURCE: SafeGraph Open Census Data
+  population: 22,835
+  under 18: 18.1%
+  age 65+: 23.5%
+  White alone: 24.7%
+  Black alone: 0.8%
+  Asian alone: 0.0%
+  Hispanic or Latino: 98.8%
+  estimated median household income: $13,746
+  poverty rate: 63.2%
+  homeownership: 60.0%
+  estimated median home value: $86,931
+  estimated median gross rent: $452
+  unemployment: 22.9%
+  bachelor's degree or higher: 15.3%
+METHOD NOTE: Additive estimates are summed from Census block groups; rates use summed numerators and denominators; medians are estimated from aggregated ACS distribution bins and are not averages of block-group medians.
